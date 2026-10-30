@@ -22,7 +22,7 @@ window.DATA = {
 
   scholars: [
     {
-      id: "forobiy", name: "Abu Nasr Forobiy", years: "873–950", place: "Forob (O‘tror)",
+      id: "forobiy", name: "Abu Nasr Forobiy", img: "assets/img/allomalar/forobiy.jpg", years: "873–950", place: "Forob (O‘tror)",
       title: "“Ikkinchi muallim”, “Sharq Aristoteli”",
       works: ["Fozil odamlar shahri", "Baxt-saodatga erishish haqida", "Kitob al-musiqa al-kabir"],
       ideas: [
@@ -35,7 +35,7 @@ window.DATA = {
       grades: [6, 7, 8, 9, 11]
     },
     {
-      id: "beruniy", name: "Abu Rayhon Beruniy", years: "973–1048", place: "Kat (Xorazm)",
+      id: "beruniy", name: "Abu Rayhon Beruniy", img: "assets/img/allomalar/beruniy.jpg", years: "973–1048", place: "Kat (Xorazm)",
       title: "Qomusiy olim",
       works: ["Qadimgi xalqlardan qolgan yodgorliklar", "Hindiston", "Mas’ud qonuni", "Saydana"],
       ideas: [
@@ -48,7 +48,7 @@ window.DATA = {
       grades: [6, 7, 8, 11]
     },
     {
-      id: "ibnsino", name: "Abu Ali ibn Sino", years: "980–1037", place: "Afshona (Buxoro)",
+      id: "ibnsino", name: "Abu Ali ibn Sino", img: "assets/img/allomalar/ibnsino.jpg", years: "980–1037", place: "Afshona (Buxoro)",
       title: "“Shayx ur-rais”",
       works: ["Tib qonunlari", "Donishnoma", "Tadbir al-manozil", "Axloq haqida risola"],
       ideas: [
@@ -61,7 +61,7 @@ window.DATA = {
       grades: [5, 6, 7, 8, 11]
     },
     {
-      id: "koshgariy", name: "Mahmud Koshg‘ariy", years: "XI asr", place: "Koshg‘ar",
+      id: "koshgariy", name: "Mahmud Koshg‘ariy", img: "assets/img/allomalar/koshgariy.jpg", years: "XI asr", place: "Koshg‘ar",
       title: "Tilshunos, birinchi turkiy qomus muallifi",
       works: ["Devonu lug‘otit turk"],
       ideas: [
@@ -72,7 +72,7 @@ window.DATA = {
       grades: [5]
     },
     {
-      id: "yusuf", name: "Yusuf Xos Hojib", years: "XI asr", place: "Bolasog‘un",
+      id: "yusuf", name: "Yusuf Xos Hojib", img: "assets/img/allomalar/yusuf.jpg", years: "XI asr", place: "Bolasog‘un",
       title: "Shoir va mutafakkir",
       works: ["Qutadg‘u bilig (1069–1070)"],
       ideas: [
@@ -84,7 +84,7 @@ window.DATA = {
       grades: [8, 9]
     },
     {
-      id: "kaykovus", name: "Kaykovus", years: "XI asr", place: "Gurgon",
+      id: "kaykovus", name: "Kaykovus", img: "assets/img/allomalar/kaykovus.jpg", years: "XI asr", place: "Gurgon",
       title: "Adib, “Qobusnoma” muallifi",
       works: ["Qobusnoma (44 bob)"],
       ideas: [
@@ -96,7 +96,7 @@ window.DATA = {
       grades: [5, 6, 8, 10]
     },
     {
-      id: "yassaviy", name: "Xoja Ahmad Yassaviy", years: "XI–XII asrlar (vaf. 1166)", place: "Sayram, Yassi",
+      id: "yassaviy", name: "Xoja Ahmad Yassaviy", img: "assets/img/allomalar/yassaviy.jpg", years: "XI–XII asrlar (vaf. 1166)", place: "Sayram, Yassi",
       title: "Mutasavvuf shoir",
       works: ["Devoni hikmat"],
       ideas: [
@@ -121,7 +121,7 @@ window.DATA = {
       grades: [8, 10]
     },
     {
-      id: "navoiy", name: "Alisher Navoiy", years: "1441–1501", place: "Hirot",
+      id: "navoiy", name: "Alisher Navoiy", img: "assets/img/allomalar/navoiy.jpg", years: "1441–1501", place: "Hirot",
       title: "Shoir, mutafakkir, davlat arbobi",
       works: ["Mahbub ul-qulub", "Hayrat ul-abror", "Nasoyim ul-muhabbat", "Makorim ul-axloq"],
       ideas: [
@@ -134,7 +134,7 @@ window.DATA = {
       grades: [5, 7, 8, 9]
     },
     {
-      id: "koshifiy", name: "Husayn Voiz Koshifiy", years: "XV asr (vaf. 1505)", place: "Hirot",
+      id: "koshifiy", name: "Husayn Voiz Koshifiy", img: "assets/img/allomalar/koshifiy.jpg", years: "XV asr (vaf. 1505)", place: "Hirot",
       title: "Notiq va axloqshunos",
       works: ["Axloqi Muhsiniy (40 bob)"],
       ideas: [
@@ -145,7 +145,7 @@ window.DATA = {
       grades: [7]
     },
     {
-      id: "donish", name: "Ahmad Donish", years: "1827–1897", place: "Buxoro",
+      id: "donish", name: "Ahmad Donish", img: "assets/img/allomalar/donish.jpg", years: "1827–1897", place: "Buxoro",
       title: "Ma’rifatparvar mutafakkir",
       works: ["Navodir ul-vaqoe"],
       ideas: [
@@ -156,7 +156,7 @@ window.DATA = {
       grades: [10]
     },
     {
-      id: "avloniy", name: "Abdulla Avloniy", years: "1878–1934", place: "Toshkent",
+      id: "avloniy", name: "Abdulla Avloniy", img: "assets/img/allomalar/avloniy.jpg", years: "1878–1934", place: "Toshkent",
       title: "Pedagog, jadid ma’rifatparvari",
       works: ["Turkiy guliston yoxud axloq (1913)"],
       ideas: [
@@ -168,7 +168,7 @@ window.DATA = {
       grades: [6, 8, 9, 11]
     },
     {
-      id: "fitrat", name: "Abdurauf Fitrat", years: "1886–1938", place: "Buxoro",
+      id: "fitrat", name: "Abdurauf Fitrat", img: "assets/img/allomalar/fitrat.jpg", years: "1886–1938", place: "Buxoro",
       title: "Jadid adibi va olimi",
       works: ["Oila yoki oila boshqarish tartiblari (1916)"],
       ideas: [

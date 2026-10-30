@@ -292,3 +292,21 @@ table.data .num { text-align: right; font-variant-numeric: tabular-nums; }
 .site-foot .wrap { padding-block: 20px; display: flex; flex-direction: column; gap: 4px; }
 
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+
+/* allomalar portretlari */
+.portrait { display: block; flex: none; object-fit: cover; object-position: 50% 20%; background: var(--lapis-soft); border: 1px solid var(--line); }
+.portrait.ph { display: grid; place-items: center; font-family: var(--font-display); font-weight: 700; color: var(--lapis); }
+.portrait.xs { width: 28px; height: 28px; border-radius: 50%; font-size: .9rem; }
+.portrait.sm { width: 40px; height: 40px; border-radius: 50%; font-size: 1.1rem; }
+.portrait.md { width: 96px; height: 128px; border-radius: var(--radius); font-size: 2.4rem; }
+.portrait.lg { width: 180px; height: 240px; border-radius: var(--radius); font-size: 4rem; }
+.portrait.card { width: calc(100% + 36px); margin: -18px -18px 8px; height: 220px; border: 0; border-bottom: 1px solid var(--line); border-radius: var(--radius) var(--radius) 0 0; font-size: 4rem; }
+.scholar-card { overflow: hidden; }
+.topic-src { display: flex; align-items: center; gap: 8px; }
+.page-head.with-portrait { flex-direction: row; align-items: flex-end; gap: 24px; }
+.page-head.with-portrait > .page-head { min-width: 0; }
+@media (max-width: 560px) {
+  .page-head.with-portrait { flex-direction: column; align-items: flex-start; gap: 16px; }
+  .portrait.lg { width: 140px; height: 187px; }
+  .portrait.md { width: 72px; height: 96px; }
+}

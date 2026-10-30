@@ -10,7 +10,7 @@ Platforma dissertatsiya aprobatsiyasi (tajriba-sinov) uchun ishlab chiqilgan. Ko
 |---|---|
 | Sinflar (5–11) | Har bir sinf: darslikdagi malaka talablari, kompetensiya darajasi (A2 / A2+ / B1), allomalar merosiga asoslangan 5 ta mavzu, metod va topshiriq, nazorat testi |
 | **8-sinf moduli** | Metodika tamoyillari, 10 ta to‘liq dars ishlanmasi (maqsadlar, 45 daqiqalik dars borishi, iqtibos, savollar, uyga vazifa, test) |
-| Allomalar | 13 ta mutafakkir: yillari, asarlari, tarbiyaviy g‘oyalari, platformadagi darslarga havolalar |
+| Allomalar | 13 ta mutafakkir (12 tasi portret bilan, `assets/img/allomalar/`): yillari, asarlari, tarbiyaviy g‘oyalari, platformadagi darslarga havolalar |
 | Metodlar | Darslikdagi 12 ta an’anaviy, interfaol va innovatsion usul |
 | Diagnostika | 15 savollik test + 8 bandli so‘rovnoma; guruh (tajriba/nazorat) va bosqich (dastlabki/yakuniy) tanlanadi |
 | Natijalar | Guruh/bosqich bo‘yicha o‘rtacha, standart chetlanish, darajalar, samaradorlik koeffitsienti η, Styudent t-mezoni va p-qiymat; CSV/JSON eksport va import |
