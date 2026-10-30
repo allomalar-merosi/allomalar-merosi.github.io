@@ -68,9 +68,10 @@
   }
 
   function portrait(s, cls) {
-    if (s.img) return '<img class="portrait ' + (cls || "") + '" src="' + esc(s.img) + '" alt="' + esc(s.name) + ' portreti" loading="lazy">';
-    var ini = s.name.split(" ").filter(function (w) { return /^[A-ZO‘G‘]/.test(w); }).slice(-2).map(function (w) { return w.charAt(0); }).join("");
-    return '<span class="portrait mono ' + (cls || "") + '" aria-hidden="true">' + esc(ini) + "</span>";
+    cls = "portrait " + (cls || "");
+    if (s.img) return '<img class="' + cls + '" src="' + esc(s.img) + '" alt="' + esc(s.name) + '" loading="lazy">';
+    var ini = s.name.split(" ").filter(function (w) { return w.length > 2; }).slice(-1)[0] || s.name;
+    return '<span class="' + cls + ' ph" aria-hidden="true">' + esc(ini.charAt(0)) + "</span>";
   }
 
   function mount(component, onResult) {
@@ -286,7 +287,7 @@
     var lessons = g.lessons.map(function (l, i) {
       var s = scholar(l.scholar);
       var p = prog["dars-" + l.id];
-      return '<li><a class="lesson-row" href="#dars-' + l.id + '"><span class="lesson-n">' + (i + 1) + "</span>" + portrait(s, "xs") +
+      return '<li><a class="lesson-row" href="#dars-' + l.id + '"><span class="lesson-n">' + (i + 1) + "</span>" + portrait(s, "sm") +
         '<span class="lesson-body"><span class="lesson-title">' + esc(l.title) + '</span><span class="lesson-meta">' + esc(s.name) + " · " + esc(l.work) + "</span></span>" +
         '<span class="lesson-score">' + (p != null ? p + "%" : "") + "</span></a></li>";
     }).join("");
@@ -327,7 +328,7 @@
     var cases = (D.cases[8] || []).filter(function (k) { return k.scholar === l.scholar; });
     return gradeNav(8) +
       '<p class="crumbs"><a href="#sinf-8">8-sinf moduli</a> / ' + (i + 1) + "-dars</p>" +
-      '<section class="page-head with-portrait">' + portrait(s, "lg") + '<div><p class="eyebrow">' + (i + 1) + "-dars · " + total + " daqiqa</p><h1>" + esc(l.title) + "</h1>" +
+      '<section class="page-head with-portrait">' + portrait(s, "md") + '<div class="page-head"><p class="eyebrow">' + (i + 1) + "-dars · " + total + " daqiqa</p><h1>" + esc(l.title) + "</h1>" +
       '<p class="lede"><a href="#alloma-' + s.id + '">' + esc(s.name) + "</a> · “" + esc(l.work) + "”</p></div></section>" +
       (l.quote ? '<blockquote class="quote"><p>“' + esc(l.quote) + '”</p><cite>' + esc(s.name) + "</cite></blockquote>" : "") +
       '<section class="block"><dl class="goals">' +
@@ -370,7 +371,7 @@
       }
     });
     return '<p class="crumbs"><a href="#allomalar">Allomalar</a> / ' + esc(s.name) + "</p>" +
-      '<section class="page-head with-portrait">' + portrait(s, "lg") + '<div><p class="eyebrow">' + esc(s.years) + " · " + esc(s.place) + "</p><h1>" + esc(s.name) + "</h1>" +
+      '<section class="page-head with-portrait">' + portrait(s, "lg") + '<div class="page-head"><p class="eyebrow">' + esc(s.years) + " · " + esc(s.place) + "</p><h1>" + esc(s.name) + "</h1>" +
       '<p class="lede">' + esc(s.title) + "</p></div></section>" +
       (s.quote ? '<blockquote class="quote"><p>“' + esc(s.quote) + '”</p><cite>' + esc(s.name) + "</cite></blockquote>" : "") +
       '<section class="block two-col"><div><h3>Tarbiyaviy g‘oyalari</h3><ul>' + s.ideas.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul></div>" +

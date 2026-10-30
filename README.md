@@ -10,6 +10,7 @@ Platforma dissertatsiya aprobatsiyasi (tajriba-sinov) uchun ishlab chiqilgan. Ko
 |---|---|
 | Sinflar (5–11) | Malaka talablari, kompetensiya darajasi, 5 ta mavzu, case study, krossvord, o‘yin, 20 savollik test banki |
 | **8-sinf moduli** | 10 ta dars ishlanmasi (har birida 8 savollik test banki), 4 ta case study, krossvord, 3 ta o‘yin |
+| Allomalar | 13 ta mutafakkir (12 tasi portret bilan, `assets/img/allomalar/`): yillari, asarlari, tarbiyaviy g‘oyalari, darslarga havolalar |
 | O‘yinlar | Krossvordlar (har sinf uchun), “Alloma va asar”, “Vaqt chizig‘i”, “Yaxshi va yomon xulqlar”, “Hikmat kimniki?” |
 | Diagnostika | 20 savollik test + 8 bandli so‘rovnoma; dastlabki va yakuniy bosqich |
 | O‘qituvchi profili | Maxsus kod, o‘quvchilar ro‘yxati, guruhlash (tajriba/nazorat), barcha ballar va javoblar, diagnostika statistikasi (η, Styudent t, p), CSV eksport, o‘quvchi parolini tiklash |

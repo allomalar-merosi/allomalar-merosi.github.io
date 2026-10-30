@@ -73,7 +73,8 @@ li + li { margin-top: .35rem; }
   position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
   background: var(--surface); border-bottom: 1px solid var(--line);
 }
-.site-head .wrap { display: flex; align-items: center; gap: 20px; padding-block: 10px; }
+.site-head .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 20px; padding-block: 10px 6px; }
+.site-head .topnav { order: 3; width: 100%; margin-inline: -10px; }
 .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); flex: none; }
 .brand .star { width: 26px; height: 26px; color: var(--lapis); }
 .brand b { font-family: var(--font-display); font-size: 1.3rem; }
@@ -176,7 +177,6 @@ ul.plain { list-style: none; padding: 0; }
   background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
 }
 .topic-n { font-size: .78rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
-.topic-src { font-weight: 600; }
 .kv { display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; margin: 0; font-size: .92rem; margin-top: auto; padding-top: 10px; border-top: 1px solid var(--line); }
 .kv dt { color: var(--muted); }
 .kv dd { margin: 0; }
@@ -314,17 +314,7 @@ table.data .num { text-align: right; font-variant-numeric: tabular-nums; }
 .pill { font: 600 .88rem var(--font-body); padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--muted); cursor: pointer; }
 .pill.on { background: var(--lapis); border-color: var(--lapis); color: var(--on-accent); }
 
-.portrait { flex: none; display: block; object-fit: cover; object-position: center top; background: var(--lapis-soft); border-radius: 50%; }
-.portrait.mono { display: grid; place-items: center; font-family: var(--font-display); font-weight: 700; color: var(--lapis); }
-.portrait.xs { width: 28px; height: 28px; font-size: .8rem; }
-.portrait.sm { width: 44px; height: 44px; font-size: 1rem; }
-.portrait.lg { width: 112px; height: 140px; border-radius: var(--radius); font-size: 2.4rem; }
-.portrait.card { width: 100%; height: auto; aspect-ratio: 4 / 5; max-width: 100%; border-radius: 8px; font-size: 2.6rem; margin-bottom: 6px; }
-.page-head.with-portrait { flex-direction: row; align-items: flex-start; gap: 20px; }
-.page-head.with-portrait > div { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
-@media (max-width: 520px) { .page-head.with-portrait { flex-direction: column; } }
 .topic-src { display: flex; align-items: center; gap: 8px; }
-.lesson-row .portrait { margin-left: -4px; }
 
 .case-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; }
 .case-card { display: flex; flex-direction: column; gap: 12px; padding: 18px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); min-width: 0; }
@@ -414,3 +404,23 @@ table.data tr.detail-row > td { background: var(--bg); }
 .detail-row h4 { margin-block: 8px; }
 .big.sm { font-size: 1.3rem; }
 pre { white-space: pre-wrap; font-size: .82rem; }
+
+/* allomalar portretlari */
+.portrait { display: block; flex: none; object-fit: cover; object-position: 50% 20%; background: var(--lapis-soft); border: 1px solid var(--line); }
+.portrait.ph { display: grid; place-items: center; font-family: var(--font-display); font-weight: 700; color: var(--lapis); }
+.portrait.xs { width: 28px; height: 28px; border-radius: 50%; font-size: .9rem; }
+.portrait.sm { width: 40px; height: 40px; border-radius: 50%; font-size: 1.1rem; }
+.portrait.md { width: 96px; height: 128px; border-radius: var(--radius); font-size: 2.4rem; }
+.portrait.lg { width: 180px; height: 240px; border-radius: var(--radius); font-size: 4rem; }
+.portrait.card { width: calc(100% + 36px); margin: -18px -18px 8px; height: 220px; border: 0; border-bottom: 1px solid var(--line); border-radius: var(--radius) var(--radius) 0 0; font-size: 4rem; }
+.scholar-card { overflow: hidden; }
+.topic-src { display: flex; align-items: center; gap: 8px; }
+.page-head.with-portrait { flex-direction: row; align-items: flex-end; gap: 24px; }
+.page-head.with-portrait > .page-head { min-width: 0; }
+.lesson-row .portrait { margin-left: -4px; }
+.case-head .portrait { border-radius: 50%; }
+@media (max-width: 560px) {
+  .page-head.with-portrait { flex-direction: column; align-items: flex-start; gap: 16px; }
+  .portrait.lg { width: 140px; height: 187px; }
+  .portrait.md { width: 72px; height: 96px; }
+}
