@@ -40,8 +40,14 @@
       headers: { "Content-Type": "text/plain;charset=utf-8" },
       body: JSON.stringify(q),
       redirect: "follow"
-    }).then(function (r) { return r.json(); }).catch(function () {
-      return { ok: false, error: "Server bilan aloqa yo‘q. Internetni tekshirib, qayta urinib ko‘ring." };
+    }).then(function (r) {
+      return r.text().then(function (text) {
+        try { return JSON.parse(text); } catch (e) {
+          return { ok: false, error: "Server JSON o‘rniga boshqa javob qaytardi (HTTP " + r.status + "). Apps Script’da “Kim kira oladi: Hamma” tanlanganini va kod to‘liq joylanganini tekshiring." };
+        }
+      });
+    }, function () {
+      return { ok: false, error: "Serverga ulanib bo‘lmadi. Internetni tekshiring. Internet ishlayotgan bo‘lsa, Apps Script joylashtirishida “Kim nomidan: Men” va “Kim kira oladi: Hamma” tanlanganini tekshiring." };
     });
   }
 

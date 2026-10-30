@@ -232,8 +232,21 @@ function createCore(store, env) {
 
 /* ---- Google Sheets ombori va veb-ilova kirish nuqtasi ---- */
 
-function sheetStore_() {
+/* Skript jadvalga bog‘langan bo‘lsa, o‘sha jadval ishlatiladi.
+   Mustaqil skript bo‘lsa, birinchi so‘rovda yangi jadval yaratilib, manzili saqlab qo‘yiladi. */
+function spreadsheet_() {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
+  if (ss) return ss;
+  var props = PropertiesService.getScriptProperties();
+  var id = props.getProperty("SHEET_ID");
+  if (id) return SpreadsheetApp.openById(id);
+  ss = SpreadsheetApp.create("Allomalar merosi — natijalar");
+  props.setProperty("SHEET_ID", ss.getId());
+  return ss;
+}
+
+function sheetStore_() {
+  var ss = spreadsheet_();
   var cache = {};
   function sheet(table) {
     var sh = ss.getSheetByName(table);
@@ -309,5 +322,10 @@ function doPost(e) {
 }
 
 function doGet() {
-  return json_({ ok: true, service: "Allomalar merosi platformasi", time: new Date().toISOString() });
+  try {
+    var ss = spreadsheet_();
+    return json_({ ok: true, service: "Allomalar merosi platformasi", sheet: ss.getUrl(), time: new Date().toISOString() });
+  } catch (err) {
+    return json_({ ok: false, error: "Server xatosi: " + err.message });
+  }
 }
