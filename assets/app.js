@@ -55,6 +55,13 @@
       '<rect x="5" y="5" width="14" height="14" fill="currentColor" transform="rotate(45 12 12)"/></svg>';
   }
 
+  function portrait(s, cls) {
+    cls = "portrait " + (cls || "");
+    if (s.img) return '<img class="' + cls + '" src="' + esc(s.img) + '" alt="' + esc(s.name) + '" loading="lazy">';
+    var ini = s.name.split(" ").filter(function (w) { return w.length > 2; }).slice(-1)[0] || s.name;
+    return '<span class="' + cls + ' ph" aria-hidden="true">' + esc(ini.charAt(0)) + "</span>";
+  }
+
   function levelOf(p) {
     if (p >= 80) return { key: "yuqori", name: "Yuqori" };
     if (p >= 55) return { key: "orta", name: "O‘rta" };
@@ -176,7 +183,7 @@
     var topics = g.topics.map(function (t, i) {
       var s = scholar(t.scholar), m = method(t.method);
       return '<article class="topic"><p class="topic-n">' + (i + 1) + "-mavzu</p><h3>" + esc(t.title) + "</h3>" +
-        '<p class="topic-src"><a href="#alloma-' + s.id + '">' + esc(s.name) + "</a></p>" +
+        '<p class="topic-src">' + portrait(s, "xs") + '<a href="#alloma-' + s.id + '">' + esc(s.name) + "</a></p>" +
         "<p>" + esc(t.idea) + "</p>" +
         '<dl class="kv"><dt>Metod</dt><dd><a href="#metodlar">' + esc(m.name) + "</a></dd><dt>Topshiriq</dt><dd>" + esc(t.task) + "</dd></dl></article>";
     }).join("");
@@ -196,7 +203,7 @@
     var lessons = g.lessons.map(function (l, i) {
       var s = scholar(l.scholar);
       var p = prog["dars-" + l.id];
-      return '<li><a class="lesson-row" href="#dars-' + l.id + '"><span class="lesson-n">' + (i + 1) + "</span>" +
+      return '<li><a class="lesson-row" href="#dars-' + l.id + '"><span class="lesson-n">' + (i + 1) + "</span>" + portrait(s, "sm") +
         '<span class="lesson-body"><span class="lesson-title">' + esc(l.title) + '</span><span class="lesson-meta">' + esc(s.name) + " · " + esc(l.work) + "</span></span>" +
         '<span class="lesson-score">' + (p != null ? p + "%" : "") + "</span></a></li>";
     }).join("");
@@ -230,8 +237,8 @@
     var next = i < all.length - 1 ? '<a class="btn ghost" href="#dars-' + all[i + 1].id + '">' + (i + 2) + "-dars →</a>" : '<a class="btn" href="#diagnostika">Yakuniy diagnostika →</a>';
     return gradeNav(8) +
       '<p class="crumbs"><a href="#sinf-8">8-sinf moduli</a> / ' + (i + 1) + "-dars</p>" +
-      '<section class="page-head"><p class="eyebrow">' + (i + 1) + "-dars · " + total + " daqiqa</p><h1>" + esc(l.title) + "</h1>" +
-      '<p class="lede"><a href="#alloma-' + s.id + '">' + esc(s.name) + "</a> · “" + esc(l.work) + "”</p></section>" +
+      '<section class="page-head with-portrait">' + portrait(s, "md") + '<div class="page-head"><p class="eyebrow">' + (i + 1) + "-dars · " + total + " daqiqa</p><h1>" + esc(l.title) + "</h1>" +
+      '<p class="lede"><a href="#alloma-' + s.id + '">' + esc(s.name) + "</a> · “" + esc(l.work) + "”</p></div></section>" +
       (l.quote ? '<blockquote class="quote"><p>“' + esc(l.quote) + '”</p><cite>' + esc(s.name) + "</cite></blockquote>" : "") +
       '<section class="block"><dl class="goals">' +
       "<div><dt>Ta’limiy maqsad</dt><dd>" + esc(l.goals.talimiy) + "</dd></div>" +
@@ -247,7 +254,7 @@
 
   function viewScholars() {
     var cards = D.scholars.map(function (s) {
-      return '<a class="scholar-card" href="#alloma-' + s.id + '"><span class="years">' + esc(s.years) + "</span>" +
+      return '<a class="scholar-card" href="#alloma-' + s.id + '">' + portrait(s, "card") + '<span class="years">' + esc(s.years) + "</span>" +
         "<h3>" + esc(s.name) + '</h3><span class="muted">' + esc(s.works[0]) + "</span>" +
         '<span class="grades">' + s.grades.map(function (g) { return '<span class="chip' + (g === 8 ? " gold" : "") + '">' + g + "</span>"; }).join("") + "</span></a>";
     }).join("");
@@ -272,8 +279,8 @@
       }
     });
     return '<p class="crumbs"><a href="#allomalar">Allomalar</a> / ' + esc(s.name) + "</p>" +
-      '<section class="page-head"><p class="eyebrow">' + esc(s.years) + " · " + esc(s.place) + "</p><h1>" + esc(s.name) + "</h1>" +
-      '<p class="lede">' + esc(s.title) + "</p></section>" +
+      '<section class="page-head with-portrait">' + portrait(s, "lg") + '<div class="page-head"><p class="eyebrow">' + esc(s.years) + " · " + esc(s.place) + "</p><h1>" + esc(s.name) + "</h1>" +
+      '<p class="lede">' + esc(s.title) + "</p></div></section>" +
       (s.quote ? '<blockquote class="quote"><p>“' + esc(s.quote) + '”</p><cite>' + esc(s.name) + "</cite></blockquote>" : "") +
       '<section class="block two-col"><div><h3>Tarbiyaviy g‘oyalari</h3><ul>' + s.ideas.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul></div>" +
       "<div><h3>Asarlari</h3><ul>" + s.works.map(function (w) { return "<li>“" + esc(w) + "”</li>"; }).join("") + "</ul>" +
