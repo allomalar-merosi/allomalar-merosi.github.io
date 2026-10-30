@@ -551,7 +551,7 @@
     });
     return '<section class="page-head"><p class="eyebrow">Profil</p><h1>Kirish</h1><p class="lede">O‘qituvchi va o‘quvchilar uchun umumiy kirish.</p></section>' + modeBanner() +
       '<form id="login-form" class="auth-card" novalidate>' +
-      '<label for="l-login">Login<input id="l-login" name="login" autocomplete="username" autocapitalize="none" required></label>' +
+      '<label for="l-login">Login yoki email<input id="l-login" name="login" autocomplete="username" autocapitalize="none" required></label>' +
       '<label for="l-pass">Parol<input id="l-pass" name="password" type="password" autocomplete="current-password" required></label>' +
       '<button type="submit" class="btn">Kirish</button><p class="form-msg" role="alert"></p>' +
       '<p class="muted">Hisobingiz yo‘qmi? <a href="#royxat">Ro‘yxatdan o‘ting</a>. Parolni unutgan o‘quvchi o‘qituvchisidan yangi parol so‘raydi.</p></form>';
@@ -576,7 +576,7 @@
       });
     });
     var common = function (pfx) {
-      return '<label for="' + pfx + '-login">Login (lotin harflari va raqamlar)<input id="' + pfx + '-login" name="login" autocomplete="username" autocapitalize="none" required placeholder="masalan: malika08"></label>' +
+      return '<label for="' + pfx + '-login">Login yoki email<input id="' + pfx + '-login" name="login" autocomplete="username" autocapitalize="none" required placeholder="masalan: malika08"></label>' +
         '<label for="' + pfx + '-pass">Parol (kamida 4 belgi)<input id="' + pfx + '-pass" name="password" type="password" autocomplete="new-password" required></label>' +
         '<label for="' + pfx + '-pass2">Parolni takrorlang<input id="' + pfx + '-pass2" name="password2" type="password" autocomplete="new-password" required></label>';
     };

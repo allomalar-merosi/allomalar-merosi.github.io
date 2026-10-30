@@ -65,7 +65,7 @@ function createCore(store, env) {
   }
   function fail(msg) { return { ok: false, error: msg }; }
   function str(v, max) { return String(v == null ? "" : v).trim().slice(0, max || 200); }
-  function normLogin(v) { return str(v, 40).toLowerCase(); }
+  function normLogin(v) { return str(v, 60).toLowerCase(); }
   function find(table, pred) {
     var rows = store.rows(table);
     for (var i = 0; i < rows.length; i++) if (pred(rows[i])) return rows[i];
@@ -75,7 +75,7 @@ function createCore(store, env) {
     return !!(find("teachers", function (r) { return r.login === login; }) || find("students", function (r) { return r.login === login; }));
   }
   function checkCredentials(login, password) {
-    if (!/^[a-z0-9._-]{3,30}$/.test(login)) return "Login 3–30 belgidan iborat bo‘lsin: lotin harflari, raqamlar, nuqta, chiziqcha.";
+    if (!/^[a-z0-9._@+-]{3,60}$/.test(login)) return "Login 3–60 belgidan iborat bo‘lsin: lotin harflari, raqamlar yoki email (masalan, ali@gmail.com). Bo‘sh joy va kirill harflari mumkin emas.";
     if (String(password || "").length < 4) return "Parol kamida 4 belgidan iborat bo‘lsin.";
     return null;
   }
