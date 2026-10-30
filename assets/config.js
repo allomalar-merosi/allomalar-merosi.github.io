@@ -1,6 +1,6 @@
 /* Platforma sozlamalari.
-   sheetsUrl: Google Apps Script veb-ilovasi manzili (google-apps-script/Code.gs, README.md ga qarang).
-   Bo‘sh qoldirilsa, natijalar faqat shu qurilmada saqlanadi va “Natijalar” bo‘limidan eksport qilinadi. */
+   apiUrl: Google Apps Script veb-ilovasi manzili (README.md dagi “Serverni ulash” bo‘limi).
+   Bo‘sh bo‘lsa, platforma sinov rejimida ishlaydi: hisoblar va natijalar faqat shu brauzerda saqlanadi. */
 window.CONFIG = {
-  sheetsUrl: ""
+  apiUrl: ""
 };
