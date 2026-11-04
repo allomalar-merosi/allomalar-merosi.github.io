@@ -1,0 +1,127 @@
+## 1.3-§. Bank barqarorligini baholash metodlari
+
+Bank moliyaviy barqarorligini baholash metodlarini to'rt asosiy guruhga ajratish mumkin: koeffitsiyentlar tahliliga asoslangan metodlar, reyting tizimlari, chegaraviy samaradorlik metodlari va ekonometrik (shu jumladan, ta'sirni baholash) metodlari. Har bir guruh o'z afzalliklari va cheklovlariga ega bo'lib, ularni birgalikda qo'llash barqarorlikni kompleks baholash imkonini beradi.
+
+**Koeffitsiyentlar tahlili.** Bank faoliyatini baholashning eng keng tarqalgan usuli – moliyaviy koeffitsiyentlar tahlili. U bank balansi va moliyaviy natijalar to'g'risidagi hisobot ma'lumotlari asosida kapital yetarliligi, aktivlar sifati, rentabellik va likvidlik ko'rsatkichlarini hisoblashni o'z ichiga oladi{saunders2018,mishkin2019}. Bank rentabelligining asosiy ko'rsatkichlari quyidagilardir:
+
+$$ ROA = NI / Ā × 100%; ROE = NI / Ē × 100% (1.2)
+
+bu yerda NI – sof foyda; Ā – aktivlarning o'rtacha yillik qiymati; Ē – kapitalning o'rtacha yillik qiymati. Bu ikki ko'rsatkich o'zaro moliyaviy leverej orqali bog'liq: ROE = ROA × (Ā / Ē). Demak, yuqori ROE yuqori rentabellik yoki yuqori leverej hisobiga bo'lishi mumkin va barqarorlikni baholashda ROE ni kapital yetarliligi bilan birga tahlil qilish zarur.
+
+Bank operatsion samaradorligining asosiy ko'rsatkichi – xarajatlarning daromadlarga nisbati (cost-to-income ratio, CIR):
+
+$$ CIR = OPEX / (NII + NFI) × 100% (1.3)
+
+bu yerda OPEX – operatsion xarajatlar; NII – sof foizli daromadlar; NFI – sof foizsiz daromadlar. CIR ning pasayishi bankning daromad olish uchun kamroq xarajat qilayotganini anglatadi. Aktivlar sifatining asosiy ko'rsatkichlari muammoli kreditlar ulushi (NPL ratio) va kredit riski narxi (cost of risk, CoR) – yil davomida kreditlar bo'yicha shakllantirilgan zaxiralarning o'rtacha kredit portfeliga nisbati hisoblanadi.
+
+Koeffitsiyentlar tahlilining afzalligi – soddaligi va ma'lumotlarning mavjudligi, cheklovi esa har bir ko'rsatkich bankning faqat bir jihatini aks ettirishi va ko'rsatkichlar turli yo'nalishlarda o'zgarganda umumiy xulosa chiqarishning qiyinligidir. Masalan, bank rentabelligi oshgani holda aktivlar sifati yomonlashishi mumkin. Shu sababli amaliyotda koeffitsiyentlar integral reyting tizimlariga birlashtiriladi.
+
+**CAMELS reyting tizimi.** CAMELS tizimi AQSh bank nazorati organlari tomonidan 1979-yilda joriy etilgan (dastlab CAMEL, 1996-yildan bozor riskiga sezgirlik komponenti qo'shilgan) va hozirgi kunda ko'plab mamlakatlarda bank nazoratining asosiy vositasi hisoblanadi{lopez1999,sahajwala2000}. Tizim olti komponentdan iborat: kapital yetarliligi (Capital adequacy), aktivlar sifati (Asset quality), boshqaruv sifati (Management), daromadlar (Earnings), likvidlik (Liquidity) va bozor riskiga sezgirlik (Sensitivity to market risk). Har bir komponent 1 dan (eng yaxshi) 5 gacha (eng yomon) ball bilan baholanadi, so'ngra kompozit reyting hisoblanadi. J.Lopes CAMELS reytinglari bank holatini kuzatishda samarali vosita ekanini, biroq ularning axborot qiymati vaqt o'tishi bilan tez kamayishini, shu sababli reytinglarni muntazam yangilab borish zarurligini ko'rsatgan{lopez1999}.
+
+Nazorat organlari amaliyotida CAMELS reytingi tekshiruv natijalari va maxfiy nazorat ma'lumotlari asosida aniqlanadi. Ilmiy tadqiqotlarda esa ochiq ma'lumotlar asosida “CAMELS tipidagi” ko'rsatkichlar tizimi qo'llaniladi. Biz tadqiqotimizda har bir komponent uchun ochiq hisobotlar asosida hisoblanadigan ko'rsatkichlar va ularning ball chegaralarini belgiladik (1.4-jadval).
+
+TABLE 1.4: CAMELS komponentlari bo'yicha ko'rsatkichlar va ball chegaralari (muallif tomonidan moslashtirilgan)
+| Komponent | Ko'rsatkich | 1 ball | 2 ball | 3 ball | 4 ball | 5 ball |
+| C – kapital | Kapital yetarliligi (CAR), % | ≥ 18 | 15–18 | 13–15 | 10–13 | < 10 |
+| A – aktivlar sifati | NPL ulushi, % | < 2 | 2–4 | 4–6 | 6–10 | ≥ 10 |
+| M – boshqaruv | Xarajatlar/daromadlar (CIR), % | < 40 | 40–50 | 50–60 | 60–70 | ≥ 70 |
+| E – daromadlar | ROA, % | ≥ 2,5 | 1,5–2,5 | 0,5–1,5 | 0–0,5 | < 0 |
+| L – likvidlik | Kreditlar/depozitlar (LTD), % | < 100 | 100–130 | 130–170 | 170–220 | ≥ 220 |
+| S – sezgirlik | Valyuta pozitsiyasining kapitalga nisbati, % (mutlaq) | < 5 | 5–10 | 10–15 | 15–20 | ≥ 20 |
+NOTE: Manba: ilmiy adabiyotlar va O'zbekiston Respublikasi Markaziy banki talablari asosida muallif tomonidan ishlab chiqilgan{lopez1999,sahajwala2000,mb_kapital}.
+
+Kapital komponenti chegaralari O'zbekistonda belgilangan 13 foizlik minimal talab asosida, likvidlik komponenti chegaralari esa O'zbekiston bank tizimining o'ziga xos xususiyati – kreditlarning depozitlarga nisbatining yuqoriligi (2024-yilda tizim bo'yicha 173 foiz, davlat banklarida 237 foiz){imf_fssa2025} – hisobga olingan holda belgilandi. Boshqaruv sifatini ochiq ma'lumotlar asosida baholash qiyin bo'lgani sababli uning proksi-ko'rsatkichi sifatida CIR qo'llanildi; bu yondashuv ilmiy adabiyotda keng tarqalgan.
+
+**Z-score ko'rsatkichi.** Bank barqarorligining eng keng qo'llaniladigan integral ko'rsatkichlaridan biri – Z-score. Uning nazariy asosi A.Roy tomonidan ishlab chiqilgan “xavfsizlik birinchi” (safety first) tamoyiliga borib taqaladi{roy1952}, bank faoliyatiga esa J.Boyd va S.Grem tomonidan tatbiq etilgan{boyd1986}:
+
+$$ Z = (ROA + E / A) / σ(ROA) (1.4)
+
+bu yerda ROA – aktivlar rentabelligi; E/A – kapitalning aktivlarga nisbati; σ(ROA) – aktivlar rentabelligining standart chetlanishi. Z-score bankning to'lov qobiliyatsizligiga qadar bo'lgan “masofa”ni, ya'ni bankning kapitali to'liq yo'qolishi uchun daromadlar o'rtacha qiymatdan necha standart chetlanishga pasayishi kerakligini ko'rsatadi. Z-score qanchalik yuqori bo'lsa, bank shunchalik barqaror. Ko'rsatkichning afzalligi – u rentabellik, kapitallashuv va daromadlar o'zgaruvchanligini yagona ko'rsatkichda birlashtiradi. Uning cheklovi – σ(ROA) ni hisoblash uchun uzoq vaqt qatorlari talab etiladi. L.Lepetit va F.Strobel vaqt bo'yicha o'zgaruvchan Z-score ni hisoblashning turli usullarini taqqoslab, ROA o'rtachasi va standart chetlanishini butun davr bo'yicha, kapitalning aktivlarga nisbatini esa joriy davr bo'yicha olish usuli eng yaxshi natija berishini ko'rsatgan{lepetit2013}. Biz tadqiqotimizda aynan shu usulni qo'llaymiz. Korporativ moliyada keng qo'llaniladigan E.Altmanning Z-modeli{altman1968} esa bankrotlik ehtimolini diskriminant tahlil asosida baholaydi, biroq u nomoliyaviy korxonalar uchun ishlab chiqilgani sababli banklarga bevosita qo'llanilmaydi.
+
+**Chegaraviy samaradorlik metodlari: DEA va Malmquist indeksi.** Bank samaradorligini baholashda chegaraviy (frontier) metodlar keng qo'llaniladi. A.Berger va D.Xamfri 21 mamlakatdagi moliya institutlari samaradorligini baholagan 130 ta tadqiqotni umumlashtirib, chegaraviy metodlar orasida noparametrik DEA (Data Envelopment Analysis) va parametrik SFA (Stochastic Frontier Analysis) usullari ustunlik qilishini ko'rsatgan{berger1997}. DEA usuli A.Charnes, V.Kuper va E.Rouds tomonidan ishlab chiqilgan bo'lib, u qaror qabul qiluvchi birliklar (bizning holatda – banklar) to'plami uchun “eng yaxshi amaliyot” chegarasini chiziqli dasturlash orqali aniqlaydi va har bir bankning ushbu chegaradan masofasini uning samaradorlik bahosi sifatida qabul qiladi{ccr1978}. Kirish resurslariga yo'naltirilgan CCR modelida o-bankning samaradorligi quyidagi masalaning yechimi sifatida aniqlanadi:
+
+$$ θ_o* = min θ; Σ_j λ_j x_ij ≤ θ x_io; Σ_j λ_j y_rj ≥ y_ro; λ_j ≥ 0 (1.5)
+
+bu yerda x_ij – j-bankning i-kirish resursi (masalan, xodimlar xarajatlari, jalb qilingan mablag'lar, asosiy vositalar); y_rj – j-bankning r-chiqish natijasi (kreditlar, boshqa daromadli aktivlar, foizsiz daromadlar); λ_j – banklar vaznlari; θ_o* – o-bankning samaradorlik bahosi (0 < θ ≤ 1). CCR modeli o'zgarmas masshtab samarasi farazini qabul qiladi; R.Banker, A.Charnes va V.Kuper taklif etgan BCC modeli esa o'zgaruvchan masshtab samarasini hisobga olib, umumiy texnik samaradorlikni sof texnik samaradorlik va masshtab samaradorligiga ajratish imkonini beradi{bcc1984}. Buning uchun (1.5) masalaga Σ_j λ_j = 1 sharti qo'shiladi.
+
+Vaqt bo'yicha samaradorlik o'zgarishini baholash uchun D.Keyvs, L.Kristensen va E.Dyuert tomonidan nazariy asoslangan{ccd1982} va R.Fere hamda hammualliflari tomonidan DEA asosida hisoblash usuli ishlab chiqilgan{fare1994} Malmquist mahsuldorlik indeksi qo'llaniladi:
+
+$$ M_o = [D^{t}(x^{t+1}, y^{t+1}) / D^{t}(x^{t}, y^{t}) × D^{t+1}(x^{t+1}, y^{t+1}) / D^{t+1}(x^{t}, y^{t})]^{1/2} (1.6)
+
+bu yerda D^{t} – t-davr texnologiyasiga nisbatan masofa funksiyasi. Malmquist indeksi ikki komponentga ajratiladi: texnik samaradorlik o'zgarishi (bankning chegaraga yaqinlashishi, “quvib yetish” samarasi) va texnologik o'zgarish (chegaraning o'zi siljishi). M_o > 1 mahsuldorlik o'sganini, M_o < 1 esa pasayganini bildiradi. Bu dekompozitsiya xorijiy investor ishtirokidagi bankda samaradorlik o'zgarishi uning o'z boshqaruvi yaxshilanishi hisobigami yoki butun tizimdagi texnologik o'zgarishlar hisobigami ekanini ajratish imkonini beradi.
+
+**Ekonometrik va ta'sirni baholash metodlari.** Bank barqarorligi va rentabelligi determinantlarini baholashda panel regressiya modellari keng qo'llaniladi{athanasoglou2008,dk1999}. Bank rentabelligi inersiyaga ega bo'lgani sababli, odatda, dinamik panel modellari va umumlashgan momentlar usuli (GMM) qo'llaniladi{arellano1991,blundell1998}. Mulkchilik o'zgarishining sof ta'sirini baholash uchun esa farqlar farqi (DiD) usuli qo'llaniladi{ck1994,ap2009}:
+
+$$ Y_it = α_i + λ_t + δ·(Treat_i × Post_t) + X_it β + ε_it (1.7)
+
+bu yerda Y_it – i-bankning t-yildagi natija ko'rsatkichi (ROA, CIR, NPL, Z-score); α_i – banklar bo'yicha qat'iy effektlar; λ_t – yillar bo'yicha qat'iy effektlar; Treat_i – strategik investorga sotilgan bank belgisi; Post_t – sotilgandan keyingi davr belgisi; X_it – nazorat o'zgaruvchilari (bank hajmi, kapitallashuv); δ – izlanayotgan sof ta'sir bahosi. Farqlar farqi usulining asosiy farazi – parallel trendlar: sotilmaganida, tadqiq etilayotgan bank ko'rsatkichlari nazorat guruhi bilan bir xil sur'atda o'zgargan bo'lar edi. Ishtirok guruhida faqat bitta bank bo'lgan holatlarda A.Abadi, A.Daymond va J.Haynmyuller tomonidan ishlab chiqilgan sintetik nazorat usuli muqobil yondashuv sifatida qo'llanilishi mumkin: unda nazorat guruhidagi banklarning shunday vaznlangan kombinatsiyasi tuziladiki, u sotishdan oldingi davrda tadqiq etilayotgan bank ko'rsatkichlarini eng yaxshi takrorlaydi{abadie2010}.
+
+**XVF moliyaviy barqarorlik ko'rsatkichlari.** Bank tizimi barqarorligini baholash va mamlakatlararo taqqoslash uchun Xalqaro valyuta jamg'armasi moliyaviy barqarorlik ko'rsatkichlari (Financial Soundness Indicators, FSI) tizimini ishlab chiqqan. O'zbekiston Respublikasi Markaziy banki ham bank tizimi barqarorligi ko'rsatkichlarini XVF metodologiyasi asosida e'lon qilib boradi{cbu}. Depozit qabul qiluvchi tashkilotlar uchun asosiy FSI ko'rsatkichlari 1.c-jadvalda keltirilgan.
+
+TABLE 1.c: Depozit qabul qiluvchi tashkilotlar uchun XVF moliyaviy barqarorlik ko'rsatkichlarining asosiy to'plami
+| Yo'nalish | Ko'rsatkich | Bank barqarorligi bilan bog'liqligi |
+| Kapital yetarliligi | Regulyativ kapitalning risk bo'yicha tortilgan aktivlarga nisbati | Kutilmagan zararlarni qoplash qobiliyati |
+| Kapital yetarliligi | Birinchi darajali kapitalning risk bo'yicha tortilgan aktivlarga nisbati | Kapital sifati |
+| Kapital yetarliligi | Zaxiralar chegirilgan muammoli kreditlarning kapitalga nisbati | Kapitalga tahdid soluvchi kredit riski |
+| Aktivlar sifati | Muammoli kreditlarning jami kreditlarga nisbati | Kredit portfeli sifati |
+| Daromadlar va rentabellik | Aktivlar rentabelligi (ROA) | Aktivlardan foydalanish samaradorligi |
+| Daromadlar va rentabellik | Kapital rentabelligi (ROE) | Aksiyadorlar uchun daromadlilik |
+| Daromadlar va rentabellik | Foiz marjasining yalpi daromadga nisbati | Daromadlar tarkibi |
+| Daromadlar va rentabellik | Foizsiz xarajatlarning yalpi daromadga nisbati | Xarajatlar samaradorligi |
+| Likvidlik | Likvid aktivlarning jami aktivlarga nisbati | Likvidlik zaxirasi |
+| Likvidlik | Likvid aktivlarning qisqa muddatli majburiyatlarga nisbati | Qisqa muddatli majburiyatlarni qoplash qobiliyati |
+| Bozor riskiga sezgirlik | Ochiq valyuta pozitsiyasining kapitalga nisbati | Valyuta riskiga ta'sirchanlik |
+NOTE: Manba: XVF metodologiyasi asosida muallif tomonidan tuzilgan{imf_fssa2025,cbu}.
+
+FSI ko'rsatkichlari tizim darajasida hisoblanadi, biroq ularning ko'pchiligi alohida bank uchun ham qo'llanilishi mumkin. Tadqiqotimizda taklif etilgan CAMELS ko'rsatkichlari to'plami (1.4-jadval) FSI tizimi bilan uyg'unlashtirilgan bo'lib, bu alohida bank ko'rsatkichlarini bank tizimi ko'rsatkichlari bilan taqqoslash imkonini beradi.
+
+**Erta ogohlantirish tizimlari.** Bank barqarorligini baholashning yana bir yo'nalishi – bank muammolarini oldindan aniqlashga qaratilgan erta ogohlantirish tizimlari. R.Saxajvala va P. van den Berg nazorat organlarining risklarni baholash va erta ogohlantirish tizimlarini tahlil qilib, ularni to'rt guruhga ajratgan: nazorat reyting tizimlari (CAMELS kabi), moliyaviy koeffitsiyentlar va guruh tahliliga asoslangan tizimlar, bankning umumiy risk holatini baholash tizimlari hamda statistik modellar{sahajwala2000}. Statistik modellar (logit va probit modellari, omon qolish tahlili) bank ko'rsatkichlari asosida keyingi davrda bank muammolari yuzaga kelish ehtimolini baholaydi. Bu yondashuvlar ko'p sonli bank muammolari tarixiga ega bo'lgan bank tizimlarida samarali bo'lib, O'zbekiston kabi bank inqirozlari tarixi cheklangan mamlakatlarda ularni qo'llash qiyin. Shu sababli tadqiqotimizda reyting va integral ko'rsatkichlarga asoslangan yondashuv tanlandi.
+
+**Stress-testlash.** Bank barqarorligini baholashning istiqbolga yo'naltirilgan usuli – stress-testlash. Unda makroiqtisodiy ssenariylar (masalan, iqtisodiy o'sishning keskin sekinlashishi, milliy valyutaning qadrsizlanishi, foiz stavkalarining oshishi) bank ko'rsatkichlariga – muammoli kreditlar, zaxiralar, kapital yetarliligiga – ta'siri modellashtiriladi. Stress-testlar nazorat organlari tomonidan keng qo'llaniladi{imf_fssa2025}, biroq ular ichki ma'lumotlarni talab qiladi. Tadqiqotimizda stress-testlash elementlari III bobdagi prognoz ssenariylariga integratsiya qilinadi.
+
+Bank barqarorligini baholash metodlarining qiyosiy tavsifi 1.5-jadvalda keltirilgan.
+
+TABLE 1.5: Bank barqarorligini baholash metodlarining qiyosiy tavsifi
+| Metod | Asosiy g'oya | Afzalligi | Cheklovi | Tadqiqotda qo'llanilishi |
+| Koeffitsiyentlar tahlili | Balans va moliyaviy natijalar asosidagi nisbatlar | Oddiy, shaffof | Har bir ko'rsatkich bir jihatni aks ettiradi | 3.1-§: “oldin–keyin” tahlili |
+| CAMELS | Olti komponentning integral reytingi | Kompleks, nazorat amaliyotida qo'llaniladi | Boshqaruv komponentini baholash subyektiv | 3.2-§: integral indeks |
+| Z-score | Kapital va rentabellikning daromadlar o'zgaruvchanligiga nisbati | Risk va rentabellikni birlashtiradi | Uzoq vaqt qatori talab qilinadi | 3.2-§: integral indeks |
+| DEA | Noparametrik samaradorlik chegarasi | Funksional shakl talab qilinmaydi; ko'p kirish va chiqish | Tasodifiy xatolarni hisobga olmaydi | 3.2-§: banklararo taqqoslash |
+| Malmquist indeksi | Vaqt bo'yicha mahsuldorlik o'zgarishi | Samaradorlik va texnologik o'zgarishni ajratadi | Panel ma'lumotlari talab qilinadi | 3.2-§: dinamik tahlil |
+| Farqlar farqi (DiD) | Ishtirok va nazorat guruhi o'zgarishlarini solishtirish | Sof ta'sirni baholaydi | Parallel trendlar farazi | 3.2-§: sof ta'sir |
+| Stress-test | Ssenariylar bo'yicha zarbalar ta'siri | Istiqbolga yo'naltirilgan | Ichki ma'lumotlar talab qilinadi | 3.3-§: prognoz ssenariylari |
+NOTE: Manba: ilmiy adabiyotlar asosida muallif tomonidan tuzilgan{lopez1999,boyd1986,ccr1978,fare1994,ck1994}.
+
+**Bank rentabelligi va barqarorligi determinantlarini baholash modeli o'zgaruvchilari.** Tadqiqotning empirik qismida qo'llaniladigan panel regressiya modeli o'zgaruvchilari va ularning kutilayotgan ta'sir yo'nalishi xalqaro tadqiqotlar natijalari asosida aniqlandi (1.d-jadval).
+
+TABLE 1.d: Bank rentabelligi va barqarorligi determinantlari modelining o'zgaruvchilari va kutilayotgan ta'sir yo'nalishi
+| O'zgaruvchi | Belgilanishi | Kutilayotgan ishora (ROA) | Nazariy asoslash |
+| Xorijiy strategik investor ishtiroki | FOR | + | Boshqaruv, texnologiya va risk-menejment sifatining oshishi |
+| Kapitalning aktivlarga nisbati | E/A | + | Arzonroq moliyalashtirish, ehtiyotkor boshqaruv, past bankrotlik xavfi |
+| Muammoli kreditlar ulushi | NPL | – | Zaxiralar xarajatlari va foizsiz aktivlar |
+| Xarajatlar/daromadlar | CIR | – | Operatsion samarasizlik |
+| Bank hajmi (aktivlar logarifmi) | lnTA | + yoki – | Masshtab samarasi yoki boshqaruvning murakkablashuvi |
+| Kreditlar/depozitlar | LTD | – (barqarorlik uchun) | Qimmat va beqaror moliyalashtirish manbalariga qaramlik |
+| YaIM o'sishi | GDP | + | Kredit talabi va qarz oluvchilar to'lov qobiliyati |
+| Inflyatsiya | INF | + yoki – | Bankning inflyatsiyani kutish va narxlarga kiritish qobiliyatiga bog'liq |
+NOTE: Manba: ilmiy adabiyotlar asosida muallif tomonidan tuzilgan{athanasoglou2008,dk1999,laeven2009}.
+
+Ushbu model xorijiy strategik investor ishtirokining ta'sirini bankka xos va makroiqtisodiy omillar ta'siridan ajratib baholash imkonini beradi. Bank rentabelligi inersiyaga ega bo'lgani sababli modelning dinamik shakli umumlashgan momentlar usulida baholanadi; bunda o'zgaruvchilarning lag qiymatlari instrument sifatida qo'llaniladi{arellano1991,blundell1998}. Model natijalarining ishonchliligi AR(2) testi (qoldiqlarda ikkinchi tartibli avtokorrelyatsiya yo'qligi) va Hansen testi (instrumentlarning to'g'ri tanlanganligi) orqali tekshiriladi.
+
+**Bank barqarorligining integral indeksi.** Yuqoridagi metodlarning har biri barqarorlikning ma'lum jihatini aks ettiradi. CAMELS reytingi bankning joriy holatini olti yo'nalish bo'yicha tavsiflaydi, biroq daromadlar o'zgaruvchanligini hisobga olmaydi. Z-score esa to'lov qobiliyatsizligi xavfini baholaydi, biroq aktivlar sifati va likvidlikni bevosita aks ettirmaydi. Shu sababli biz ularni birlashtirgan **bank barqarorligining integral indeksi (BBII)** ni taklif etamiz:
+
+$$ BBII_t = w_1 · (5 – CAMELS_t) / 4 + w_2 · min(Z_t / Z*, 1) (1.8)
+
+bu yerda CAMELS_t – t-yildagi kompozit CAMELS bali (1 dan 5 gacha), u (5 – CAMELS)/4 ko'rinishida 0 dan 1 gacha bo'lgan oraliqqa normallashtiriladi; Z_t – Z-score qiymati; Z* – Z-score ning me'yoriy (maqsadli) qiymati, biz uni <<15>> deb qabul qildik; w_1, w_2 – vaznlar (w_1 + w_2 = 1), asosiy variantda w_1 = 0,6 va w_2 = 0,4. Kompozit CAMELS bali komponentlar ballarining vaznlangan o'rtachasi sifatida aniqlanadi:
+
+$$ CAMELS_t = 0,25·C + 0,25·A + 0,10·M + 0,15·E + 0,15·L + 0,10·S (1.9)
+
+Komponentlar vaznlari kapital va aktivlar sifatining bank barqarorligidagi ustuvor rolini hisobga olgan holda belgilandi. BBII 0 dan 1 gacha o'zgaradi; uning qiymati 0,75 dan yuqori bo'lsa bank barqarorligi “yuqori”, 0,5–0,75 oralig'ida “qoniqarli”, 0,5 dan past bo'lsa “past” deb baholanadi. Indeksning afzalligi shundaki, u bankning joriy holatini (CAMELS) va to'lov qobiliyatsizligi xavfini (Z-score) birlashtiradi, ochiq ma'lumotlar asosida hisoblanadi va vaqt bo'yicha dinamikani kuzatish imkonini beradi.
+
+## I bob bo'yicha xulosalar
+
+Birinchidan, tijorat banki moliyaviy barqarorligi – bu bankning yetarli kapital bazasi, sifatli aktivlar portfeli, barqaror resurs bazasi va samarali risk-menejment tizimi asosida ichki va tashqi zarbalar ta'sirida ham o'z majburiyatlarini to'liq bajarish, uzoq muddatli rentabellikni saqlash va moliyaviy vositachilik funksiyasini uzluksiz amalga oshirish qobiliyatidir. U kapital, aktivlar, likvidlik, daromad, resurs bazasi va boshqaruv barqarorligining uyg'unligi bilan ta'minlanadi, mulkchilik tarkibi esa ushbu elementlarning barchasiga ta'sir ko'rsatuvchi tizimli omil hisoblanadi.
+
+Ikkinchidan, xorijiy strategik investorning bank faoliyatiga ta'siri agentlik nazariyasi, korporativ boshqaruv va xalqaro bank faoliyati nazariyalari asosida tushuntiriladi. Empirik tadqiqotlar o'tish iqtisodiyoti mamlakatlarida xorijiy strategik investorlarga sotilgan banklar samaradorligi yuqori ekanini tasdiqlaydi, biroq sotib olishdan keyingi dastlabki davrda ko'rsatkichlarning vaqtincha pasayishi kuzatilishi mumkin. Xorijiy investorning ta'siri kapital, korporativ boshqaruv, risk-menejment, texnologiya va bozor (resurs bazasi) kanallari orqali amalga oshadi va har bir kanalda ijobiy hamda salbiy mexanizmlar mavjud.
+
+Uchinchidan, bank barqarorligini baholash metodlari koeffitsiyentlar tahlili, reyting tizimlari (CAMELS), integral ko'rsatkichlar (Z-score), chegaraviy samaradorlik metodlari (DEA, Malmquist indeksi) va ekonometrik metodlarni (farqlar farqi, panel regressiya) o'z ichiga oladi. Ularning har biri barqarorlikning muayyan jihatini aks ettirgani sababli CAMELS va Z-score ni birlashtirgan bank barqarorligining integral indeksi (BBII) taklif etildi. Bu indeks dissertatsiyaning empirik qismida “Ipoteka-bank” barqarorligini baholash uchun qo'llaniladi.

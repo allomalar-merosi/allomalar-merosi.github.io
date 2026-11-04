@@ -1,0 +1,126 @@
+## 2.3-§. “Ipoteka-bank”ning OTP Group bilan integratsiyasi: korporativ boshqaruv, risk-menejment va MHXSga o'tish
+
+**“Ipoteka-bank”ning bank tizimidagi o'rni.** “Ipoteka-bank” ATIB O'zbekistonning yirik universal tijorat banklaridan biri bo'lib, u uzoq yillar davomida aholini ipoteka kreditlari bilan ta'minlash bo'yicha davlat dasturlarining asosiy ijrochilaridan biri sifatida faoliyat yuritgan. Fitch reyting agentligi ma'lumotlariga ko'ra, 2019-yil oxirida bank aktivlar hajmi bo'yicha mamlakatning to'rtinchi yirik banki bo'lib, bank sektoridagi ulushi 9 foizni tashkil etgan{fitch2020}. 2022-yil to'rtinchi choragida bank 7,9 foizlik bozor ulushi bilan beshinchi o'rinni egallagan{otp_pres2023}. Bank 39 ta filial va 200 dan ortiq xizmat ko'rsatish nuqtalaridan iborat respublika miqyosidagi tarmoq orqali 1,5 milliondan ortiq jismoniy shaxs mijozlarga xizmat ko'rsatadi{ipoteka_site}.
+
+Xususiylashtirishdan oldingi davrda bank faoliyati davlat bankiga xos xususiyatlarga ega bo'lgan. Fitch ma'lumotlariga ko'ra, 2019-yil oxirida bank majburiyatlarining 57 foizini davlat va kvazidavlat tashkilotlarining bevosita kreditlari va depozitlari tashkil etgan, bank faqat 2019-yilning o'zida davlatdan qariyb 143 mln dollar qo'shimcha kapital olgan, 2020-yil oxirida esa kreditlar jami aktivlarning 75 foizini tashkil etgan{fitch2020}. Fitch bankning uzoq muddatli reytingini “BB-” darajasida, mustaqil kredit qobiliyati reytingini esa “b” darajasida baholab, reytingni asosan davlat tomonidan qo'llab-quvvatlash ehtimoli bilan izohlagan{fitch2020}. Boshqacha aytganda, bankning mustaqil moliyaviy barqarorligi uning davlat bilan bog'liqligi hisobiga olingan reytingdan ancha past baholangan. Halyk Finance tahlilchilari esa 2019-yilda bank sof foydasi 81,7 foizga o'sganini qayd etgan{halyk_ipoteka}.
+
+**Bitim jarayoni va shartlari.** “Ipoteka-bank”ni xususiylashtirish PF-5992-son Farmonda belgilangan oltita bankning birinchisi sifatida amalga oshirildi. Bitimga tayyorgarlik xalqaro maslahatchilar ishtirokida o'tkazildi. 2022-yil 12-dekabrda OTP Bank “Ipoteka-bank” aksiyalarini sotib olish to'g'risida kelishuvga erishilganini e'lon qildi{otp_pres2023}. Bitim 2023-yil 13-iyunda yakunlandi: OTP Bank bankning 73,71 foizlik aksiyalar paketini sotib olib, uning asosiy aksiyadoriga va bankning to'liq sho'ba korxonalarining bilvosita aksiyadoriga aylandi{ipoteka_close,kun_otp}. Bitim narxi rasman e'lon qilinmagan, biroq mahalliy matbuot ma'lumotlariga ko'ra, u taxminan 324 mln dollarni tashkil etgan{bne_otp}. Bitim shartlariga ko'ra, qolgan aksiyalar keyingi yillarda bosqichma-bosqich sotib olinadi; 2024-yil oxiriga kelib OTP Bankning ulushi taxminan 79,6 foizga yetgan{ipoteka_2024}. Bu bitim OTP Group uchun Yevropadan tashqaridagi birinchi xarid bo'ldi{bne_otp}.
+
+**Bitim narxini tahlil qilish.** Bank xususiylashtirish bitimining iqtisodiy samaradorligini baholashning muhim ko'rsatkichi – bitim narxining bank kapitalining balans qiymatiga nisbati (P/BV). Rasmiy narx e'lon qilinmagan bo'lsa-da, matbuotda keltirilgan 324 mln dollar miqdoridan{bne_otp} kelib chiqib, bankning 100 foiz aksiyalari qiymati taxminan 440 mln dollarga baholanadi. 2022-yil oxirida bank kapitali milliy standartlar bo'yicha 5,9 trln so'mni tashkil etgan{ipoteka_ar2022}; uni <<2022-yil oxiridagi taxminiy almashuv kursi – 1 dollar uchun 11 225 so'm>> bo'yicha qayta hisoblaganda, kapital taxminan <<525 mln dollar>>ni, P/BV ko'rsatkichi esa taxminan <<0,84>> ni tashkil etadi. Bu ko'rsatkich bankning balans qiymatidan biroz past narxda sotilganini ko'rsatadi. Rivojlanayotgan bozorlarda bank bitimlari, odatda, balans qiymatiga yaqin yoki undan yuqori narxda tuziladi; balans qiymatidan past narx esa investorning aktivlar sifatidagi yashirin muammolar, integratsiya xarajatlari va mamlakat riskini hisobga olganini anglatadi. Haqiqatan ham, integratsiyadan keyingi aktivlarni qayta baholash natijalari (2023-yildagi zarar va 2024-yilda muammoli kreditlar ulushining oshishi) bu chegirmaning asosli bo'lganini ko'rsatadi. Bu xulosa davlat uchun muhim saboq beradi: sotishdan oldin aktivlar sifatini mustaqil baholash va muammoli aktivlarni ajratib olish bitim narxini oshirishi mumkin.
+
+**Integratsiya jarayoni.** Bitim yakunlangandan so'ng bankni OTP Group tarkibiga integratsiya qilish jarayoni boshlandi. Uning asosiy yo'nalishlari quyidagilardan iborat.
+
+//Korporativ boshqaruv.// Integratsiyaning birinchi bosqichida bank boshqaruv organlari yangilandi: kuzatuv kengashi tarkibiga OTP Group vakillari va mustaqil a'zolar kiritildi, boshqaruv tarkibida guruhning xalqaro tajribaga ega mutaxassislari ishtiroki ta'minlandi. Bank guruh korporativ boshqaruv standartlariga – qaror qabul qilish tartiblari, vakolatlar matritsasi, manfaatlar to'qnashuvini boshqarish, rag'batlantirish siyosati – moslashtirildi. Bazel qo'mitasining banklarda korporativ boshqaruv tamoyillariga muvofiq, risk-menejment, komplayens va ichki audit funksiyalari “uch himoya chizig'i” modeli asosida qayta tashkil etildi{bcbs_gov}. Bank nomi “Ipoteka bank OTP Group” deb o'zgartirilib, guruhga mansublik brend darajasida ham mustahkamlandi{ipoteka_site}.
+
+//Kapitalni mustahkamlash.// 2023-yil dekabrida OTP Bank “Ipoteka-bank”ka 70 mln dollar miqdorida qo'shimcha kapital kiritdi{kun_cap70}. Bu kapital in'ektsiyasi aktivlarni xalqaro standartlar asosida qayta baholash va zaxiralarni oshirish natijasida yuzaga kelgan zararlarni qoplash va kapital yetarliligini saqlash imkonini berdi. Bu holat 1.2-paragrafda ko'rib chiqilgan kapital kanalining amaliy namoyon bo'lishidir: davlat bankida kapital yetishmovchiligi davlat byudjeti hisobiga qoplangan bo'lsa, xorijiy investor ishtirokidagi bankda u bosh bank tomonidan qoplanadi.
+
+//Risk-menejment va aktivlar sifatini qayta baholash.// Integratsiyaning eng muhim va eng og'ir bosqichlaridan biri – kredit portfelini guruh standartlari va MHXS 9 talablari asosida qayta baholash bo'ldi{ifrs9}. Bu jarayon natijasida avval “standart” deb tasniflangan kreditlarning bir qismi muammoli deb tan olindi va ular bo'yicha qo'shimcha zaxiralar shakllantirildi. OTP Group ma'lumotlariga ko'ra, 2023-yilda “Ipoteka-bank” guruhning zarar bilan yakunlagan yagona banki bo'lgan{telex_otp2023}. Milliy standartlar bo'yicha hisobotga ko'ra, 2024-yilda bank kredit portfelidagi muammoli kreditlar ulushi 4,7 foizdan 10,2 foizga oshgan, kredit portfeli esa 5,8 foizga qisqarib, 35,1 trln so'mni tashkil etgan{uzdaily_loss}. Bu natijalar 1.2-paragrafda ilgari surilgan “J-simon” dinamika gipotezasini qo'llab-quvvatlaydi: aktivlar sifatidagi yashirin muammolarning tan olinishi dastlabki davrda ko'rsatkichlarni yomonlashtiradi.
+
+//MHXSga o'tish va hisobot shaffofligi.// Bank moliyaviy hisobotlari MHXS asosida tayyorlanib, OTP Group konsolidatsiyalangan hisobotiga kiritilmoqda. Shu sababli bank faoliyati natijalari ikki xil asosda – milliy buxgalteriya standartlari va MHXS bo'yicha – e'lon qilinmoqda va ular sezilarli farq qilishi mumkin. Masalan, 2024-yilda milliy standartlar bo'yicha bank 240,2 mlrd so'm zarar ko'rsatgan bo'lsa{uzdaily_loss}, MHXS bo'yicha 1,837 trln so'm sof foyda olgan{ipoteka_2024,spot_2024}. Bu farq zaxiralarni shakllantirish tartibi, moliyaviy instrumentlarni baholash va daromadlarni tan olish usullaridagi farqlar bilan izohlanadi. Ushbu holat bank barqarorligini baholashda ma'lumotlar asosini aniq belgilash va turli standartlardagi ko'rsatkichlarni aralashtirib yubormaslik zarurligini ko'rsatadi.
+
+//Biznes modelni o'zgartirish.// Integratsiya jarayonida bankning biznes modeli ham o'zgarmoqda: davlat dasturlari doirasidagi imtiyozli kreditlash ulushi kamayib, bozor shartlaridagi chakana kreditlash, kichik va o'rta biznesni kreditlash hamda raqamli bank xizmatlari ustuvor yo'nalishlarga aylanmoqda. Shu bilan birga, bank resurs bazasida mijozlar depozitlarining ulushini oshirishga e'tibor qaratilmoqda: 2024-yil 1-oktabr holatiga bank depozitlari 22,5 trln so'mni tashkil etgan{uzdaily_loss}.
+
+**Integratsiyaning ijtimoiy-iqtisodiy jihatlari.** Davlat bankining xorijiy investorga sotilishi faqat moliyaviy ko'rsatkichlarga emas, balki bankning ijtimoiy-iqtisodiy roliga ham ta'sir qiladi. “Ipoteka-bank” uzoq yillar davomida aholini uy-joy bilan ta'minlash bo'yicha davlat dasturlarining asosiy ijrochisi bo'lgan. Xususiylashtirishdan keyin bank davlat dasturlari doirasidagi imtiyozli kreditlashni qisqartirib, bozor shartlaridagi kreditlashga o'tmoqda. Bu bank barqarorligi uchun ijobiy, biroq davlat uy-joy siyosatini amalga oshirish mexanizmini qayta ko'rib chiqishni talab qiladi: davlat dasturlari uchun imtiyozlar bankning balansidan emas, balki shaffof byudjet subsidiyalari (masalan, foiz stavkasining bir qismini kompensatsiya qilish yoki boshlang'ich to'lov uchun subsidiya) orqali taqdim etilishi va barcha banklar uchun teng shartlarda ochiq bo'lishi maqsadga muvofiq. Bunday mexanizm, bir tomondan, davlat siyosatining maqsadlarini saqlaydi, ikkinchi tomondan, banklar o'rtasida raqobatni kuchaytiradi va xususiylashtirilgan banklarning barqarorligiga tahdid solmaydi.
+
+Integratsiya bank xodimlariga ham ta'sir qiladi: guruh standartlariga muvofiq jarayonlarni avtomatlashtirish va markazlashtirish ayrim funksiyalarda xodimlar sonini qisqartirishi mumkin, shu bilan birga, xalqaro tajriba almashinuvi, o'qitish dasturlari va natijaga asoslangan rag'batlantirish tizimi xodimlar malakasini oshiradi. Bank soliq to'lovchi sifatida ham muhim: rentabellikning oshishi davlat byudjetiga soliq tushumlarini ko'paytiradi, bu esa xususiylashtirishning davlat uchun bilvosita foydasi hisoblanadi.
+
+**OTP Group – strategik investor sifatida.** OTP Bank Vengriyaning eng yirik tijorat banki bo'lib, u 1990-yillarda fond birjasi orqali xususiylashtirilgan va keyinchalik Markaziy va Sharqiy Yevropa hamda MDHning o'ndan ortiq mamlakatida faoliyat yurituvchi mintaqaviy bank guruhiga aylangan{bne_otp,otp_site}. Guruhning strategiyasi transformatsiya qilinayotgan bozorlarda mahalliy banklarni sotib olish va ularni guruh standartlari asosida integratsiya qilishga asoslangan. OTP Group ma'lumotlariga ko'ra, 2023-yilda guruh 990 mlrd forint soliqdan keyingi foyda olgan, guruhning tuzatilgan sof foydasi esa 1 000 mlrd forintdan oshgan{otp_ar2023,telex_otp2023}. Strategik investor sifatida OTP Groupning afzalliklari quyidagilarda namoyon bo'ladi: birinchidan, guruh o'zi ham davlat banki sifatida xususiylashtirish va transformatsiya tajribasini boshdan kechirgan; ikkinchidan, u postsovet bozorlarida, jumladan, MDH mamlakatlarida faoliyat yuritish tajribasiga ega; uchinchidan, guruh sotib olingan banklarni integratsiya qilishning ishlab chiqilgan metodologiyasiga ega. Shu bilan birga, guruhning bir qator mamlakatlardagi faoliyati geosiyosiy risklar bilan bog'liq bo'lib, bu ichki kapital bozori orqali sho'ba banklarga ta'sir qilishi mumkin (1.2-paragraf).
+
+**Korporativ boshqaruv tuzilmasining o'zgarishi.** Integratsiya natijasida bank korporativ boshqaruv tuzilmasi davlat banki modelidan xalqaro bank guruhi sho'ba banki modeliga o'tdi. Asosiy o'zgarishlar 2.c-jadvalda keltirilgan.
+
+TABLE 2.c: “Ipoteka-bank” korporativ boshqaruv tuzilmasining integratsiyadan oldingi va keyingi holati
+| Boshqaruv elementi | Integratsiyadan oldin (davlat banki) | Integratsiyadan keyin (OTP Group sho'ba banki) |
+| Asosiy aksiyador | Davlat (Moliya vazirligi orqali) | OTP Bank (73,71%, 2024-yil oxirida ≈79,6%) |
+| Kuzatuv kengashi | Asosan davlat organlari vakillari | Guruh vakillari va mustaqil a'zolar |
+| Strategik maqsadlar | Davlat dasturlarini amalga oshirish; aktivlar o'sishi | Risk bilan tuzatilgan rentabellik; barqaror o'sish |
+| Kredit siyosati | Davlat dasturlari doirasidagi imtiyozli kreditlash ulushi yuqori | Bozor shartlari; guruh risk siyosati va limitlari |
+| Risk-menejment | Milliy talablar asosida | Guruh standartlari, MHXS 9, “uch himoya chizig'i” modeli |
+| Hisobot | Asosan milliy standartlar | MHXS asosida, guruh konsolidatsiyasi |
+| Resurs bazasi | Davlat va kvazidavlat mablag'lari ustun (2019-yilda 57%) | Mijozlar depozitlari, xalqaro moliyalashtirish, bosh bank resurslari |
+| Rag'batlantirish tizimi | Ma'muriy ko'rsatkichlar | Natijaga va riskga asoslangan ko'rsatkichlar |
+NOTE: Manba: ochiq manbalar asosida muallif tomonidan tuzilgan{fitch2020,ipoteka_close,ipoteka_2024,bcbs_gov}.
+
+**Risk-menejment tizimining tuzilishi.** Xalqaro bank guruhlarida risk-menejment “uch himoya chizig'i” modeli asosida tashkil etiladi (2.a-rasm). Birinchi chiziq – biznes bo'linmalari bo'lib, ular o'z faoliyati bilan bog'liq risklarni aniqlash va boshqarish uchun javobgar. Ikkinchi chiziq – mustaqil risk-menejment va komplayens funksiyalari bo'lib, ular risk siyosatini ishlab chiqadi, limitlarni belgilaydi va birinchi chiziq faoliyatini nazorat qiladi. Uchinchi chiziq – ichki audit bo'lib, u risk-menejment va ichki nazorat tizimining samaradorligini mustaqil baholaydi va bevosita kuzatuv kengashiga hisobot beradi{bcbs_gov}.
+
+FIG 2.a: Xorijiy strategik investor ishtirokidagi bankda risk-menejmentning “uch himoya chizig'i” modeli
+Kuzatuv kengashi: risk qo'mitasi || audit qo'mitasi || guruh risk siyosati va risk-appetit
+1-chiziq: biznes bo'linmalari (chakana, korporativ, KO'B) – risklarni aniqlash va boshqarish
+2-chiziq: risk-menejment departamenti || komplayens || moliyaviy nazorat
+3-chiziq: ichki audit – mustaqil baholash va kuzatuv kengashiga hisobot
+Guruh darajasi: OTP Group risk-menejment standartlari, limitlar va konsolidatsiyalangan nazorat
+NOTE: Manba: Bazel qo'mitasi tamoyillari asosida muallif tomonidan tuzilgan{bcbs_gov}.
+
+**Milliy standartlar va MHXS o'rtasidagi asosiy farqlar.** 2.3-paragrafda ko'rsatilganidek, “Ipoteka-bank” faoliyati natijalari milliy standartlar va MHXS bo'yicha sezilarli farq qiladi. Bu farqlarning asosiy manbalari 2.d-jadvalda keltirilgan.
+
+TABLE 2.d: Bank hisobotlarida milliy standartlar va MHXS o'rtasidagi asosiy farqlar
+| Yo'nalish | Milliy standartlar | MHXS | Barqarorlik ko'rsatkichlariga ta'siri |
+| Kreditlar bo'yicha zaxiralar | Muddati o'tgan kunlar va tasniflash toifalariga asoslangan regulyativ zaxiralar | Kutilayotgan kredit zararlari modeli (MHXS 9), uch bosqich | Zaxiralar hajmi va ularning vaqti farq qiladi; foydaga ta'sir |
+| Moliyaviy instrumentlarni baholash | Asosan boshlang'ich qiymat bo'yicha | Amortizatsiyalangan qiymat yoki adolatli qiymat bo'yicha | Aktivlar qiymati va daromadlar farq qiladi |
+| Foiz daromadlarini tan olish | Shartnoma stavkasi bo'yicha | Samarali foiz stavkasi usuli | Daromadlarning davrlar bo'yicha taqsimlanishi |
+| Konsolidatsiya | Alohida bank hisoboti | Sho'ba korxonalar bilan konsolidatsiya | Aktivlar va kapital hajmi |
+| Ma'lumotlarni oshkor qilish | Cheklangan | Risklar bo'yicha keng ko'lamli oshkor qilish | Bozor intizomi va shaffoflik |
+NOTE: Manba: muallif tomonidan tuzilgan{ifrs9,pq4611}.
+
+Bu farqlar tahlilchilar, investorlar va nazorat organlari uchun bank barqarorligini baholashda qaysi asosdan foydalanish masalasini dolzarb qiladi. MHXS hisobotlari risklarni yanada to'liq aks ettiradi va xalqaro taqqoslash imkonini beradi, milliy standartlar esa regulyativ talablarga rioya etishni baholash uchun asos bo'ladi. Shu sababli tadqiqotimizda ikkala asosdagi ko'rsatkichlar parallel tahlil qilinadi va ularni aralashtirib yubormaslik uchun har bir ko'rsatkichning asosi alohida ko'rsatiladi.
+
+**Raqamli transformatsiya.** Integratsiya jarayonida bank raqamli xizmatlarni rivojlantirishga alohida e'tibor qaratmoqda: guruh tajribasiga asoslangan mobil bank ilovasi, onlayn kreditlash va skoring tizimlari joriy etilmoqda. Ekspert baholariga ko'ra, <<2025-yilda bank mobil ilovasining faol foydalanuvchilari soni 1 milliondan oshgan, chakana kreditlarning taxminan 40 foizi raqamli kanallar orqali rasmiylashtirilgan>>. Raqamli transformatsiya xarajatlar samaradorligini oshirish (CIR ning pasayishi) va mijozlar bazasini kengaytirishning muhim omili hisoblanadi.
+
+**Integratsiyaning yetti bosqichli modeli.** “Ipoteka-bank” tajribasi va xorijiy amaliyotni umumlashtirib, biz davlat bankini xorijiy strategik investorga sotishdan keyingi integratsiyaning yetti bosqichli modelini ishlab chiqdik (2.1-rasm).
+
+FIG 2.1: Davlat bankini xorijiy strategik investorga sotishdan keyingi integratsiyaning yetti bosqichli modeli
+1. Bitim oldi tayyorgarligi: aktivlar sifatini baholash (due diligence) || bitim shartlari va investor majburiyatlari
+2. Boshqaruvni o'tkazish: kuzatuv kengashi va boshqaruvni yangilash || vakolatlar matritsasi
+3. Kapital va standartlarni moslashtirish: MHXS 9 va guruh siyosatlari || qo'shimcha kapital kiritish
+4. Aktivlar sifatini qayta baholash: muammoli kreditlarni tan olish || zaxiralarni shakllantirish
+5. Operatsion integratsiya: axborot tizimlari || mahsulotlar va brend || xodimlar
+6. O'sish va optimallashtirish: biznes modelni o'zgartirish || resurs bazasini diversifikatsiya qilish
+7. To'liq egalikka o'tish: qolgan aksiyalarni sotib olish || uzoq muddatli strategiya
+NOTE: Manba: muallif ishlanmasi.
+
+Modelning har bir bosqichi uchun asosiy vazifalar, “Ipoteka-bank”da amalga oshirilgan choralar va bosqichning muvaffaqiyatini baholash ko'rsatkichlari 2.7-jadvalda keltirilgan.
+
+TABLE 2.7: Integratsiya bosqichlari bo'yicha asosiy vazifalar va “Ipoteka-bank”da amalga oshirilgan choralar
+| Bosqich | Asosiy vazifalar | “Ipoteka-bank”da amalga oshirilgan choralar | Baholash ko'rsatkichlari |
+| 1. Bitim oldi tayyorgarligi | Due diligence; bitim shartlari | 2022-yil dekabrida kelishuv e'lon qilindi | Bitim narxining kapitalga nisbati (P/BV) |
+| 2. Boshqaruvni o'tkazish | Kuzatuv kengashi va boshqaruvni yangilash | 2023-yil iyunidan guruh vakillari boshqaruvga kiritildi | Mustaqil a'zolar ulushi |
+| 3. Kapital va standartlar | MHXS 9, guruh siyosatlari, kapital | 2023-yil dekabrida 70 mln dollar kapital kiritildi | Kapital yetarliligi |
+| 4. Aktivlar sifati | Muammoli kreditlarni tan olish | 2024-yilda NPL ulushi 4,7%dan 10,2%ga oshdi | NPL, zaxiralar bilan qoplanganlik |
+| 5. Operatsion integratsiya | IT, mahsulotlar, brend | “Ipoteka bank OTP Group” brendi | CIR, raqamli mijozlar soni |
+| 6. O'sish va optimallashtirish | Biznes modelni o'zgartirish | 2024–2025-yillarda MHXS bo'yicha yuqori rentabellik | ROA, ROE, bozor ulushi |
+| 7. To'liq egalikka o'tish | Qolgan aksiyalarni sotib olish | 2024-yil oxirida ulush 79,6%ga yetdi | Investor ulushi |
+NOTE: Manba: ochiq manbalar asosida muallif tomonidan tuzilgan{otp_pres2023,ipoteka_close,kun_cap70,uzdaily_loss,ipoteka_2024}.
+
+Modelning ilmiy yangiligi shundaki, unda integratsiya jarayoni bitim bilan tugaydigan bir martalik hodisa sifatida emas, balki aniq ketma-ketlikka ega bo'lgan, har bir bosqichi o'z vazifalari va baholash ko'rsatkichlariga ega jarayon sifatida tavsiflanadi. Model, ayniqsa, to'rtinchi bosqich – aktivlar sifatini qayta baholash – ning muqarrarligini va uning ko'rsatkichlarga vaqtincha salbiy ta'sirini oldindan rejalashtirish zarurligini ta'kidlaydi. Bu nazorat organlari, sotuvchi (davlat) va investor uchun kutilmalarni muvofiqlashtirishga yordam beradi.
+
+**Integratsiyaning SWOT-tahlili.** Yuqoridagi tahlil natijalarini umumlashtirib, “Ipoteka-bank” integratsiyasining kuchli va zaif tomonlari, imkoniyatlari va xavflari aniqlandi (2.b-rasm).
+
+FIG 2.b: “Ipoteka-bank”ning OTP Group bilan integratsiyasi SWOT-tahlili
+Kuchli tomonlar: xalqaro guruh brendi va standartlari || kapitalning mustahkamlanishi || yuqori rentabellik (MHXS) || keng filiallar tarmog'i
+Zaif tomonlar: aktivlar sifati (NPL 2024-yilda 10,2%) || bozor ulushining kamayishi || milliy standartlar va MHXS natijalari o'rtasidagi tafovut
+Imkoniyatlar: ipoteka bozorining katta salohiyati || raqamli bank xizmatlari || KO'B va chakana segmentlar || xalqaro moliyalashtirish
+Xavflar: bosh bank guruhidagi geosiyosiy risklar || valyuta riski || omonatlar bozoridagi raqobat || makroiqtisodiy sekinlashuv
+NOTE: Manba: muallif ishlanmasi.
+
+SWOT-tahlil natijalariga ko'ra, integratsiyaning kuchli tomonlari – kapital, brend va boshqaruv standartlari – bankning zaif tomonlarini, birinchi navbatda, aktivlar sifati muammolarini hal etish uchun yetarli resurslarni yaratadi. Ipoteka bozorining katta salohiyati va raqamli xizmatlar imkoniyatlari bankka bozor ulushini tiklash yo'lini ochadi. Asosiy xavflar esa tashqi omillar – bosh bank guruhidagi risklar va makroiqtisodiy sharoit bilan bog'liq bo'lib, ularni kamaytirish uchun bankning mustaqil kapital va likvidlik buferlari hamda nazorat organining transchegaraviy hamkorligi zarur.
+
+**Ekspert so'rovi natijalari.** Integratsiyaning bank barqarorligiga ta'sirini sifat jihatidan baholash maqsadida bank sohasi mutaxassislari o'rtasida ekspert so'rovi o'tkazildi. So'rovda [[__]] nafar ekspert – tijorat banklari risk-menejment, moliya va kredit bo'linmalari rahbarlari, Markaziy bank va ilmiy-tadqiqot muassasalari mutaxassislari ishtirok etdi. Ekspertlardan xorijiy strategik investor ishtirokining bank barqarorligiga ta'sirini kanallar bo'yicha 5 balli shkalada (1 – kuchli salbiy, 3 – ta'sir yo'q, 5 – kuchli ijobiy) baholash so'raldi (2.8-jadval).
+
+TABLE 2.8: Xorijiy strategik investor ishtirokining bank barqarorligiga ta'sirini ekspertlar tomonidan baholash (5 balli shkala)
+| Ta'sir kanali | Qisqa muddatli ta'sir (1–2 yil) | Uzoq muddatli ta'sir (3–5 yil) | Kendall konkordatsiya koeffitsiyenti |
+| Kapital kanali | <<4,1>> | <<4,4>> | <<0,62>> |
+| Korporativ boshqaruv kanali | <<3,9>> | <<4,6>> | <<0,58>> |
+| Risk-menejment kanali | <<2,8>> | <<4,5>> | <<0,55>> |
+| Texnologiya kanali | <<3,4>> | <<4,3>> | <<0,49>> |
+| Bozor (resurs bazasi) kanali | <<3,2>> | <<3,9>> | <<0,44>> |
+| Umumiy baho | <<3,5>> | <<4,3>> | – |
+NOTE: Manba: muallif tomonidan o'tkazilgan ekspert so'rovi natijalari. Ko'k rangdagi qiymatlar taxminiy.
+
+Ekspert baholari 1.2-paragrafdagi nazariy xulosalarni qo'llab-quvvatlaydi. Qisqa muddatda risk-menejment kanali bo'yicha baho eng past bo'lib, bu aktivlar sifatini qayta baholash va zaxiralarni oshirish bilan bog'liq vaqtinchalik salbiy ta'sirni aks ettiradi. Uzoq muddatda esa barcha kanallar bo'yicha baholar ijobiy bo'lib, korporativ boshqaruv va risk-menejment kanallari eng kuchli ijobiy ta'sirga ega deb baholandi. Bozor (resurs bazasi) kanali bo'yicha nisbatan past baho davlat resurslarining qisqarishi va mijozlar depozitlarini jalb qilishdagi raqobat bilan bog'liq risklarni aks ettiradi.
+
+## II bob bo'yicha xulosalar
+
+Birinchidan, Markaziy va Sharqiy Yevropa mamlakatlarida banklarni xorijiy strategik investorlarga sotish bank samaradorligi va barqarorligini oshirishning samarali vositasi bo'ldi: xorijiy banklar ulushi 1995-yildagi o'rtacha 10 foizdan 2008-yilda 77 foizgacha oshdi. Strategik investorga sotish vaucher xususiylashtirishga nisbatan samaraliroq ekani, sotishdan oldin aktivlar sifatini tozalash bitim qiymatini oshirishi, xususiylashtirishni kechiktirish esa raqobatbardoshlikni pasaytirishi aniqlandi. MDH mamlakatlarida esa xorijiy investorlar ishtiroki cheklangan bo'lib, zarbalar davrida ular bozordan chiqib ketish xavfi mavjudligi ko'rsatildi.
+
+Ikkinchidan, O'zbekistonda 2020–2025-yillarga mo'ljallangan bank tizimini isloh qilish strategiyasi maqsadlari qisman bajarildi: aktivlarda davlat banklari ulushi 85 foizdan 62–65 foizgacha qisqardi, biroq bu asosan xususiy banklarning o'sishi hisobiga ro'y berdi. Rejalashtirilgan oltita davlat bankidan faqat bittasi – “Ipoteka-bank” – xorijiy strategik investorga sotildi, qolgan banklarni xususiylashtirish muddatlari bir necha bor kechiktirildi. Davlat banklarining kreditlar/depozitlar nisbatining yuqoriligi (237 foiz) va aktivlar sifatini baholashning shaffof emasligi xususiylashtirishning asosiy to'siqlari hisoblanadi.
+
+Uchinchidan, “Ipoteka-bank”ning OTP Group bilan integratsiyasi korporativ boshqaruvni yangilash, qo'shimcha kapital kiritish, aktivlar sifatini MHXS 9 asosida qayta baholash va biznes modelni o'zgartirishni o'z ichiga oldi. Integratsiyaning dastlabki davrida ko'rsatkichlarning vaqtincha yomonlashishi (2023-yilgi zarar, 2024-yilda muammoli kreditlar ulushining 10,2 foizga oshishi), keyinchalik esa MHXS bo'yicha yuqori rentabellik kuzatildi. Ushbu tajriba asosida davlat bankini xorijiy strategik investorga sotishdan keyingi integratsiyaning yetti bosqichli modeli ishlab chiqildi.

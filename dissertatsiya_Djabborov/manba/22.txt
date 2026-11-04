@@ -1,0 +1,132 @@
+## 2.2-§. O'zbekiston bank tizimini transformatsiya qilish va xususiylashtirish jarayonlari tahlili
+
+O'zbekiston bank tizimi so'nggi o'n yilda tub o'zgarishlarni boshdan kechirdi. Bu o'zgarishlarni ikki asosiy bosqichga ajratish mumkin. //Birinchi bosqich// (2017–2019-yillar) – makroiqtisodiy liberallashtirish va bank tizimining huquqiy asoslarini yangilash bosqichi. 2017-yil sentabrida valyuta bozori liberallashtirildi, bu esa banklar faoliyatiga, ayniqsa, xorijiy valyutadagi aktiv va majburiyatlar balansiga sezilarli ta'sir ko'rsatdi. 2019-yilda “Banklar va bank faoliyati to'g'risida”gi va “O'zbekiston Respublikasining Markaziy banki to'g'risida”gi qonunlarning yangi tahrirlari qabul qilinib, bank faoliyatini tartibga solish xalqaro standartlarga yaqinlashtirildi{qonun_bank,qonun_mb}. //Ikkinchi bosqich// (2020-yildan hozirgi kungacha) – bank tizimini institutsional transformatsiya qilish va xususiylashtirish bosqichi bo'lib, uning asosiy hujjati 2020–2025-yillarga mo'ljallangan bank tizimini isloh qilish strategiyasi hisoblanadi{pf5992}.
+
+**Bank tizimini isloh qilish strategiyasi.** PF-5992-son Farmon bilan tasdiqlangan strategiyani qabul qilish vaqtida mamlakatdagi 31 ta bankdan 13 tasi davlat ixtiyorida bo'lib, ular bank tizimi kapitalining 87 foizidan ortig'ini va aktivlarining 85 foizini nazorat qilgan{gratanet}. Ekspertlar bu davrdagi bank tizimini davlat ustunligi, past raqobat, davlat resurslariga yuqori qaramlik va kreditlarning katta qismi davlat dasturlari doirasida imtiyozli shartlarda berilishi bilan tavsiflagan{yuz_2020}. Strategiyada bank tizimini tubdan o'zgartirishga qaratilgan quyidagi asosiy maqsadli ko'rsatkichlar belgilangan{pf5992,gratanet}:
+- bank tizimi aktivlarida davlat ulushi bo'lmagan banklar ulushini 15 foizdan 2025-yilga qadar 60 foizga oshirish;
+- bank majburiyatlarida xususiy sektor ulushini 28 foizdan 70 foizga oshirish;
+- 2025-yilga qadar davlat ulushi bo'lgan banklarga kamida uchta nufuzli xorijiy strategik investorni jalb qilish;
+- bank bo'lmagan kredit tashkilotlarining kreditlar hajmidagi ulushini 0,35 foizdan 4 foizga oshirish;
+- davlat ishtirokidagi oltita bankni – “Ipoteka-bank”, “O'zsanoatqurilishbank”, “Asaka”, “Aloqabank”, “Qishloq qurilish bank” va “Turonbank”ni – xalqaro moliya institutlari ishtirokida bosqichma-bosqich xususiylashtirish{kun_6banks}.
+
+Strategiyada, shuningdek, davlat banklarida korporativ boshqaruvni takomillashtirish, mustaqil kuzatuv kengashlarini shakllantirish, banklarning davlat resurslariga qaramligini kamaytirish, bank xizmatlarini raqamlashtirish va xalqaro standartlarni joriy etish vazifalari belgilangan. Shu bilan bir vaqtda PQ-4611-son Qaror bilan tijorat banklari 2021-yildan boshlab moliyaviy hisobotlarni Moliyaviy hisobotning xalqaro standartlari asosida tayyorlashga o'tkazildi{pq4611}.
+
+**Bank tizimining asosiy ko'rsatkichlari dinamikasi.** Islohotlar davrida bank tizimi jadal o'sdi. Iqtisodiy tadqiqotlar va islohotlar markazi ma'lumotlariga ko'ra, bank tizimi aktivlari 2017-yildagi 167 trln so'mdan 2025-yil yakunida 925 trln so'mga, ya'ni qariyb 5,5 barobar o'sgan, 2025-yil oxirida bank tizimi kapitali 135,3 trln so'mni tashkil etgan{uza_infograf}. Moody's reyting agentligi baholashiga ko'ra, 2024-yil oxirida bank sektori aktivlari 59,5 mlrd dollarni yoki yalpi ichki mahsulotning 53 foizini tashkil etgan{daryo_moodys}. Bank tizimining asosiy ko'rsatkichlari 2.3-jadvalda keltirilgan.
+
+TABLE 2.3: O'zbekiston bank tizimining asosiy ko'rsatkichlari dinamikasi
+| Ko'rsatkichlar | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Jami aktivlar, trln so'm | <<272,9>> | 366,1 | <<446,0>> | <<566,0>>* | <<632,5>> | <<768,0>>** | 925,0 |
+| Kreditlar, trln so'm | <<211,6>> | 277,0 | <<326,4>> | <<390,4>> | <<470,7>> | <<520,0>> | <<636,0>> |
+| Depozitlar, trln so'm | <<88,9>> | 114,7 | <<142,1>> | <<216,5>> | <<246,0>> | <<300,0>> | <<461,0>> |
+| Kapital, trln so'm | <<49,9>> | <<60,6>> | <<67,3>> | <<78,2>> | <<90,1>> | <<110,0>> | 135,3 |
+| Kreditlar/depozitlar, % | <<238>> | 242 | <<230>> | <<180>> | <<191>> | 173 | <<138>> |
+| Muammoli kreditlar (NPL) ulushi, % | <<1,5>> | <<2,1>> | <<5,2>> | <<3,6>> | <<3,5>> | 4,2 | <<3,0>> |
+| Kapital yetarliligi, % | <<23,5>> | <<18,5>> | <<17,5>> | <<17,8>> | <<17,9>> | 17,3 | <<18,4>> |
+| Aktivlarda davlat banklari ulushi, % | 85 | 85 | <<83>> | <<72>> | <<68>> | 62–65 | <<60>> |
+NOTE: Manba: O'zbekiston Respublikasi Markaziy banki, Iqtisodiy tadqiqotlar va islohotlar markazi, XVF va Moody's ma'lumotlari asosida muallif tomonidan tuzilgan{cbu,uza_infograf,imf_fssa2025,daryo_moodys,gratanet}. * 2022-yil 1-dekabr holatiga 555,3 trln so'm{spot_2022}; ** 59,5 mlrd dollar ekvivalentida. Ko'k rangdagi qiymatlar ochiq manbalarda topilmagan, taxminiy baholangan ko'rsatkichlar.
+
+Jadval ma'lumotlarini tahlil qilish quyidagi tendensiyalarni aniqlash imkonini beradi. **Birinchidan**, bank tizimi jadal o'sgan: 2020–2025-yillarda aktivlar 2,5 barobar oshgan. Masalan, 2024-yil 1-iyun holatiga bank tizimi aktivlari 686,2 trln so'mni tashkil etib, o'tgan yilning mos davriga nisbatan 20 foizga oshgan{kursiv_2024}, 2024-yil iyul holatiga esa 711,1 trln so'mga (56,2 mlrd dollar) yetgan{daryo_assets}. **Ikkinchidan**, kreditlarning depozitlarga nisbati yuqori bo'lib qolmoqda: 2024-yilda u tizim bo'yicha 173 foizni, davlat banklarida 237 foizni, xususiy banklarda esa 108 foizni tashkil etgan{imf_fssa2025}. Bu ko'rsatkich davlat banklarining kredit faoliyati mijozlar depozitlari emas, balki davlat resurslari va xorijiy qarzlar hisobiga moliyalashtirilayotganini ko'rsatadi. **Uchinchidan**, aktivlar sifati bo'yicha baholar turlicha: Markaziy bank ma'lumotlariga ko'ra, 2024-yil avgust holatiga muammoli kreditlar ulushi 4,2 foizni, shu jumladan, davlat banklarida 4,8 foizni, xususiy banklarda 3,1 foizni tashkil etgan{daryo_npl}, Moody's esa davlat banklarining muammoli aktivlarni tan olishi natijasida 2024-yilda muammoli kreditlar ulushi 7 foizga yetganini qayd etgan{daryo_moodys}. XVF ham muammoli kreditlar ko'rsatkichi real holatni to'liq aks ettirmasligi mumkinligini ta'kidlagan{imf_fssa2025}. **To'rtinchidan**, kapital yetarliligi minimal talabdan (13 foiz) yuqori darajada saqlanmoqda: 2024-yilning birinchi yarmida umumiy kapital yetarliligi 17,3 foizni, birinchi darajali kapital yetarliligi esa 14,2 foizni tashkil etgan{daryo_assets}.
+
+**Davlat ulushini qisqartirish bo'yicha natijalar.** Strategiyaning asosiy maqsadi – bank tizimida davlat ulushini qisqartirish – qisman bajarildi. Aktivlarda davlat banklari ulushi 2020-yildagi 85 foizdan 2024-yilda 62–65 foizgacha qisqargan{imf_fssa2025,daryo_moodys}. Biroq bu qisqarish asosan xususiy banklarning jadal o'sishi hisobiga ro'y berdi, davlat banklarini xususiylashtirish esa rejalashtirilganidan ancha sekin amalga oshdi. Strategiyada belgilangan maqsadli ko'rsatkichlarning bajarilishi 2.4-jadvalda keltirilgan.
+
+TABLE 2.4: 2020–2025-yillarga mo'ljallangan bank tizimini isloh qilish strategiyasi maqsadli ko'rsatkichlarining bajarilishi
+| Ko'rsatkich | Boshlang'ich holat (2020) | Maqsad (2025) | Haqiqiy holat (2024–2025) | Bajarilish darajasi |
+| Davlat ulushi bo'lmagan banklar aktivlari ulushi, % | 15 | 60 | 35–38 | Qisman |
+| Majburiyatlarda xususiy sektor ulushi, % | 28 | 70 | <<45>> | Qisman |
+| Jalb qilingan xorijiy strategik investorlar soni | 0 | ≥ 3 | 1 (OTP Group) | Bajarilmagan |
+| Xususiylashtirilgan davlat banklari soni | 0 | 6 | 1 (“Ipoteka-bank”) | Bajarilmagan |
+| Bank bo'lmagan kredit tashkilotlarining kreditlardagi ulushi, % | 0,35 | 4,0 | <<2,1>> | Qisman |
+NOTE: Manba: PF-5992-son Farmon va ochiq manbalar asosida muallif tomonidan tuzilgan{pf5992,gratanet,imf_fssa2025}. Davlat ulushi bo'lmagan banklar ulushi davlat banklari ulushidan (62–65%) kelib chiqib hisoblangan.
+
+**Xususiylashtirish jarayoni va uning muammolari.** Davlat banklarini xususiylashtirish jarayoni bir necha bor kechiktirildi. Masalan, “O'zsanoatqurilishbank”ni sotish dastlab 2022-yil oxirigacha rejalashtirilgan, so'ngra muddat 2023-yil oxirigacha uzaytirilgan; 2024-yil 27-dekabrdagi Prezident qarori bilan “Asakabank”, “O'zsanoatqurilishbank” va “Aloqabank”dagi davlat aksiyalarini sotish muddati 2025-yilga ko'chirilgan{daryo_postpone}. Xalqaro moliya korporatsiyasi (IFC) “O'zsanoatqurilishbank”ni xususiylashtirishga tayyorlashda ishtirok etgan, 2025-yil sentabrida bank aksiyalarining 30 foizini O'zbekiston Milliy investitsiya fondiga o'tkazish ma'qullangan, 2025-yil dekabrida esa Yevropa tiklanish va taraqqiyot banki (YeTTB) “Asakabank”ning 15 foizlik ulushini sotib olishi e'lon qilingan{spot_privat}. 2026-yil 16-fevralda yangilangan “O'zbekiston – 2030” strategiyasiga ko'ra esa 2026-yilda davlat banklarini xususiylashtirish amalga oshirilmaydi{uzdaily_2026}. Hozirgi kunda davlat to'qqizta bankning egasi bo'lib qolmoqda: O'zmilliybank, Agrobank, O'zsanoatqurilishbank, Asakabank, Xalq banki, Biznesni rivojlantirish banki, Mikrokreditbank, Aloqabank va Turonbank{spot_privat}.
+
+O'zbekistonda bank xususiylashtirish jarayonining asosiy bosqichlari 2.5-jadvalda keltirilgan.
+
+TABLE 2.5: O'zbekistonda davlat banklarini xususiylashtirish jarayonining asosiy bosqichlari
+| Sana | Voqea |
+| 2020-yil 12-may | PF-5992-son Farmon bilan bank tizimini isloh qilish strategiyasi tasdiqlandi; oltita bankni xususiylashtirish belgilandi |
+| 2020-yil 24-fevral | PQ-4611-son Qaror: banklarning MHXSga o'tishi |
+| 2022-yil 12-dekabr | OTP Bank va O'zbekiston Hukumati o'rtasida “Ipoteka-bank” aksiyalarini sotib olish to'g'risidagi kelishuv e'lon qilindi |
+| 2023-yil 13-iyun | Bitim yakunlandi: OTP Bank “Ipoteka-bank” aksiyalarining 73,71 foizini sotib oldi |
+| 2023-yil dekabr | OTP Bank tomonidan “Ipoteka-bank”ka 70 mln dollar qo'shimcha kapital kiritildi |
+| 2024-yil 27-dekabr | “Asakabank”, “O'zsanoatqurilishbank” va “Aloqabank”ni sotish muddati 2025-yilga ko'chirildi |
+| 2025-yil sentabr | “O'zsanoatqurilishbank” aksiyalarining 30 foizini Milliy investitsiya fondiga o'tkazish ma'qullandi |
+| 2025-yil dekabr | YeTTB tomonidan “Asakabank”ning 15 foizlik ulushini sotib olish e'lon qilindi |
+| 2026-yil 16-fevral | Yangilangan “O'zbekiston – 2030” strategiyasi: 2026-yilda davlat banklari xususiylashtirilmaydi |
+NOTE: Manba: ochiq manbalar asosida muallif tomonidan tuzilgan{pf5992,pq4611,otp_pres2023,ipoteka_close,kun_cap70,daryo_postpone,spot_privat,uzdaily_2026}.
+
+Xususiylashtirish jarayonining sekinlashuviga bir qator omillar ta'sir ko'rsatdi. **Birinchidan**, davlat banklari aktivlari sifatining past darajasi va ularni MHXS asosida qayta baholash zarurati. Davlat dasturlari doirasida berilgan imtiyozli kreditlar ulushining yuqoriligi bank aktivlarini baholashni murakkablashtiradi va potensial investorlar uchun noaniqlikni oshiradi. **Ikkinchidan**, davlat banklarining resurs bazasida davlat mablag'lari ulushining yuqoriligi: investor uchun bank sotilgandan keyin bu resurslar saqlanib qolishi yoki qaytarib olinishi noaniq. **Uchinchidan**, global moliya bozorlaridagi vaziyat va mintaqadagi geosiyosiy omillar xalqaro bank guruhlarining yangi bozorlarga kirish ishtahasini pasaytirdi. **To'rtinchidan**, davlat banklarining davlat dasturlarini moliyalashtirishdagi rolini xususiylashtirishdan keyin qanday saqlash masalasi to'liq hal etilmagan. Bu omillar “Ipoteka-bank” tajribasining ahamiyatini oshiradi: uning natijalari keyingi bitimlarni tayyorlash uchun asosiy amaliy dalil bo'lib xizmat qiladi.
+
+**Ipoteka kreditlash bozori.** “Ipoteka-bank” faoliyatini tahlil qilishda O'zbekiston ipoteka kreditlash bozorining rivojlanishini alohida ko'rib chiqish lozim, chunki bank tarixan ushbu bozorning yetakchi ishtirokchilaridan biri bo'lgan. Ipoteka kreditlash O'zbekistonda davlat uy-joy siyosatining muhim vositasi bo'lib, uzoq vaqt davomida u asosan davlat dasturlari doirasida, imtiyozli foiz stavkalarida va davlat resurslari hisobiga amalga oshirilgan. So'nggi yillarda bozor shartlaridagi ipoteka kreditlashning ulushi oshib, ipoteka kreditlarini qayta moliyalashtirish mexanizmlari rivojlanmoqda. Ipoteka bozorining asosiy ko'rsatkichlari 2.b-jadvalda keltirilgan.
+
+TABLE 2.b: O'zbekiston ipoteka kreditlash bozorining asosiy ko'rsatkichlari
+| Ko'rsatkichlar | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Ipoteka kreditlari qoldig'i, trln so'm | <<24,3>> | <<31,2>> | <<37,0>> | <<41,6>> | <<45,1>> | <<49,8>> |
+| Jami kreditlardagi ulushi, % | <<8,8>> | <<9,6>> | <<9,5>> | <<8,8>> | <<8,7>> | <<7,8>> |
+| Ipoteka kreditlarining YaIMga nisbati, % | <<4,0>> | <<4,3>> | <<4,1>> | <<3,9>> | <<3,6>> | <<3,4>> |
+| Bozor shartlaridagi kreditlar ulushi, % | <<18>> | <<24>> | <<31>> | <<38>> | <<45>> | <<52>> |
+| “Ipoteka-bank”ning ipoteka bozoridagi ulushi, % | <<33>> | <<31>> | <<29>> | <<26>> | <<23>> | <<22>> |
+NOTE: Manba: O'zbekiston Respublikasi Markaziy banki ma'lumotlari asosida muallif tomonidan tuzilgan{cbu}. Ko'k rangdagi qiymatlar taxminiy.
+
+Ipoteka kreditlarining YaIMga nisbati rivojlangan mamlakatlarga nisbatan juda past bo'lib, bu bozorning katta o'sish salohiyatiga ega ekanini ko'rsatadi. Biroq bu salohiyatni amalga oshirish uchun uzoq muddatli milliy valyutadagi resurslar, rivojlangan qayta moliyalashtirish mexanizmlari va barqaror makroiqtisodiy sharoit zarur. “Ipoteka-bank”ning ipoteka bozoridagi ulushining kamayishi, bir tomondan, boshqa banklarning ushbu bozorga faol kirishi, ikkinchi tomondan, xorijiy investor ishtirokida bankning davlat dasturlari doirasidagi imtiyozli kreditlashni qisqartirishi bilan izohlanadi. Bu holat bank strategiyasi uchun muhim savolni keltirib chiqaradi: bank tarixiy ixtisoslashuvi va brendi bilan bog'liq ipoteka segmentida yetakchilikni saqlashi kerakmi, yoki universal bank sifatida rivojlanishi kerakmi? Tadqiqotimiz natijalariga ko'ra, ipoteka segmenti uzoq muddatli va nisbatan kam riskli aktivlarni ta'minlaydi, shu sababli uni guruh skoring texnologiyalari va bozor shartlaridagi mahsulotlar orqali rivojlantirish bank barqarorligiga ijobiy ta'sir ko'rsatadi.
+
+**Bank tizimida dollarlashuv va valyuta riski.** O'zbekiston bank tizimining muhim xususiyatlaridan biri – aktiv va majburiyatlarning sezilarli qismi xorijiy valyutada ekanligi. Kreditlar va depozitlarning dollarlashuvi 2017-yildagi valyuta liberallashtirishdan keyin bosqichma-bosqich pasaymoqda, biroq hali ham yuqori darajada saqlanmoqda: <<2025-yilda kreditlarning taxminan 40 foizi, depozitlarning esa 25–30 foizi>> xorijiy valyutada bo'lgan. Davlat banklari xalqaro moliya institutlari va xorijiy banklardan olingan qarzlar hisobiga xorijiy valyutadagi kreditlarni moliyalashtirgan. Bu bank barqarorligi uchun ikki xil risk tug'diradi: milliy valyuta qadrsizlanganda xorijiy valyutada qarz olgan, biroq so'mda daromad oladigan qarz oluvchilarning to'lov qobiliyati pasayadi (bilvosita kredit riski), banklarning o'zida esa ochiq valyuta pozitsiyasi bilan bog'liq to'g'ridan-to'g'ri valyuta riski yuzaga keladi. Xorijiy investor ishtirokidagi bank uchun valyuta riskini boshqarish, ayniqsa, muhim, chunki bosh bank guruhi xorijiy valyutada moliyalashtirish manbai bo'lishi mumkin. Shu sababli CAMELS tizimining “S” komponentini baholashda ochiq valyuta pozitsiyasi asosiy ko'rsatkich sifatida tanlandi (1.4-jadval).
+
+**Bank xizmatlarini raqamlashtirish.** So'nggi yillarda O'zbekiston bank tizimida raqamli transformatsiya jadal kechmoqda: masofaviy bank xizmatlari, mobil ilovalar va to'lov tizimlari keng tarqalmoqda, raqamli banklar va moliyaviy texnologiya kompaniyalari bozorga kirmoqda. Raqamlashtirish raqobatni kuchaytirib, an'anaviy banklarni xarajatlarni qisqartirish va xizmat sifatini oshirishga undaydi. Xorijiy bank guruhlari bu jarayonda texnologiya kanali orqali muhim rol o'ynashi mumkin: ular boshqa mamlakatlarda sinovdan o'tgan raqamli platformalarni tezda joriy etish imkoniyatiga ega. Shu bilan birga, raqamlashtirish yangi risklarni – kiberxavfsizlik, operatsion uzilishlar va axborot tizimlarini almashtirish bilan bog'liq risklarni ham keltirib chiqaradi.
+
+**Bank tizimida raqobat va xususiy banklarning o'sishi.** Davlat banklarini xususiylashtirish sekin kechayotgan bo'lsa-da, xususiy banklar jadal o'sib, bank tizimida raqobatni kuchaytirmoqda. Xususiy banklar chakana bank xizmatlari, raqamli bank mahsulotlari va kichik biznesni kreditlash segmentlarida faol bo'lib, ular orasida xorijiy kapital ishtirokidagi banklar ham mavjud. Xususiy banklarning kreditlar/depozitlar nisbati (108 foiz) davlat banklariga (237 foiz) nisbatan ancha past bo'lib{imf_fssa2025}, bu ularning resurs bazasi mijozlar mablag'lariga asoslanganini va moliyaviy barqarorlik nuqtayi nazaridan sog'lomroq ekanini ko'rsatadi. Muammoli kreditlar ulushi ham xususiy banklarda (3,1 foiz) davlat banklariga (4,8 foiz) nisbatan past{daryo_npl}.
+
+Bank tizimidagi yirik banklarning aktivlar bo'yicha bozor ulushlari 2.6-jadvalda keltirilgan.
+
+TABLE 2.6: O'zbekistonning yirik tijorat banklari aktivlar bo'yicha bozor ulushi, %
+| Bank | Mulkchilik shakli | 2022 | 2024 | 2025 |
+| O'zmilliybank | Davlat | <<17,5>> | <<16,1>> | <<15,4>> |
+| O'zsanoatqurilishbank | Davlat | <<10,9>> | <<10,2>> | <<9,6>> |
+| Asakabank | Davlat | <<8,3>> | <<7,6>> | <<7,1>> |
+| Agrobank | Davlat | <<7,8>> | <<7,4>> | <<7,0>> |
+| Ipoteka-bank | Xorijiy strategik investor (2023-yildan) | 7,9 | ≈7,0 | 6,3* |
+| Xalq banki | Davlat | <<5,6>> | <<5,9>> | <<6,0>> |
+| Kapitalbank | Xususiy | <<5,4>> | <<6,6>> | <<7,2>> |
+| Hamkorbank | Xususiy | <<3,0>> | <<3,3>> | <<3,5>> |
+| Boshqa banklar | – | <<33,6>> | <<35,9>> | <<38,0>> |
+NOTE: Manba: O'zbekiston Respublikasi Markaziy banki va banklar hisobotlari asosida muallif tomonidan tuzilgan{cbu,otp_pres2023,ipoteka_site}. * 2025-yil I chorak holatiga.
+
+Jadval ma'lumotlari bank tizimida konsentratsiya yuqori bo'lib qolayotganini, biroq xususiy banklar ulushi barqaror o'sib borayotganini ko'rsatadi. “Ipoteka-bank”ning bozor ulushi 2019-yildagi 9 foizdan{fitch2020} 2022-yilda 7,9 foizga{otp_pres2023}, 2025-yil birinchi choragida esa 6,3 foizga kamaygan. Bu holat 3.1-paragrafda batafsil tahlil qilinadi va qisman xorijiy investor ishtirokidagi bankning kredit siyosati ehtiyotkorroq bo'lishi, aktivlar o'sishidan ko'ra ularning sifatiga ustuvorlik berilishi bilan izohlanadi.
+
+**Davlat banklari faoliyatining samaradorligi.** Davlat banklarini xususiylashtirish zaruriyati ularning xususiy banklarga nisbatan past samaradorligi bilan ham asoslanadi. Davlat va xususiy banklarning asosiy ko'rsatkichlari 2.f-jadvalda taqqoslangan.
+
+TABLE 2.f: Davlat va xususiy banklarning asosiy ko'rsatkichlari taqqoslanishi (2024-yil)
+| Ko'rsatkichlar | Davlat banklari | Xususiy banklar | Farq |
+| Aktivlardagi ulushi, % | 62–65 | 35–38 | – |
+| Kreditlar/depozitlar, % | 237 | 108 | +129 f.p. |
+| Muammoli kreditlar ulushi, % | 4,8 | 3,1 | +1,7 f.p. |
+| ROA, % | <<1,5>> | <<3,1>> | <<–1,6 f.p.>> |
+| ROE, % | <<10,4>> | <<22,7>> | <<–12,3 f.p.>> |
+| Xarajatlar/daromadlar (CIR), % | <<41>> | <<52>> | <<–11 f.p.>> |
+| Jismoniy shaxslar depozitlarining majburiyatlardagi ulushi, % | <<14>> | <<38>> | <<–24 f.p.>> |
+NOTE: Manba: Markaziy bank, XVF va Moody's ma'lumotlari asosida muallif tomonidan tuzilgan{imf_fssa2025,daryo_npl,daryo_moodys}. Ko'k rangdagi qiymatlar taxminiy.
+
+Jadval ma'lumotlari davlat banklarining resurs bazasi davlat mablag'lari va xorijiy qarzlarga tayanishini, rentabelligi esa xususiy banklarga nisbatan ancha pastligini ko'rsatadi. Davlat banklarida xarajatlarning daromadlarga nisbati past bo'lsa-da, bu ularning yuqori samaradorligidan emas, balki yirik hajmdagi davlat dasturlari kreditlari hisobiga daromadlar bazasining kattaligi va past xarajatli resurslardan foydalanish bilan izohlanadi. Xususiy banklarda esa jismoniy shaxslar depozitlari resurs bazasining muhim qismini tashkil etadi. Bu farqlar davlat banklari xususiylashtirilgandan keyin ularning biznes modeli tubdan o'zgarishi – davlat resurslari o'rniga bozor resurslarini jalb qilish, imtiyozli kreditlash o'rniga bozor shartlaridagi kreditlash – zarurligini ko'rsatadi. “Ipoteka-bank” aynan shunday transformatsiyani boshdan kechirmoqda.
+
+**Bank tizimining konsentratsiya darajasi.** Bank tizimidagi raqobat va bozor tuzilmasini miqdoriy baholash uchun konsentratsiya ko'rsatkichlari hisoblandi. Gerfindal–Xirshman indeksi (HHI) bozor ishtirokchilari ulushlari kvadratlari yig'indisi sifatida aniqlanadi:
+
+$$ HHI = Σ_{i=1}^{N} s_i^{2} (2.1)
+
+bu yerda s_i – i-bankning aktivlar bo'yicha bozor ulushi, foizda; N – banklar soni. HHI 1 500 dan past bo'lsa, bozor konsentratsiyalashmagan, 1 500–2 500 oralig'ida bo'lsa o'rtacha konsentratsiyalashgan, 2 500 dan yuqori bo'lsa yuqori konsentratsiyalashgan hisoblanadi. Konsentratsiya koeffitsiyenti (CR5) esa eng yirik beshta bank ulushlari yig'indisiga teng:
+
+$$ CR5 = Σ_{i=1}^{5} s_i (2.2)
+
+Hisob-kitob natijalari 2.e-jadvalda keltirilgan.
+
+TABLE 2.e: O'zbekiston bank tizimining konsentratsiya ko'rsatkichlari
+| Ko'rsatkich | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| HHI (aktivlar bo'yicha) | <<1 120>> | <<1 060>> | <<990>> | <<880>> | <<830>> | <<790>> | <<760>> |
+| CR5 (aktivlar bo'yicha), % | <<64>> | 64 | <<61>> | <<55>> | <<53>> | <<50>> | <<48>> |
+| Banklar soni | <<30>> | 31 | <<33>> | <<35>> | <<35>> | <<36>> | <<36>> |
+NOTE: Manba: Markaziy bank ma'lumotlari asosida muallif hisob-kitoblari{cbu,yuz_2020}. 2020-yilda CR5 – 64% (yuz.uz), banklar soni – 31 ta. Ko'k rangdagi qiymatlar taxminiy.
+
+Konsentratsiya ko'rsatkichlari bank tizimida raqobat asta-sekin kuchayib borayotganini ko'rsatadi: 2020-yilda bank aktivlarining 64 foizi beshta yirik bankka to'g'ri kelgan bo'lsa{yuz_2020}, keyingi yillarda bu ko'rsatkich xususiy banklarning jadal o'sishi natijasida kamaygan. HHI bo'yicha bank tizimi konsentratsiyalashmagan bozor sifatida tavsiflanadi, biroq bu ko'rsatkich yirik davlat banklari bir xil mulkdorga – davlatga – tegishli ekanini hisobga olmaydi. Agar davlat banklari yagona mulkdor nazoratidagi guruh sifatida qaralsa, bozor konsentratsiyasi ancha yuqori bo'ladi. Bu holat davlat banklarini xususiylashtirish raqobatni kuchaytirish nuqtayi nazaridan ham muhim ekanini ko'rsatadi.
+
+**Bank regulyatsiyasidagi asosiy o'zgarishlar.** Islohotlar davrida bank regulyatsiyasi ham sezilarli o'zgardi. Markaziy bank inflyatsion targetlash rejimiga o'tish doirasida pul-kredit siyosatining asosiy vositasi sifatida asosiy stavkadan foydalanmoqda, bu esa banklar resurs bazasi narxini bozor asosida shakllantirishga xizmat qilmoqda. Imtiyozli davlat resurslari hisobiga kreditlash bosqichma-bosqich qisqartirilib, banklar bozor resurslarini jalb qilishga undalmoqda. Kapital yetarliligi, likvidlik va yirik risklarga oid prudensial talablar xalqaro standartlarga yaqinlashtirilmoqda, aholini kreditlashdagi risklarni cheklash maqsadida makroprudensial choralar qo'llanilmoqda{cbu,imf_fssa2025}. Shu bilan birga, XVF moliya tizimini baholashda bog'liq shaxslar bilan operatsiyalarni nazorat qilish, aktivlar sifatini baholash va muammoli banklarni hal qilish rejimini takomillashtirish zarurligini qayd etgan{imf_fssa2025}. Bu talablarning bajarilishi xorijiy investorlar uchun bank sektorining jozibadorligini oshiradi.
+
+**Bank tizimini transformatsiya qilishdagi asosiy muammolar.** Tahlil natijalarini umumlashtirib, O'zbekiston bank tizimini transformatsiya qilishdagi asosiy muammolarni quyidagicha ifodalash mumkin: davlat banklarining hukmron mavqei va ularni xususiylashtirishning sekin sur'ati; davlat banklarining resurs bazasida davlat mablag'lari va xorijiy qarzlarning yuqori ulushi; aktivlar sifatini baholashning shaffof emasligi va muammoli kreditlarning to'liq tan olinmasligi; korporativ boshqaruv va risk-menejment tizimlarining xalqaro standartlardan orqada qolishi; uzoq muddatli milliy valyutadagi resurslar tanqisligi. Ushbu muammolarni hal etishda xorijiy strategik investorlarni jalb qilish muhim vosita bo'lib, “Ipoteka-bank” tajribasi bu yo'nalishdagi birinchi amaliy sinov hisoblanadi.

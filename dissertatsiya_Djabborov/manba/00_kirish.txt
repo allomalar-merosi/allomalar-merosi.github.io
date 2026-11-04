@@ -1,0 +1,76 @@
+#CH KIRISH
+
+**Dissertatsiya mavzusining dolzarbligi va zarurati.** Jahon tajribasi tijorat banklari kapitalida xorijiy strategik investorlar ishtirokini bank tizimi barqarorligini mustahkamlash, korporativ boshqaruv sifatini oshirish va zamonaviy bank texnologiyalarini joriy etishning muhim omili sifatida ko'rsatmoqda. Xalqaro tadqiqotlarga ko'ra, rivojlanayotgan mamlakatlarda xorijiy banklar ulushi 1996-yildagi 22 foizdan 2005-yilda 39 foizga oshgan, Markaziy va Sharqiy Yevropa mamlakatlarida esa bu ko'rsatkich 1995-yildagi o'rtacha 10 foizdan 2008-yilda 77 foizgacha ko'tarilgan{claessens2012,pep_2021}. Markaziy va Sharqiy Yevropa mamlakatlarida o'tkazilgan bank xususiylashtirish tajribasi xorijiy strategik investorga sotilgan banklar operatsion samaradorlik, kapitallashuv va risklarni boshqarish bo'yicha yuqori natijalarga erishganini tasdiqlaydi{bonin2005a,bonin2005b}. Shu bilan birga, xorijiy kapital ishtiroki bosh bank siyosatiga bog'liqlik, kredit siyosati va resurs bazasi tuzilmasining o'zgarishi kabi yangi risklarni ham yuzaga keltiradi{dehaas2014,cull2013}. Bu esa xorijiy investor ishtirokining bank moliyaviy barqarorligiga ta'sirini ilmiy asosda baholashni talab etadi.
+
+O'zbekistonda so'nggi yillarda bank tizimini isloh qilish, bank sektorida davlat ulushini qisqartirish va raqobatni kuchaytirish borasida keng ko'lamli chora-tadbirlar amalga oshirilmoqda. 2020-yilda mamlakatdagi 31 ta bankdan 13 tasi davlat ixtiyorida bo'lib, ular bank tizimi aktivlarining 85 foizini nazorat qilgan{gratanet}. O'zbekiston Respublikasi Prezidentining 2020-yil 12-maydagi PF-5992-son Farmoni bilan tasdiqlangan 2020–2025-yillarga mo'ljallangan bank tizimini isloh qilish strategiyasida davlat ulushi bo'lmagan banklar aktivlarining ulushini 15 foizdan 60 foizga yetkazish, davlat ishtirokidagi banklarga kamida uchta strategik xorijiy investorni jalb etish va oltita davlat bankini, jumladan “Ipoteka-bank”ni bosqichma-bosqich xususiylashtirish vazifalari belgilangan{pf5992,kun_6banks}. Ushbu siyosatning birinchi yirik amaliy natijasi sifatida 2023-yil 13-iyunda “Ipoteka-bank” ATIB aksiyalarining 73,71 foizlik nazorat paketi Vengriyaning OTP Group bank guruhiga sotildi{ipoteka_close,bne_otp}.
+
+Bitimdan keyingi davr bank faoliyatida jiddiy o'zgarishlar ro'y berganini ko'rsatadi. OTP Group ma'lumotlariga ko'ra, 2023-yilda “Ipoteka-bank” guruh tarkibidagi zarar bilan yakunlagan yagona bank bo'lgan{telex_otp2023}, 2024-yilda esa bank MHXS bo'yicha 1,837 trln so'm sof foyda olib, kapital rentabelligini (ROE) 30,4 foizga, aktivlar rentabelligini (ROA) 4,0 foizga yetkazgan{ipoteka_2024,spot_2024}. Shu bilan birga, milliy buxgalteriya standartlari bo'yicha 2024-yilda bank 240,2 mlrd so'm zarar ko'rsatgan, muammoli kreditlar ulushi esa 4,7 foizdan 10,2 foizga oshgan{uzdaily_loss}. Ushbu ziddiyatli natijalar xorijiy investor ishtirokida bank barqarorligi o'zgarishini kompleks va ilmiy asosda baholash zarurligini yaqqol ko'rsatadi.
+
+Bugungi kunda xorijiy strategik investor ishtirokida bank moliyaviy barqarorligini ta'minlash masalasini tadqiq etish zaruriyati quyidagi omillar bilan asoslanadi:
+- **bank tizimini transformatsiya qilish ehtiyoji:** davlat banklarini xususiylashtirish jarayoni davom etayotgan sharoitda birinchi tajribaning natijalarini ilmiy baholash keyingi bitimlar uchun asos bo'lib xizmat qiladi; Asakabank, Sanoatqurilishbank va Aloqabankni xususiylashtirish muddatlarining bir necha marta uzaytirilgani bu masalaning dolzarbligini tasdiqlaydi{daryo_postpone,uzdaily_2026};
+- **xalqaro standartlarga o'tish zaruriyati:** Moliyaviy hisobotning xalqaro standartlari (MHXS), Bazel qo'mitasi talablari va zamonaviy risk-menejment amaliyotini joriy etish bank barqarorligining yangi mezonlarini shakllantirmoqda{pq4611,basel3};
+- **moliyaviy barqarorlikni ta'minlash:** “Ipoteka-bank” mamlakatdagi yirik banklardan biri bo'lib, 2024-yilda bank tizimi aktivlarining qariyb 7 foizi unga to'g'ri kelgan; aholi omonatlari va ipoteka kreditlari bozoridagi salmoqli ulushi tufayli uning barqarorligi butun bank tizimi uchun muhim ahamiyatga ega;
+- **korporativ boshqaruvni takomillashtirish:** xorijiy investor ishtirokida boshqaruv tuzilmasi, kredit siyosati va ichki nazorat tizimidagi o'zgarishlarning samaradorligini baholash dolzarb vazifa hisoblanadi.
+
+Shu sababli, xorijiy strategik investor ishtirokida tijorat bankining moliyaviy barqarorligini ta'minlash yo'llarini tadqiq etish bank tizimini isloh qilish jarayonini ilmiy asosda chuqurlashtirish, bank sektoriga xorijiy investitsiyalarni jalb etish samaradorligini oshirish va moliya tizimi barqarorligini mustahkamlashga xizmat qiladi.
+
+O'zbekiston Respublikasining “Banklar va bank faoliyati to'g'risida”gi{qonun_bank} va “O'zbekiston Respublikasining Markaziy banki to'g'risida”gi{qonun_mb} qonunlari, O'zbekiston Respublikasi Prezidentining 2020-yil 12-maydagi PF-5992-son “2020–2025-yillarga mo'ljallangan O'zbekiston Respublikasining bank tizimini isloh qilish strategiyasi to'g'risida”gi Farmoni, 2020-yil 24-fevraldagi PQ-4611-son “Moliyaviy hisobotning xalqaro standartlariga o'tish bo'yicha qo'shimcha chora-tadbirlar to'g'risida”gi Qarori, 2022-yil 28-yanvardagi PF-60-son{pf60} va 2023-yil 11-sentabrdagi PF-158-son{pf158_2030} farmonlari hamda mazkur sohaga tegishli boshqa normativ-huquqiy hujjatlarda belgilangan vazifalarni amalga oshirishga ushbu dissertatsiya tadqiqoti muayyan darajada xizmat qiladi.
+
+**Tadqiqotning respublika fan va texnologiyalari rivojlanishining ustuvor yo'nalishlariga mosligi.** Dissertatsiya respublika ilm-fan va texnologiyalari rivojlanishining I. “Demokratik va huquqiy jamiyatni ma'naviy-axloqiy va madaniy rivojlantirish, innovatsion iqtisodiyotni shakllantirish” ustuvor yo'nalishiga muvofiq bajarilgan.
+
+**Muammoning o'rganilganlik darajasi.** Xorijiy kapital ishtirokining bank faoliyatiga ta'siri masalasi xalqaro miqyosda keng o'rganilgan. Xususan, S.Klassens, A.Demirguch-Kunt va X.Xuizinga xorijiy banklarning mahalliy bozorga kirishi raqobat va bank samaradorligiga ta'sirini tahlil qilgan{claessens2001}. J.Bonin, I.Hasan va P.Vaxtel o'tish iqtisodiyoti mamlakatlarida bank mulkchiligi shakli bilan samaradorlik o'rtasidagi bog'liqlikni o'rganib, xorijiy strategik investorga sotilgan banklar yuqori samaradorlikka erishganini ko'rsatgan{bonin2005a}. A.Berger, G.Klark, R.Kall, L.Klapper va G.Udell davlat, xususiy va xorijiy mulkchilikning bank faoliyatiga statik, tanlov va dinamik ta'sirini baholagan{berger2005}. L.Leven va R.Levin bank boshqaruvi, regulyatsiyasi va risk darajasi o'rtasidagi bog'liqlikni tadqiq etgan{laeven2009}. A.Charnes, V.Kuper va E.Rouds tomonidan ishlab chiqilgan DEA usuli bank samaradorligini baholashda keng qo'llanilmoqda{ccr1978}. Xorijiy banklarning moliyaviy inqirozlar davridagi xulq-atvori R. de Xaas va I. van Lelivelt{dehaas2006}, S.Klassens va N. van Xoren{claessens2014} ishlarida, davlat mulkchiligining bank faoliyatiga ta'siri esa R. La Porta, F.Lopes-de-Silanes va A.Shleyfer{laporta2002}, V.Megginson{megginson2005} tadqiqotlarida o'rganilgan.
+
+MDH mamlakatlarida bank barqarorligi nazariyasi va uni ta'minlash masalalari O.I.Lavrushin va boshqa olimlar tomonidan o'rganilgan{lavrushin}. Mamlakatimizda tijorat banklari faoliyati, bank risklari va resurslarini boshqarish masalalari Sh.Z.Abdullayeva{abdullayeva}, A.A.Omonov{omonov}, O.Yu.Rashidov{rashidov} va boshqa iqtisodchi olimlarning ilmiy ishlarida tadqiq etilgan.
+
+Biroq O'zbekiston sharoitida yirik davlat bankining xorijiy strategik investorga sotilishi yangi hodisa bo'lgani sababli, xorijiy investor ishtirokining bank moliyaviy barqarorligiga ta'siri hali empirik jihatdan baholanmagan. Integratsiya jarayonida korporativ boshqaruv, risk-menejment va samaradorlik ko'rsatkichlaridagi o'zgarishlarni miqdoriy baholash hamda bank barqarorligini ta'minlash mexanizmlarini ishlab chiqish masalalari alohida tadqiqot obyekti sifatida o'rganilmagan. Mazkur tadqiqot ushbu ilmiy-amaliy bo'shliqni to'ldirishga qaratilgan.
+
+**Dissertatsiya tadqiqotining dissertatsiya bajarilgan oliy ta'lim muassasasining ilmiy-tadqiqot ishlari rejasi bilan bog'liqligi.** Dissertatsiya tadqiqoti Guliston davlat universitetining ilmiy-tadqiqot ishlari rejasiga muvofiq bajarilgan.
+
+**Tadqiqotning maqsadi** xorijiy strategik investor ishtirokida tijorat bankining moliyaviy barqarorligini ta'minlashga oid ilmiy taklif va amaliy tavsiyalar ishlab chiqishdan iborat.
+
+**Tadqiqotning vazifalari:**
+- bank moliyaviy barqarorligi tushunchasining iqtisodiy mazmunini va uni baholash yondashuvlarini tizimlashtirish;
+- xorijiy strategik investorning bank faoliyatiga ta'sir kanallarini (kapital, texnologiya, korporativ boshqaruv, risk-menejment) nazariy asoslash;
+- Markaziy va Sharqiy Yevropa hamda MDH mamlakatlarida banklarni xorijiy investorlarga sotish tajribasini umumlashtirish;
+- “Ipoteka-bank”ning integratsiyadan oldingi va keyingi moliyaviy ko'rsatkichlarini qiyosiy tahlil qilish;
+- bankning operatsion samaradorligini DEA usulida boshqa tijorat banklari bilan taqqoslab baholash;
+- CAMELS tizimi va Z-score asosida bank barqarorligining integral bahosini ishlab chiqish;
+- korporativ boshqaruv, risk-menejment va xalqaro standartlarga o'tishni takomillashtirish bo'yicha takliflar ishlab chiqish;
+- bank barqarorligi ko'rsatkichlarining o'rta muddatli prognozini ishlab chiqish.
+
+**Tadqiqotning obyekti** sifatida “Ipoteka-bank” ATIB faoliyati olingan. Qiyosiy tahlil uchun O'zbekistonning boshqa tijorat banklari ma'lumotlaridan foydalanilgan.
+
+**Tadqiqotning predmeti** xorijiy strategik investor ishtirokida bankning moliyaviy barqarorligini ta'minlash jarayonida yuzaga keladigan iqtisodiy munosabatlar hisoblanadi.
+
+**Tadqiqotning usullari.** Tadqiqotda tizimli va qiyosiy tahlil, monografik kuzatuv, “oldin–keyin” (event study) tahlili, farqlar farqi (difference-in-differences) usuli, DEA (Data Envelopment Analysis) va Malmquist indeksi, CAMELS reyting tizimi, Z-score ko'rsatkichi, panel regressiya hamda ekspert so'rovi usullaridan foydalanilgan.
+
+**Tadqiqotning ilmiy yangiligi** quyidagilardan iborat:
+- xorijiy strategik investorning tijorat banki moliyaviy barqarorligiga ta'sir kanallari kapital, korporativ boshqaruv, risk-menejment, texnologiya va bozor (resurs bazasi) kanallaridan iborat besh guruhga tasniflangan hamda har bir kanal uchun barqarorlikka ijobiy va salbiy ta'sir mexanizmlari va ularni o'lchash ko'rsatkichlari aniqlangan;
+- farqlar farqi usuli asosida strategik investor ishtirokining bank rentabelligi, xarajatlar samaradorligi va risk darajasiga sof ta'siri boshqa davlat ishtirokidagi banklar nazorat guruhiga nisbatan miqdoriy baholangan;
+- CAMELS komponentlari va Z-score ko'rsatkichini birlashtirgan bank barqarorligining integral indeksi (BBII) taklif etilgan va uning asosida “Ipoteka-bank” barqarorligining integratsiyadan oldingi va keyingi dinamikasi baholangan;
+- davlat banklarini xorijiy strategik investorga sotishdan keyingi integratsiyaning yetti bosqichli modeli (bitim oldi tayyorgarligi, boshqaruvni o'tkazish, kapital va standartlarni moslashtirish, aktivlar sifatini qayta baholash, operatsion integratsiya, o'sish va optimallashtirish, to'liq egalikka o'tish) ishlab chiqilgan;
+- bank barqarorligi ko'rsatkichlarining 2026–2030-yillarga mo'ljallangan inersion, bazaviy va optimistik ssenariylar bo'yicha prognoz qiymatlari asoslangan.
+
+**Tadqiqotning amaliy natijalari** quyidagilardan iborat:
+- davlat ishtirokidagi banklarni xorijiy strategik investorga sotish jarayoni uchun bitimdan keyingi integratsiyani monitoring qilish ko'rsatkichlari tizimi taklif etilgan;
+- tijorat banklarida korporativ boshqaruv, risk-menejment va MHXS bo'yicha hisobotlarni takomillashtirish bo'yicha amaliy tavsiyalar ishlab chiqilgan;
+- bank barqarorligining integral indeksini hisoblash metodikasi tijorat banklari va nazorat organlari amaliyotida qo'llash uchun tayyorlangan.
+
+**Tadqiqot natijalarining ishonchliligi.** Tadqiqot natijalarining ishonchliligi qo'llanilgan yondashuv va usullarning maqsadga muvofiqligi, ma'lumotlarning O'zbekiston Respublikasi Markaziy banki, “Ipoteka-bank” ATIB va OTP Group rasmiy hisobotlari, xalqaro reyting agentliklari va xalqaro moliya institutlari materiallaridan olinganligi, ekonometrik baholashlarning mustahkamlik testlari bilan tekshirilganligi hamda xulosa va tavsiyalarning vakolatli tashkilotlar tomonidan amaliyotga joriy etilganligi bilan izohlanadi.
+
+**Tadqiqot natijalarining ilmiy va amaliy ahamiyati.** Tadqiqotning ilmiy ahamiyati shundaki, uning natijalari bank moliyaviy barqarorligi nazariyasini xorijiy kapital ishtiroki omili bilan boyitadi, bank barqarorligini baholashning integral yondashuvini takomillashtiradi hamda o'tish iqtisodiyoti sharoitida bank xususiylashtirish samaradorligini baholash metodologiyasini rivojlantiradi.
+
+Tadqiqotning amaliy ahamiyati shundaki, ishlab chiqilgan taklif va tavsiyalardan O'zbekiston Respublikasi Markaziy banki, Iqtisodiyot va moliya vazirligi tomonidan davlat ishtirokidagi banklarni xususiylashtirish dasturlarini ishlab chiqishda, tijorat banklari tomonidan korporativ boshqaruv va risk-menejment tizimini takomillashtirishda, shuningdek, oliy ta'lim muassasalarida “Bank ishi”, “Bank risklarini boshqarish” va “Moliyaviy menejment” fanlarini o'qitishda foydalanish mumkin.
+
+**Tadqiqot natijalarining joriy qilinishi.** Xorijiy strategik investor ishtirokida tijorat bankining moliyaviy barqarorligini ta'minlash yo'llari bo'yicha ishlab chiqilgan ilmiy taklif va tavsiyalar asosida:
+- [[1-ilmiy yangilik bo'yicha: ta'sir kanallari tasnifi asosidagi tavsiyalar ____________ tomonidan amaliyotga joriy etilgan (__________ ning 20__-yil __-______dagi __-son ma'lumotnomasi)]];
+- [[2-ilmiy yangilik bo'yicha: farqlar farqi usulidagi baholash natijalari ____________ (ma'lumotnoma raqami va sanasi)]];
+- [[3-ilmiy yangilik bo'yicha: bank barqarorligining integral indeksi ____________ (ma'lumotnoma raqami va sanasi)]];
+- [[4-ilmiy yangilik bo'yicha: integratsiyaning yetti bosqichli modeli ____________ (ma'lumotnoma raqami va sanasi)]];
+- [[5-ilmiy yangilik bo'yicha: prognoz ko'rsatkichlari ____________ (ma'lumotnoma raqami va sanasi)]].
+
+**Tadqiqot natijalarining aprobatsiyasi.** Mazkur tadqiqot natijalari [[__]] ta xalqaro va [[__]] ta respublika ilmiy-amaliy anjumanlarida muhokamadan o'tkazilgan.
+
+**Tadqiqot natijalarining e'lon qilinganligi.** Dissertatsiya mavzusi bo'yicha jami [[__]] ta ilmiy ish, shu jumladan, O'zbekiston Respublikasi Oliy attestatsiya komissiyasining doktorlik dissertatsiyalari asosiy ilmiy natijalarini chop etish tavsiya etilgan ilmiy nashrlarda [[__]] ta maqola, jumladan [[__]] tasi respublika va [[__]] tasi xorijiy jurnallarda nashr etilgan.
+
+**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya ishi tarkibiy jihatdan kirish, uchta bob, xulosa, foydalanilgan adabiyotlar ro'yxati va ilovalardan iborat. Dissertatsiyaning asosiy matni [[116]] betni tashkil etadi.

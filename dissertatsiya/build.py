@@ -448,6 +448,16 @@ class Builder:
                 cp = c.paragraphs[0]
                 fmt(cp, align=WD_ALIGN_PARAGRAPH.CENTER, indent=False, spacing=1.0, before=2, after=2)
                 add_runs(cp, b, 11, k == 0 or k == len(rows) - 1)
+        # rasm bir sahifada qolishi uchun: barcha qatorlar bo'linmaydi va keyingisi bilan birga
+        for row in t.rows:
+            trPr = row._tr.get_or_add_trPr()
+            cs = OxmlElement("w:cantSplit"); cs.set(qn("w:val"), "true"); trPr.append(cs)
+            for para in row._tr.iter(qn("w:p")):
+                ppr = para.find(qn("w:pPr"))
+                if ppr is None:
+                    ppr = OxmlElement("w:pPr"); para.insert(0, ppr)
+                if ppr.find(qn("w:keepNext")) is None:
+                    ppr.insert(0, OxmlElement("w:keepNext"))
         p = self.doc.add_paragraph()
         fmt(p, align=WD_ALIGN_PARAGRAPH.CENTER, indent=False, spacing=1.0, before=6, after=10)
         add_runs(p, label + "-rasm. " + caption, 14, True)

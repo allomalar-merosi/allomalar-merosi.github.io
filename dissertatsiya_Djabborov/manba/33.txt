@@ -1,0 +1,136 @@
+## 3.3-§. Xorijiy strategik investor ishtirokida bank barqarorligini ta'minlash yo'nalishlari va ko'rsatkichlar prognozi
+
+Oldingi paragraflarda o'tkazilgan tahlil xorijiy strategik investor ishtiroki “Ipoteka-bank”ning moliyaviy barqarorligiga umuman ijobiy ta'sir ko'rsatganini, biroq aktivlar sifati, resurs bazasining valyuta tarkibi va rentabellik o'zgaruvchanligi bilan bog'liq risklar saqlanib qolayotganini ko'rsatdi. Ushbu paragrafda bank barqarorligini yanada mustahkamlash yo'nalishlari ishlab chiqiladi, bank barqarorligi ko'rsatkichlarining 2026–2030-yillarga mo'ljallangan prognozi asoslanadi hamda davlat banklarini xususiylashtirish siyosati uchun tavsiyalar beriladi.
+
+**1. Kapitalni boshqarish va dividend siyosati.** Xorijiy strategik investor ishtirokidagi bank uchun kapitalni boshqarishning asosiy masalasi – kapitalni ichki manbalar hisobiga to'ldirish va aksiyadorga dividend to'lash o'rtasidagi muvozanat. 1.2-paragrafda ko'rsatilganidek, kapital kanali ikki tomonlama ta'sirga ega: bosh bank kapital kiritishi mumkin, biroq u dividendlar orqali kapitalni olib chiqishi ham mumkin. Shu sababli quyidagilar taklif etiladi: bankda muammoli kreditlar ulushi 5 foizdan yuqori bo'lgan davrda dividend to'lash koeffitsiyentini sof foydaning 50 foizi bilan cheklash; umumiy kapital yetarliligining ichki maqsadli darajasini minimal talabdan (13 foiz) kamida 3–4 foiz punkt yuqori, ya'ni 16–17 foiz darajasida belgilash; bosh bankdan subordinatsiyalangan qarz olish orqali ikkinchi darajali kapitalni mustahkamlash imkoniyatini saqlash. Bu choralar Bazel III ning kapitalni saqlash buferi mantiqiga mos keladi{basel3}.
+
+**2. Aktivlar sifatini yaxshilash.** Tahlil natijalariga ko'ra, aktivlar sifati bank barqarorligining eng zaif komponenti hisoblanadi: 2024-yilda muammoli kreditlar ulushi 10,2 foizga yetgan{uzdaily_loss}. Muammoli kreditlarni hal etish uchun kompleks strategiya zarur: (a) muammoli kreditlarni toifalarga ajratib, qayta tuzish, garovni undirish, hisobdan chiqarish yoki ixtisoslashgan tashkilotlarga sotish yo'llarini aniqlash; (b) MHXS 9 talablariga muvofiq kreditlarni bosqichlarga ajratish va kutilayotgan kredit zararlarini baholash modellarini mahalliy ma'lumotlar asosida kalibrlash{ifrs9}; (c) kredit riskini erta aniqlash tizimini joriy etish – qarz oluvchilarning to'lov intizomi, tarmoq va makroiqtisodiy ko'rsatkichlar asosida ogohlantirish signallarini shakllantirish; (d) muammoli kreditlar ulushini 2030-yilga qadar <<4>> foizdan past darajaga tushirish maqsadini belgilash. Bundan tashqari, O'zbekistonda muammoli aktivlar bozorini rivojlantirish va ularni sotish uchun huquqiy shart-sharoitlarni takomillashtirish butun bank tizimi uchun dolzarb.
+
+**3. Resurs bazasini diversifikatsiya qilish.** Bank resurs bazasida davlat mablag'lari ulushi qisqarib, mijozlar depozitlari ulushi oshayotgani ijobiy tendensiya. Uni davom ettirish uchun quyidagilar taklif etiladi: jismoniy shaxslar omonatlarini jalb qilishda raqamli kanallardan foydalanish va guruh brendi ishonchidan foydalanish; uzoq muddatli resurslarni jalb qilish uchun milliy valyutadagi obligatsiyalar chiqarish; ipoteka kreditlarini qayta moliyalashtirish mexanizmlaridan faol foydalanish; xorijiy valyutadagi qarzlar ulushini cheklash va valyuta riskini xedjlash. Bank ipoteka kreditlash sohasida an'anaviy yetakchi bo'lgani sababli uzoq muddatli milliy valyutadagi resurslar muammosi uning uchun ayniqsa dolzarb.
+
+**4. Biznes modelni takomillashtirish.** Xorijiy investor ishtirokidagi bankning “saralab olish” xavfi – ya'ni kam riskli yirik mijozlarga e'tibor qaratib, ijtimoiy ahamiyatli segmentlardan chiqib ketish – 1.2-paragrafda ko'rib chiqilgan{mian2006,detragiache2008}. “Ipoteka-bank” uchun bu xavfni kamaytirish va bozor ulushini tiklash maqsadida ipoteka, kichik va o'rta biznes hamda chakana kreditlashni asosiy yo'nalishlar sifatida saqlash, ularda guruhning skoring va raqamli texnologiyalaridan foydalanish taklif etiladi. Bu bankning ijtimoiy rolini saqlagan holda rentabellik va risk muvozanatini ta'minlaydi.
+
+**5. Korporativ boshqaruvni takomillashtirish.** Korporativ boshqaruv kanali uzoq muddatda eng kuchli ijobiy ta'sirga ega ekani ekspert so'rovi natijalarida ham tasdiqlandi (2.8-jadval). Uni yanada kuchaytirish uchun: kuzatuv kengashida mustaqil a'zolar ulushini kamida uchdan bir qismga yetkazish; kengash tarkibida mahalliy bozorni yaxshi biladigan mustaqil mutaxassislar ishtirokini ta'minlash; risk va audit qo'mitalarini mustaqil a'zolar boshchiligida tashkil etish; guruh ichidagi operatsiyalar (bosh bank bilan kreditlar, depozitlar, xizmatlar) bo'yicha alohida tasdiqlash tartibini o'rnatish taklif etiladi{bcbs_gov}.
+
+**6. Nazorat organi uchun tavsiyalar.** Xorijiy bank guruhi sho'ba banki barqarorligini ta'minlashda mezbon mamlakat nazorat organining roli muhim. Global moliyaviy inqiroz tajribasi (2.1-paragraf) asosida Markaziy bankka quyidagilar tavsiya etiladi: bosh bank faoliyatini nazorat qiluvchi organ bilan axborot almashinuvi va hamkorlik to'g'risidagi memorandumni imzolash va nazorat kollegiyalarida ishtirok etish; sho'ba bankning bosh bank va guruh kompaniyalariga nisbatan talablari (guruh ichidagi ekspozitsiyalar) uchun limitlar belgilash; bank barqarorligi pasaygan holatlarda dividendlar to'lashni cheklash vakolatidan foydalanish; tizimli ahamiyatga ega banklar uchun inqirozni hal qilish rejalarini ishlab chiqish{bcbs_core}.
+
+**7. Davlat banklarini xususiylashtirish siyosati uchun tavsiyalar.** “Ipoteka-bank” tajribasi keyingi xususiylashtirish bitimlari uchun muhim saboqlar beradi. Birinchidan, sotishdan oldin xalqaro standartlar asosida aktivlar sifatini mustaqil baholash (AQR) o'tkazish lozim: bu bitimdan keyingi “kutilmagan” zararlar va investor bilan nizolarni kamaytiradi, sotish narxini esa aniqroq belgilash imkonini beradi. Ikkinchidan, sotishdan keyin davlat resurslarini bankdan olib chiqish jadvali bitim shartlarida oldindan belgilanishi kerak. Uchinchidan, investorning kapital kiritish, biznes rivojlantirish va ijtimoiy segmentlarni saqlash bo'yicha majburiyatlari bitim shartlariga kiritilishi lozim. To'rtinchidan, integratsiyaning yetti bosqichli modeli (2.1-rasm) asosida bitimdan keyingi monitoring tizimini joriy etish maqsadga muvofiq.
+
+Taklif etilayotgan chora-tadbirlar, mas'ul ijrochilar va natijani baholash ko'rsatkichlari 3.14-jadvalda umumlashtirilgan.
+
+TABLE 3.14: Xorijiy strategik investor ishtirokida bank barqarorligini ta'minlash bo'yicha chora-tadbirlar matritsasi
+| Yo'nalish | Asosiy chora-tadbirlar | Mas'ul | Maqsadli ko'rsatkich (2030) |
+| Kapital | Dividend siyosatini cheklash; ichki kapital maqsadi; subordinatsiyalangan qarz | Bank, aksiyador | CAR ≥ 16–17% |
+| Aktivlar sifati | Muammoli kreditlarni hal etish strategiyasi; erta ogohlantirish tizimi | Bank | NPL < <<4>>% |
+| Resurs bazasi | Omonatlarni jalb qilish; milliy valyutadagi obligatsiyalar; qayta moliyalashtirish | Bank | LTD < <<130>>% |
+| Biznes model | Ipoteka, KO'B va chakana segmentlarda skoring va raqamli kanallar | Bank | Bozor ulushi ≥ <<7>>% |
+| Korporativ boshqaruv | Mustaqil a'zolar; risk va audit qo'mitalari; guruh ichidagi operatsiyalar nazorati | Bank, aksiyador | Mustaqil a'zolar ≥ 1/3 |
+| Nazorat | Transchegaraviy hamkorlik; guruh ichidagi ekspozitsiya limitlari; dividend cheklovlari | Markaziy bank | Memorandum imzolangan |
+| Xususiylashtirish siyosati | Sotishdan oldingi AQR; resurslarni olib chiqish jadvali; investor majburiyatlari | Iqtisodiyot va moliya vazirligi | Keyingi bitimlar soni |
+NOTE: Manba: muallif ishlanmasi. Ko'k rangdagi qiymatlar taxminiy maqsadli darajalar.
+
+**Ipoteka segmentidagi o'rnini tiklash strategiyasi.** 3.1-paragrafda ko'rsatilganidek, integratsiyadan keyin bank kredit portfelida ipoteka kreditlari ulushi kamaygan. Bu holat bankning tarixiy ixtisoslashuvi va brendining asosi bo'lgan segmentda mavqeining zaiflashishini anglatadi. Tadqiqot natijalariga ko'ra, ipoteka segmentida o'rnini tiklash quyidagi yo'nalishlarda amalga oshirilishi mumkin: (a) bozor shartlaridagi ipoteka mahsulotlarini guruhning skoring modellari asosida standartlashtirish va rasmiylashtirish muddatini qisqartirish; (b) quruvchi kompaniyalar bilan hamkorlikda birlamchi bozordagi uy-joylarni kreditlash dasturlarini kengaytirish; (c) ipoteka kreditlarini qayta moliyalashtirish mexanizmlaridan va milliy valyutadagi uzoq muddatli obligatsiyalardan foydalanib, resurslar muddatini kreditlar muddatiga moslashtirish; (d) davlat dasturlarida byudjet subsidiyalari asosidagi shaffof mexanizmlarda ishtirok etish. Ipoteka kreditlari odatda garov bilan to'liq ta'minlangan va muammoli kreditlar ulushi past bo'lgan segment hisoblanadi, shu sababli uning ulushini oshirish bank barqarorligining aktivlar sifati komponentini ham yaxshilaydi.
+
+**Keyingi xususiylashtirish bitimlari uchun model tanlash.** “Ipoteka-bank” tajribasi va 2.1-paragrafda tahlil qilingan xususiylashtirish modellari asosida xususiylashtirish rejalashtirilgan banklar uchun maqbul modellar bo'yicha tavsiyalar ishlab chiqildi (3.i-jadval).
+
+TABLE 3.i: Davlat banklarini xususiylashtirish modellari bo'yicha tavsiyalar
+| Bank turi | Tavsiya etiladigan model | Asoslash |
+| Yirik universal davlat banklari (tizimli ahamiyatga ega) | Xalqaro moliya institutining ozchilik ulushi → strategik investor yoki IPO | Tizimli ahamiyat va hajm tufayli bosqichma-bosqich yondashuv; boshqaruvni oldindan takomillashtirish |
+| O'rta hajmdagi universal banklar | Nazorat paketini xorijiy strategik investorga sotish (“Ipoteka-bank” modeli) | Boshqaruvda tub o'zgarishlar; xorijiy guruh tajribasi |
+| Ixtisoslashgan banklar | Ixtisoslashuvga mos strategik investor yoki mahalliy xususiy investor | Biznes model va mijozlar bazasini saqlash |
+| Barcha holatlarda | Sotishdan oldin AQR; davlat resurslarini olib chiqish jadvali; investor majburiyatlari | Bitim narxini oshirish va integratsiya risklarini kamaytirish |
+NOTE: Manba: muallif ishlanmasi{pf5992,spot_privat}.
+
+**Bank barqarorligi ko'rsatkichlarining prognozi.** Bank barqarorligi ko'rsatkichlarining 2026–2030-yillarga mo'ljallangan prognozi ssenariy yondashuvi asosida ishlab chiqildi. Prognozlashda quyidagi metodologiya qo'llanildi. Birinchidan, bank aktivlarining o'sish trendi log-chiziqli model bilan baholandi:
+
+$$ ln A_t = a + b·t + ε_t (3.2)
+
+2019–2025-yillar ma'lumotlari bo'yicha bank aktivlarining o'rtacha yillik o'sish sur'ati <<10,9>> foizni tashkil etdi. Ikkinchidan, makroiqtisodiy sharoit va bank strategiyasi bo'yicha farazlar asosida uch ssenariy shakllantirildi. Uchinchidan, har bir ssenariy uchun rentabellik, kapital yetarliligi va muammoli kreditlar ulushi, so'ngra 3.2-paragrafdagi metodika bo'yicha BBII qiymatlari hisoblandi. Ssenariylar farazlari quyidagicha:
+
+- **inersion ssenariy** – makroiqtisodiy o'sish sekinlashadi, bank kredit faolligi cheklangan bo'lib qoladi, muammoli kreditlarni hal etish sekin kechadi; aktivlar yiliga <<8>> foiz o'sadi;
+- **bazaviy ssenariy** – iqtisodiy o'sish joriy sur'atda davom etadi, bank taklif etilgan chora-tadbirlarni qisman amalga oshiradi; aktivlar yiliga <<13>> foiz o'sadi;
+- **optimistik ssenariy** – taklif etilgan chora-tadbirlar to'liq amalga oshiriladi, muammoli kreditlar tez hal etiladi, bank bozor ulushini tiklaydi; aktivlar yiliga <<18>> foiz o'sadi.
+
+Shuni ta'kidlash lozimki, 2026-yilning birinchi yarmida bank 1,24 trln so'm sof foyda olib, sof foydasini o'tgan yilning mos davriga nisbatan 43 foizga oshirgan, ROE 26,2 foizni tashkil etgan{ipoteka_h126}. Bu dastlabki natijalar bazaviy va optimistik ssenariylarga mos keladi. Prognoz natijalari 3.15-jadvalda keltirilgan.
+
+Ssenariylarning makroiqtisodiy farazlari 3.d-jadvalda keltirilgan.
+
+TABLE 3.d: Prognoz ssenariylarining asosiy makroiqtisodiy farazlari (2026–2030-yillar o'rtacha)
+| Faraz | Inersion | Bazaviy | Optimistik |
+| Real YaIM o'sishi, % | <<4,5>> | <<6,0>> | <<7,0>> |
+| Inflyatsiya, % | <<10,0>> | <<7,0>> | <<5,0>> |
+| So'mning AQSh dollariga nisbatan yillik qadrsizlanishi, % | <<10>> | <<6>> | <<4>> |
+| Bank tizimi aktivlarining o'sishi, % | <<12>> | <<16>> | <<20>> |
+| “Ipoteka-bank” aktivlarining o'sishi, % | <<8>> | <<13>> | <<18>> |
+| Muammoli kreditlarni hal etish (yillik hisobdan chiqarish va undirish), NPL ulushidan % | <<10>> | <<20>> | <<30>> |
+NOTE: Manba: muallif farazlari. Ko'k rangdagi qiymatlar taxminiy.
+
+TABLE 3.15: “Ipoteka-bank” barqarorligi ko'rsatkichlarining 2026–2030-yillarga mo'ljallangan prognozi
+| Ssenariy | Ko'rsatkich | 2025 (fakt/baho) | 2026 | 2027 | 2028 | 2029 | 2030 |
+| Inersion | Aktivlar, trln so'm | <<57,4>> | <<62,0>> | <<67,0>> | <<72,3>> | <<78,1>> | <<84,3>> |
+| Inersion | ROA, % | 3,5 | <<3,0>> | <<2,8>> | <<2,7>> | <<2,6>> | <<2,6>> |
+| Inersion | NPL, % | <<7,1>> | <<6,9>> | <<6,6>> | <<6,4>> | <<6,2>> | <<6,0>> |
+| Inersion | CAR, % | <<17,9>> | <<17,2>> | <<16,9>> | <<16,7>> | <<16,6>> | <<16,5>> |
+| Inersion | BBII | <<0,741>> | <<0,73>> | <<0,73>> | <<0,74>> | <<0,74>> | <<0,75>> |
+| Bazaviy | Aktivlar, trln so'm | <<57,4>> | <<64,9>> | <<73,3>> | <<82,8>> | <<93,6>> | <<105,8>> |
+| Bazaviy | ROA, % | 3,5 | <<3,4>> | <<3,2>> | <<3,1>> | <<3,0>> | <<3,0>> |
+| Bazaviy | NPL, % | <<7,1>> | <<6,3>> | <<5,5>> | <<4,9>> | <<4,4>> | <<4,0>> |
+| Bazaviy | CAR, % | <<17,9>> | <<17,5>> | <<17,3>> | <<17,1>> | <<17,0>> | <<17,0>> |
+| Bazaviy | BBII | <<0,741>> | <<0,75>> | <<0,77>> | <<0,79>> | <<0,80>> | <<0,81>> |
+| Optimistik | Aktivlar, trln so'm | <<57,4>> | <<67,7>> | <<79,9>> | <<94,3>> | <<111,3>> | <<131,3>> |
+| Optimistik | ROA, % | 3,5 | <<3,6>> | <<3,5>> | <<3,4>> | <<3,3>> | <<3,3>> |
+| Optimistik | NPL, % | <<7,1>> | <<5,6>> | <<4,5>> | <<3,8>> | <<3,3>> | <<3,0>> |
+| Optimistik | CAR, % | <<17,9>> | <<17,8>> | <<17,6>> | <<17,5>> | <<17,5>> | <<17,5>> |
+| Optimistik | BBII | <<0,741>> | <<0,77>> | <<0,80>> | <<0,83>> | <<0,85>> | <<0,86>> |
+NOTE: Manba: muallif hisob-kitoblari. ROA 2025 – MHXS bo'yicha fakt{ipoteka_2025}. Ko'k rangdagi qiymatlar taxminiy va prognoz qiymatlar.
+
+Prognoz natijalariga ko'ra, bazaviy ssenariyda bank barqarorligining integral indeksi 2026-yilda “yuqori” barqarorlik chegarasiga (0,75) yetadi va 2030-yilga qadar <<0,81>> gacha oshadi. Optimistik ssenariyda indeks yanada tezroq o'sib, 2030-yilda <<0,86>> ga yetadi. Inersion ssenariyda esa indeks “qoniqarli” darajada qolib, faqat 2030-yilda “yuqori” chegaraga yaqinlashadi. Ssenariylar o'rtasidagi asosiy farq muammoli kreditlar ulushining qisqarish sur'ati bilan belgilanadi: bu ko'rsatkich bank barqarorligining asosiy “dastagi” hisoblanadi. Demak, taklif etilgan chora-tadbirlar orasida aktivlar sifatini yaxshilashga qaratilgan choralar ustuvor ahamiyatga ega.
+
+**BBII ning muammoli kreditlar ulushiga sezgirligi.** Prognoz natijalari bank barqarorligi asosan aktivlar sifatiga bog'liqligini ko'rsatdi. Bu bog'liqlikni miqdoriy baholash uchun 2025-yil ko'rsatkichlari asosida NPL ulushining turli qiymatlarida BBII hisoblandi. NPL ulushi 7,1 foizdan 4 foizgacha pasayganda aktivlar sifati komponentining bali 4 dan 3 ga yaxshilanadi, kompozit CAMELS bali 2,40 dan 2,15 ga kamayadi va BBII <<0,741>> dan <<0,780>> ga oshadi, ya'ni bank “yuqori” barqarorlik darajasiga o'tadi. NPL ulushi 2–4 foiz oralig'iga tushganda esa BBII <<0,817>> ga yetadi. Aksincha, NPL ulushi 10 foizdan oshsa, BBII <<0,704>> gacha pasayadi. Demak, muammoli kreditlar ulushini 3 foiz punktga kamaytirish bank barqarorligi indeksini taxminan 5 foizga oshiradi, bu esa aktivlar sifatini yaxshilash barqarorlikni oshirishning eng samarali yo'nalishi ekanini tasdiqlaydi.
+
+**Stress-test elementlari.** Prognozlarning ishonchliligini tekshirish uchun bazaviy ssenariyga nisbatan ikki stress-ssenariy ko'rib chiqildi: (a) milliy valyutaning <<25>> foizga qadrsizlanishi va (b) iqtisodiy o'sishning keskin sekinlashishi natijasida muammoli kreditlar ulushining <<5>> foiz punktga oshishi. Birinchi stress-ssenariyda kapital yetarliligi taxminan <<1,8>> foiz punktga, ikkinchisida <<2,9>> foiz punktga pasayadi, biroq har ikki holatda ham u minimal talabdan (13 foiz) yuqori darajada saqlanadi. Bu natijalar bankning joriy kapital buferi o'rtacha zarbalarga bardosh berish uchun yetarli ekanini, biroq ikkala zarba bir vaqtda ro'y berganda bosh bank tomonidan qo'shimcha kapital kiritish talab etilishi mumkinligini ko'rsatadi.
+
+**Xususiylashtirilgan banklar integratsiyasini monitoring qilish ko'rsatkichlari.** Tadqiqot natijalari asosida davlat banklarini xorijiy strategik investorga sotishdan keyingi integratsiyani monitoring qilish uchun ko'rsatkichlar tizimi taklif etiladi (3.16-jadval). U Iqtisodiyot va moliya vazirligi hamda Markaziy bank tomonidan keyingi xususiylashtirish bitimlarida qo'llanilishi mumkin.
+
+TABLE 3.16: Xorijiy strategik investorga sotilgan bank integratsiyasini monitoring qilish ko'rsatkichlari tizimi
+| Ta'sir kanali | Ko'rsatkich | Integratsiyaning 1-yili | 2–3-yillar | 4–5-yillar |
+| Kapital | Kapital yetarliligi, % | ≥ 13 (minimal) | ≥ 15 | ≥ 16 |
+| Korporativ boshqaruv | Kuzatuv kengashida mustaqil a'zolar ulushi | ≥ 1/4 | ≥ 1/3 | ≥ 1/3 |
+| Risk-menejment | NPL ulushi (MHXS 9 bo'yicha Stage 3) | Tan olish bosqichi – oshishi mumkin | Pasayish tendensiyasi | < 5% |
+| Risk-menejment | Muammoli kreditlarning zaxiralar bilan qoplanishi, % | ≥ 50 | ≥ 60 | ≥ 70 |
+| Texnologiya | Xarajatlar/daromadlar (CIR), % | Oshishi mumkin | < 50 | < 45 |
+| Bozor | Kreditlar/depozitlar, % | Pasayish tendensiyasi | < 160 | < 130 |
+| Integral | BBII | ≥ 0,5 | ≥ 0,65 | ≥ 0,75 |
+NOTE: Manba: muallif ishlanmasi.
+
+Ushbu ko'rsatkichlar tizimining o'ziga xosligi shundaki, unda integratsiyaning birinchi yilida ayrim ko'rsatkichlar (NPL, CIR) yomonlashishi mumkinligi oldindan hisobga olinadi va bu vaqtinchalik holat sifatida baholanadi. Bu nazorat organlari va jamoatchilik tomonidan integratsiya natijalarini noto'g'ri talqin qilish xavfini kamaytiradi.
+
+**Chora-tadbirlarni amalga oshirish yo'l xaritasi.** Taklif etilgan chora-tadbirlarni amalga oshirish bosqichlari 3.f-jadvalda keltirilgan.
+
+TABLE 3.f: Xorijiy strategik investor ishtirokida bank barqarorligini ta'minlash chora-tadbirlarini amalga oshirish yo'l xaritasi
+| Bosqich va muddat | Bank darajasidagi tadbirlar | Nazorat va davlat darajasidagi tadbirlar | Kutilayotgan natija |
+| 1-bosqich (2026) | Muammoli kreditlarni hal etish strategiyasini qabul qilish; dividend siyosatini qayta ko'rib chiqish; erta ogohlantirish tizimini joriy etish | Bosh bank nazorat organi bilan memorandum loyihasini tayyorlash; BBII metodikasini sinovdan o'tkazish | NPL ulushining pasayish tendensiyasi; BBII ≥ 0,75 |
+| 2-bosqich (2027–2028) | Milliy valyutadagi obligatsiyalar chiqarish; ipoteka va KO'B segmentlarida raqamli mahsulotlarni kengaytirish; kuzatuv kengashida mustaqil a'zolar ulushini oshirish | Guruh ichidagi ekspozitsiyalar limitlarini joriy etish; keyingi xususiylashtirish bitimlarida AQR o'tkazish | Resurs bazasi barqarorligi; bozor ulushining barqarorlashuvi |
+| 3-bosqich (2029–2030) | Ipoteka bozoridagi yetakchilikni tiklash; to'liq egalikka o'tishni yakunlash | Integratsiya monitoringi ko'rsatkichlari tizimini barcha xususiylashtirilgan banklarga joriy etish | BBII ≥ 0,80; NPL < 4% |
+NOTE: Manba: muallif ishlanmasi.
+
+**Risklar matritsasi.** Bank barqarorligiga tahdid soluvchi asosiy risklar, ularning ehtimoli, ta'siri va kamaytirish choralari 3.g-jadvalda keltirilgan.
+
+TABLE 3.g: Xorijiy strategik investor ishtirokidagi bank barqarorligiga tahdid soluvchi risklar matritsasi
+| Risk | Ehtimoli | Ta'siri | Kamaytirish choralari |
+| Aktivlar sifatining yanada yomonlashishi | O'rtacha | Yuqori | Muammoli kreditlarni hal etish strategiyasi; erta ogohlantirish; zaxiralar bilan qoplanganlikni oshirish |
+| Bosh bank guruhidagi muammolar (yuqumlilik) | Past | Yuqori | Mustaqil kapital va likvidlik buferlari; guruh ichidagi ekspozitsiya limitlari; transchegaraviy nazorat |
+| Valyuta riski | O'rtacha | O'rtacha | Ochiq valyuta pozitsiyasi limitlari; xedjlash; milliy valyutadagi resurslar ulushini oshirish |
+| Omonatlar bozoridagi raqobat va resurs narxining oshishi | Yuqori | O'rtacha | Raqamli kanallar; brend ishonchi; resurs bazasini diversifikatsiya qilish |
+| Makroiqtisodiy sekinlashuv | O'rtacha | Yuqori | Stress-testlar; kontrsiklik kapital buferi; kredit siyosatini moslashtirish |
+| Operatsion va kiberxavfsizlik risklari | O'rtacha | O'rtacha | Guruh standartlari; axborot xavfsizligi tizimi; uzluksizlik rejalari |
+| Ijtimoiy segmentlardan chiqish (reputatsion risk) | O'rtacha | O'rtacha | Ipoteka va KO'B segmentlarida yetakchilikni saqlash; ijtimoiy mas'uliyat dasturlari |
+NOTE: Manba: muallif ishlanmasi.
+
+## III bob bo'yicha xulosalar
+
+Birinchidan, “Ipoteka-bank”ning integratsiyadan oldingi (2019–2022) va keyingi (2023–2025) davrlardagi ko'rsatkichlarini qiyosiy tahlil qilish natijasida xorijiy strategik investor ishtirokida bankning kapitallashuvi, resurs bazasi tuzilmasi, xarajatlar samaradorligi va rentabelligi yaxshilangani aniqlandi: 2024-yilda MHXS bo'yicha ROE 30,4 foizni, ROA 4,0 foizni, xarajatlarning daromadlarga nisbati 38 foizni tashkil etdi. Shu bilan birga, muammoli kreditlarni tan olish natijasida aktivlar sifati ko'rsatkichlari vaqtincha yomonlashdi: 2024-yilda NPL ulushi 10,2 foizga yetdi.
+
+Ikkinchidan, ekonometrik tahlil natijalari xorijiy strategik investor ishtirokining bank samaradorligi va barqarorligiga ijobiy ta'sirini tasdiqladi. DEA bo'yicha bank samaradorligi davlat banklaridan sezilarli yuqori va xususiy banklarga yaqin; Malmquist indeksi mahsuldorlik o'sishi asosan bankning o'z samaradorligi oshishi hisobiga bo'lganini ko'rsatdi. Farqlar farqi va voqealar tahlili natijalariga ko'ra, ta'sir “J-simon” traektoriyaga ega: integratsiya yilida salbiy, keyingi yillarda esa ijobiy va statistik jihatdan ahamiyatli. Bank barqarorligining integral indeksi 2023-yilda pasayib, 2025-yilda kuzatuv davridagi eng yuqori qiymatga yetdi.
+
+Uchinchidan, bank barqarorligini ta'minlash bo'yicha kapitalni boshqarish, aktivlar sifatini yaxshilash, resurs bazasini diversifikatsiya qilish, biznes modelni takomillashtirish, korporativ boshqaruv, nazorat va xususiylashtirish siyosatiga oid chora-tadbirlar matritsasi ishlab chiqildi. 2026–2030-yillar prognozlariga ko'ra, bazaviy ssenariyda bank barqarorligining integral indeksi 2026-yilda “yuqori” barqarorlik chegarasiga yetadi; ssenariylar o'rtasidagi asosiy farq muammoli kreditlar ulushining qisqarish sur'ati bilan belgilanadi.

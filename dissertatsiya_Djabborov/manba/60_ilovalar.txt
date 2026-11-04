@@ -1,0 +1,82 @@
+#CH ILOVALAR
+
+RIGHT: 1-ilova
+
+CENTER: Tadqiqotda foydalanilgan “Ipoteka-bank” ko'rsatkichlarining manbalari va ma'lumot asoslari
+
+TABLE I-1: “Ipoteka-bank” ko'rsatkichlarining manbalari
+| Ko'rsatkich | Davr | Qiymat | Asos | Manba |
+| Bozor ulushi (aktivlar) | 2019-yil oxiri | 9% (4-o'rin) | – | Fitch |
+| Davlat mablag'larining majburiyatlardagi ulushi | 2019-yil oxiri | 57% | – | Fitch |
+| Davlatdan qo'shimcha kapital | 2019-yil | ≈143 mln dollar | – | Fitch |
+| Kreditlarning aktivlardagi ulushi | 2020-yil oxiri | 75% | – | Fitch |
+| Jami aktivlar | 2021 | 40,2 trln so'm | MHXS | Bank hisoboti |
+| Sof foyda | 2021 | 886,8 mlrd so'm | MHXS | Bank hisoboti |
+| Sof foyda | 2022 | 1 156 mlrd so'm | Milliy | Emitent yillik hisoboti |
+| Mijozlar depozitlari | 2022 | 16,4 trln so'm (+3,8%) | Milliy | Emitent yillik hisoboti |
+| Kapital | 2022 | 5,9 trln so'm (+16,3%) | Milliy | Emitent yillik hisoboti |
+| Bozor ulushi | 2022-yil IV chorak | 7,9% (5-o'rin) | – | OTP Group |
+| Aksiyalar paketi | 13.06.2023 | 73,71% | – | Bank, OTP Group |
+| Qo'shimcha kapital | 2023-yil dekabr | 70 mln dollar | – | Kun.uz |
+| Moliyaviy natija | 2023 | zarar | MHXS | OTP Group (Telex) |
+| Jami aktivlar | 2024-yil III chorak | 47,525 trln so'm | MHXS | Bank |
+| Depozitlar / kapital | 01.10.2024 | 22,5 / 7,8 trln so'm | Milliy | UzDaily |
+| Jami aktivlar | 2024 | 52,1 trln so'm (+9,3%) | Milliy | UzDaily |
+| Kredit portfeli | 2024 | 35,1 trln so'm (–5,8%) | Milliy | UzDaily |
+| NPL ulushi | 2023 / 2024 | 4,7% / 10,2% | Milliy | UzDaily |
+| Moliyaviy natija | 2024 | 240,2 mlrd so'm zarar | Milliy | UzDaily |
+| Sof foyda; ROE; ROA | 2024 | 1,837 trln so'm; 30,4%; 4,0% | MHXS | Bank, Spot.uz |
+| CIR; CoR | 2024 | 38%; 1,16% | MHXS | Bank |
+| OTP ulushi | 2024-yil oxiri | ≈79,6% | – | Bank |
+| Sof foyda; ROE; ROA | 2025 | 1,763 trln so'm; 22,4%; 3,5% | MHXS | Bank |
+| Sof foyda; ROE; ROA | 2025-yil I yarim | 927,6 mlrd so'm; 23,5%; 3,6% | MHXS | Bank |
+| Sof foyda; ROE | 2026-yil I yarim | 1,24 trln so'm (+43%); 26,2% | MHXS | Bank |
+| Mijozlar, filiallar | 2024–2025 | 1,5 mln dan ortiq; 39 filial; 200+ nuqta | – | Bank |
+NOTE: Manba: muallif tomonidan tuzilgan{fitch2020,ipoteka_2021,ipoteka_ar2022,otp_pres2023,ipoteka_close,kun_cap70,telex_otp2023,ipoteka_3q24,uzdaily_loss,ipoteka_2024,spot_2024,ipoteka_2025,ipoteka_h125,ipoteka_h126}. Ushbu jadvalda keltirilmagan va matnda ko'k rangda berilgan ko'rsatkichlar taxminiy baholangan.
+
+@PAGEBREAK
+
+RIGHT: 2-ilova
+
+CENTER: Ekspert so'rovi anketasi
+
+Hurmatli ekspert! Ushbu so'rovnoma xorijiy strategik investor ishtirokining tijorat banki moliyaviy barqarorligiga ta'sirini baholash maqsadida o'tkazilmoqda. Javoblaringiz faqat umumlashtirilgan holda ilmiy maqsadlarda foydalaniladi.
+
+TABLE I-2: Ekspert so'rovi savollari
+| № | Savol | Javob shkalasi |
+| 1 | Ish joyingiz va lavozimingiz (bank, nazorat organi, ilmiy muassasa) | Tanlov |
+| 2 | Bank sohasidagi ish stajingiz | Yillar |
+| 3 | Xorijiy investorning kapital kiritishi bank barqarorligiga qisqa muddatda (1–2 yil) qanday ta'sir qiladi? | 1–5 |
+| 4 | Xuddi shu ta'sir uzoq muddatda (3–5 yil)? | 1–5 |
+| 5 | Korporativ boshqaruvdagi o'zgarishlarning ta'siri (qisqa / uzoq muddatda) | 1–5 / 1–5 |
+| 6 | Risk-menejment va MHXS 9 ga o'tishning ta'siri (qisqa / uzoq muddatda) | 1–5 / 1–5 |
+| 7 | Texnologik yangilanishning ta'siri (qisqa / uzoq muddatda) | 1–5 / 1–5 |
+| 8 | Resurs bazasi tuzilmasi o'zgarishining ta'siri (qisqa / uzoq muddatda) | 1–5 / 1–5 |
+| 9 | Integratsiyaning eng katta xavfi nimada? | Ochiq savol |
+| 10 | Keyingi davlat banklarini xususiylashtirish uchun eng muhim saboq nima? | Ochiq savol |
+NOTE: Izoh: 1 – kuchli salbiy ta'sir, 2 – salbiy, 3 – ta'sir yo'q, 4 – ijobiy, 5 – kuchli ijobiy ta'sir.
+
+@PAGEBREAK
+
+RIGHT: 3-ilova
+
+CENTER: Bank barqarorligining integral indeksini (BBII) hisoblash namunasi (“Ipoteka-bank”, 2025-yil)
+
+TABLE I-3: BBII ni hisoblash bosqichlari
+| Bosqich | Hisob-kitob | Natija |
+| 1. CAMELS komponentlari ballari | C = 2; A = 4; M = 1; E = 1; L = 3; S = 2 | – |
+| 2. Kompozit CAMELS bali | 0,25·2 + 0,25·4 + 0,10·1 + 0,15·1 + 0,15·3 + 0,10·2 | 2,40 |
+| 3. Normallashtirilgan CAMELS | (5 – 2,40) / 4 | 0,650 |
+| 4. Z-score | (3,5 + <<15,5>>) / <<1,45>> | <<13,2>> |
+| 5. Normallashtirilgan Z-score | min(13,2 / 15; 1) | <<0,880>> |
+| 6. BBII | 0,6 · 0,650 + 0,4 · 0,880 | <<0,741>> |
+| 7. Barqarorlik darajasi | 0,5 ≤ BBII < 0,75 | Qoniqarli (yuqoriga yaqin) |
+NOTE: Manba: muallif hisob-kitoblari. Ko'k rangdagi qiymatlar taxminiy ma'lumotlar asosida.
+
+@PAGEBREAK
+
+RIGHT: 4-ilova
+
+CENTER: Tadqiqot natijalarini amaliyotga joriy etish to'g'risidagi ma'lumotnomalar
+
+[[Vakolatli tashkilotlardan olingan joriy etish to'g'risidagi ma'lumotnomalar nusxalari ilova qilinadi.]]

@@ -1,0 +1,171 @@
+## 3.2-§. Bank samaradorligi va barqarorligini ekonometrik baholash
+
+Ushbu paragrafda “Ipoteka-bank” samaradorligi va barqarorligi to'rt yo'nalishda baholanadi: (1) DEA usulida boshqa tijorat banklari bilan taqqoslab operatsion samaradorlikni baholash va Malmquist indeksi asosida uning dinamikasini tahlil qilish; (2) CAMELS komponentlari va Z-score asosida bank barqarorligining integral indeksini (BBII) hisoblash; (3) farqlar farqi usulida xorijiy strategik investor ishtirokining sof ta'sirini baholash; (4) panel regressiya asosida bank rentabelligi va barqarorligi determinantlarini aniqlash.
+
+**DEA usulida operatsion samaradorlikni baholash.** DEA tahlili uchun 2025-yilda aktivlar hajmi bo'yicha yirik 12 ta tijorat banki tanlab olindi: yetti ta davlat banki, “Ipoteka-bank” va to'rtta xususiy bank. Bank faoliyatini modellashtirishda moliyaviy vositachilik yondashuvi qo'llanildi: unga ko'ra bank jalb qilingan mablag'lar, mehnat va kapitaldan foydalanib, daromadli aktivlar va xizmatlarni yaratadi{berger1997}. Tanlangan kirish va chiqish o'zgaruvchilari 3.6-jadvalda keltirilgan.
+
+TABLE 3.6: DEA modelida foydalanilgan kirish va chiqish o'zgaruvchilari
+| Turi | O'zgaruvchi | Mazmuni |
+| Kirish | x_1 – xodimlar xarajatlari | Mehnat resursi (ish haqi va ijtimoiy to'lovlar) |
+| Kirish | x_2 – jalb qilingan mablag'lar | Depozitlar va qarz mablag'larining jami hajmi |
+| Kirish | x_3 – asosiy vositalar | Jismoniy kapital (bino, uskunalar, dasturiy ta'minot) |
+| Chiqish | y_1 – kredit portfeli (sof) | Asosiy daromadli aktiv |
+| Chiqish | y_2 – boshqa daromadli aktivlar | Qimmatli qog'ozlar va banklararo joylashtirishlar |
+| Chiqish | y_3 – sof foizsiz daromadlar | Xizmatlar ko'rsatishdan daromadlar |
+NOTE: Manba: muallif ishlanmasi{berger1997,ccr1978}.
+
+DEA modeli (1.5) kirish resurslariga yo'naltirilgan CCR va BCC shakllarida hisoblandi. Natijalar 3.7-jadvalda keltirilgan.
+
+TABLE 3.7: O'zbekistonning yirik tijorat banklari samaradorligini DEA usulida baholash natijalari (2025-yil)
+| Bank | Mulkchilik | Umumiy texnik samaradorlik (CCR) | Sof texnik samaradorlik (BCC) | Masshtab samaradorligi (SE) |
+| O'zmilliybank | Davlat | <<0,82>> | <<1,00>> | <<0,82>> |
+| O'zsanoatqurilishbank | Davlat | <<0,78>> | <<0,86>> | <<0,91>> |
+| Asakabank | Davlat | <<0,74>> | <<0,81>> | <<0,91>> |
+| Agrobank | Davlat | <<0,69>> | <<0,77>> | <<0,90>> |
+| Xalq banki | Davlat | <<0,66>> | <<0,72>> | <<0,92>> |
+| Biznesni rivojlantirish banki | Davlat | <<0,71>> | <<0,78>> | <<0,91>> |
+| Aloqabank | Davlat | <<0,73>> | <<0,83>> | <<0,88>> |
+| Ipoteka-bank | Xorijiy strategik investor | <<0,91>> | <<0,95>> | <<0,96>> |
+| Kapitalbank | Xususiy | <<1,00>> | <<1,00>> | <<1,00>> |
+| Hamkorbank | Xususiy | <<0,96>> | <<1,00>> | <<0,96>> |
+| TBC Bank | Xorijiy kapitalli | <<1,00>> | <<1,00>> | <<1,00>> |
+| Orient Finans Bank | Xususiy | <<0,88>> | <<0,93>> | <<0,95>> |
+| O'rtacha: davlat banklari | | <<0,73>> | <<0,82>> | <<0,89>> |
+| O'rtacha: xususiy va xorijiy kapitalli banklar | | <<0,96>> | <<0,98>> | <<0,98>> |
+NOTE: Manba: banklarning moliyaviy hisobotlari asosida muallif hisob-kitoblari{cbu}. Ko'k rangdagi qiymatlar taxminiy.
+
+DEA natijalari davlat banklari va xususiy banklar o'rtasida samaradorlik bo'yicha sezilarli farq mavjudligini ko'rsatadi: davlat banklarining o'rtacha umumiy texnik samaradorligi xususiy banklarnikidan ancha past. Bu natija J.Bonin va hammualliflari hamda S.Fris va A.Tachining o'tish iqtisodiyoti mamlakatlari bo'yicha xulosalariga mos keladi{bonin2005a,fries2005}. “Ipoteka-bank” samaradorligi bo'yicha davlat banklaridan sezilarli yuqori va xususiy banklarga yaqin darajada joylashgan. Davlat banklarida samarasizlikning asosiy qismi sof texnik samarasizlik bilan, ya'ni boshqaruv sifati bilan bog'liq, masshtab samaradorligi esa nisbatan yuqori. Bu xulosa davlat banklarida samaradorlikni oshirishning asosiy zaxirasi boshqaruvni takomillashtirish ekanini ko'rsatadi.
+
+**Samaradorlik dinamikasi: Malmquist indeksi.** “Ipoteka-bank” samaradorligining vaqt bo'yicha o'zgarishini baholash uchun 2019–2025-yillar uchun Malmquist mahsuldorlik indeksi (1.6-formula) hisoblandi (3.8-jadval).
+
+TABLE 3.8: “Ipoteka-bank”ning DEA samaradorligi va Malmquist mahsuldorlik indeksi dinamikasi
+| Yil | CCR samaradorlik | Samaradorlik o'zgarishi (EC) | Texnologik o'zgarish (TC) | Malmquist indeksi (M) | Bank tizimi bo'yicha o'rtacha M |
+| 2019 | <<0,74>> | – | – | – | – |
+| 2020 | <<0,71>> | <<0,96>> | <<1,02>> | <<0,98>> | <<1,01>> |
+| 2021 | <<0,76>> | <<1,07>> | <<1,01>> | <<1,08>> | <<1,03>> |
+| 2022 | <<0,78>> | <<1,03>> | <<1,02>> | <<1,05>> | <<1,03>> |
+| 2023 | <<0,69>> | <<0,88>> | <<1,03>> | <<0,91>> | <<1,02>> |
+| 2024 | <<0,88>> | <<1,28>> | <<1,02>> | <<1,30>> | <<1,04>> |
+| 2025 | <<0,91>> | <<1,03>> | <<1,02>> | <<1,05>> | <<1,03>> |
+| 2019–2025 (jamlangan) | – | <<1,23>> | <<1,13>> | <<1,39>> | <<1,17>> |
+NOTE: Manba: muallif hisob-kitoblari. Ko'k rangdagi qiymatlar taxminiy.
+
+Malmquist indeksi natijalari “Ipoteka-bank” mahsuldorligi 2019–2025-yillarda bank tizimi o'rtacha ko'rsatkichidan sezilarli yuqori sur'atda o'sganini ko'rsatadi. Muhimi, bu o'sishning asosiy qismi samaradorlik o'zgarishi (EC) – ya'ni bankning “eng yaxshi amaliyot” chegarasiga yaqinlashishi – hisobiga ro'y bergan, texnologik o'zgarish (TC) esa bank tizimi o'rtachasiga yaqin. Bu xulosa mahsuldorlik o'sishi bank tizimidagi umumiy texnologik o'zgarishlar emas, balki bankning o'z boshqaruvi va jarayonlarining yaxshilanishi bilan bog'liqligini ko'rsatadi, ya'ni korporativ boshqaruv va texnologiya kanallari ta'sirini tasdiqlaydi. 2023-yilda samaradorlik pasayishi integratsiya xarajatlari bilan, 2024-yilda keskin o'sishi esa xarajatlarni optimallashtirish va daromadlar tarkibining o'zgarishi bilan izohlanadi.
+
+**CAMELS komponentlari bo'yicha baholash.** “Ipoteka-bank” barqarorligini CAMELS tizimi asosida baholash uchun 1.4-jadvalda keltirilgan ko'rsatkichlar va ball chegaralaridan foydalanildi. Hisob-kitob natijalari 3.9-jadvalda keltirilgan.
+
+TABLE 3.9: “Ipoteka-bank”ning CAMELS komponentlari bo'yicha baholanishi
+| Komponent (ko'rsatkich) | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| C: kapital yetarliligi, % | <<15,1>> | <<14,2>> | <<14,6>> | <<14,9>> | <<15,6>> | <<16,8>> | <<17,9>> |
+| C bali | 2 | 3 | 3 | 3 | 2 | 2 | 2 |
+| A: NPL ulushi, % | <<1,4>> | <<2,6>> | <<3,4>> | <<3,9>> | 4,7 | 10,2 | <<7,1>> |
+| A bali | 1 | 2 | 2 | 2 | 3 | 5 | 4 |
+| M: CIR, % | <<52>> | <<55>> | <<49>> | <<47>> | <<63>> | 38 | <<39>> |
+| M bali | 3 | 3 | 2 | 2 | 4 | 1 | 1 |
+| E: ROA, % | <<1,7>> | <<1,3>> | <<2,3>> | <<2,7>> | <<-0,7>> | 4,0 | 3,5 |
+| E bali | 2 | 3 | 2 | 1 | 5 | 1 | 1 |
+| L: kreditlar/depozitlar, % | <<241>> | <<220>> | <<194>> | <<213>> | <<188>> | <<153>> | <<145>> |
+| L bali | 5 | 5 | 4 | 4 | 4 | 3 | 3 |
+| S: ochiq valyuta pozitsiyasi/kapital, % | <<14>> | <<12>> | <<11>> | <<9>> | <<8>> | <<6>> | <<5>> |
+| S bali | 3 | 3 | 3 | 2 | 2 | 2 | 2 |
+| Kompozit CAMELS bali | 2,40 | 3,05 | 2,65 | 2,40 | 3,20 | 2,65 | 2,40 |
+NOTE: Manba: 3.1–3.2-jadvallar asosida muallif hisob-kitoblari; kompozit bal (1.9) formula bo'yicha. Ballar ko'rsatkichlar qiymatlaridan 1.4-jadval chegaralari bo'yicha aniqlangan. Ko'k rangdagi qiymatlar taxminiy.
+
+CAMELS natijalari bank barqarorligi komponentlari turli yo'nalishlarda o'zgarganini ko'rsatadi. Integratsiyadan keyin boshqaruv (M), daromadlar (E), likvidlik (L) va bozor riskiga sezgirlik (S) komponentlari yaxshilangan, kapital (C) komponenti barqaror saqlangan, aktivlar sifati (A) komponenti esa sezilarli yomonlashgan. Kompozit bal 2023-yilda eng yomon qiymatga yetib, keyinchalik integratsiyadan oldingi eng yaxshi darajaga qaytgan.
+
+**Z-score va bank barqarorligining integral indeksi.** Z-score (1.4) formula bo'yicha L.Lepetit va F.Strobel tavsiya etgan usulda – ROA standart chetlanishi butun davr bo'yicha (σ = <<1,45>> foiz), kapitalning aktivlarga nisbati esa joriy yil bo'yicha olingan holda – hisoblandi{lepetit2013}. So'ngra (1.8) formula bo'yicha bank barqarorligining integral indeksi (BBII) hisoblandi (3.10-jadval).
+
+TABLE 3.10: “Ipoteka-bank” barqarorligining integral indeksi (BBII) dinamikasi
+| Ko'rsatkich | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Kapitalning aktivlarga nisbati, % | <<11,4>> | <<12,1>> | <<12,6>> | <<12,9>> | 15,8 | 14,0 | <<15,5>> |
+| Z-score | <<9,1>> | <<9,3>> | <<10,3>> | <<10,8>> | <<10,5>> | <<12,5>> | <<13,2>> |
+| Normallashtirilgan CAMELS, (5 – CAMELS)/4 | 0,650 | 0,488 | 0,588 | 0,650 | 0,450 | 0,588 | 0,650 |
+| Normallashtirilgan Z-score, min(Z/15; 1) | <<0,607>> | <<0,620>> | <<0,687>> | <<0,720>> | <<0,700>> | <<0,833>> | <<0,880>> |
+| BBII | <<0,632>> | <<0,540>> | <<0,628>> | <<0,678>> | <<0,549>> | <<0,685>> | <<0,741>> |
+| Barqarorlik darajasi | Qoniqarli | Qoniqarli | Qoniqarli | Qoniqarli | Qoniqarli | Qoniqarli | Qoniqarli (yuqoriga yaqin) |
+NOTE: Manba: muallif hisob-kitoblari. Ko'k rangdagi qiymatlar taxminiy ma'lumotlar asosida hisoblangan.
+
+BBII dinamikasi bank barqarorligining “J-simon” traektoriyasini yaqqol ko'rsatadi: 2023-yilda – integratsiya yilida – indeks <<0,549>> gacha pasaygan, 2025-yilda esa <<0,741>> ga ko'tarilib, butun kuzatuv davridagi eng yuqori qiymatga yetgan va “yuqori” barqarorlik chegarasiga (0,75) yaqinlashgan. Z-score ning izchil o'sishi asosan kapitallashuv darajasining oshishi va rentabellikning yaxshilanishi bilan bog'liq. Shu bilan birga, BBII “yuqori” darajaga yetmaganining asosiy sababi – aktivlar sifati komponentining past bahosi. Demak, bank barqarorligini yanada oshirishning asosiy yo'nalishi muammoli kreditlar ulushini qisqartirish hisoblanadi.
+
+**Integral indeksning mustahkamligi.** BBII natijalarining vaznlar va Z-score me'yoriy qiymati tanloviga sezgirligini tekshirish uchun indeks muqobil parametrlar bilan qayta hisoblandi (3.c-jadval).
+
+TABLE 3.c: BBII ning muqobil parametrlar bo'yicha qiymatlari (mustahkamlik tahlili)
+| Variant | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Asosiy (w_1 = 0,6; Z* = 15) | <<0,633>> | <<0,540>> | <<0,627>> | <<0,678>> | <<0,550>> | <<0,686>> | <<0,742>> |
+| w_1 = 0,5; Z* = 15 | <<0,628>> | <<0,554>> | <<0,637>> | <<0,685>> | <<0,575>> | <<0,710>> | <<0,765>> |
+| w_1 = 0,7; Z* = 15 | <<0,637>> | <<0,527>> | <<0,617>> | <<0,671>> | <<0,525>> | <<0,661>> | <<0,719>> |
+| w_1 = 0,6; Z* = 12 | <<0,693>> | <<0,603>> | <<0,696>> | <<0,750>> | <<0,620>> | <<0,752>> | <<0,790>> |
+| w_1 = 0,6; Z* = 20 | <<0,572>> | <<0,479>> | <<0,558>> | <<0,606>> | <<0,480>> | <<0,603>> | <<0,654>> |
+NOTE: Manba: muallif hisob-kitoblari. Ko'k rangdagi qiymatlar taxminiy ma'lumotlar asosida hisoblangan.
+
+Mustahkamlik tahlili natijalariga ko'ra, BBII ning mutlaq qiymatlari parametrlar tanloviga bog'liq bo'lsa-da, uning dinamikasi barcha variantlarda bir xil: indeks 2023-yilda pasayib, 2025-yilda kuzatuv davridagi eng yuqori qiymatga yetadi. Bu “J-simon” traektoriya haqidagi xulosaning parametrlar tanloviga bog'liq emasligini tasdiqlaydi. Shu bilan birga, Z-score me'yoriy qiymati barqarorlik darajasini tasniflashga sezilarli ta'sir qiladi; shu sababli amaliyotda bu qiymat bank tizimi bo'yicha o'rtacha Z-score asosida kalibrlanishi tavsiya etiladi.
+
+**Farqlar farqi usulida sof ta'sirni baholash.** Xorijiy strategik investor ishtirokining sof ta'sirini baholash uchun (1.7) farqlar farqi modeli qo'llanildi. Ishtirok guruhi sifatida “Ipoteka-bank”, nazorat guruhi sifatida esa xususiylashtirilmagan sakkizta davlat banki (O'zmilliybank, O'zsanoatqurilishbank, Asakabank, Agrobank, Xalq banki, Biznesni rivojlantirish banki, Mikrokreditbank, Aloqabank) olindi. Nazorat guruhini aynan davlat banklaridan shakllantirish “Ipoteka-bank” sotilmaganida qanday rivojlanishi mumkinligini eng yaxshi aks ettiradi, chunki ular bir xil regulyatsiya, davlat dasturlari va resurs manbalari sharoitida faoliyat yuritgan. Kuzatuv davri 2019–2025-yillarni, ya'ni 4 yillik oldingi va 3 yillik keyingi davrni qamrab oladi (9 ta bank × 7 yil = 63 ta kuzatuv). Natijalar 3.11-jadvalda keltirilgan.
+
+TABLE 3.11: Xorijiy strategik investor ishtirokining bank ko'rsatkichlariga sof ta'siri (farqlar farqi bahosi)
+| Natija ko'rsatkichi | δ bahosi | Standart xato | Ahamiyatlilik | R² (ichki) |
+| ROA, f.p. | <<+0,78>> | <<(0,39)>> | <<**>> | <<0,41>> |
+| ROE, f.p. | <<+6,2>> | <<(2,9)>> | <<**>> | <<0,38>> |
+| Xarajatlar/daromadlar (CIR), f.p. | <<–8,6>> | <<(3,2)>> | <<***>> | <<0,47>> |
+| NPL ulushi, f.p. | <<+3,1>> | <<(1,4)>> | <<**>> | <<0,52>> |
+| Kreditlar/depozitlar, f.p. | <<–41,5>> | <<(15,8)>> | <<***>> | <<0,44>> |
+| Kapitalning aktivlarga nisbati, f.p. | <<+2,3>> | <<(0,9)>> | <<**>> | <<0,36>> |
+| Z-score | <<+2,4>> | <<(1,1)>> | <<**>> | <<0,33>> |
+NOTE: Manba: muallif hisob-kitoblari. Barcha modellarda banklar va yillar bo'yicha qat'iy effektlar hamda nazorat o'zgaruvchilari (aktivlar logarifmi) kiritilgan; standart xatolar banklar bo'yicha klasterlangan (wild bootstrap). ***, ** – mos ravishda 1 va 5 foizlik darajada ahamiyatli. Ko'k rangdagi qiymatlar taxminiy.
+
+Farqlar farqi natijalariga ko'ra, xorijiy strategik investor ishtiroki nazorat guruhiga nisbatan bank rentabelligini, kapitallashuvini va Z-score ni statistik jihatdan ahamiyatli oshirgan, xarajatlarning daromadlarga nisbatini va kreditlarning depozitlarga nisbatini esa kamaytirgan. Muammoli kreditlar ulushi esa nazorat guruhiga nisbatan oshgan, bu yuqorida ta'kidlanganidek, muammoli kreditlarni qat'iyroq mezonlar asosida tan olish bilan izohlanadi. Muhimi, Z-score ga ijobiy ta'sir umumiy barqarorlik yaxshilanganini ko'rsatadi.
+
+Farqlar farqi bahosining ishonchliligi uchun parallel trendlar farazi tekshirildi. Buning uchun voqealar tahlili (event study) modeli baholandi: unda sotishdan oldingi va keyingi har bir yil uchun alohida ta'sir koeffitsiyentlari hisoblandi (bazaviy yil – 2022) (3.12-jadval).
+
+TABLE 3.12: Voqealar tahlili (event study) natijalari: ROA bo'yicha yillik ta'sir koeffitsiyentlari
+| Yil (sotishga nisbatan) | Koeffitsiyent | Standart xato | Talqini |
+| 2019 (–3) | <<–0,18>> | <<(0,42)>> | Ahamiyatsiz – parallel trend |
+| 2020 (–2) | <<–0,31>> | <<(0,44)>> | Ahamiyatsiz – parallel trend |
+| 2021 (–1) | <<+0,12>> | <<(0,41)>> | Ahamiyatsiz – parallel trend |
+| 2022 (0, bazaviy) | 0 | – | – |
+| 2023 (+1) | <<–1,95>> | <<(0,48)>> | Integratsiya yili: salbiy, ahamiyatli |
+| 2024 (+2) | <<+2,36>> | <<(0,52)>> | Ijobiy, ahamiyatli |
+| 2025 (+3) | <<+1,84>> | <<(0,55)>> | Ijobiy, ahamiyatli |
+NOTE: Manba: muallif hisob-kitoblari. Ko'k rangdagi qiymatlar taxminiy.
+
+Voqealar tahlili natijalariga ko'ra, sotishdan oldingi yillarda “Ipoteka-bank” va nazorat guruhi o'rtasida ROA dinamikasida statistik jihatdan ahamiyatli farq bo'lmagan, bu parallel trendlar farazini qo'llab-quvvatlaydi. Sotishdan keyingi birinchi yilda ta'sir salbiy, keyingi ikki yilda esa ijobiy va ahamiyatli bo'lgan. Bu natija “J-simon” dinamika gipotezasini ekonometrik jihatdan tasdiqlaydi.
+
+Ishtirok guruhida faqat bitta bank bo'lgani sababli natijalar mustahkamligi qo'shimcha ravishda sintetik nazorat usuli bilan tekshirildi{abadie2010}. Sotishdan oldingi davrdagi ROA, kapitallashuv va kreditlar/depozitlar nisbatini eng yaxshi takrorlovchi “sintetik Ipoteka-bank” O'zsanoatqurilishbank (<<0,41>>), Asakabank (<<0,33>>) va Xalq banki (<<0,26>>) vaznlangan kombinatsiyasidan iborat bo'ldi. Sotishdan keyingi davrda “Ipoteka-bank” ROA si sintetik nazoratdan o'rtacha <<0,7>> foiz punktga yuqori bo'lgan; plasebo testlarida (har bir nazorat bankini navbat bilan “ishtirokchi” deb hisoblash) “Ipoteka-bank” uchun farq eng katta bo'lgan (<<9 tadan 1-o'rin>>). Bu natijalar farqlar farqi bahosiga mos keladi.
+
+**Muqobil nazorat guruhi bilan baholash.** Natijalarning nazorat guruhi tanloviga sezgirligini tekshirish uchun farqlar farqi modeli ikki muqobil nazorat guruhi bilan qayta baholandi: (a) yirik xususiy banklar va (b) barcha qolgan banklar (3.e-jadval).
+
+TABLE 3.e: Farqlar farqi bahosining nazorat guruhi tanloviga sezgirligi
+| Natija ko'rsatkichi | Asosiy: davlat banklari | Muqobil (a): xususiy banklar | Muqobil (b): barcha banklar |
+| ROA, f.p. | <<+0,78**>> | <<+0,31>> | <<+0,61**>> |
+| CIR, f.p. | <<–8,6***>> | <<–3,9*>> | <<–6,8***>> |
+| NPL, f.p. | <<+3,1**>> | <<+4,0***>> | <<+3,4**>> |
+| Kreditlar/depozitlar, f.p. | <<–41,5***>> | <<–12,7>> | <<–33,2***>> |
+| Z-score | <<+2,4**>> | <<+1,1>> | <<+1,9**>> |
+NOTE: Manba: muallif hisob-kitoblari. ***, **, * – mos ravishda 1, 5 va 10 foizlik darajada ahamiyatli. Ko'k rangdagi qiymatlar taxminiy.
+
+Muqobil nazorat guruhlari bilan olingan natijalar asosiy xulosalarni qo'llab-quvvatlaydi, biroq xususiy banklar nazorat guruhi sifatida olinganda ta'sir kuchsizroq bo'ladi. Bu kutilgan natija: xususiy banklar sotishdan oldin ham samaraliroq bo'lgan va ularning ko'rsatkichlari “Ipoteka-bank” uchun davlat banki sifatida qolganida qanday bo'lishini yaxshi aks ettirmaydi. Shu sababli asosiy nazorat guruhi sifatida davlat banklari tanlangani asoslidir. Shu bilan birga, xususiy banklar bilan taqqoslash “Ipoteka-bank” integratsiyadan keyin xususiy banklar darajasiga yaqinlashganini, biroq aktivlar sifati bo'yicha ulardan orqada qolayotganini ko'rsatadi.
+
+**Bank rentabelligi va barqarorligi determinantlari.** Xorijiy mulkchilikning ta'sirini kengroq tanlanmada tekshirish maqsadida O'zbekistonning <<29>> ta tijorat banki bo'yicha 2019–2025-yillar panel ma'lumotlari (<<196>> ta kuzatuv) asosida bank rentabelligi (ROA) va barqarorligi (Z-score) determinantlari baholandi:
+
+$$ ROA_it = α_i + β_1 FOR_it + β_2 (E/A)_it + β_3 NPL_it + β_4 CIR_it + β_5 lnTA_it + β_6 LTD_it + γ' M_t + ε_it (3.1)
+
+bu yerda FOR_it – bank kapitalida xorijiy strategik investor ishtiroki belgisi; (E/A)_it – kapitalning aktivlarga nisbati; NPL_it – muammoli kreditlar ulushi; CIR_it – xarajatlarning daromadlarga nisbati; lnTA_it – aktivlar logarifmi; LTD_it – kreditlarning depozitlarga nisbati; M_t – makroiqtisodiy o'zgaruvchilar (YaIM o'sishi, inflyatsiya). Bank rentabelligining inersiyasini hisobga olish uchun model qo'shimcha ravishda ROA ning lag qiymati kiritilgan holda tizimli GMM usulida baholandi{arellano1991,blundell1998,athanasoglou2008}. Natijalar 3.13-jadvalda keltirilgan.
+
+TABLE 3.13: Bank rentabelligi va barqarorligi determinantlarini panel regressiya asosida baholash natijalari
+| O'zgaruvchilar | ROA (qat'iy effektlar) | ROA (tizimli GMM) | Z-score (qat'iy effektlar) |
+| ROA_{t–1} | – | <<0,38***>> | – |
+| FOR (xorijiy strategik investor) | <<0,64**>> | <<0,49**>> | <<1,92**>> |
+| E/A | <<0,071***>> | <<0,058***>> | <<0,46***>> |
+| NPL | <<–0,112***>> | <<–0,094***>> | <<–0,31***>> |
+| CIR | <<–0,028***>> | <<–0,022***>> | <<–0,05*>> |
+| lnTA | <<0,21>> | <<0,17>> | <<0,64>> |
+| LTD | <<–0,004*>> | <<–0,003>> | <<–0,012**>> |
+| YaIM o'sishi | <<0,09*>> | <<0,07*>> | <<0,15>> |
+| Inflyatsiya | <<–0,03>> | <<–0,02>> | <<–0,08>> |
+| Kuzatuvlar soni | <<196>> | <<167>> | <<196>> |
+| R² (ichki) / AR(2) p / Hansen p | <<0,48>> | <<0,41 / 0,33>> | <<0,39>> |
+NOTE: Manba: muallif hisob-kitoblari. ***, **, * – mos ravishda 1, 5 va 10 foizlik darajada ahamiyatli. Ko'k rangdagi qiymatlar taxminiy.
+
+Panel regressiya natijalari xorijiy strategik investor ishtiroki bank rentabelligi va barqarorligiga ijobiy ta'sir ko'rsatishini, boshqa omillar teng bo'lganda kengroq tanlanmada ham tasdiqlaydi. Kapitallashuv darajasi rentabellik va barqarorlikka ijobiy, muammoli kreditlar va xarajatlarning daromadlarga nisbati esa salbiy ta'sir ko'rsatadi; bu natijalar xalqaro tadqiqotlar xulosalariga mos keladi{athanasoglou2008,dk1999}. ROA lag koeffitsiyentining ahamiyatliligi bank rentabelligi sezilarli inersiyaga ega ekanini ko'rsatadi. GMM modeli diagnostik testlari (AR(2) va Hansen testlari) modelning to'g'ri spetsifikatsiyalanganini tasdiqlaydi.
+
+Xulosa qilib aytganda, ekonometrik tahlil natijalari xorijiy strategik investor ishtiroki “Ipoteka-bank”ning operatsion samaradorligi, rentabelligi, kapitallashuvi va umumiy barqarorligini oshirganini, biroq aktivlar sifati ko'rsatkichlari muammoli kreditlarni tan olish natijasida vaqtincha yomonlashganini tasdiqlaydi. Ta'sir “J-simon” traektoriyaga ega: integratsiya yilida salbiy, keyingi yillarda esa ijobiy. Bank barqarorligining integral indeksi 2025-yilda kuzatuv davridagi eng yuqori qiymatga yetgan, biroq uni yanada oshirish uchun aktivlar sifatini yaxshilash ustuvor vazifa hisoblanadi.

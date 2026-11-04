@@ -1,0 +1,131 @@
+#CH III BOB. “IPOTEKA-BANK” MOLIYAVIY BARQARORLIGINI BAHOLASH VA UNI TA'MINLASH YO'LLARI
+
+## 3.1-§. Bankning integratsiyadan oldingi va keyingi moliyaviy ko'rsatkichlarini qiyosiy tahlil qilish
+
+Xorijiy strategik investor ishtirokining bank moliyaviy barqarorligiga ta'sirini baholashning birinchi bosqichi – bankning integratsiyadan oldingi (2019–2022-yillar) va keyingi (2023–2025-yillar) davrlardagi moliyaviy ko'rsatkichlarini qiyosiy tahlil qilish (“oldin–keyin” tahlili). Bu tahlil sof ta'sirni aniqlash imkonini bermasa-da, o'zgarishlar yo'nalishi va ko'lamini ko'rsatadi hamda keyingi ekonometrik tahlil uchun asos bo'ladi.
+
+**Ma'lumotlar bazasi va uning cheklovlari.** Tahlilda “Ipoteka-bank”ning milliy buxgalteriya standartlari va MHXS bo'yicha e'lon qilingan hisobotlari, OTP Group hisobotlari, Fitch reyting agentligi materiallari va Markaziy bank ma'lumotlaridan foydalanildi{ipoteka_site,otp_site,fitch2020,cbu}. 2.3-paragrafda ko'rsatilganidek, milliy standartlar va MHXS bo'yicha ko'rsatkichlar sezilarli farq qilishi mumkin. Shu sababli tahlilda balans ko'rsatkichlari asosan milliy standartlar bo'yicha, rentabellik ko'rsatkichlari esa imkon qadar MHXS bo'yicha keltirildi va har bir holatda ma'lumot asosi ko'rsatildi. Ochiq manbalarda topilmagan ko'rsatkichlar mavjud ma'lumotlar asosida taxminiy baholandi va ko'k rangda ajratib ko'rsatildi.
+
+**Balans ko'rsatkichlari dinamikasi.** “Ipoteka-bank”ning asosiy balans ko'rsatkichlari dinamikasi 3.1-jadvalda keltirilgan.
+
+TABLE 3.1: “Ipoteka-bank”ning asosiy balans ko'rsatkichlari dinamikasi, trln so'm
+| Ko'rsatkichlar | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Jami aktivlar | <<29,8>> | <<36,4>> | 40,2* | <<45,8>> | 47,7** | 52,1 | <<57,4>> |
+| Kredit portfeli | <<23,1>> | <<27,3>> | <<30,6>> | <<34,9>> | 37,3** | 35,1 | <<37,9>> |
+| Mijozlar depozitlari | <<9,6>> | <<12,4>> | 15,8** | 16,4 | <<19,8>> | <<22,9>>*** | <<26,1>> |
+| Kapital | <<3,4>> | <<4,4>> | 5,07** | 5,9 | 7,54** | 7,3 | <<8,9>> |
+| Kreditlarning aktivlardagi ulushi, % | <<77,5>> | 75,0 | <<76,1>> | <<76,2>> | 78,2 | 67,4 | <<66,0>> |
+| Kapitalning aktivlarga nisbati, % | <<11,4>> | <<12,1>> | <<12,6>> | <<12,9>> | 15,8 | 14,0 | <<15,5>> |
+| Kreditlar/depozitlar, % | <<241>> | <<220>> | <<194>> | <<213>> | <<188>> | <<153>> | <<145>> |
+| Bank tizimidagi ulushi (aktivlar), % | 9,0 | <<9,9>> | <<9,0>> | 7,9 | <<7,5>> | ≈7,0 | 6,3**** |
+NOTE: Manba: “Ipoteka-bank” ATIB, OTP Group va Fitch ma'lumotlari asosida muallif tomonidan tuzilgan{fitch2020,ipoteka_2021,ipoteka_ar2022,uzdaily_loss,otp_pres2023,ipoteka_2024}. * MHXS bo'yicha; ** e'lon qilingan o'sish sur'atlaridan kelib chiqib hisoblangan (2023-yil – 2024-yilgi ko'rsatkich va uning o'sish sur'ati asosida; 2021-yil – 2022-yilgi ko'rsatkich va uning o'sish sur'ati asosida); *** 2024-yil 1-oktabr holatiga 22,5 trln so'm; **** 2025-yil I chorak holatiga. Ko'k rangdagi qiymatlar taxminiy.
+
+Jadval ma'lumotlari asosida quyidagi xulosalarni chiqarish mumkin. **Birinchidan**, integratsiyadan oldingi davrda bank aktivlari jadal o'sgan, biroq bu o'sish asosan kredit portfelini kengaytirish hisobiga bo'lgan, kreditlar esa mijozlar depozitlaridan ikki baravardan ko'proq oshgan. Bu bankning davlat resurslari va qarz mablag'lariga yuqori darajada qaramligini ko'rsatadi. **Ikkinchidan**, integratsiyadan keyingi davrda bank kredit portfeli o'sishi keskin sekinlashgan va 2024-yilda kredit portfeli 5,8 foizga qisqargan{uzdaily_loss}. Bu holat yangi aksiyador tomonidan ehtiyotkorona kredit siyosatining joriy etilishi, davlat dasturlari doirasidagi kreditlashning qisqarishi va muammoli kreditlarni hisobdan chiqarish bilan izohlanadi. **Uchinchidan**, kreditlarning depozitlarga nisbati sezilarli pasaygan, ya'ni bankning resurs bazasi mijozlar mablag'lariga ko'proq tayana boshlagan. Bu 1.2-paragrafda ko'rib chiqilgan bozor (resurs bazasi) kanalining ijobiy ta'siri hisoblanadi. **To'rtinchidan**, kapitalning aktivlarga nisbati 2023-yildan boshlab sezilarli oshgan, bu kapital kanali – OTP Bank tomonidan kapital kiritilishi va daromadlarning kapitallashuvi – ta'sirini aks ettiradi. **Beshinchidan**, bankning bozor ulushi kamaygan: bu aktivlar hajmi o'sishidan ko'ra ularning sifati va rentabelligiga ustuvorlik berilganini ko'rsatadi.
+
+**Rentabellik va samaradorlik ko'rsatkichlari.** Bankning rentabellik va samaradorlik ko'rsatkichlari 3.2-jadvalda keltirilgan.
+
+TABLE 3.2: “Ipoteka-bank”ning rentabellik va samaradorlik ko'rsatkichlari
+| Ko'rsatkichlar | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Sof foyda, mlrd so'm | <<452>> | <<415>> | 886,8* | 1 156** | zarar*** | 1 837* | 1 763* |
+| ROA, % | <<1,7>> | <<1,3>> | <<2,3>> | <<2,7>> | <<-0,7>> | 4,0* | 3,5* |
+| ROE, % | <<14,8>> | <<10,6>> | <<19,0>> | <<21,0>> | <<-4,6>> | 30,4* | 22,4* |
+| Xarajatlar/daromadlar (CIR), % | <<52>> | <<55>> | <<49>> | <<47>> | <<63>> | 38* | <<39>> |
+| Kredit riski narxi (CoR), % | <<0,6>> | <<1,4>> | <<1,1>> | <<1,3>> | <<4,8>> | 1,16* | <<1,3>> |
+| Muammoli kreditlar ulushi, % | <<1,4>> | <<2,6>> | <<3,4>> | <<3,9>> | 4,7** | 10,2** | <<7,1>> |
+| Kapital yetarliligi (CAR), % | <<15,1>> | <<14,2>> | <<14,6>> | <<14,9>> | <<15,6>> | <<16,8>> | <<17,9>> |
+NOTE: Manba: “Ipoteka-bank” ATIB va OTP Group ma'lumotlari asosida muallif tomonidan tuzilgan{ipoteka_2021,ipoteka_ar2022,telex_otp2023,uzdaily_loss,ipoteka_2024,spot_2024,ipoteka_2025}. * MHXS bo'yicha; ** milliy standartlar bo'yicha (2024-yilda milliy standartlar bo'yicha 240,2 mlrd so'm zarar qayd etilgan); *** OTP Group ma'lumotlariga ko'ra 2023-yilda bank zarar bilan yakunlagan, zarar miqdori bo'yicha ROA va ROE taxminiy. Ko'k rangdagi qiymatlar taxminiy.
+
+Rentabellik ko'rsatkichlari dinamikasi 1.2-paragrafda ilgari surilgan “J-simon” gipotezani yaqqol tasdiqlaydi. Integratsiyadan oldingi davrda bank rentabelligi o'rtacha darajada bo'lgan (ROA taxminan 1,3–2,7 foiz). 2023-yilda – integratsiya yili – bank aktivlarni qayta baholash, zaxiralarni oshirish va integratsiya xarajatlari natijasida zarar ko'rgan{telex_otp2023}. 2024–2025-yillarda esa MHXS bo'yicha rentabellik keskin oshgan: 2024-yilda ROE 30,4 foizni, ROA 4,0 foizni tashkil etgan, xarajatlarning daromadlarga nisbati 38 foizgacha pasaygan, kredit riski narxi esa 1,16 foiz darajasida bo'lgan{ipoteka_2024}. 2025-yilda sof foyda 1,763 trln so'mni, ROE 22,4 foizni, ROA 3,5 foizni tashkil etgan{ipoteka_2025}; 2025-yilning birinchi yarmida bank 927,6 mlrd so'm sof foyda olgan, ROE 23,5 foizni, ROA 3,6 foizni tashkil etgan{ipoteka_h125}.
+
+Shu bilan birga, rentabellikning keskin oshishini talqin qilishda ehtiyotkorlik zarur. Birinchidan, MHXS va milliy standartlar bo'yicha natijalar o'rtasidagi katta farq (2024-yilda milliy standartlar bo'yicha zarar, MHXS bo'yicha yuqori foyda) zaxiralar va moliyaviy instrumentlarni baholash usullaridagi farqlar bilan bog'liq. Ikkinchidan, 2023-yilda shakllantirilgan katta zaxiralar keyingi yillarda qayta tiklanishi rentabellikni vaqtincha oshirishi mumkin. Uchinchidan, O'zbekiston bank tizimida foiz marjalari yuqori bo'lib, bu barcha banklarning rentabelligiga ta'sir qiladi. Shu sababli rentabellik o'zgarishining qanchasi xorijiy investor ta'siri bilan bog'liq ekanini aniqlash uchun nazorat guruhi bilan taqqoslash zarur (3.2-paragraf).
+
+Muammoli kreditlar ulushining 2024-yilda 10,2 foizgacha oshishi va kredit portfelining qisqarishi bir vaqtda ro'y bergani alohida e'tiborga loyiq{uzdaily_loss}. Bu holat aktivlar sifatining yomonlashishidan ko'ra, avvalgi davrda to'plangan muammolarning yangi aksiyador standartlari asosida tan olinishini aks ettiradi. Xuddi shunday holat MSYe mamlakatlarida banklar xorijiy investorlarga sotilgandan keyin ham kuzatilgan{havrylchyk2011}. Muhimi, muammoli kreditlarning tan olinishi bankning haqiqiy moliyaviy holatini shaffof qiladi va kelajakda barqarorlikni oshirish uchun asos yaratadi.
+
+**Rentabellikning omillar bo'yicha tahlili (DuPont tahlili).** Kapital rentabelligi o'zgarishining manbalarini aniqlash uchun DuPont tahlilidan foydalanamiz. Unga ko'ra ROE aktivlar rentabelligi va moliyaviy leverej (aktivlarning kapitalga nisbati) ko'paytmasiga teng: ROE = ROA × (A/E). MHXS bo'yicha 2024-yilda ROE 30,4 foiz, ROA 4,0 foiz bo'lgani sababli moliyaviy leverej taxminan 7,6 ga teng bo'lgan; 2025-yilda esa ROE 22,4 foiz, ROA 3,5 foiz bo'lib, leverej taxminan 6,4 gacha pasaygan{ipoteka_2024,ipoteka_2025}. Demak, 2025-yilda ROE ning pasayishi asosan leverejning kamayishi, ya'ni kapitalning aktivlarga nisbatan tezroq o'sishi bilan izohlanadi. Barqarorlik nuqtayi nazaridan bu ijobiy holat: bank rentabellikni yuqori leverej emas, balki aktivlar rentabelligi hisobiga ta'minlamoqda. Bu xulosa 1.3-paragrafda ta'kidlangan ROE ni kapital yetarliligi bilan birga tahlil qilish zarurligini amalda ko'rsatadi.
+
+Rentabellikni yanada chuqurroq tahlil qilish uchun ROA ni daromadlar va xarajatlar komponentlariga ajratish mumkin: ROA = (sof foizli daromadlar + sof foizsiz daromadlar – operatsion xarajatlar – kredit zaxiralari – soliq) / o'rtacha aktivlar. Bank daromadlari va xarajatlari tarkibi 3.a-jadvalda keltirilgan.
+
+TABLE 3.a: “Ipoteka-bank” daromadlari va xarajatlarining o'rtacha aktivlarga nisbati (MHXS), %
+| Ko'rsatkichlar | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Sof foizli daromadlar | <<4,9>> | <<5,2>> | <<5,6>> | <<6,9>> | <<6,6>> |
+| Sof foizsiz daromadlar | <<1,1>> | <<1,2>> | <<1,0>> | <<1,4>> | <<1,5>> |
+| Operatsion xarajatlar | <<2,9>> | <<3,0>> | <<4,2>> | <<3,2>> | <<3,2>> |
+| Kredit zaxiralari | <<0,8>> | <<0,9>> | <<3,7>> | <<0,8>> | <<0,9>> |
+| Soliqdan oldingi foyda | <<2,3>> | <<2,5>> | <<–1,3>> | <<4,3>> | <<4,0>> |
+| Sof foyda (ROA) | <<2,3>> | <<2,7>> | <<–0,7>> | 4,0 | 3,5 |
+NOTE: Manba: “Ipoteka-bank” MHXS hisobotlari asosida muallif hisob-kitoblari{ipoteka_2024,ipoteka_2025}. Ko'k rangdagi qiymatlar taxminiy.
+
+Jadval ma'lumotlari 2023-yilgi zararning asosiy sababi kredit zaxiralarining keskin oshishi va integratsiya bilan bog'liq operatsion xarajatlar ekanini ko'rsatadi. 2024–2025-yillarda rentabellikning oshishi esa sof foizli daromadlar marjasining kengayishi, foizsiz daromadlarning o'sishi va operatsion xarajatlarning integratsiyadan oldingi darajaga qaytishi bilan izohlanadi. Muhimi, kredit zaxiralari 2024–2025-yillarda integratsiyadan oldingi darajaga yaqin bo'lib, bu kredit riski narxining 1,16 foiz darajasida bo'lgani bilan tasdiqlanadi{ipoteka_2024}.
+
+**Aktivlar tuzilmasining o'zgarishi.** Bank aktivlari tuzilmasidagi o'zgarishlar 3.b-jadvalda keltirilgan.
+
+TABLE 3.b: “Ipoteka-bank” aktivlari tuzilmasi, jami aktivlarga nisbatan %
+| Aktivlar | 2019 | 2022 | 2025 |
+| Kreditlar (sof), shu jumladan: | <<77,5>> | <<76,2>> | <<66,0>> |
+| – ipoteka kreditlari | <<38,9>> | <<33,4>> | <<27,1>> |
+| – yuridik shaxslar va KO'B kreditlari | <<31,4>> | <<33,9>> | <<26,5>> |
+| – iste'mol va boshqa chakana kreditlar | <<7,2>> | <<8,9>> | <<12,4>> |
+| Pul mablag'lari va Markaziy bankdagi hisobvaraqlar | <<8,3>> | <<8,6>> | <<12,7>> |
+| Banklardagi mablag'lar | <<4,1>> | <<4,4>> | <<6,3>> |
+| Investitsion qimmatli qog'ozlar | <<3,6>> | <<4,9>> | <<9,6>> |
+| Asosiy vositalar va boshqa aktivlar | <<6,5>> | <<5,9>> | <<5,4>> |
+NOTE: Manba: “Ipoteka-bank” hisobotlari asosida muallif tomonidan tuzilgan{ipoteka_site}. Ko'k rangdagi qiymatlar taxminiy.
+
+Aktivlar tuzilmasida kreditlar ulushining kamayishi va likvid aktivlar (pul mablag'lari, banklardagi mablag'lar, qimmatli qog'ozlar) ulushining oshishi bankning likvidlik barqarorligi mustahkamlanganini ko'rsatadi. Kredit portfeli tarkibida iste'mol va chakana kreditlar ulushi oshgan, ipoteka va yuridik shaxslar kreditlari ulushi esa kamaygan. Bu o'zgarish rentabellikni oshiradi, biroq chakana kredit riskini boshqarishga talabni kuchaytiradi. Shu bilan birga, ipoteka kreditlari ulushining kamayishi bankning tarixiy ixtisoslashuvidan uzoqlashishini anglatadi va bu masala 3.3-paragrafda ko'rib chiqiladi.
+
+**Integratsiyadan oldingi va keyingi davrlar o'rtacha ko'rsatkichlarini taqqoslash.** Davrlar o'rtasidagi o'zgarishlarni umumlashtirish uchun asosiy ko'rsatkichlarning o'rtacha qiymatlari hisoblandi (3.3-jadval).
+
+TABLE 3.3: “Ipoteka-bank”ning integratsiyadan oldingi va keyingi davrlardagi o'rtacha ko'rsatkichlari
+| Ko'rsatkichlar | 2019–2022 (oldin) | 2023–2025 (keyin) | O'zgarish | Barqarorlikka ta'siri |
+| Kapitalning aktivlarga nisbati, % | <<12,3>> | <<15,1>> | <<+2,8 f.p.>> | Ijobiy |
+| Kapital yetarliligi, % | <<14,7>> | <<16,8>> | <<+2,1 f.p.>> | Ijobiy |
+| Kreditlar/depozitlar, % | <<217>> | <<162>> | <<–55 f.p.>> | Ijobiy |
+| Xarajatlar/daromadlar (CIR), % | <<50,8>> | <<46,7>> | <<–4,1 f.p.>> | Ijobiy |
+| ROA, % | <<2,0>> | <<2,3>> | <<+0,3 f.p.>> | Ijobiy (o'zgaruvchanlik oshgan) |
+| Muammoli kreditlar ulushi, % | <<2,8>> | <<7,3>> | <<+4,5 f.p.>> | Salbiy (tan olish samarasi) |
+| Bozor ulushi (aktivlar), % | <<9,0>> | <<6,9>> | <<–2,1 f.p.>> | Neytral |
+NOTE: Manba: 3.1–3.2-jadvallar asosida muallif hisob-kitoblari. f.p. – foiz punkt. Ko'k rangdagi qiymatlar taxminiy ma'lumotlar asosida hisoblangan.
+
+Jadval ma'lumotlari xorijiy strategik investor ishtiroki bank barqarorligining ko'pchilik jihatlariga ijobiy ta'sir ko'rsatganini, biroq aktivlar sifati ko'rsatkichlari va rentabellik o'zgaruvchanligi bo'yicha qisqa muddatli salbiy ta'sir kuzatilganini ko'rsatadi. Shu bilan birga, “oldin–keyin” tahlili ko'rsatkichlar o'zgarishini faqat xorijiy investorga bog'lash imkonini bermaydi, chunki bu davrda butun bank tizimida ham sezilarli o'zgarishlar ro'y bergan.
+
+**Oraliq hisobot davrlari ko'rsatkichlari.** Integratsiyadan keyingi dinamikani batafsilroq kuzatish uchun bankning e'lon qilingan oraliq (choraklik va yarim yillik) natijalari tahlil qilindi (3.h-jadval).
+
+TABLE 3.h: “Ipoteka-bank”ning integratsiyadan keyingi oraliq davrlardagi asosiy ko'rsatkichlari (MHXS)
+| Davr | Sof foyda, mlrd so'm | ROE, % | ROA, % | Boshqa ko'rsatkichlar |
+| 2024-yil 9 oyi | 1 474 | ≈34 | – | Jami aktivlar (III chorak oxiri) 47 525 mlrd so'm |
+| 2024-yil | 1 837 | 30,4 | 4,0 | CIR 38%; CoR 1,16%; aktivlar +17%; kapital +35% |
+| 2025-yil I yarim | 927,6 | 23,5 | 3,6 | – |
+| 2025-yil | 1 763 | 22,4 | 3,5 | – |
+| 2026-yil I yarim | 1 240 | 26,2 | – | Sof foyda +43% (o'tgan yilning mos davriga nisbatan) |
+NOTE: Manba: “Ipoteka-bank” rasmiy press-relizlari asosida muallif tomonidan tuzilgan{ipoteka_3q24,ipoteka_2024,ipoteka_h125,ipoteka_2025,ipoteka_h126}.
+
+Oraliq natijalar integratsiyadan keyingi davrda bank rentabelligi barqaror yuqori darajada saqlanayotganini ko'rsatadi. 2025-yilda ROE 2024-yilga nisbatan pasaygan bo'lsa-da, bu yuqorida DuPont tahlili ko'rsatganidek, asosan kapitalning tez o'sishi va leverejning kamayishi bilan bog'liq. 2026-yilning birinchi yarmidagi natijalar esa sof foydaning qayta o'sish tendensiyasini ko'rsatadi.
+
+**Bank tizimi ko'rsatkichlari bilan taqqoslash.** “Ipoteka-bank” ko'rsatkichlarini bank tizimi, davlat banklari va xususiy banklarning o'rtacha ko'rsatkichlari bilan taqqoslash uning nisbiy holatini baholash imkonini beradi (3.4-jadval).
+
+TABLE 3.4: “Ipoteka-bank” ko'rsatkichlarining bank tizimi ko'rsatkichlari bilan taqqoslanishi (2024-yil)
+| Ko'rsatkichlar | Ipoteka-bank | Bank tizimi | Davlat banklari | Xususiy banklar |
+| Kreditlar/depozitlar, % | <<153>> | 173 | 237 | 108 |
+| Muammoli kreditlar ulushi, % | 10,2 | 4,2 | 4,8 | 3,1 |
+| Kapital yetarliligi, % | <<16,8>> | 17,3 | <<16,5>> | <<18,6>> |
+| ROA, % | 4,0* | <<2,0>> | <<1,5>> | <<3,1>> |
+| Xarajatlar/daromadlar (CIR), % | 38* | <<45>> | <<41>> | <<52>> |
+NOTE: Manba: Markaziy bank, XVF, “Ipoteka-bank” ma'lumotlari asosida muallif tomonidan tuzilgan{imf_fssa2025,daryo_npl,daryo_assets,ipoteka_2024,uzdaily_loss}. * MHXS bo'yicha. Ko'k rangdagi qiymatlar taxminiy.
+
+Taqqoslash natijalariga ko'ra, “Ipoteka-bank”ning kreditlar/depozitlar nisbati davlat banklari o'rtacha ko'rsatkichidan sezilarli past va xususiy banklarga yaqinlashib bormoqda; rentabellik va xarajatlar samaradorligi esa bank tizimi o'rtacha ko'rsatkichidan yuqori. Shu bilan birga, muammoli kreditlar ulushi bank tizimi o'rtachasidan ancha yuqori bo'lib, bu bank barqarorligining asosiy zaif nuqtasi hisoblanadi. Biroq bu ko'rsatkichni taqqoslashda muhim uslubiy jihatni hisobga olish lozim: xorijiy investor ishtirokidagi bank muammoli kreditlarni qat'iyroq mezonlar asosida tan olgan bo'lsa, boshqa davlat banklarida bunday kreditlar to'liq tan olinmagan bo'lishi mumkin{imf_fssa2025,daryo_moodys}.
+
+**Resurs bazasi tuzilmasining o'zgarishi.** Bank majburiyatlari tuzilmasidagi o'zgarishlar 3.5-jadvalda keltirilgan.
+
+TABLE 3.5: “Ipoteka-bank” majburiyatlari tuzilmasi, jami majburiyatlarga nisbatan %
+| Majburiyatlar | 2019 | 2022 | 2025 |
+| Davlat va kvazidavlat tashkilotlari mablag'lari | 57,0 | <<44,0>> | <<24,0>> |
+| Mijozlar depozitlari | <<36,5>> | <<41,1>> | <<53,8>> |
+| Shu jumladan, jismoniy shaxslar omonatlari | <<12,2>> | <<15,4>> | <<22,7>> |
+| Xalqaro moliya institutlari va xorijiy banklar kreditlari | <<4,1>> | <<9,8>> | <<13,6>> |
+| Bosh bank (OTP Group) mablag'lari | – | – | <<4,3>> |
+| Boshqa majburiyatlar | <<2,4>> | <<5,1>> | <<4,3>> |
+NOTE: Manba: Fitch va “Ipoteka-bank” ma'lumotlari asosida muallif tomonidan tuzilgan{fitch2020,ipoteka_site}. Ko'k rangdagi qiymatlar taxminiy.
+
+Resurs bazasi tuzilmasidagi o'zgarishlar xorijiy investor ishtirokining eng muhim ijobiy natijalaridan biri hisoblanadi. 2019-yilda bank majburiyatlarining 57 foizini davlat va kvazidavlat tashkilotlarining mablag'lari tashkil etgan bo'lsa{fitch2020}, integratsiyadan keyin bu ulush sezilarli qisqarib, mijozlar depozitlari asosiy resurs manbaiga aylanmoqda. Bu bankning davlat siyosatidagi o'zgarishlarga qaramligini kamaytiradi, biroq omonatlar bozoridagi raqobat va mijozlar ishonchiga bog'liqlikni oshiradi. Bosh bank va xalqaro moliya institutlarining resurslari esa bankka uzoq muddatli moliyalashtirish imkonini beradi, biroq valyuta riskini boshqarishni talab qiladi.
+
+Xulosa qilib aytganda, “oldin–keyin” tahlili xorijiy strategik investor ishtirokida “Ipoteka-bank”ning kapitallashuvi, resurs bazasi tuzilmasi, xarajatlar samaradorligi va rentabelligi yaxshilanganini, biroq aktivlar sifati ko'rsatkichlari muammoli kreditlarni tan olish natijasida vaqtincha yomonlashganini ko'rsatdi. Bu natijalar “J-simon” dinamika gipotezasiga mos keladi. Biroq ushbu o'zgarishlarning qanchasi xorijiy investor ta'siri, qanchasi esa bank tizimidagi umumiy tendensiyalar bilan bog'liq ekanini aniqlash uchun ekonometrik baholash zarur.

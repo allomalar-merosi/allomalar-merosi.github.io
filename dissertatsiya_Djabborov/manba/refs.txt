@@ -1,0 +1,103 @@
+% kalit | bibliografik yozuv. "@" — bo'lim sarlavhasi. [[...]] — tekshirilishi lozim bo'lgan ma'lumot.
+@I. Normativ-huquqiy hujjatlar va metodologik ahamiyatga molik nashrlar
+konst | O'zbekiston Respublikasining Konstitutsiyasi. – T.: O'zbekiston, 2023. – 80 b.
+qonun_bank | O'zbekiston Respublikasining “Banklar va bank faoliyati to'g'risida”gi Qonuni (yangi tahriri). 2019-yil 5-noyabrdagi O'RQ-580-son // lex.uz.
+qonun_mb | O'zbekiston Respublikasining “O'zbekiston Respublikasining Markaziy banki to'g'risida”gi Qonuni (yangi tahriri). 2019-yil 11-noyabrdagi O'RQ-582-son // lex.uz.
+pf5992 | O'zbekiston Respublikasi Prezidentining “2020–2025-yillarga mo'ljallangan O'zbekiston Respublikasining bank tizimini isloh qilish strategiyasi to'g'risida”gi PF-5992-son Farmoni. 2020-yil 12-may // lex.uz/docs/4811037.
+pq4611 | O'zbekiston Respublikasi Prezidentining “Moliyaviy hisobotning xalqaro standartlariga o'tish bo'yicha qo'shimcha chora-tadbirlar to'g'risida”gi PQ-4611-son Qarori. 2020-yil 24-fevral // lex.uz.
+pf60 | O'zbekiston Respublikasi Prezidentining “2022–2026-yillarga mo'ljallangan Yangi O'zbekistonning taraqqiyot strategiyasi to'g'risida”gi PF-60-son Farmoni. 2022-yil 28-yanvar // lex.uz.
+pf158_2030 | O'zbekiston Respublikasi Prezidentining “«O'zbekiston – 2030» strategiyasi to'g'risida”gi PF-158-son Farmoni. 2023-yil 11-sentabr // lex.uz.
+mb_kapital | O'zbekiston Respublikasi Markaziy bankining “Tijorat banklari kapitalining monandligiga qo'yiladigan talablar to'g'risida”gi Nizomi. Adliya vazirligi tomonidan 2015-yil 6-iyulda 2693-son bilan ro'yxatga olingan (o'zgartish va qo'shimchalar bilan) [[tahriri tekshirilsin]].
+basel3 | Basel Committee on Banking Supervision. Basel III: A global regulatory framework for more resilient banks and banking systems. – Basel: BIS, 2010 (rev. June 2011). – 69 p.
+bcbs_core | Basel Committee on Banking Supervision. Core Principles for Effective Banking Supervision. – Basel: BIS, 2012. – 77 p.
+bcbs_gov | Basel Committee on Banking Supervision. Corporate governance principles for banks. – Basel: BIS, 2015. – 41 p.
+ifrs9 | International Accounting Standards Board. IFRS 9 Financial Instruments. – London: IFRS Foundation, 2014.
+@II. Monografiyalar, ilmiy maqolalar va ilmiy to'plamlar
+abdullayeva | Abdullayeva Sh.Z. Bank ishi. Darslik. – T.: Iqtisod-Moliya, 2017. [[nashr ma'lumotlari tekshirilsin]]
+omonov | Omonov A.A. Tijorat banklarining resurslarini samarali boshqarish masalalari. Monografiya. – T.: Iqtisod-Moliya, 2008. [[nashr ma'lumotlari tekshirilsin]]
+rashidov | Rashidov O.Yu., Toshmurodova B.E. va boshq. Pul, kredit va banklar. Darslik. – T.: Iqtisod-Moliya, 2011. [[nashr ma'lumotlari tekshirilsin]]
+lavrushin | Банковское дело: учебник / под ред. О.И. Лаврушина. – 12-е изд. – М.: КНОРУС, 2016. – 800 с. [[nashr ma'lumotlari tekshirilsin]]
+altman1968 | Altman E.I. Financial ratios, discriminant analysis and the prediction of corporate bankruptcy // Journal of Finance. – 1968. – Vol. 23, No. 4. – P. 589–609.
+abadie2010 | Abadie A., Diamond A., Hainmueller J. Synthetic control methods for comparative case studies: Estimating the effect of California's tobacco control program // Journal of the American Statistical Association. – 2010. – Vol. 105, No. 490. – P. 493–505.
+ap2009 | Angrist J.D., Pischke J.-S. Mostly Harmless Econometrics: An Empiricist's Companion. – Princeton: Princeton University Press, 2009. – 392 p.
+arellano1991 | Arellano M., Bond S. Some tests of specification for panel data: Monte Carlo evidence and an application to employment equations // Review of Economic Studies. – 1991. – Vol. 58, No. 2. – P. 277–297.
+athanasoglou2008 | Athanasoglou P.P., Brissimis S.N., Delis M.D. Bank-specific, industry-specific and macroeconomic determinants of bank profitability // Journal of International Financial Markets, Institutions and Money. – 2008. – Vol. 18, No. 2. – P. 121–136.
+bcc1984 | Banker R.D., Charnes A., Cooper W.W. Some models for estimating technical and scale inefficiencies in data envelopment analysis // Management Science. – 1984. – Vol. 30, No. 9. – P. 1078–1092.
+beck2006 | Beck T., Demirgüç-Kunt A., Levine R. Bank concentration, competition, and crises: First results // Journal of Banking & Finance. – 2006. – Vol. 30, No. 5. – P. 1581–1603.
+berger1997 | Berger A.N., Humphrey D.B. Efficiency of financial institutions: International survey and directions for future research // European Journal of Operational Research. – 1997. – Vol. 98, No. 2. – P. 175–212.
+berger2005 | Berger A.N., Clarke G.R.G., Cull R., Klapper L., Udell G.F. Corporate governance and bank performance: A joint analysis of the static, selection, and dynamic effects of domestic, foreign, and state ownership // Journal of Banking & Finance. – 2005. – Vol. 29, No. 8–9. – P. 2179–2221.
+blundell1998 | Blundell R., Bond S. Initial conditions and moment restrictions in dynamic panel data models // Journal of Econometrics. – 1998. – Vol. 87, No. 1. – P. 115–143.
+bonin2005a | Bonin J.P., Hasan I., Wachtel P. Bank performance, efficiency and ownership in transition countries // Journal of Banking & Finance. – 2005. – Vol. 29, No. 1. – P. 31–53.
+bonin2005b | Bonin J.P., Hasan I., Wachtel P. Privatization matters: Bank efficiency in transition countries // Journal of Banking & Finance. – 2005. – Vol. 29, No. 8–9. – P. 2155–2178.
+boyd1986 | Boyd J.H., Graham S.L. Risk, regulation, and bank holding company expansion into nonbanking // Federal Reserve Bank of Minneapolis Quarterly Review. – 1986. – Vol. 10, No. 2. – P. 2–17.
+ck1994 | Card D., Krueger A.B. Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania // American Economic Review. – 1994. – Vol. 84, No. 4. – P. 772–793.
+ccd1982 | Caves D.W., Christensen L.R., Diewert W.E. The economic theory of index numbers and the measurement of input, output, and productivity // Econometrica. – 1982. – Vol. 50, No. 6. – P. 1393–1414.
+ccr1978 | Charnes A., Cooper W.W., Rhodes E. Measuring the efficiency of decision making units // European Journal of Operational Research. – 1978. – Vol. 2, No. 6. – P. 429–444.
+claessens2001 | Claessens S., Demirgüç-Kunt A., Huizinga H. How does foreign entry affect domestic banking markets? // Journal of Banking & Finance. – 2001. – Vol. 25, No. 5. – P. 891–911.
+claessens2012 | Claessens S., van Horen N. Foreign Banks: Trends, Impact and Financial Stability. IMF Working Paper WP/12/10. – Washington, DC: IMF, 2012. – 39 p.
+claessens2014 | Claessens S., van Horen N. Foreign Banks: Trends and Impact // Journal of Money, Credit and Banking. – 2014. – Vol. 46, No. s1. – P. 295–326.
+cull2013 | Cull R., Martínez Pería M.S. Bank ownership and lending patterns during the 2008–2009 financial crisis: Evidence from Latin America and Eastern Europe // Journal of Banking & Finance. – 2013. – Vol. 37, No. 12. – P. 4861–4878.
+dehaas2006 | de Haas R., van Lelyveld I. Foreign banks and credit stability in Central and Eastern Europe. A panel data analysis // Journal of Banking & Finance. – 2006. – Vol. 30, No. 7. – P. 1927–1952.
+dehaas2014 | de Haas R., van Lelyveld I. Multinational banks and the global financial crisis: Weathering the perfect storm? // Journal of Money, Credit and Banking. – 2014. – Vol. 46, No. s1. – P. 333–364.
+dk1999 | Demirgüç-Kunt A., Huizinga H. Determinants of commercial bank interest margins and profitability: Some international evidence // World Bank Economic Review. – 1999. – Vol. 13, No. 2. – P. 379–408.
+detragiache2008 | Detragiache E., Tressel T., Gupta P. Foreign banks in poor countries: Theory and evidence // Journal of Finance. – 2008. – Vol. 63, No. 5. – P. 2123–2160.
+dd1983 | Diamond D.W., Dybvig P.H. Bank runs, deposit insurance, and liquidity // Journal of Political Economy. – 1983. – Vol. 91, No. 3. – P. 401–419.
+fare1994 | Färe R., Grosskopf S., Norris M., Zhang Z. Productivity growth, technical progress, and efficiency change in industrialized countries // American Economic Review. – 1994. – Vol. 84, No. 1. – P. 66–83.
+fries2005 | Fries S., Taci A. Cost efficiency of banks in transition: Evidence from 289 banks in 15 post-communist countries // Journal of Banking & Finance. – 2005. – Vol. 29, No. 1. – P. 55–81.
+giannetti2009 | Giannetti M., Ongena S. Financial integration and firm performance: Evidence from foreign bank entry in emerging markets // Review of Finance. – 2009. – Vol. 13, No. 2. – P. 181–223.
+havrylchyk2011 | Havrylchyk O., Jurzyk E. Inherited or earned? Performance of foreign banks in Central and Eastern Europe // Journal of Banking & Finance. – 2011. – Vol. 35, No. 5. – P. 1291–1302.
+jensen1976 | Jensen M.C., Meckling W.H. Theory of the firm: Managerial behavior, agency costs and ownership structure // Journal of Financial Economics. – 1976. – Vol. 3, No. 4. – P. 305–360.
+laporta2002 | La Porta R., Lopez-de-Silanes F., Shleifer A. Government ownership of banks // Journal of Finance. – 2002. – Vol. 57, No. 1. – P. 265–301.
+laeven2009 | Laeven L., Levine R. Bank governance, regulation and risk taking // Journal of Financial Economics. – 2009. – Vol. 93, No. 2. – P. 259–275.
+lepetit2013 | Lepetit L., Strobel F. Bank insolvency risk and time-varying Z-score measures // Journal of International Financial Markets, Institutions and Money. – 2013. – Vol. 25. – P. 73–87.
+levine2005 | Levine R. Finance and growth: Theory and evidence // Aghion P., Durlauf S. (eds.) Handbook of Economic Growth. Vol. 1A. – Amsterdam: Elsevier, 2005. – P. 865–934.
+lopez1999 | Lopez J.A. Using CAMELS ratings to monitor bank conditions // FRBSF Economic Letter. – 1999. – No. 99-19.
+megginson2005 | Megginson W.L. The economics of bank privatization // Journal of Banking & Finance. – 2005. – Vol. 29, No. 8–9. – P. 1931–1980.
+mian2006 | Mian A. Distance constraints: The limits of foreign lending in poor economies // Journal of Finance. – 2006. – Vol. 61, No. 3. – P. 1465–1505.
+minsky1986 | Minsky H.P. Stabilizing an Unstable Economy. – New Haven: Yale University Press, 1986. – 353 p.
+mishkin2019 | Mishkin F.S. The Economics of Money, Banking, and Financial Markets. 12th ed. – New York: Pearson, 2019. – 696 p.
+roy1952 | Roy A.D. Safety first and the holding of assets // Econometrica. – 1952. – Vol. 20, No. 3. – P. 431–449.
+sahajwala2000 | Sahajwala R., Van den Bergh P. Supervisory risk assessment and early warning systems. BCBS Working Paper No. 4. – Basel: BIS, 2000. – 49 p.
+sapienza2004 | Sapienza P. The effects of government ownership on bank lending // Journal of Financial Economics. – 2004. – Vol. 72, No. 2. – P. 357–384.
+saunders2018 | Saunders A., Cornett M.M. Financial Institutions Management: A Risk Management Approach. 9th ed. – New York: McGraw-Hill Education, 2018. – 816 p.
+shleifer1997 | Shleifer A., Vishny R.W. A survey of corporate governance // Journal of Finance. – 1997. – Vol. 52, No. 2. – P. 737–783.
+wooldridge2010 | Wooldridge J.M. Econometric Analysis of Cross Section and Panel Data. 2nd ed. – Cambridge, MA: MIT Press, 2010. – 1064 p.
+imf_fssa2025 | International Monetary Fund. Republic of Uzbekistan: Financial System Stability Assessment. IMF Country Report No. 25/145. – Washington, DC: IMF, 2025.
+otp_ar2023 | OTP Bank Plc. Annual Report 2023. – Budapest: OTP Bank, 2024.
+otp_ar2024 | OTP Bank Plc. Annual Report 2024. – Budapest: OTP Bank, 2025. [[nashr ma'lumotlari tekshirilsin]]
+@III. Internet saytlari
+cbu | O'zbekiston Respublikasi Markaziy banki rasmiy sayti. – https://cbu.uz
+lex | O'zbekiston Respublikasi Qonun hujjatlari ma'lumotlari milliy bazasi. – https://lex.uz
+ipoteka_site | “Ipoteka bank OTP Group” ATIB rasmiy sayti. – https://www.ipotekabank.uz
+otp_site | OTP Group investorlar uchun rasmiy sayti. – https://www.otpgroup.info
+ipoteka_close | Transaction closed: OTP Bank acquired Ipoteka-Bank. – https://www.ipotekabank.uz/en/news/ipotekabank_otpgroup/ (13.06.2023)
+bne_otp | Hungary's OTP closes first acquisition outside Europe in Uzbekistan // bne IntelliNews. – https://bne.eu/hungary-s-otp-closes-first-acquisition-outside-europe-in-uzbekistan-281634 (2023)
+kun_otp | OTP bank becomes main shareholder of Ipotekabank // Kun.uz. – https://kun.uz/en/news/2023/06/13/otp-bank-becomes-main-shareholder-of-ipotekabank (13.06.2023)
+kun_cap70 | Ipoteka Bank receives additional capitalization worth $70 million from OTP Bank // Kun.uz. – https://kun.uz/en/news/2023/12/26/ipoteka-bank-receives-additional-capitalization-worth-70-million-from-otp-bank (26.12.2023)
+ipoteka_2024 | OTP Group announced 2024 financial results, to which Ipoteka bank OTP Group contributed by the following figures. – https://www.ipotekabank.uz/en/news/financial_results_2024_en (2025)
+spot_2024 | Ipoteka bank 2024-yil MHXS natijalari // Spot.uz. – https://www.spot.uz/ru/2025/03/11/ipoteka-bank/ (11.03.2025)
+uzdaily_loss | Ipoteka Bank reports 240 billion soums loss for 2024 // UzDaily. – https://www.uzdaily.ru/en/ipoteka-bank-reports-240-billion-soums-loss-for-2024 (2025)
+ipoteka_3q24 | Key financials for 3Q 2024. – https://www.ipotekabank.uz/en/news/press_release (2024)
+ipoteka_2025 | What Do a Bank's Financial Results Mean. Key Metrics Explained Using the Example of Ipoteka bank OTP Group. – https://www.ipotekabank.uz/en/blog/layf/chto-oznachayut-finansovye-rezultaty-banka/ (2026)
+ipoteka_h125 | Ipoteka Bank OTP Group Reports Strong Financial Results for the First Half of 2025. – https://www.ipotekabank.uz/en/blog/news/ipoteka-bank-otp-group-reports-strong-financial-results-for-the-first-half-of-2025/ (2025)
+ipoteka_h126 | Ipoteka bank OTP Group Reports Strong 43% Profit Growth in H1 2026 Financial Results. – https://www.ipotekabank.uz/en/blog/news/ipoteka-bank-otp-group-reports-strong-43-profit-growth-in-h1-2026-financial-results/ (2026)
+ipoteka_2021 | Ipoteka-Bank reports strong financial results for 2021. – https://www.ipotekabank.uz/en/news/news020622 (2022)
+ipoteka_ar2022 | Annual report of the issuer for 2022 (Ipoteka-bank ATIB). – https://ipotekabank.uz/upload/ANNUAL%20REPORT%20OF%20THE%20ISSUER%20for%202022.pdf
+fitch2020 | Fitch affirms Ipoteka Bank at ‘BB-’, Stable Outlook // UzDaily. – https://www.uzdaily.ru/en/fitch-affirms-ipoteka-bank-at-bb/ (2020)
+halyk_ipoteka | Halyk Finance. Ipoteka Bank (Uzbekistan) analytical note. – https://halykfinance.kz/download/files/analytics/ipoteka_bank_uz.pdf
+otp_pres2023 | OTP Bank investor presentation 2Q 2023. – https://www.otpbank.hu/static/portal/sw/file/OTP_Bank_Inv_Pres_2Q2023.pdf
+telex_otp2023 | Ezermilliárd forintnál is több profitot ért el tavaly az OTP // Telex. – https://telex.hu/gazdasag/2024/03/08/otp-adozas-utani-eredmeny-2023 (08.03.2024)
+gratanet | Strategy of reforming the banking sector of Uzbekistan is adopted // GRATA International. – https://gratanet.com/news/banking-sector-of-uzbekistan (2020)
+kun_6banks | Six state-owned banks to be privatized // Kun.uz. – https://kun.uz/en/news/2020/05/13/six-state-owned-banks-to-be-privatized (13.05.2020)
+daryo_postpone | Uzbekistan postpones sale of state shares in key banks to 2025 // Daryo. – https://daryo.uz/en/2024/12/31/uzbekistan-postpones-sale-of-state-shares-in-key-banks-to-2025 (31.12.2024)
+uzdaily_2026 | Uzbekistan Will Not Privatize State-Owned Banks in 2026 // UzDaily. – https://uzdaily.ru/en/uzbekistan-will-not-privatize-state-owned-banks-in-2026/ (2026)
+spot_privat | Bank privatization // Spot.uz. – https://www.spot.uz/ru/2025/12/31/banks-privatization/ (31.12.2025)
+daryo_moodys | Uzbekistan's problem loans rise to 7% in 2024, Moody's reports // Daryo. – https://daryo.uz/en/2025/03/05/uzbekistans-problem-loans-rise-to-7-in-2024-moodys-reports (05.03.2025)
+daryo_npl | Uzbekistan's NPLs hit $1.64bn in August with state-owned banks facing higher ratio // Daryo. – https://daryo.uz/en/2024/09/10/uzbekistans-npls-hit-1-64bn-in-august-with-state-owned-banks-facing-higher-ratio-1196794/ (10.09.2024)
+daryo_assets | Uzbekistan's commercial banks report over $56bn in assets by July 2024 // Daryo. – https://daryo.uz/en/2024/09/05/uzbekistans-commercial-banks-report-over-56bn-in-assets-by-july-2024 (05.09.2024)
+uza_infograf | O'zbekiston bank sektorining 2017–2025-yillardagi rivojlanishi infografikada // UzA. – https://uza.uz/ar/posts/ozbekiston-bank-sektorining-2017-2025-yillardagi-rivojlanishi-infografikada-video_877339
+yuz_2020 | 2017–2020-yillarda O'zbekiston bank-moliya sektori rivojlanish dinamikasiga sharh // Yuz.uz. – https://yuz.uz/uz/news/2017-2020-yillarda-ozbekiston-bank-moliya-sektori-rivojlanish-dinamikasiga-sharh
+spot_2022 | Banklar reytingi (2022-yil yakunlari) // Spot.uz. – https://www.spot.uz/oz/2023/01/30/rating-of-banks/ (30.01.2023)
+kursiv_2024 | O'zbekiston bank sektori 20 foizga o'sdi // Kursiv. – https://uz.kursiv.media/uz/2024-07-05/ozbekiston-bank-sektori-20-foizga-osdi/ (05.07.2024)
+piie_foreign | Foreign bank ownership in Eastern Europe // PIIE. – https://www.piie.com/node/8584
+pep_2021 | Foreign banks in Central and Eastern Europe // Prague Economic Papers. – 2021. – No. 5. – https://pep.vse.cz/pdfs/pep/2021/05/05.pdf
