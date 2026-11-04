@@ -1,0 +1,47 @@
+TYPE: thesis
+TITLE: Multidimensional Targeting of Entrepreneurship Support at the Mahalla Level: An Allocation Algorithm and Poverty Scenarios for Syrdarya Region to 2030
+AUTHORS: Latofat Sh. Batirova
+AFFIL: PhD Researcher, Gulistan State University, Gulistan, Uzbekistan
+ORCID: [[0000-0000-0000-0000]]
+EMAIL: [[__________@____]]
+ABSTRACT: Support resources for poor households in Uzbekistan are distributed among mahallas mainly in proportion to the number of monetarily poor families. This paper proposes a three-stage allocation algorithm based on a priority index that combines multidimensional poverty intensity, coverage gaps and expected effectiveness. In a simulation for six conditional mahallas, the current rule is regressive (correlation of –0.95 between resources per poor family and poverty intensity), whereas the proposed rule is progressive (0.78) and reduces allocation inequality from 27.3 to 8.1 per cent. Scenario projections suggest that full implementation could reduce poverty in Syrdarya region to 2.6 per cent by 2030.
+KEYWORDS: targeting; resource allocation; multidimensional poverty; mahalla; poverty scenarios; Uzbekistan
+JEL: I32, I38, H53
+---
+# 1. Introduction
+
+Since 2024 the identification of poor households and the selection of support measures in Uzbekistan have been delegated to mahalla-level teams (Presidential Resolution No. PQ-330, 2024). Mahalla knowledge of families is a strong asset, but there are no transparent rules for allocating resources across mahallas. Allocation in proportion to the number of monetarily poor families ignores poverty intensity, coverage gaps and differences in local opportunities. International evidence shows that combining geographic targeting, household assessment and community participation yields the most accurate targeting (Coady et al., 2004; Alatas et al., 2012; Grosh et al., 2022).
+
+# 2. Method
+
+The algorithm has three stages. First, each mahalla m receives a priority index
+
+$$ PI_m = 0.5 · (M_{0m} / max M_0) + 0.3 · G_m + 0.2 · (Ē_m / max Ē) (1)
+
+where M_{0m} is the mahalla's adjusted headcount ratio (Alkire & Foster, 2011), G_m the share of multidimensionally poor families not supported in the previous two years, and Ē_m the expected effectiveness of support. Resources are allocated as R_m = R_min + (R – M · R_min) · PI_m q_m / Σ PI_l q_l, where q_m is the number of multidimensionally poor families and R_min a guaranteed minimum. Second, families within each mahalla are ranked by deprivation score, with those poor on both monetary and multidimensional criteria served first. Third, each family receives the instrument best matched to its deprivation profile. The algorithm was simulated for six conditional mahallas and UZS 6,000 million; poverty scenarios for 2026–2030 use the official 2025 rate of 6.2 per cent and annual relative reductions of 8, 12 and 16 per cent, the last corresponding to the national target of halving poverty in four years.
+
+# 3. Results
+
+Under the current rule, the mahallas with the lowest poverty intensity receive the most resources per multidimensionally poor family (UZS <<30.6>> and <<34.3>> million in M1 and M3), whereas the most deprived mahalla M5 receives the least (<<15.5>> million). The proposed rule reverses this pattern without additional resources (Figure 1): the correlation between resources per poor family and M0 changes from <<−0.95>> to <<0.78>>, the coefficient of variation falls from <<27.3>> to <<8.1>> per cent, and the share of the two most deprived mahallas rises from <<34.3>> to <<47.7>> per cent.
+
+IMG en_b4_alloc.png 1: Allocation of resources across conditional mahallas under the current and proposed rules ## Author's calculations based on conditional data.
+
+TABLE 1: Poverty rate scenarios for Syrdarya region, % ## Author's calculations based on the official 2025 rate; population growth assumed at 1.7% per year.
+| Scenario | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | Poor population in 2030, thousand |
+| Inertial (r = 8%) | 6.2 | 5.70 | 5.25 | 4.83 | 4.44 | 4.09 | 41.9 |
+| Baseline (r = 12%) | 6.2 | 5.46 | 4.80 | 4.23 | 3.72 | 3.27 | 33.6 |
+| Target (r = 16%) | 6.2 | 5.21 | 4.37 | 3.67 | 3.09 | 2.59 | 26.6 |
+
+Under the target scenario, associated with full implementation of the algorithm, the poverty rate falls to 2.59 per cent in 2030, about 15,300 fewer poor people than under the inertial scenario.
+
+# 4. Conclusion
+
+Allocating support by the number of monetarily poor families can be regressive with respect to poverty intensity. A transparent priority index based on multidimensional poverty, coverage gaps and expected effectiveness corrects this at no extra cost. Piloting the algorithm in two or three districts, with comparison districts, would provide evidence for scaling up; weights and effectiveness parameters should be updated annually from monitoring data.
+
+REF: Alatas, V., Banerjee, A., Hanna, R., Olken, B. A., & Tobias, J. (2012). Targeting the poor: Evidence from a field experiment in Indonesia. American Economic Review, 102(4), 1206–1240.
+REF: Alkire, S., & Foster, J. (2011). Counting and multidimensional poverty measurement. Journal of Public Economics, 95(7–8), 476–487.
+REF: Coady, D., Grosh, M., & Hoddinott, J. (2004). Targeting of transfers in developing countries: Review of lessons and experience. World Bank.
+REF: Grosh, M., Leite, P., Wai-Poi, M., & Tesliuc, E. (Eds.). (2022). Revisiting targeting in social assistance: A new look at old dilemmas. World Bank.
+REF: Presidential Decree No. PF-60. (2022, January 28). On the Development Strategy of New Uzbekistan for 2022–2026. https://lex.uz
+REF: Presidential Resolution No. PQ-330. (2024, September 23). On priority measures to implement the "From Poverty to Prosperity" programme. https://lex.uz
+REF: Ravallion, M. (2016). The economics of poverty: History, measurement, and policy. Oxford University Press.

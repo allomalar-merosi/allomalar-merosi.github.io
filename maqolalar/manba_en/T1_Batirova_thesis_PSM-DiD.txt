@@ -1,0 +1,48 @@
+TYPE: thesis
+TITLE: Estimating the Net Poverty Impact of Entrepreneurship Support Programmes: A PSM-DiD Approach with Simulation Evidence from Uzbekistan
+AUTHORS: Latofat Sh. Batirova
+AFFIL: PhD Researcher, Gulistan State University, Gulistan, Uzbekistan
+ORCID: [[0000-0000-0000-0000]]
+EMAIL: [[__________@____]]
+ABSTRACT: Entrepreneurship support programmes in Uzbekistan are evaluated mainly by resources disbursed and the number of families "lifted out of poverty", without a comparison group. This paper proposes a propensity score matching difference-in-differences (PSM-DiD) design with a multidimensional deprivation score as the outcome and tests it on 800 simulated households with a known true effect. A naive comparison overstates the effect by 66.7 per cent, PSM by 33.3 per cent, DiD by 15 per cent and PSM-DiD by only 10 per cent, which supports its use for routine programme evaluation.
+KEYWORDS: impact evaluation; propensity score matching; difference-in-differences; entrepreneurship support; multidimensional poverty
+JEL: I32, I38, C21
+---
+# 1. Introduction
+
+Uzbekistan has made poverty reduction a strategic priority, aiming to at least halve poverty by 2026 (Presidential Decree No. PF-60, 2022). Official data show the poverty rate falling from 14 per cent in 2022 to 5.8 per cent in 2025, and in Syrdarya region from 11.3 to 6.2 per cent between 2024 and 2025, a period in which the regional economy grew by 9.8 per cent. Concessional loans, asset subsidies, vocational training and land allocation are the main instruments of support. Yet programme results are reported without a counterfactual: families' exit from poverty is attributed entirely to support, although incomes also rise with general growth, wages and remittances. Moreover, support is not allocated randomly – households with business experience and initiative are more likely to receive loans – so naive comparisons are biased (Angrist & Pischke, 2009).
+
+# 2. Method
+
+The parameter of interest is the average treatment effect on the treated (ATT) on the household deprivation score of the MPI-TS index. The design proceeds in three steps (Heckman et al., 1997; Caliendo & Kopeinig, 2008). First, participation is modelled by a logit on pre-programme characteristics (household size, head's age and sex, business experience, plot size, baseline deprivation score) to obtain propensity scores (Rosenbaum & Rubin, 1983). Second, each participant is matched to its nearest non-participant within a caliper of 0.2 standard deviations of the logit, and balance is checked by standardized bias. Third, the ATT is estimated as the mean difference in outcome changes between matched pairs:
+
+$$ ATT_{PSM-DiD} = (1/N_1) · Σ_{i} [(Y_{i1} – Y_{i0}) – (Y_{j(i)1} – Y_{j(i)0})] (1)
+
+To demonstrate the properties of the design, 800 households were simulated with an unobserved "initiative" factor that raises both participation and outcome improvement, a common trend of −0.025 and a true programme effect of −0.060 on the deprivation score.
+
+# 3. Results
+
+Of the simulated households, <<404>> participated; <<401>> found a match within the caliper. Before matching, participants differed markedly in business experience (standardized bias <<31.9>>%), plot size (<<23.2>>%) and baseline deprivation (<<−14.7>>%); after matching all biases fell below 10 per cent. Table 1 compares the estimators.
+
+TABLE 1: Estimated effect of support on the deprivation score by method ## Author's calculations based on simulated data (true effect −0.060).
+| Estimator | ATT | Bias relative to true effect, % |
+| Naive comparison | <<−0.100>> | <<66.7>> |
+| PSM | <<−0.080>> | <<33.3>> |
+| DiD | <<−0.069>> | <<15.0>> |
+| PSM-DiD | <<−0.066>> (SE <<0.002>>) | <<10.0>> |
+
+IMG en_b2_att.png 1: Estimated and true effects by estimator ## Author's calculations based on simulated data.
+
+The naive comparison attributes to the programme the faster improvement of more enterprising households. Matching removes differences in observables; differencing removes time-invariant unobservables and the common trend. The remaining bias of PSM-DiD reflects the time-varying part of initiative and can be bounded with Rosenbaum sensitivity analysis.
+
+# 4. Conclusion
+
+The results show that evaluations without a comparison group can overstate programme effects by two-thirds, which risks channelling resources to ineffective instruments. A PSM-DiD design is feasible with modest data requirements: baseline deprivation and income should be recorded in the poor-household registry at the time of support, comparable non-participants from the same mahallas should be followed, and outcomes should be re-measured after 12–24 months. Using a multidimensional deprivation score as the outcome reveals whether income gains translate into improvements in education, health and living standards – the question left open by the microcredit evidence (Banerjee et al., 2015).
+
+REF: Angrist, J. D., & Pischke, J.-S. (2009). Mostly harmless econometrics: An empiricist's companion. Princeton University Press.
+REF: Banerjee, A., Karlan, D., & Zinman, J. (2015). Six randomized evaluations of microcredit: Introduction and further steps. American Economic Journal: Applied Economics, 7(1), 1–21.
+REF: Caliendo, M., & Kopeinig, S. (2008). Some practical guidance for the implementation of propensity score matching. Journal of Economic Surveys, 22(1), 31–72.
+REF: Heckman, J. J., Ichimura, H., & Todd, P. E. (1997). Matching as an econometric evaluation estimator: Evidence from evaluating a job training programme. Review of Economic Studies, 64(4), 605–654.
+REF: Imbens, G. W., & Wooldridge, J. M. (2009). Recent developments in the econometrics of program evaluation. Journal of Economic Literature, 47(1), 5–86.
+REF: Presidential Decree No. PF-60. (2022, January 28). On the Development Strategy of New Uzbekistan for 2022–2026. https://lex.uz
+REF: Rosenbaum, P. R., & Rubin, D. B. (1983). The central role of the propensity score in observational studies for causal effects. Biometrika, 70(1), 41–55.

@@ -1,0 +1,49 @@
+TYPE: thesis
+TITLE: A Seven-Stage Post-Acquisition Integration Model for Privatized State-Owned Banks: Lessons from Ipoteka Bank and OTP Group
+AUTHORS: Shukhrat E. Djabborov
+AFFIL: Independent Researcher, Gulistan State University, Gulistan, Uzbekistan
+ORCID: [[0000-0000-0000-0000]]
+EMAIL: [[__________@____]]
+ABSTRACT: Bank privatization is often treated as a one-off transaction, while the integration that follows determines whether stability improves. Based on the sale of Ipoteka Bank to OTP Group (2023) and experience from Central and Eastern Europe, this paper proposes a seven-stage integration model – from pre-deal preparation to full ownership – with tasks and indicators for each stage. The bank's return on assets fell to a loss in the integration year and reached 4.0 and 3.5 per cent under IFRS in 2024–2025, a J-shaped path consistent with the model. The estimated price-to-book ratio of about 0.84 suggests a discount for hidden asset-quality problems, underlining the value of asset quality reviews before sale.
+KEYWORDS: bank privatization; post-acquisition integration; foreign strategic investor; price-to-book; Uzbekistan
+JEL: G21, G34, L33
+---
+# 1. Introduction
+
+Uzbekistan's 2020–2025 banking reform strategy envisaged the privatization of six state banks (Kun.uz, 2020), but only Ipoteka Bank has been sold, and deadlines for others have been postponed repeatedly (Daryo, 2024). Experience from the first deal is therefore valuable. Central and Eastern European privatizations show that sales to strategic investors raise efficiency (Bonin et al., 2005; Megginson, 2005), but acquired banks' profitability often declines before it improves (Havrylchyk & Jurzyk, 2011).
+
+# 2. Method
+
+Public information on the Ipoteka Bank transaction and integration was organized chronologically and compared with international experience to derive integration stages. The deal price was assessed by the price-to-book ratio, P/BV = (P / s) / BV, where P is the price, s the stake sold and BV book equity.
+
+# 3. Results
+
+FIG 1: Seven-stage post-acquisition integration model ## Author's elaboration.
+1. Pre-deal preparation: asset quality review || deal terms and investor commitments
+2. Transfer of governance: new supervisory board and management || delegation matrix
+3. Capital and standards alignment: IFRS 9 and group policies || capital injection
+4. Asset quality revaluation: recognition of problem loans || provisioning
+5. Operational integration: IT systems || products and brand || staff
+6. Growth and optimization: business model change || funding diversification
+7. Full ownership: purchase of remaining shares || long-term strategy
+
+In Ipoteka Bank, an agreement was announced in December 2022 and the 73.71 per cent stake was transferred in June 2023 (Ipoteka-bank, 2023); OTP injected USD 70 million in December 2023 (Kun.uz, 2023); problem loans were recognized, with the NPL ratio rising from 4.7 to 10.2 per cent under national standards in 2024 (UzDaily, 2025); the bank was rebranded; IFRS ROE reached 30.4 per cent in 2024 and 22.4 per cent in 2025; and OTP's stake rose to about 79.6 per cent by end-2024 (Ipoteka bank OTP Group, 2025). Stages overlapped in practice, but the sequence matches the model, and the stage-four revaluation produced the trough in the bank’s ROA (Figure 2).
+
+IMG en_d4_jcurve.png 2: Ipoteka Bank return on assets, 2019–2025 (2024–2025 IFRS actuals; earlier years estimated) ## Author's elaboration.
+
+Using the press-reported price of USD 324 million (bne IntelliNews, 2023), the implied value of 100 per cent of the bank is about USD 440 million; with book equity of UZS 5.9 trillion at end-2022 converted at about <<UZS 11,225 per USD>>, P/BV is about <<0.84>>. A sale below book value is consistent with the investor pricing in hidden asset-quality problems later revealed in stage four.
+
+# 4. Conclusion
+
+Integration is a multi-stage process whose fourth stage – asset quality revaluation – predictably worsens reported indicators. Governments should conduct independent asset quality reviews and separate problem assets before sale, define the schedule for withdrawing state funding and investor commitments in the deal, and monitor integration with stage-specific targets rather than judging success by first-year results.
+
+REF: bne IntelliNews. (2023). Hungary's OTP closes first acquisition outside Europe in Uzbekistan. https://bne.eu/hungary-s-otp-closes-first-acquisition-outside-europe-in-uzbekistan-281634
+REF: Bonin, J. P., Hasan, I., & Wachtel, P. (2005). Privatization matters: Bank efficiency in transition countries. Journal of Banking & Finance, 29(8–9), 2155–2178.
+REF: Daryo. (2024, December 31). Uzbekistan postpones sale of state shares in key banks to 2025. https://daryo.uz/en/2024/12/31/uzbekistan-postpones-sale-of-state-shares-in-key-banks-to-2025
+REF: Havrylchyk, O., & Jurzyk, E. (2011). Inherited or earned? Performance of foreign banks in Central and Eastern Europe. Journal of Banking & Finance, 35(5), 1291–1302.
+REF: Ipoteka-bank. (2023). Transaction closed: OTP Bank acquired Ipoteka-Bank. https://www.ipotekabank.uz/en/news/ipotekabank_otpgroup/
+REF: Ipoteka bank OTP Group. (2025). OTP Group announced 2024 financial results. https://www.ipotekabank.uz/en/news/financial_results_2024_en
+REF: Kun.uz. (2020, May 13). Six state-owned banks to be privatized. https://kun.uz/en/news/2020/05/13/six-state-owned-banks-to-be-privatized
+REF: Kun.uz. (2023, December 26). Ipoteka Bank receives additional capitalization worth $70 million from OTP Bank. https://kun.uz/en/news/2023/12/26/ipoteka-bank-receives-additional-capitalization-worth-70-million-from-otp-bank
+REF: Megginson, W. L. (2005). The economics of bank privatization. Journal of Banking & Finance, 29(8–9), 1931–1980.
+REF: UzDaily. (2025). Ipoteka Bank reports 240 billion soums loss for 2024. https://www.uzdaily.ru/en/ipoteka-bank-reports-240-billion-soums-loss-for-2024

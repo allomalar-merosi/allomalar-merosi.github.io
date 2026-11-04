@@ -1,0 +1,210 @@
+TYPE: article
+TITLE: Measuring Bank Stability under Foreign Strategic Ownership: An Integral CAMELS–Z-score Index Applied to the Privatization of Ipoteka Bank in Uzbekistan
+AUTHORS: Shukhrat E. Djabborov
+AFFIL: Gulistan State University, Gulistan, Uzbekistan
+ORCID: [[0000-0000-0000-0000]]
+EMAIL: [[__________@____]]
+ABSTRACT: //Purpose// – When a state-owned bank is sold to a foreign strategic investor, individual stability indicators often move in opposite directions: profitability may rise while recognized non-performing loans increase. This paper develops an integral bank stability index (BBII) that combines a CAMELS-type composite rating with the Z-score and applies it to Ipoteka Bank, the first state-owned bank in Uzbekistan sold to a foreign strategic investor (OTP Group, 2023). //Design/methodology/approach// – CAMELS components are scored on a 1–5 scale using thresholds calibrated to Uzbek prudential requirements and banking-system characteristics; the Z-score is computed with a time-varying capital ratio and a full-period standard deviation of returns. The two are normalized and combined with weights of 0.6 and 0.4. Publicly reported data for 2019–2025 are complemented by estimates where disclosures are incomplete, and sensitivity analysis is performed on weights, the Z-score benchmark and the non-performing loan (NPL) ratio. //Findings// – The index declines from 0.678 in 2022 to 0.549 in the integration year 2023 and recovers to 0.741 in 2025, its highest value over the period, tracing a J-shaped trajectory that is robust to all parameter choices tested. The main factor keeping the bank below the "high stability" threshold of 0.75 is asset quality: reducing the NPL ratio from 7.1 to 4 per cent would raise the index to 0.780. //Originality/value// – The index provides a single, transparent measure that reconciles conflicting signals during post-privatization integration and can be computed from public disclosures, supporting supervisors and policymakers in emerging markets that are privatizing state banks.
+KEYWORDS: bank stability; CAMELS; Z-score; composite index; foreign ownership; bank privatization; Uzbekistan
+JEL: G21, G28, G32, P34
+---
+# 1. Introduction
+
+Since 2020 Uzbekistan has pursued a strategy to transform a banking system dominated by the state. At the time the 2020–2025 banking reform strategy was adopted, 13 of 31 banks were state-owned and controlled about 85 per cent of banking assets; the strategy set targets of raising the share of banks without state participation from 15 to 60 per cent of assets and attracting at least three foreign strategic investors (Presidential Decree No. PF-5992, 2020; GRATA International, 2020). The first and so far the only transaction of this kind was completed on 13 June 2023, when Hungary's OTP Bank acquired 73.71 per cent of Ipoteka Bank (Ipoteka-bank, 2023). The price was not officially disclosed; press reports put it at about USD 324 million (bne IntelliNews, 2023). OTP Bank added USD 70 million of capital in December 2023 (Kun.uz, 2023), and its stake reached about 79.6 per cent by the end of 2024 (Ipoteka bank OTP Group, 2025).
+
+The bank's post-acquisition indicators send conflicting signals. According to OTP Group, Ipoteka Bank was the only group member to report a loss in 2023 (Telex, 2024). In 2024, under IFRS, it earned UZS 1.837 trillion with a return on equity (ROE) of 30.4 per cent, a return on assets (ROA) of 4.0 per cent and a cost-to-income ratio of 38 per cent (Ipoteka bank OTP Group, 2025). Under national accounting standards, however, it reported a loss of UZS 240.2 billion for 2024, its loan book contracted by 5.8 per cent, and the NPL ratio rose from 4.7 to 10.2 per cent (UzDaily, 2025). In 2025 IFRS net income was UZS 1.763 trillion with an ROE of 22.4 per cent and an ROA of 3.5 per cent (Ipoteka bank OTP Group, 2026). Has the bank become more or less stable? Individual ratios cannot answer this question.
+
+This paper proposes an integral bank stability index (BBII) that combines a CAMELS-type composite rating, which captures the bank's current condition across six areas, with the Z-score, which measures distance to insolvency. The index is computed from public data, is bounded between 0 and 1, and has interpretable thresholds. Applied to Ipoteka Bank, it shows a J-shaped trajectory: stability declines in the integration year as hidden asset-quality problems are recognized and then recovers to its highest level.
+
+The paper contributes to three strands of literature: the measurement of bank stability with rating systems and the Z-score (Lopez, 1999; Lepetit & Strobel, 2013); the effects of foreign acquisition and privatization on bank performance in transition economies (Bonin et al., 2005; Havrylchyk & Jurzyk, 2011); and the banking reform literature on Central Asia, where empirical work on post-privatization performance is scarce.
+
+Section 2 reviews the literature, Section 3 describes the index and data, Section 4 presents results and sensitivity analysis, Section 5 discusses implications and limitations, and Section 6 concludes.
+
+# 2. Literature review
+
+## 2.1. Bank stability and its measurement
+
+Bank stability is rooted in the fragility of maturity transformation: Diamond and Dybvig (1983) show that self-fulfilling runs can bring down a solvent bank, and Minsky (1986) argues that periods of stability breed risk-taking that later produces instability. Measurement approaches fall into four groups (Saunders & Cornett, 2018): financial ratios; supervisory rating systems; frontier efficiency methods; and composite risk measures. The CAMELS rating system, introduced in the United States in 1979 and extended with a sensitivity component in 1996, rates capital adequacy, asset quality, management, earnings, liquidity and sensitivity to market risk on a 1–5 scale. Lopez (1999) shows that CAMELS ratings are informative about bank conditions but that their information content decays quickly, while Sahajwala and Van den Bergh (2000) classify supervisory rating and early warning systems. The IMF's Financial Soundness Indicators (FSI) provide a standardized system-level analogue (IMF, 2025).
+
+The Z-score, derived from Roy's (1952) safety-first principle and applied to banks by Boyd and Graham (1986), measures how many standard deviations returns must fall to exhaust equity. Lepetit and Strobel (2013) compare ways of computing time-varying Z-scores and recommend combining current capital ratios with full-sample means and standard deviations of ROA. Altman's (1968) Z-model is widely used for non-financial firms but is not designed for banks. Composite indicators require transparent normalization, weighting and sensitivity analysis (OECD & JRC, 2008; Saisana et al., 2005).
+
+## 2.2. Foreign ownership, privatization and bank performance
+
+Agency theory (Jensen & Meckling, 1976) and the corporate governance literature (Shleifer & Vishny, 1997) imply that a large private owner improves monitoring relative to diffuse or political ownership. La Porta et al. (2002) find that government ownership of banks is associated with slower financial development, and Sapienza (2004) documents politically driven lending by state banks. In transition economies, Bonin et al. (2005) show that foreign-owned banks are the most cost-efficient and that sales to strategic foreign investors outperform voucher privatization, and Fries and Taci (2005) obtain similar results for 15 post-communist countries. Berger et al. (2005) distinguish static, selection and dynamic effects of ownership, and Havrylchyk and Jurzyk (2011) show that the superior performance of acquired foreign banks is partly inherited and that profitability initially declines after acquisition. Megginson (2005) concludes that privatization generally improves performance but that outcomes depend on method and institutions.
+
+Foreign ownership also shapes resilience. De Haas and van Lelyveld (2006) find that foreign subsidiaries in Central and Eastern Europe (CEE) stabilized credit during local crises, but during the global financial crisis multinational banks' subsidiaries reduced lending more than domestic banks (de Haas & van Lelyveld, 2014; Cull & Martínez Pería, 2013). Laeven and Levine (2009) show that the effect of regulation on risk depends on ownership structure. Foreign bank shares in CEE rose from about 10 per cent in 1995 to 77 per cent in 2008 (Prague Economic Papers, 2021), and above 80 per cent in the region's EU member states by 2009 (Claessens & van Horen, 2012).
+
+The literature thus suggests that stability after a foreign acquisition may follow a non-linear path, but it offers no simple, public-data measure that reconciles the conflicting signals typical of the integration period. This paper fills that gap for an emerging market in the early stage of bank privatization.
+
+## 2.3. Banking reform in Uzbekistan
+
+Uzbekistan's banking system grew rapidly after the 2017 liberalization: total assets rose from UZS 167 trillion in 2017 to UZS 925 trillion in 2025, and capital reached UZS 135.3 trillion at end-2025 (UzA, 2026). Moody's estimated total assets at USD 59.5 billion, or 53 per cent of GDP, at end-2024 (Daryo, 2025). The 2019 laws on banks and on the Central Bank aligned regulation with international standards, and banks moved to IFRS reporting from 2021. The state's share in banking assets declined from about 85 per cent in 2020 to 62–65 per cent in 2024, largely because private banks grew faster than state banks rather than because of privatization (IMF, 2025). State banks remain dependent on government funding – their loan-to-deposit ratio stood at 237 per cent in 2024, compared with 108 per cent for private banks – and the IMF has noted that NPLs may be under-reported (IMF, 2025). Privatization deadlines for Asakabank, Uzpromstroybank and Aloqabank were postponed to 2025, and the updated Uzbekistan–2030 strategy announced that no state bank would be privatized in 2026. In this setting, evidence on the first foreign acquisition is directly relevant to the design of future transactions.
+
+# 3. Methodology and data
+
+## 3.1. CAMELS component scoring
+
+Each CAMELS component is proxied by one publicly observable ratio and scored from 1 (best) to 5 (worst) using thresholds calibrated to Uzbek conditions (Table 1). The capital thresholds are anchored on the national minimum total capital adequacy ratio of 13 per cent; the liquidity thresholds reflect the high loan-to-deposit ratios of the Uzbek system (173 per cent overall and 237 per cent for state banks in 2024; IMF, 2025); management quality is proxied by the cost-to-income ratio, a common practice when supervisory assessments are unavailable.
+
+TABLE 1: CAMELS components, proxies and scoring thresholds ## Author's elaboration based on Lopez (1999), Sahajwala and Van den Bergh (2000) and national prudential requirements.
+| Component | Proxy | 1 | 2 | 3 | 4 | 5 |
+| C – Capital | Capital adequacy ratio, % | ≥ 18 | 15–18 | 13–15 | 10–13 | < 10 |
+| A – Asset quality | NPL ratio, % | < 2 | 2–4 | 4–6 | 6–10 | ≥ 10 |
+| M – Management | Cost-to-income ratio, % | < 40 | 40–50 | 50–60 | 60–70 | ≥ 70 |
+| E – Earnings | ROA, % | ≥ 2.5 | 1.5–2.5 | 0.5–1.5 | 0–0.5 | < 0 |
+| L – Liquidity | Loans-to-deposits, % | < 100 | 100–130 | 130–170 | 170–220 | ≥ 220 |
+| S – Sensitivity | Open FX position to capital, % | < 5 | 5–10 | 10–15 | 15–20 | ≥ 20 |
+
+The composite score weights capital and asset quality most heavily:
+
+$$ CAMELS_t = 0.25·C + 0.25·A + 0.10·M + 0.15·E + 0.15·L + 0.10·S (1)
+
+## 3.2. Z-score
+
+Following Lepetit and Strobel (2013), the Z-score combines the current equity-to-assets ratio with the full-period standard deviation of ROA:
+
+$$ Z_t = (ROA_t + E/A_t) / σ(ROA) (2)
+
+## 3.3. Integral bank stability index
+
+The integral index normalizes both measures to the unit interval and combines them:
+
+$$ BBII_t = w_1 · (5 – CAMELS_t) / 4 + w_2 · min(Z_t / Z*, 1) (3)
+
+with w_1 = 0.6, w_2 = 0.4 and a benchmark Z* = 15. Values above 0.75 indicate high stability, 0.5–0.75 satisfactory stability and below 0.5 low stability. The CAMELS component receives the larger weight because it captures more dimensions of bank condition; the Z-score adds forward-looking information about insolvency risk and earnings volatility.
+
+## 3.4. Data
+
+The analysis covers 2019–2025. Public sources include the bank's IFRS press releases, its issuer reports, OTP Group disclosures, Fitch rating commentary and media reports of national-standard results (see References). Several series – notably capital adequacy, open FX positions and pre-2021 balance-sheet items – are not fully disclosed and were estimated from available information; these values are shown in blue and should be replaced by audited figures when available. NPL ratios for 2023–2024 are from national-standard reports, whereas ROA for 2024–2025 is from IFRS statements; Section 5 discusses the implications of mixing bases.
+
+# 4. Results
+
+## 4.1. CAMELS assessment
+
+Table 2 reports the component ratios, scores and composite ratings.
+
+TABLE 2: Ipoteka Bank CAMELS components, scores and composite rating, 2019–2025 ## Author's calculations; values in blue are estimates.
+| Component | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| C: CAR, % | <<15.1>> | <<14.2>> | <<14.6>> | <<14.9>> | <<15.6>> | <<16.8>> | <<17.9>> |
+| A: NPL, % | <<1.4>> | <<2.6>> | <<3.4>> | <<3.9>> | 4.7 | 10.2 | <<7.1>> |
+| M: cost-to-income, % | <<52>> | <<55>> | <<49>> | <<47>> | <<63>> | 38 | <<39>> |
+| E: ROA, % | <<1.7>> | <<1.3>> | <<2.3>> | <<2.7>> | <<−0.7>> | 4.0 | 3.5 |
+| L: loans/deposits, % | <<241>> | <<220>> | <<194>> | <<213>> | <<188>> | <<153>> | <<145>> |
+| S: open FX position/capital, % | <<14>> | <<12>> | <<11>> | <<9>> | <<8>> | <<6>> | <<5>> |
+| Scores (C-A-M-E-L-S) | 2-1-3-2-5-3 | 3-2-3-3-5-3 | 3-2-2-2-4-3 | 3-2-2-1-4-2 | 2-3-4-5-4-2 | 2-5-1-1-3-2 | 2-4-1-1-3-2 |
+| Composite CAMELS | 2.40 | 3.05 | 2.65 | 2.40 | 3.20 | 2.65 | 2.40 |
+
+After the acquisition, management, earnings, liquidity and sensitivity scores improved, capital remained stable, and asset quality deteriorated. The composite rating reached its worst level (3.20) in 2023 and returned to its best pre-acquisition level (2.40) in 2025. The composition of weaknesses changed, however: in 2022 the main weakness was liquidity – a funding base dominated by state resources, which accounted for 57 per cent of liabilities in 2019 (UzDaily, 2020) – whereas in 2025 it is asset quality.
+
+## 4.2. Z-score and BBII
+
+Table 3 and Figure 1 present the Z-score and the integral index (σ(ROA) = <<1.45>> percentage points).
+
+TABLE 3: Z-score and integral bank stability index (BBII), 2019–2025 ## Author's calculations; values in blue are based on estimates.
+| Indicator | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Equity/assets, % | <<11.4>> | <<12.1>> | <<12.6>> | <<12.9>> | 15.8 | 14.0 | <<15.5>> |
+| Z-score | <<9.1>> | <<9.3>> | <<10.3>> | <<10.8>> | <<10.5>> | <<12.5>> | <<13.2>> |
+| Normalized CAMELS | 0.650 | 0.488 | 0.588 | 0.650 | 0.450 | 0.588 | 0.650 |
+| Normalized Z-score | <<0.607>> | <<0.620>> | <<0.687>> | <<0.720>> | <<0.700>> | <<0.833>> | <<0.880>> |
+| BBII | <<0.632>> | <<0.540>> | <<0.628>> | <<0.678>> | <<0.549>> | <<0.685>> | <<0.741>> |
+
+IMG en_d3_bbii.png 1: Integral bank stability index (BBII) and its components, 2019–2025 ## Author's calculations; values partly based on estimates.
+
+The BBII falls to <<0.549>> in the integration year and rises to <<0.741>> in 2025, the highest value of the period, approaching the 0.75 threshold. The Z-score increases steadily from 2022 because capitalization strengthened (equity/assets of 14–16 per cent after the capital injection) and profitability improved. The J-shaped pattern is consistent with the finding of Havrylchyk and Jurzyk (2011) that acquired banks' profitability first declines and then recovers, and with the interpretation that asset revaluation under group standards and IFRS 9 (IASB, 2014) temporarily worsens reported indicators.
+
+## 4.3. Sensitivity analysis
+
+Table 4 reports the BBII under alternative weights and Z-score benchmarks.
+
+TABLE 4: Sensitivity of BBII to weights and the Z-score benchmark ## Author's calculations based on partly estimated data.
+| Specification | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Baseline (w1 = 0.6; Z* = 15) | <<0.633>> | <<0.540>> | <<0.627>> | <<0.678>> | <<0.550>> | <<0.686>> | <<0.742>> |
+| w1 = 0.5; Z* = 15 | <<0.628>> | <<0.554>> | <<0.637>> | <<0.685>> | <<0.575>> | <<0.710>> | <<0.765>> |
+| w1 = 0.7; Z* = 15 | <<0.637>> | <<0.527>> | <<0.617>> | <<0.671>> | <<0.525>> | <<0.661>> | <<0.719>> |
+| w1 = 0.6; Z* = 12 | <<0.693>> | <<0.603>> | <<0.696>> | <<0.750>> | <<0.620>> | <<0.752>> | <<0.790>> |
+| w1 = 0.6; Z* = 20 | <<0.572>> | <<0.479>> | <<0.558>> | <<0.606>> | <<0.480>> | <<0.603>> | <<0.654>> |
+
+Levels depend on parameters – the 2025 value ranges from <<0.654>> to <<0.790>> – but in every specification the index falls in 2023 and peaks in 2025. The qualitative conclusion is therefore robust; the benchmark Z* matters mainly for classification into stability bands and should be calibrated to the system-wide distribution of Z-scores.
+
+Because asset quality is the main constraint, the sensitivity of the index to the NPL ratio was examined holding other 2025 values constant (Figure 2). Reducing the NPL ratio to 4–6 per cent lowers the composite CAMELS rating to 2.15 and raises the BBII to <<0.780>>, moving the bank into the high-stability band; an NPL ratio of 2–4 per cent yields <<0.817>>, whereas a ratio above 10 per cent lowers the index to <<0.704>>.
+
+IMG en_d3_npl.png 2: Sensitivity of BBII to the NPL ratio (other indicators at 2025 values) ## Author's calculations.
+
+## 4.4. Comparison with banking-system indicators
+
+Table 5 places Ipoteka Bank's 2024 indicators in the context of the banking system.
+
+TABLE 5: Ipoteka Bank compared with the Uzbek banking system, 2024 ## IMF (2025), Daryo (2024), bank disclosures; values in blue are estimates; ROA and cost-to-income of Ipoteka Bank under IFRS.
+| Indicator | Ipoteka Bank | Banking system | State banks | Private banks |
+| Loans-to-deposits, % | <<153>> | 173 | 237 | 108 |
+| NPL ratio, % | 10.2 | 4.2 | 4.8 | 3.1 |
+| Capital adequacy, % | <<16.8>> | 17.3 | <<16.5>> | <<18.6>> |
+| ROA, % | 4.0 | <<2.0>> | <<1.5>> | <<3.1>> |
+| Cost-to-income, % | 38 | <<45>> | <<41>> | <<52>> |
+
+The bank's funding structure has moved from the state-bank pattern towards that of private banks, and its profitability and efficiency exceed system averages. Its reported NPL ratio, however, is more than twice the system average. Given that state banks' NPLs may be under-recognized, the gap overstates the true difference in asset quality, but it remains the decisive constraint on the bank's stability rating. Comparable BBII values for other banks would require consistent IFRS-based disclosures, which are not yet available for most state banks.
+
+# 5. Discussion
+
+## 5.1. Interpretation
+
+The BBII reconciles the conflicting signals described in the introduction. Higher reported NPLs after the acquisition do not necessarily indicate deteriorating credit quality; they partly reflect stricter recognition under group standards. The IMF (2025) notes that NPLs may be under-reported in the Uzbek system, and Moody's reported that system-wide problem loans rose to 7 per cent in 2024 as state banks recognized problem assets (Daryo, 2025). At the same time, the improvement in capitalization, efficiency and funding structure is real and is captured by the index. The integral measure therefore supports a nuanced judgement: stability declined during integration and has since surpassed its pre-acquisition level, with asset quality as the outstanding weakness.
+
+## 5.2. Policy implications
+
+Three implications follow. First, supervisors can use the BBII as an off-site monitoring and peer-comparison tool, particularly for banks undergoing ownership change, where single ratios are misleading. Second, privatization policy should anticipate a temporary decline in stability indicators in the first post-acquisition year and avoid interpreting it as failure; conversely, a lack of recovery after two to three years should trigger supervisory review. Third, since asset quality is the binding constraint, a credible NPL resolution strategy – write-offs, restructuring, collateral enforcement and development of a distressed-asset market – is the most effective lever for raising stability. For foreign-owned banks, home–host supervisory cooperation and limits on intra-group exposures and dividend distributions during periods of elevated NPLs address the contagion risks documented for multinational banks (de Haas & van Lelyveld, 2014; BCBS, 2012).
+
+## 5.3. Limitations
+
+The analysis has several limitations. Data disclosure is incomplete, and several inputs are estimated; the results should be re-estimated with audited IFRS data. Mixing national-standard NPL ratios with IFRS profitability may overstate the post-acquisition contrast; consistent bases are essential for cross-bank comparison. The single-indicator proxies for CAMELS components are coarse, and the management proxy in particular captures efficiency rather than governance quality. Finally, the index measures current condition and insolvency distance but not forward-looking vulnerabilities; combining it with stress tests would strengthen its use.
+
+# 6. Conclusion
+
+This paper develops an integral bank stability index that combines a CAMELS-type rating with the Z-score and can be computed from public disclosures. Applied to Ipoteka Bank, the first state bank in Uzbekistan sold to a foreign strategic investor, the index reveals a J-shaped trajectory: stability declined in the integration year and recovered to its highest level by 2025, a result robust to parameter choices. Asset quality is the main remaining weakness, and reducing NPLs to below 6 per cent would move the bank into the high-stability band. The index offers supervisors and policymakers in emerging markets a transparent tool for monitoring banks through privatization and integration.
+
+**Declarations**
+
+//Funding:// [[None / grant details]]. //Conflict of interest:// The author declares no conflict of interest. //Data availability:// Public sources are listed in the references; estimated inputs are available from the author upon request. //Acknowledgements:// [[____]].
+
+REF: Altman, E. I. (1968). Financial ratios, discriminant analysis and the prediction of corporate bankruptcy. Journal of Finance, 23(4), 589–609.
+REF: Basel Committee on Banking Supervision. (2012). Core principles for effective banking supervision. Bank for International Settlements.
+REF: Berger, A. N., Clarke, G. R. G., Cull, R., Klapper, L., & Udell, G. F. (2005). Corporate governance and bank performance: A joint analysis of the static, selection, and dynamic effects of domestic, foreign, and state ownership. Journal of Banking & Finance, 29(8–9), 2179–2221.
+REF: bne IntelliNews. (2023). Hungary's OTP closes first acquisition outside Europe in Uzbekistan. https://bne.eu/hungary-s-otp-closes-first-acquisition-outside-europe-in-uzbekistan-281634
+REF: Bonin, J. P., Hasan, I., & Wachtel, P. (2005). Bank performance, efficiency and ownership in transition countries. Journal of Banking & Finance, 29(1), 31–53.
+REF: Boyd, J. H., & Graham, S. L. (1986). Risk, regulation, and bank holding company expansion into nonbanking. Federal Reserve Bank of Minneapolis Quarterly Review, 10(2), 2–17.
+REF: Claessens, S., & van Horen, N. (2012). Foreign banks: Trends, impact and financial stability (IMF Working Paper WP/12/10). International Monetary Fund.
+REF: Cull, R., & Martínez Pería, M. S. (2013). Bank ownership and lending patterns during the 2008–2009 financial crisis: Evidence from Latin America and Eastern Europe. Journal of Banking & Finance, 37(12), 4861–4878.
+REF: Daryo. (2024, September 10). Uzbekistan's NPLs hit $1.64bn in August with state-owned banks facing higher ratio. https://daryo.uz
+REF: Daryo. (2025, March 5). Uzbekistan's problem loans rise to 7% in 2024, Moody's reports. https://daryo.uz/en/2025/03/05/uzbekistans-problem-loans-rise-to-7-in-2024-moodys-reports
+REF: de Haas, R., & van Lelyveld, I. (2006). Foreign banks and credit stability in Central and Eastern Europe. A panel data analysis. Journal of Banking & Finance, 30(7), 1927–1952.
+REF: de Haas, R., & van Lelyveld, I. (2014). Multinational banks and the global financial crisis: Weathering the perfect storm? Journal of Money, Credit and Banking, 46(s1), 333–364.
+REF: Diamond, D. W., & Dybvig, P. H. (1983). Bank runs, deposit insurance, and liquidity. Journal of Political Economy, 91(3), 401–419.
+REF: Fries, S., & Taci, A. (2005). Cost efficiency of banks in transition: Evidence from 289 banks in 15 post-communist countries. Journal of Banking & Finance, 29(1), 55–81.
+REF: GRATA International. (2020). Strategy of reforming the banking sector of Uzbekistan is adopted. https://gratanet.com/news/banking-sector-of-uzbekistan
+REF: Havrylchyk, O., & Jurzyk, E. (2011). Inherited or earned? Performance of foreign banks in Central and Eastern Europe. Journal of Banking & Finance, 35(5), 1291–1302.
+REF: International Accounting Standards Board. (2014). IFRS 9 Financial instruments. IFRS Foundation.
+REF: International Monetary Fund. (2025). Republic of Uzbekistan: Financial system stability assessment (IMF Country Report No. 25/145). IMF.
+REF: Ipoteka-bank. (2023). Transaction closed: OTP Bank acquired Ipoteka-Bank. https://www.ipotekabank.uz/en/news/ipotekabank_otpgroup/
+REF: Ipoteka bank OTP Group. (2025). OTP Group announced 2024 financial results. https://www.ipotekabank.uz/en/news/financial_results_2024_en
+REF: Ipoteka bank OTP Group. (2026). What do a bank's financial results mean? Key metrics explained. https://www.ipotekabank.uz/en/blog/layf/chto-oznachayut-finansovye-rezultaty-banka/
+REF: Jensen, M. C., & Meckling, W. H. (1976). Theory of the firm: Managerial behavior, agency costs and ownership structure. Journal of Financial Economics, 3(4), 305–360.
+REF: Kun.uz. (2023, December 26). Ipoteka Bank receives additional capitalization worth $70 million from OTP Bank. https://kun.uz/en/news/2023/12/26/ipoteka-bank-receives-additional-capitalization-worth-70-million-from-otp-bank
+REF: La Porta, R., Lopez-de-Silanes, F., & Shleifer, A. (2002). Government ownership of banks. Journal of Finance, 57(1), 265–301.
+REF: Laeven, L., & Levine, R. (2009). Bank governance, regulation and risk taking. Journal of Financial Economics, 93(2), 259–275.
+REF: Lepetit, L., & Strobel, F. (2013). Bank insolvency risk and time-varying Z-score measures. Journal of International Financial Markets, Institutions and Money, 25, 73–87.
+REF: Lopez, J. A. (1999). Using CAMELS ratings to monitor bank conditions. FRBSF Economic Letter, 99-19.
+REF: Megginson, W. L. (2005). The economics of bank privatization. Journal of Banking & Finance, 29(8–9), 1931–1980.
+REF: Minsky, H. P. (1986). Stabilizing an unstable economy. Yale University Press.
+REF: OECD, & JRC. (2008). Handbook on constructing composite indicators: Methodology and user guide. OECD Publishing.
+REF: Prague Economic Papers. (2021). Foreign banks in Central and Eastern Europe, (5). https://pep.vse.cz/pdfs/pep/2021/05/05.pdf
+REF: Presidential Decree No. PF-5992. (2020, May 12). On the strategy for reforming the banking system of the Republic of Uzbekistan for 2020–2025. https://lex.uz/docs/4811037
+REF: Roy, A. D. (1952). Safety first and the holding of assets. Econometrica, 20(3), 431–449.
+REF: Sahajwala, R., & Van den Bergh, P. (2000). Supervisory risk assessment and early warning systems (BCBS Working Paper No. 4). Bank for International Settlements.
+REF: Saisana, M., Saltelli, A., & Tarantola, S. (2005). Uncertainty and sensitivity analysis techniques as tools for the quality assessment of composite indicators. Journal of the Royal Statistical Society: Series A, 168(2), 307–323.
+REF: Sapienza, P. (2004). The effects of government ownership on bank lending. Journal of Financial Economics, 72(2), 357–384.
+REF: Saunders, A., & Cornett, M. M. (2018). Financial institutions management: A risk management approach (9th ed.). McGraw-Hill Education.
+REF: Shleifer, A., & Vishny, R. W. (1997). A survey of corporate governance. Journal of Finance, 52(2), 737–783.
+REF: Telex. (2024, March 8). Ezermilliárd forintnál is több profitot ért el tavaly az OTP [OTP earned more than a thousand billion forints last year]. https://telex.hu/gazdasag/2024/03/08/otp-adozas-utani-eredmeny-2023
+REF: UzA. (2026). Development of Uzbekistan's banking sector in 2017–2025 [Infographic]. https://uza.uz
+REF: UzDaily. (2020). Fitch affirms Ipoteka-Bank at 'BB-'. https://www.uzdaily.ru/en/fitch-affirms-ipoteka-bank-at-bb/
+REF: UzDaily. (2025). Ipoteka Bank reports 240 billion soums loss for 2024. https://www.uzdaily.ru/en/ipoteka-bank-reports-240-billion-soums-loss-for-2024

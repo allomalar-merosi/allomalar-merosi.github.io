@@ -1,0 +1,214 @@
+TYPE: article
+TITLE: An Entrepreneurship-Augmented Multidimensional Poverty Index for Middle-Income Regions: Methodology and Illustrative Application to Syrdarya Region, Uzbekistan
+AUTHORS: Latofat Sh. Batirova
+AFFIL: Gulistan State University, Gulistan, Uzbekistan
+ORCID: [[0000-0000-0000-0000]]
+EMAIL: [[__________@____]]
+ABSTRACT: //Purpose// – Official poverty statistics in Uzbekistan rely on a consumption-based monetary line, while the global Multidimensional Poverty Index (MPI) is calibrated to acute deprivations that are close to zero in middle-income settings. This paper proposes a regional multidimensional poverty index that adds an entrepreneurial capacity dimension (MPI-TS) and is designed to inform and evaluate entrepreneurship support programmes. //Design/methodology/approach// – Building on the Alkire–Foster dual cut-off method, the index combines five equally weighted dimensions – education, health, living standards, employment and entrepreneurial capacity – measured by 14 indicators that can be collected through a 25-question mahalla-level questionnaire. The index is illustrated on ten conditional households from Syrdarya region and subjected to robustness checks on weights, poverty cut-offs and indicator composition. //Findings// – In the illustrative sample, a standard global-MPI-type index identifies only one household as poor, whereas MPI-TS identifies seven (H = 70%, A = 60%, M0 = 0.420). Entrepreneurial capacity is the largest contributor to the index (27.0%), followed by employment (20.6%). Removing the entrepreneurial capacity dimension lowers the headcount to 60% and M0 to 0.356, while household rankings remain stable under alternative weights. //Originality/value// – The paper is the first to treat the absence of productive assets, financial inclusion and certified skills as a distinct poverty dimension, linking poverty measurement directly to the instruments of entrepreneurship support policy. //Practical implications// – The index can be integrated into Uzbekistan's poor-household registry to prioritize families, match support instruments to deprivation profiles and set multidimensional graduation criteria.
+KEYWORDS: multidimensional poverty; Alkire–Foster method; entrepreneurial capacity; poverty measurement; targeting; Uzbekistan
+JEL: I32, L26, O15, C43
+---
+# 1. Introduction
+
+Poverty reduction has become a central objective of economic policy in Uzbekistan. The Development Strategy of New Uzbekistan for 2022–2026 set the goal of at least halving poverty by the end of 2026 (Presidential Decree No. PF-60, 2022), and in September 2024 the "From Poverty to Prosperity" programme assigned the identification of poor households and the selection of support measures to mahalla-level teams (Presidential Resolution No. PQ-330, 2024). According to official data, the national poverty rate fell from 14 per cent in 2022 to 5.8 per cent in 2025, and in Syrdarya region from 11.3 per cent in 2024 to 6.2 per cent in 2025. These are remarkable achievements, but the official measure is a monetary one: it records whether household consumption exceeds the poverty line, not whether children attend school, whether medical care is forgone for financial reasons, whether water and gas supply are reliable, or whether household members have stable work and the resources needed to start a business.
+
+Internationally, these limitations are addressed by multidimensional poverty indices. The global MPI produced by UNDP and the Oxford Poverty and Human Development Initiative (OPHI) is now published for more than 100 countries (UNDP, 2010; UNDP & OPHI, 2024). However, its indicators – electricity, years of schooling, child mortality, housing materials, cooking fuel – target acute poverty. In a middle-income country with near-universal electrification and general secondary education, deprivation rates on these indicators are close to zero, and the index fails to register the problems that households actually face. Moreover, the global MPI says nothing about the area that entrepreneurship support programmes – the main anti-poverty instrument in Uzbekistan – are designed to change: a household's capacity to generate income through self-employment and small business.
+
+This paper addresses both gaps. It proposes a regional multidimensional poverty index with an entrepreneurial capacity dimension (MPI-TS, from the Uzbek //tadbirkorlik salohiyati//) and illustrates its construction and behaviour for Syrdarya region. The paper asks three questions: (i) how should the global MPI be adapted to a middle-income region in which acute deprivations are rare? (ii) can entrepreneurial capacity be measured as a distinct poverty dimension, and does it matter for poverty identification? (iii) how robust are the resulting identification and rankings to the normative choices embedded in the index?
+
+The contribution is threefold. First, the paper adds to the literature on national and regional adaptations of the Alkire–Foster method (Alkire et al., 2015) by documenting a set of indicators tailored to Central Asian conditions, including service reliability rather than mere connection. Second, it introduces entrepreneurial capacity – productive assets, financial inclusion and certified skills – as a poverty dimension grounded in theories of credit constraints and poverty traps (Banerjee & Newman, 1993; Barrett & Carter, 2013). Third, it shows how the index can be operationalized at the mahalla level and linked to the selection and evaluation of support instruments.
+
+The remainder of the paper is structured as follows. Section 2 reviews the relevant literature. Section 3 presents the methodology and the index structure. Section 4 reports illustrative results and robustness checks. Section 5 discusses policy implications and limitations, and Section 6 concludes.
+
+# 2. Literature review
+
+## 2.1. From monetary to multidimensional poverty
+
+The monetary approach measures welfare by income or consumption and aggregates poverty with the Foster–Greer–Thorbecke family of measures (Foster et al., 1984). Sen (1976) showed that the headcount ratio ignores the depth of poverty and inequality among the poor, and later argued that well-being should be assessed by people's capabilities – their real freedoms to achieve valued functionings – rather than by income alone (Sen, 1985, 1999). Income is a means whose conversion into capabilities depends on health, education, infrastructure and social context; Nussbaum (2011) proposed a list of central capabilities for a life with dignity. In development practice, Deaton (1997) emphasized the advantages of consumption over income in surveys of low- and middle-income households, while Ravallion (2016) documented the history and political economy of poverty lines.
+
+Two strands of multidimensional measurement emerged. The axiomatic strand generalizes properties of unidimensional measures to several dimensions (Bourguignon & Chakravarty, 2003; Tsui, 2002), but it requires cardinal variables, whereas many deprivation indicators are binary or ordinal. The counting strand records how many deprivations each household experiences (Atkinson, 2003) and has proved more practical for policy.
+
+## 2.2. The Alkire–Foster method and its adaptations
+
+Alkire and Foster (2011) proposed a dual cut-off method: indicator-specific deprivation cut-offs, followed by a cross-dimensional poverty cut-off k applied to each household's weighted deprivation score. The resulting adjusted headcount ratio M0 satisfies dimensional monotonicity and is decomposable by population subgroups and by indicators – properties that make it suitable for policy targeting and monitoring (Alkire et al., 2015). Alkire and Santos (2014) found that global MPI rankings are largely robust to weights and cut-offs. Critics, notably Ravallion (2011), argue that composite indices conceal trade-offs between dimensions and that weights are arbitrary; he recommends a dashboard of indicators alongside the monetary measure. The World Bank (2017, 2018) adopted a complementary approach, retaining the monetary line while adding non-monetary deprivations.
+
+Middle-income countries have developed national MPIs that depart from the global indicator set. Mexico introduced an official multidimensional measure combining income and social rights in 2009, and Colombia has used a national MPI for policy planning since 2011 (Alkire et al., 2015). These adaptations typically add employment quality, social protection, overcrowding and access to services – dimensions that remain informative when acute deprivations have largely disappeared. Yet none of them treats the means of self-employment as a poverty dimension, even though entrepreneurship support is a central anti-poverty instrument in many such countries.
+
+## 2.3. Entrepreneurship, credit constraints and poverty
+
+Theories of occupational choice under credit constraints show that, when capital markets are imperfect, the probability of becoming an entrepreneur depends on initial wealth (Evans & Jovanovic, 1989), and poor households with profitable projects may remain trapped in wage labour or subsistence (Banerjee & Newman, 1993). Asset-based poverty traps imply that small transfers may be ineffective while larger, one-off injections can move households across a threshold (Barrett & Carter, 2013), although the empirical prevalence of traps is debated (Kraay & McKenzie, 2014). Bruton et al. (2013) and Sutter et al. (2019) review entrepreneurship as a solution to poverty, distinguishing remediation of resource scarcity, reform of exclusionary institutions and more radical business-model change.
+
+Experimental evidence shows that the effect of support depends on what households lack. Microcredit has modest average effects concentrated among households with prior businesses (Banerjee et al., 2015a; Meager, 2019); capital grants yield high returns in microenterprises (de Mel et al., 2008) and raise earnings of young people (Blattman et al., 2014); and multifaceted "graduation" programmes that combine assets, training and consumption support produce lasting gains for the ultra-poor across several dimensions (Banerjee et al., 2015b; Bandiera et al., 2017). Business training alone has small effects (McKenzie & Woodruff, 2014). This literature implies that the lack of productive assets, of access to finance and of skills is not merely a correlate of poverty but a constraint that keeps households poor – and therefore a candidate dimension of poverty in its own right.
+
+The review reveals a gap: existing multidimensional indices neither adapt global indicators to middle-income regional conditions in Central Asia nor measure entrepreneurial capacity as a poverty dimension that can be linked to the design and evaluation of support programmes.
+
+# 3. Methodology
+
+## 3.1. The Alkire–Foster framework
+
+Let g_ij = 1 if household i is deprived in indicator j and 0 otherwise, and let w_j be the weight of indicator j, with Σ w_j = 1. The weighted deprivation score is
+
+$$ c_i = Σ_{j=1}^{d} w_j · g_ij (1)
+
+A household is identified as multidimensionally poor if c_i ≥ k. The censored score c_i(k) equals c_i for poor households and zero otherwise. The incidence H, intensity A and adjusted headcount ratio M0 are
+
+$$ H = q / n; A = Σ_{i} c_i(k) / q; M_0 = H × A = (1/n) · Σ_{i} c_i(k) (2)
+
+where q is the number of poor households and n the total number of households. The contribution of dimension d to M0 is
+
+$$ Contrib_d = Σ_{j∈d} w_j · h_j / M_0 (3)
+
+where h_j is the censored headcount ratio of indicator j.
+
+## 3.2. Dimensions, indicators and weights
+
+Indicators were selected according to five principles: theoretical grounding in the capability approach or in theories of credit constraints; regional relevance (non-trivial deprivation rates in Syrdarya); policy sensitivity (likely to change in response to programmes within one to three years); measurability through a short household questionnaire administered by mahalla teams; and parsimony. The three global MPI dimensions were retained but their indicators were adapted, and two dimensions were added: employment and entrepreneurial capacity (Table 1).
+
+TABLE 1: Dimensions, indicators, deprivation cut-offs and weights of MPI-TS ## Author's elaboration.
+| Dimension | Indicator | Household is deprived if | Weight |
+| Education | Vocational attainment | No member aged 18+ has secondary specialized, professional or higher education | 1/10 |
+| Education | Children's education | A child aged 3–6 is not in pre-school or a child aged 7–17 is out of education | 1/10 |
+| Health | Access to care | A member forwent needed care or medicine for financial reasons in the last 12 months | 1/10 |
+| Health | Food security | Food intake was reduced due to lack of money in the last 30 days | 1/10 |
+| Living standards | Drinking water | Not connected to piped water or supplied fewer than 3 days a week | 1/20 |
+| Living standards | Sanitation | No sewerage or improved sanitation | 1/20 |
+| Living standards | Energy | Not connected to gas, or gas/electricity interrupted for more than 7 days in winter | 1/20 |
+| Living standards | Overcrowding | Three or more persons per living room | 1/20 |
+| Employment | Stable employment | No working-age member has year-round employment | 1/15 |
+| Employment | Job quality | More than half of employed members work informally or seasonally | 1/15 |
+| Employment | Youth employment | A member aged 18–30 is neither in education nor in employment | 1/15 |
+| Entrepreneurial capacity | Productive assets | No usable plot above 5 sotix, productive livestock, equipment or commercial vehicle | 1/15 |
+| Entrepreneurial capacity | Financial inclusion | No bank account or card and no formal borrowing history | 1/15 |
+| Entrepreneurial capacity | Certified skills | No working-age member holds a documented vocational qualification | 1/15 |
+
+Several design choices deserve comment. Because general secondary education is near-universal in Uzbekistan, the education indicator uses vocational attainment. Child mortality is replaced by forgone care for financial reasons, which captures the health dimension of poverty and is measurable in small samples; anthropometric nutrition is replaced by an experience-based food insecurity question. For water and energy, reliability is included because intermittent supply, rather than lack of connection, is the main problem in many rural mahallas. Overcrowding replaces housing materials, which are rarely deficient in the region. The three entrepreneurial capacity indicators represent physical, financial and human capital required for self-employment.
+
+Nested equal weights were used: each dimension receives 1/5, equally divided among its indicators. Equal weights are transparent and normatively neutral (Alkire et al., 2015); data-driven weights reflect correlations rather than normative importance (OECD & JRC, 2008) and are used only as a robustness check. The main poverty cut-off is k = 1/3, as in the global MPI; k = 1/5 ("vulnerable") and k = 1/2 ("severely poor") are also reported.
+
+## 3.3. Illustrative data and robustness analysis
+
+Because a representative survey for the region is under preparation, the index is illustrated on ten conditional households (H1–H10) whose deprivation profiles were constructed by expert judgement to span the range of situations observed in rural and urban Syrdarya. For comparison, a standard index was computed using the four global MPI indicators that are non-trivial in the region (school attendance, nutrition, water, sanitation) with their global weights, assuming no deprivation in the remaining six. Robustness was assessed by (i) alternative weighting schemes, (ii) alternative poverty cut-offs and (iii) leaving out each indicator in turn, following Saisana et al. (2005). Illustrative values are shown in blue.
+
+# 4. Results
+
+## 4.1. Poverty identification: standard index versus MPI-TS
+
+Table 2 compares the two indices for the illustrative households.
+
+TABLE 2: Deprivation scores and poverty status under the standard index and MPI-TS ## Author's calculations based on conditional data; poverty cut-off k = 1/3.
+| Household | Deprived indicators (of 14) | Standard index score | Standard status | MPI-TS score | MPI-TS status |
+| H1 | <<6>> | <<0.167>> | Not poor | <<0.400>> | Poor |
+| H2 | <<11>> | <<0.278>> | Not poor | <<0.783>> | Severely poor |
+| H3 | <<3>> | <<0.000>> | Not poor | <<0.183>> | Not poor |
+| H4 | <<12>> | <<0.389>> | Poor | <<0.850>> | Severely poor |
+| H5 | <<0>> | <<0.000>> | Not poor | <<0.000>> | Not poor |
+| H6 | <<8>> | <<0.222>> | Not poor | <<0.567>> | Severely poor |
+| H7 | <<3>> | <<0.000>> | Not poor | <<0.217>> | Vulnerable |
+| H8 | <<11>> | <<0.222>> | Not poor | <<0.783>> | Severely poor |
+| H9 | <<5>> | <<0.222>> | Not poor | <<0.350>> | Poor |
+| H10 | <<7>> | <<0.167>> | Not poor | <<0.467>> | Poor |
+| Headcount H, % | – | <<10.0>> | – | <<70.0>> | – |
+
+The standard index identifies only one of the ten households as poor, while MPI-TS identifies seven. Households H2 and H8 are deprived in 11 of 14 indicators, yet the standard index classifies them as non-poor because their deprivations lie in employment, entrepreneurial capacity and service reliability – areas outside the global indicator set. This illustrates the central argument of the paper: in a middle-income region, the global indicators systematically under-identify poverty. Figure 1 shows the distribution of MPI-TS scores.
+
+IMG en_b1_ci.png 1: MPI-TS deprivation scores of the conditional households ## Author's calculations based on conditional data.
+
+For the illustrative sample, MPI-TS yields H = <<70.0>>%, A = <<60.0>>% and M0 = <<0.420>>. Four households (H2, H4, H6, H8) have scores above 0.5 and are severely poor; H7 is vulnerable (0.2 ≤ c_i < 1/3).
+
+## 4.2. Decomposition by dimension
+
+Figure 2 decomposes M0 by dimension using equation (3).
+
+IMG en_b1_contrib.png 2: Contribution of dimensions to MPI-TS ## Author's calculations based on conditional data.
+
+Entrepreneurial capacity contributes most to multidimensional poverty (<<27.0>>%), followed by employment (<<20.6>>%), health and living standards (<<19.0>>% each) and education (<<14.3>>%). Two policy implications follow. First, nearly half of measured poverty lies in dimensions that entrepreneurship support instruments – credit, asset transfers, vocational training – can directly affect, which supports the current orientation of policy. Second, deprivations in living standards, notably unreliable water and energy supply, cannot be removed by household-level support and require investment in mahalla infrastructure.
+
+## 4.3. Robustness
+
+Table 3 reports the sensitivity of the results to normative choices.
+
+TABLE 3: Robustness of MPI-TS to weights, poverty cut-off and indicator composition ## Author's calculations based on conditional data.
+| Specification | H, % | A, % | M0 | Households identified as poor |
+| Baseline (nested equal weights, k = 1/3) | <<70.0>> | <<60.0>> | <<0.420>> | H1, H2, H4, H6, H8, H9, H10 |
+| Equal indicator weights (1/14 each) | <<70.0>> | <<61.2>> | <<0.429>> | Same as baseline |
+| Employment and entrepreneurial capacity weighted 1/4 each | <<70.0>> | <<61.9>> | <<0.433>> | Same as baseline |
+| Without entrepreneurial capacity dimension | <<60.0>> | <<59.4>> | <<0.356>> | H9 no longer poor |
+| k = 1/4 | <<70.0>> | <<60.0>> | <<0.420>> | Same as baseline |
+| k = 0.4 | <<60.0>> | <<64.2>> | <<0.385>> | H9 no longer poor |
+| k = 1/2 | <<40.0>> | – | <<0.298>> | H2, H4, H6, H8 |
+| Leave-one-indicator-out (range of H) | <<50.0–70.0>> | – | – | – |
+
+The set of poor households is unchanged under alternative weighting schemes and under k = 1/4, indicating that identification is not driven by the particular weights chosen. Removing the entrepreneurial capacity dimension reduces the headcount by ten percentage points and M0 by about 15 per cent: household H9, whose main deprivations are the lack of productive assets and certified skills, drops out of the poor group. This is precisely the type of household that entrepreneurship support programmes target, and the result shows that the new dimension changes identification at the margin that matters for policy. Leaving out individual indicators changes H within a range of <<50–70>>%, the largest changes arising when indicators of the employment and entrepreneurial capacity dimensions are removed.
+
+## 4.4. From deprivation profiles to support instruments
+
+The dimensional profile produced by MPI-TS can be used to match households with support instruments. For the illustrative sample, three groups emerge. Households H1, H9 and H10 are deprived mainly in entrepreneurial capacity and job quality while having moderate deprivations elsewhere; for them, instruments that relax specific constraints – credit for households with financial exclusion but some assets and skills, vocational training for those lacking certified skills – are likely to be most cost-effective. Households H2, H4, H6 and H8 are severely poor, with deprivations spanning health, employment and entrepreneurial capacity; for them, the evidence favours multifaceted support combining an asset transfer, training and temporary consumption support, rather than credit that could create a debt burden (Banerjee et al., 2015b; Bandiera et al., 2017). Finally, deprivations in water and energy reliability, present in several households, call for mahalla-level infrastructure investment rather than household-level instruments.
+
+This matching logic has a direct analogue in the global literature on targeting, which finds that combining geographic targeting, household-level assessment and community knowledge improves accuracy (Coady et al., 2004; Alatas et al., 2012). In Uzbekistan, the mahalla institution provides the community component, while MPI-TS provides a standardized, verifiable household assessment that can discipline and complement local judgement.
+
+# 5. Discussion
+
+## 5.1. Policy implications
+
+The findings have four implications for poverty policy in Uzbekistan and similar middle-income settings. First, the poor-household registry can be complemented with MPI-TS scores, and households can be prioritized jointly by monetary and multidimensional criteria. Households that are poor on both criteria are natural candidates for intensive, multifaceted support; households that are monetarily non-poor but multidimensionally poor are currently invisible to the registry and require attention (Alkire et al., 2015; World Bank, 2018).
+
+Second, graduation from the registry should not depend on income alone. A household whose income exceeds the line but whose MPI-TS score remains above 1/5 is likely to fall back into poverty after a shock (Chaudhuri et al., 2002). A dual criterion – income above the line and a deprivation score below 1/5 – would make graduation more durable.
+
+Third, the dimensional profile of each household can guide the choice of support instrument. Households deprived mainly in financial inclusion but with assets and skills are suitable for credit; households lacking assets and facing food insecurity are better served by asset transfers combined with training and consumption support, in line with evidence on graduation programmes (Banerjee et al., 2015b; Bandiera et al., 2017); and households lacking certified skills benefit most from vocational training linked to job placement.
+
+Fourth, MPI-TS can serve as an outcome measure in impact evaluations. Because the entrepreneurial capacity and employment dimensions respond directly to programmes, the index is sensitive to programme effects, while the other dimensions capture whether income gains translate into broader well-being – the question that remains open in the microcredit literature (Banerjee et al., 2015a; Meager, 2019).
+
+## 5.2. Comparison with other national indices
+
+MPI-TS shares the approach of national indices in Mexico and Colombia that adapt global indicators to middle-income conditions (Alkire et al., 2015). It departs from them in two respects: it measures service reliability rather than connection only, and it treats entrepreneurial capacity as a dimension of poverty rather than as a driver of income. One may object that productive assets and financial inclusion are means rather than ends, and therefore do not belong in a capability-based index. The counter-argument draws on the poverty-trap literature: where credit markets are imperfect, the absence of these means restricts the set of feasible livelihoods – an unfreedom in Sen's sense – and is persistent across generations (Banerjee & Newman, 1993; Barrett & Carter, 2013).
+
+## 5.3. Limitations
+
+The illustration relies on conditional rather than survey data, so the reported magnitudes demonstrate the behaviour of the index rather than the actual extent of poverty in Syrdarya region. Second, some indicators (forgone care, food insecurity) are based on self-reported experience and may be subject to reporting bias, particularly if the questionnaire is used for targeting. Third, the choice of k and of weights remains normative, although the robustness checks show limited sensitivity. Future work should apply the index to a representative household survey, test its stability over time and assess its predictive power for future monetary poverty.
+
+# 6. Conclusion
+
+This paper proposes MPI-TS, a regional multidimensional poverty index that adapts the global MPI to a middle-income region and introduces entrepreneurial capacity as a poverty dimension. Based on the Alkire–Foster method, the index uses 14 indicators across five dimensions that can be collected through a short mahalla-level questionnaire. The illustrative application shows that standard global indicators can drastically under-identify poverty in a middle-income region, that entrepreneurial capacity is a major contributor to measured poverty, and that the new dimension changes poverty identification precisely for the households targeted by entrepreneurship support programmes, while identification remains robust to alternative weights. The index offers a practical tool for targeting, for selecting support instruments and for evaluating the multidimensional impact of anti-poverty programmes in Uzbekistan and comparable economies.
+
+**Declarations**
+
+//Funding:// [[None / grant details]]. //Conflict of interest:// The author declares no conflict of interest. //Data availability:// The conditional data used for illustration are available from the author upon request. //Acknowledgements:// [[____]].
+
+REF: Alatas, V., Banerjee, A., Hanna, R., Olken, B. A., & Tobias, J. (2012). Targeting the poor: Evidence from a field experiment in Indonesia. American Economic Review, 102(4), 1206–1240.
+REF: Alkire, S., & Foster, J. (2011). Counting and multidimensional poverty measurement. Journal of Public Economics, 95(7–8), 476–487. https://doi.org/10.1016/j.jpubeco.2010.11.006
+REF: Alkire, S., Foster, J. E., Seth, S., Santos, M. E., Roche, J. M., & Ballon, P. (2015). Multidimensional poverty measurement and analysis. Oxford University Press.
+REF: Alkire, S., & Santos, M. E. (2014). Measuring acute poverty in the developing world: Robustness and scope of the Multidimensional Poverty Index. World Development, 59, 251–274.
+REF: Atkinson, A. B. (2003). Multidimensional deprivation: Contrasting social welfare and counting approaches. Journal of Economic Inequality, 1(1), 51–65.
+REF: Bandiera, O., Burgess, R., Das, N., Gulesci, S., Rasul, I., & Sulaiman, M. (2017). Labor markets and poverty in village economies. Quarterly Journal of Economics, 132(2), 811–870.
+REF: Banerjee, A., Karlan, D., & Zinman, J. (2015a). Six randomized evaluations of microcredit: Introduction and further steps. American Economic Journal: Applied Economics, 7(1), 1–21.
+REF: Banerjee, A., Duflo, E., Goldberg, N., Karlan, D., Osei, R., Parienté, W., Shapiro, J., Thuysbaert, B., & Udry, C. (2015b). A multifaceted program causes lasting progress for the very poor: Evidence from six countries. Science, 348(6236), 1260799.
+REF: Banerjee, A. V., & Newman, A. F. (1993). Occupational choice and the process of development. Journal of Political Economy, 101(2), 274–298.
+REF: Barrett, C. B., & Carter, M. R. (2013). The economics of poverty traps and persistent poverty: Empirical and policy implications. Journal of Development Studies, 49(7), 976–990.
+REF: Blattman, C., Fiala, N., & Martinez, S. (2014). Generating skilled self-employment in developing countries: Experimental evidence from Uganda. Quarterly Journal of Economics, 129(2), 697–752.
+REF: Bourguignon, F., & Chakravarty, S. R. (2003). The measurement of multidimensional poverty. Journal of Economic Inequality, 1(1), 25–49.
+REF: Bruton, G. D., Ketchen, D. J., & Ireland, R. D. (2013). Entrepreneurship as a solution to poverty. Journal of Business Venturing, 28(6), 683–689.
+REF: Chaudhuri, S., Jalan, J., & Suryahadi, A. (2002). Assessing household vulnerability to poverty from cross-sectional data: A methodology and estimates from Indonesia (Discussion Paper No. 0102-52). Columbia University.
+REF: Coady, D., Grosh, M., & Hoddinott, J. (2004). Targeting of transfers in developing countries: Review of lessons and experience. World Bank.
+REF: de Mel, S., McKenzie, D., & Woodruff, C. (2008). Returns to capital in microenterprises: Evidence from a field experiment. Quarterly Journal of Economics, 123(4), 1329–1372.
+REF: Deaton, A. (1997). The analysis of household surveys: A microeconometric approach to development policy. Johns Hopkins University Press for the World Bank.
+REF: Evans, D. S., & Jovanovic, B. (1989). An estimated model of entrepreneurial choice under liquidity constraints. Journal of Political Economy, 97(4), 808–827.
+REF: Foster, J., Greer, J., & Thorbecke, E. (1984). A class of decomposable poverty measures. Econometrica, 52(3), 761–766.
+REF: Kraay, A., & McKenzie, D. (2014). Do poverty traps exist? Assessing the evidence. Journal of Economic Perspectives, 28(3), 127–148.
+REF: McKenzie, D., & Woodruff, C. (2014). What are we learning from business training and entrepreneurship evaluations around the developing world? World Bank Research Observer, 29(1), 48–82.
+REF: Meager, R. (2019). Understanding the average impact of microcredit expansions: A Bayesian hierarchical analysis of seven randomized experiments. American Economic Journal: Applied Economics, 11(1), 57–91.
+REF: Nussbaum, M. C. (2011). Creating capabilities: The human development approach. Harvard University Press.
+REF: OECD, & JRC. (2008). Handbook on constructing composite indicators: Methodology and user guide. OECD Publishing.
+REF: Presidential Decree No. PF-60. (2022, January 28). On the Development Strategy of New Uzbekistan for 2022–2026. https://lex.uz
+REF: Presidential Resolution No. PQ-330. (2024, September 23). On priority measures to implement the "From Poverty to Prosperity" programme. https://lex.uz
+REF: Ravallion, M. (2011). On multidimensional indices of poverty. Journal of Economic Inequality, 9(2), 235–248.
+REF: Ravallion, M. (2016). The economics of poverty: History, measurement, and policy. Oxford University Press.
+REF: Saisana, M., Saltelli, A., & Tarantola, S. (2005). Uncertainty and sensitivity analysis techniques as tools for the quality assessment of composite indicators. Journal of the Royal Statistical Society: Series A, 168(2), 307–323.
+REF: Sen, A. (1976). Poverty: An ordinal approach to measurement. Econometrica, 44(2), 219–231.
+REF: Sen, A. (1985). Commodities and capabilities. North-Holland.
+REF: Sen, A. (1999). Development as freedom. Oxford University Press.
+REF: Sutter, C., Bruton, G. D., & Chen, J. (2019). Entrepreneurship as a solution to extreme poverty: A review and future research directions. Journal of Business Venturing, 34(1), 197–214.
+REF: Tsui, K. (2002). Multidimensional poverty indices. Social Choice and Welfare, 19(1), 69–93.
+REF: UNDP. (2010). Human development report 2010. The real wealth of nations: Pathways to human development. UNDP.
+REF: UNDP, & OPHI. (2024). Global multidimensional poverty index 2024: Poverty amid conflict. UNDP; OPHI.
+REF: World Bank. (2017). Monitoring global poverty: Report of the Commission on Global Poverty. World Bank.
+REF: World Bank. (2018). Poverty and shared prosperity 2018: Piecing together the poverty puzzle. World Bank.

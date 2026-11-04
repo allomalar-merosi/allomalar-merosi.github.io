@@ -1,0 +1,46 @@
+TYPE: thesis
+TITLE: Channels of Foreign Strategic Investor Influence on Bank Stability: Evidence from the First Bank Privatization in Uzbekistan
+AUTHORS: Shukhrat E. Djabborov
+AFFIL: Independent Researcher, Gulistan State University, Gulistan, Uzbekistan
+ORCID: [[0000-0000-0000-0000]]
+EMAIL: [[__________@____]]
+ABSTRACT: The sale of 73.71 per cent of Ipoteka Bank to Hungary's OTP Group in 2023 was the first privatization of a state bank to a foreign strategic investor in Uzbekistan. Drawing on agency, corporate governance and international banking theories, this paper classifies the influence of a foreign strategic investor on bank stability into five two-directional channels – capital, corporate governance, risk management, technology and market (funding base) – and links each to measurable indicators. Evidence from Ipoteka Bank and an expert survey suggests a negative short-term effect through asset revaluation and positive long-term effects through all channels.
+KEYWORDS: foreign strategic investor; bank stability; corporate governance; bank privatization; Uzbekistan
+JEL: G21, G32, F23
+---
+# 1. Introduction
+
+In 2020, 13 of Uzbekistan's 31 banks were state-owned and held about 85 per cent of banking assets; the 2020–2025 reform strategy aimed to attract at least three foreign strategic investors (Presidential Decree No. PF-5992, 2020; GRATA International, 2020). Ipoteka Bank was sold to OTP Group in June 2023 (Ipoteka-bank, 2023). The bank reported a loss in 2023 (Telex, 2024) but an IFRS net profit of UZS 1.837 trillion and an ROE of 30.4 per cent in 2024 (Ipoteka bank OTP Group, 2025). Explaining such dynamics requires a systematic view of how a foreign owner affects stability. The literature documents both efficiency gains from foreign ownership in transition economies (Bonin et al., 2005) and contagion through multinational banks in global crises (de Haas & van Lelyveld, 2014), but the mechanisms are usually treated one-sidedly.
+
+# 2. Method
+
+Mechanisms identified in agency theory (Jensen & Meckling, 1976), studies of state bank ownership (La Porta et al., 2002) and research on acquired banks (Havrylchyk & Jurzyk, 2011) were grouped into channels, each with positive and negative mechanisms and observable indicators. The channels were examined against public data on Ipoteka Bank and assessed in an expert survey of banking professionals on a 1–5 scale for short-term (1–2 years) and long-term (3–5 years) effects.
+
+# 3. Results
+
+TABLE 1: Channels of foreign strategic investor influence on bank stability ## Author's elaboration; evidence from public sources.
+| Channel | Positive mechanisms | Negative mechanisms | Ipoteka Bank evidence |
+| Capital | Capital injections; parent funding | Dividend extraction; group reallocation | USD 70 million capital injection (Dec 2023); IFRS equity +35% in 2024 |
+| Corporate governance | Less political interference; independent board | Centralization; weak local knowledge | Group representatives on boards; cost-to-income 38% (2024) |
+| Risk management | Group standards; IFRS 9 | Revaluation losses; lending contraction | Loss in 2023; NPL 4.7% → 10.2% (national standards, 2024) |
+| Technology | Digital services; scoring | Integration costs | Rebranding to Ipoteka bank OTP Group |
+| Market (funding) | Brand trust; international funding | Loss of state funds; exit from social segments | State funds 57% of liabilities (2019); market share 9% → 6.3% (Q1 2025) |
+
+IMG en_d1_expert.png 1: Expert assessment of channel effects (1 = strongly negative, 3 = no effect, 5 = strongly positive) ## Author's expert survey; illustrative values.
+
+Experts rated the short-term effect of the risk-management channel below neutral (<<2.8>>), reflecting asset revaluation, while all channels were rated positive in the long term, with corporate governance (<<4.6>>) and risk management (<<4.5>>) highest. The market channel received the lowest long-term score (<<3.9>>), reflecting the loss of state funding and competition for deposits.
+
+# 4. Conclusion
+
+The influence of a foreign strategic investor on bank stability is two-directional and time-dependent. Supervisors should monitor indicators for each channel, anticipate temporary deterioration from asset revaluation, restrict dividends while NPLs are elevated and coordinate with home supervisors. Future privatizations should include investor commitments on capital and on the continuation of mortgage and small-business lending.
+
+REF: Bonin, J. P., Hasan, I., & Wachtel, P. (2005). Bank performance, efficiency and ownership in transition countries. Journal of Banking & Finance, 29(1), 31–53.
+REF: de Haas, R., & van Lelyveld, I. (2014). Multinational banks and the global financial crisis: Weathering the perfect storm? Journal of Money, Credit and Banking, 46(s1), 333–364.
+REF: GRATA International. (2020). Strategy of reforming the banking sector of Uzbekistan is adopted. https://gratanet.com/news/banking-sector-of-uzbekistan
+REF: Havrylchyk, O., & Jurzyk, E. (2011). Inherited or earned? Performance of foreign banks in Central and Eastern Europe. Journal of Banking & Finance, 35(5), 1291–1302.
+REF: Ipoteka-bank. (2023). Transaction closed: OTP Bank acquired Ipoteka-Bank. https://www.ipotekabank.uz/en/news/ipotekabank_otpgroup/
+REF: Ipoteka bank OTP Group. (2025). OTP Group announced 2024 financial results. https://www.ipotekabank.uz/en/news/financial_results_2024_en
+REF: Jensen, M. C., & Meckling, W. H. (1976). Theory of the firm: Managerial behavior, agency costs and ownership structure. Journal of Financial Economics, 3(4), 305–360.
+REF: La Porta, R., Lopez-de-Silanes, F., & Shleifer, A. (2002). Government ownership of banks. Journal of Finance, 57(1), 265–301.
+REF: Presidential Decree No. PF-5992. (2020, May 12). On the strategy for reforming the banking system of the Republic of Uzbekistan for 2020–2025. https://lex.uz/docs/4811037
+REF: Telex. (2024, March 8). Ezermilliárd forintnál is több profitot ért el tavaly az OTP. https://telex.hu/gazdasag/2024/03/08/otp-adozas-utani-eredmeny-2023

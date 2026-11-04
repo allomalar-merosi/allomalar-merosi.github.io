@@ -244,12 +244,17 @@ def add_runs(p, text, size=14, bold=False, italic=False):
         elif part.startswith("[[") and part.endswith("]]"):
             part, hl = "[" + part[2:-2] + "]", True
         # ichki qalin/kursiv (masalan [[...]] ichida emas) — oddiy holat yetarli
-        pieces = [part] if hl else SUBSUP.split(part)
+        if hl:
+            pieces = [part]
+        else:  # URL ichidagi "_" pastki indeksga aylanmasligi uchun
+            pieces = []
+            for seg in re.split(r"(https?://\S+)", part):
+                pieces.extend([seg] if seg.startswith("http") else SUBSUP.split(seg))
         for piece in pieces:
             if not piece:
                 continue
             sub = sup = False
-            if not hl and SUBSUP.fullmatch(piece):
+            if not hl and not piece.startswith("http") and SUBSUP.fullmatch(piece):
                 if piece.startswith("^"):
                     sup, piece = True, piece[2:-1]
                 elif piece.startswith("_{"):
