@@ -1,0 +1,89 @@
+#CH ILOVALAR
+
+RIGHT: 1-ilova
+
+CENTER: Uy xo'jaliklari so'rovnomasi anketasining tuzilishi
+
+TABLE I-1: So'rovnoma anketasining bo'limlari va asosiy savollari
+| Bo'lim | Mazmuni | Savollar soni | Davr |
+| A. Identifikatsiya | Tuman, mahalla, xonadon kodi, intervyu sanasi, respondent | [[__]] | Hozirgi |
+| B. Oila tarkibi | Har bir a'zoning yoshi, jinsi, oila boshlig'iga munosabati, nogironligi | [[__]] | Hozirgi va 2023 |
+| C. Ta'lim | Ta'lim darajasi, bolalarning MTT va maktabga qatnashi, kasbiy sertifikatlar | [[__]] | Hozirgi va 2023 |
+| D. Sog'liq va ovqatlanish | Tibbiy yordamga ehtiyoj va undan foydalanish, dori-darmon, oziq-ovqat xavfsizligi (FIES shkalasi) | [[__]] | Hozirgi |
+| E. Uy-joy va kommunal xizmatlar | Xonalar soni, suv, kanalizatsiya, gaz, elektr ta'minoti va uzilishlar | [[__]] | Hozirgi va 2023 |
+| F. Bandlik | Har bir a'zoning bandlik holati, ish turi, rasmiyligi, mavsumiyligi, mehnat migratsiyasi | [[__]] | Hozirgi va 2023 |
+| G. Aktivlar va moliyaviy xizmatlar | Tomorqa, chorva, uskunalar, transport, bank kartasi, kredit tarixi | [[__]] | Hozirgi va 2023 |
+| H. Daromad va iste'mol | Daromad manbalari, oziq-ovqat va nooziq-ovqat xarajatlari, pul o'tkazmalari | [[__]] | Hozirgi |
+| I. Davlat qo'llab-quvvatlashi | Olingan qo'llab-quvvatlash turi, summasi, sanasi, foydalanish yo'nalishi, faoliyatning hozirgi holati, kredit to'lovlari | [[__]] | 2023–hozirgi |
+| J. Subyektiv baholash | Oila farovonligining o'zgarishini baholash, kelajakka ishonch | [[__]] | Hozirgi |
+NOTE: Manba: muallif ishlanmasi.
+
+@PAGEBREAK
+
+RIGHT: 2-ilova
+
+CENTER: MPI-TS indeksini mahalla darajasida aniqlash uchun qisqa so'rovnoma shakli
+
+TABLE I-2: Qisqa so'rovnoma savollari va ularning indikatorlarga muvofiqligi
+| № | Savol | Indikator |
+| 1 | Oilangizdagi 18 yoshdan katta a'zolarning ma'lumoti qanday (har biri uchun: umumiy o'rta / o'rta maxsus, professional / oliy)? | 1 |
+| 2 | Oilada 3–6 yoshli bolalar nechta va ulardan nechtasi maktabgacha ta'lim tashkilotiga qatnaydi? | 2 |
+| 3 | Oilada 7–17 yoshli bolalar nechta va ulardan nechtasi o'qiydi? | 2 |
+| 4 | So'nggi 12 oyda oila a'zolaridan biri tibbiy yordamga muhtoj bo'lganmi? | 3 |
+| 5 | Pul yetishmasligi sababli tibbiy yordam olmagan yoki zarur dorini sotib ololmagan holat bo'lganmi? | 3 |
+| 6 | So'nggi 30 kunda pul yetishmasligi sababli ovqat miqdorini yoki ovqatlanish sonini kamaytirganmisiz? | 4 |
+| 7 | So'nggi 30 kunda pul yetishmasligi sababli go'sht yoki sut mahsulotlarini sotib ololmagan holat bo'lganmi? | 4 |
+| 8 | Xonadoningiz markazlashgan ichimlik suvi tarmog'iga ulanganmi? | 5 |
+| 9 | Ichimlik suvi haftasiga necha kun beriladi? | 5 |
+| 10 | Xonadonda kanalizatsiya yoki yaxshilangan sanitariya tizimi (septik) bormi? | 6 |
+| 11 | Xonadon tabiiy gaz tarmog'iga ulanganmi? | 7 |
+| 12 | O'tgan qish mavsumida gaz va elektr ta'minoti jami necha kun uzilgan? | 7 |
+| 13 | Yashash xonalari soni (oshxona, yo'lak va omborxonadan tashqari) nechta? | 8 |
+| 14 | Xonadonda doimiy yashovchi oila a'zolari soni nechta? | 8 |
+| 15 | 16 yoshdan katta mehnatga layoqatli a'zolarning har biri yil davomida doimiy ishlaydimi, mavsumiy ishlaydimi yoki ishsizmi? | 9 |
+| 16 | Band a'zolarning ishi rasmiylashtirilganmi (mehnat shartnomasi, o'zini o'zi band qilgan shaxs yoki tadbirkor sifatida ro'yxatdan o'tgan)? | 10 |
+| 17 | 18–30 yoshli a'zolarning har biri o'qiydimi, ishlaydimi yoki hech qaysisi emasmi? | 11 |
+| 18 | Tomorqa maydoni necha sotix va undan ishlab chiqarish maqsadida foydalanasizmi? | 12 |
+| 19 | Mahsuldor chorva (sigir, qo'y, echki) bormi, nechta? | 12 |
+| 20 | Ishlab chiqarish uskunasi (tikuv mashinasi, issiqxona, asbob-uskuna) yoki tijorat maqsadidagi transport vositasi bormi? | 12 |
+| 21 | Oila a'zolaridan birida bank kartasi yoki hisobvarag'i bormi? | 13 |
+| 22 | Oila a'zolari bank yoki mikromoliya tashkilotidan kredit olganmi? | 13 |
+| 23 | Mehnatga layoqatli a'zolardan birida hujjat bilan tasdiqlangan kasbiy malaka (diplom, sertifikat) bormi? | 14 |
+| 24 | Oilaning o'tgan oydagi umumiy daromadi taxminan qancha? | Monetar holat |
+| 25 | So'nggi ikki yilda qanday davlat qo'llab-quvvatlashi olingan (turi, summasi, sanasi)? | Monitoring |
+NOTE: Manba: muallif ishlanmasi.
+
+@PAGEBREAK
+
+RIGHT: 3-ilova
+
+CENTER: MPI-TS bo'yicha uy xo'jaligi mahrumlik ballini hisoblash va qo'llab-quvvatlash vositasini tanlash namunasi (shartli misol)
+
+TABLE I-3: Shartli uy xo'jaligi uchun mahrumlik ballini hisoblash
+| O'lchov | Indikator | Vazni | Mahrumlik (1/0) | Vaznlangan ball |
+| Ta'lim | 1. Kasbiy ta'lim darajasi | 0,100 | 0 | 0,000 |
+| Ta'lim | 2. Bolalar ta'limi | 0,100 | 0 | 0,000 |
+| Sog'liq | 3. Tibbiy xizmatdan foydalanish | 0,100 | 0 | 0,000 |
+| Sog'liq | 4. Oziq-ovqat xavfsizligi | 0,100 | 1 | 0,100 |
+| Turmush sharoiti | 5. Ichimlik suvi | 0,050 | 0 | 0,000 |
+| Turmush sharoiti | 6. Sanitariya | 0,050 | 0 | 0,000 |
+| Turmush sharoiti | 7. Energiya ta'minoti | 0,050 | 1 | 0,050 |
+| Turmush sharoiti | 8. Uy-joy zichligi | 0,050 | 1 | 0,050 |
+| Bandlik | 9. Barqaror bandlik | 0,067 | 0 | 0,000 |
+| Bandlik | 10. Bandlik sifati | 0,067 | 1 | 0,067 |
+| Bandlik | 11. Yoshlar bandligi | 0,067 | 0 | 0,000 |
+| Tadbirkorlik salohiyati | 12. Ishlab chiqarish aktivlari | 0,067 | 1 | 0,067 |
+| Tadbirkorlik salohiyati | 13. Moliyaviy inklyuziya | 0,067 | 0 | 0,000 |
+| Tadbirkorlik salohiyati | 14. Kasbiy malaka | 0,067 | 1 | 0,067 |
+| Jami | Mahrumlik balli (c_i) | 1,000 | 6 | 0,400 |
+NOTE: Izoh: misol shartli bo'lib, hisoblash tartibini ko'rsatish uchun keltirilgan.
+
+Shartli uy xo'jaligining mahrumlik balli c_i = 0,400 ga teng. U k = 1/3 chegarasidan yuqori bo'lgani uchun oila ko'p o'lchovli kambag'al hisoblanadi, biroq c_i < 1/2 bo'lgani sababli “chuqur ko'p o'lchovli kambag'al” toifasiga kirmaydi. Oilaning mahrumlik profilida tadbirkorlik salohiyati (ishlab chiqarish aktivlari va kasbiy malaka), bandlik sifati va oziq-ovqat xavfsizligi bo'yicha mahrumliklar ustunlik qiladi; moliyaviy inklyuziya bo'yicha esa mahrumlik yo'q. 3.13-jadvaldagi tipologiyaga ko'ra, bu profil II turga (“aktivsiz kambag'al”) mos keladi va oila uchun subsidiya (ishlab chiqarish aktivini berish) va qisqa muddatli kasbiy o'qitishni birlashtirgan qo'llab-quvvatlash tavsiya etiladi. Energiya ta'minoti va uy-joy zichligi bo'yicha mahrumliklar esa mahalla infratuzilmasi va uy-joy dasturlari doirasida hal etilishi lozim.
+
+@PAGEBREAK
+
+RIGHT: 4-ilova
+
+CENTER: Tadqiqot natijalarini amaliyotga joriy etish to'g'risidagi ma'lumotnomalar
+
+[[Vakolatli tashkilotlardan olingan joriy etish to'g'risidagi ma'lumotnomalar nusxalari ilova qilinadi.]]

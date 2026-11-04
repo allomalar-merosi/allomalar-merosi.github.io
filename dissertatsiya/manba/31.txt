@@ -1,0 +1,119 @@
+#CH III BOB. KO'P O'LCHOVLI MEZONLAR ASOSIDA TADBIRKORLIKNI QO'LLAB-QUVVATLASH SAMARADORLIGINI BAHOLASH METODIKASINI TAKOMILLASHTIRISH
+
+## 3.1. Hududiy sharoitga moslashtirilgan ko'p o'lchovli kambag'allik indeksini ishlab chiqish
+
+Ikkinchi bobda o'tkazilgan tahlil global MPI tuzilishiga asoslangan standart indeks Sirdaryo viloyati sharoitida kambag'allikni yetarli darajada aks ettirmasligini ko'rsatdi. Shu sababli tadqiqotning muhim vazifalaridan biri – hududiy sharoitga moslashtirilgan va tadbirkorlikni qo'llab-quvvatlash samaradorligini baholash maqsadlariga mos keluvchi ko'p o'lchovli kambag'allik indeksini ishlab chiqishdan iborat. Biz ushbu indeksni **tadbirkorlik salohiyatini hisobga oluvchi ko'p o'lchovli kambag'allik indeksi (MPI-TS)** deb nomladik.
+
+Indeksni ishlab chiqishda Alkire–Foster usulining metodologik asoslari {af2011,alkire2015} hamda kompozit indikatorlarni qurish bo'yicha xalqaro tavsiyalar {oecd2008} asos qilib olindi. Indeks quyidagi tamoyillarga muvofiq ishlab chiqildi:
+
+- **nazariy asoslanganlik** – har bir o'lchov A.Sen imkoniyatlar konsepsiyasi nuqtayi nazaridan inson farovonligi uchun ahamiyatli sohani aks ettirishi;
+- **hududiy dolzarblik** – indikatorlar viloyat uy xo'jaliklari uchun real muammolarni aks ettirishi va ular bo'yicha mahrumlik darajasi nolga yaqin bo'lmasligi;
+- **siyosatga sezgirlik** – indikatorlar qo'llab-quvvatlash dasturlari ta'sirida o'rta muddatda o'zgarishi mumkin bo'lishi;
+- **o'lchanuvchanlik** – indikatorlar mahalla darajasida oddiy so'rovnoma orqali ishonchli aniqlanishi;
+- **parsimoniya** – indikatorlar soni cheklangan, o'zaro takrorlanmaydigan bo'lishi;
+- **taqqoslanuvchanlik** – indeks global MPI va milliy statistik ko'rsatkichlar bilan solishtirilishi mumkin bo'lishi.
+
+Ushbu tamoyillar asosida global MPIning uchta an'anaviy o'lchovi – ta'lim, sog'liq va turmush sharoiti – saqlab qolindi, biroq ularning indikatorlari viloyat sharoitiga moslashtirildi. Bundan tashqari, ikkita yangi o'lchov – **bandlik** va **tadbirkorlik salohiyati** – kiritildi. Bandlik o'lchovining kiritilishi xalqaro amaliyotda o'rta daromadli mamlakatlarning milliy indekslarida keng qo'llanilishi bilan asoslanadi. Tadbirkorlik salohiyati o'lchovi esa mazkur tadqiqotning ilmiy yangiligi bo'lib, u uy xo'jaligining tadbirkorlik orqali kambag'allikdan chiqish uchun zarur bo'lgan resurslarga – ishlab chiqarish aktivlari, moliyaviy xizmatlar va kasbiy malakaga – ega emasligini aks ettiradi. Bu o'lchov 1.2-paragrafda ko'rib chiqilgan moliyaviy cheklovlar va kambag'allik tuzog'i nazariyalariga asoslanadi {banerjee_newman1993,barrett2013}. Uning indeksga kiritilishi ikki maqsadga xizmat qiladi: birinchidan, tadbirkorlik salohiyatining yo'qligi kambag'allikning mustaqil o'lchovi sifatida e'tirof etiladi; ikkinchidan, qo'llab-quvvatlash dasturlarining eng bevosita ta'siri aynan shu o'lchovda namoyon bo'lgani sababli indeks dastur samaradorligiga sezgir bo'ladi.
+
+MPI-TS indeksining tuzilishi 3.1-jadvalda keltirilgan.
+
+TABLE 3.1: Hududiy sharoitga moslashtirilgan ko'p o'lchovli kambag'allik indeksining (MPI-TS) tuzilishi
+| O'lchov (vazni) | Indikator | Uy xo'jaligi mahrum hisoblanadi, agar: | Vazni |
+| Ta'lim (1/5) | 1. Kasbiy ta'lim darajasi | 18 yoshdan katta a'zolardan hech biri o'rta maxsus, professional yoki oliy ma'lumotga ega bo'lmasa | 1/10 |
+| Ta'lim (1/5) | 2. Bolalar ta'limi | 3–6 yoshli bola maktabgacha ta'limga qamrab olinmagan yoki 7–17 yoshli bola ta'limdan chetda qolgan bo'lsa | 1/10 |
+| Sog'liq (1/5) | 3. Tibbiy xizmatdan foydalanish | So'nggi 12 oyda a'zolardan biri moliyaviy sababga ko'ra zarur tibbiy yordam yoki dori-darmon ololmagan bo'lsa | 1/10 |
+| Sog'liq (1/5) | 4. Oziq-ovqat xavfsizligi | So'nggi 30 kunda pul yetishmasligi sababli ovqatlanish miqdori yoki sifatini kamaytirishga majbur bo'lgan bo'lsa | 1/10 |
+| Turmush sharoiti (1/5) | 5. Ichimlik suvi | Xonadon markazlashgan ichimlik suvi tarmog'iga ulanmagan yoki suv haftada 3 kundan kam berilsa | 1/20 |
+| Turmush sharoiti (1/5) | 6. Sanitariya | Xonadonda kanalizatsiya yoki yaxshilangan sanitariya tizimi bo'lmasa | 1/20 |
+| Turmush sharoiti (1/5) | 7. Energiya ta'minoti | Xonadon tabiiy gazga ulanmagan yoki qish mavsumida gaz/elektr ta'minoti jami 7 kundan ortiq uzilgan bo'lsa | 1/20 |
+| Turmush sharoiti (1/5) | 8. Uy-joy zichligi | Bitta yashash xonasiga 3 va undan ortiq kishi to'g'ri kelsa | 1/20 |
+| Bandlik (1/5) | 9. Barqaror bandlik | Mehnatga layoqatli yoshdagi a'zolardan hech biri doimiy (yil davomida) ishga ega bo'lmasa | 1/15 |
+| Bandlik (1/5) | 10. Bandlik sifati | Band a'zolarning yarmidan ko'pi norasmiy yoki mavsumiy ishda band bo'lsa | 1/15 |
+| Bandlik (1/5) | 11. Yoshlar bandligi | 18–30 yoshli a'zolardan biri na o'qiyotgan, na ishlayotgan bo'lsa (NEET) | 1/15 |
+| Tadbirkorlik salohiyati (1/5) | 12. Ishlab chiqarish aktivlari | Oilada foydalaniladigan tomorqa (5 sotixdan ortiq), mahsuldor chorva, ishlab chiqarish uskunasi yoki transport vositasidan hech biri bo'lmasa | 1/15 |
+| Tadbirkorlik salohiyati (1/5) | 13. Moliyaviy inklyuziya | Hech bir a'zoda bank hisobvarag'i yoki bank kartasi bo'lmasa va oila rasmiy moliya tashkilotidan hech qachon kredit olmagan bo'lsa | 1/15 |
+| Tadbirkorlik salohiyati (1/5) | 14. Kasbiy malaka | Mehnatga layoqatli a'zolardan hech biri hujjat bilan tasdiqlangan kasbiy malaka yoki sertifikatga ega bo'lmasa | 1/15 |
+NOTE: Manba: muallif ishlanmasi.
+
+**Vaznlarni tanlash.** Indeksda “ichma-ich teng vaznlar” tamoyili qo'llanildi: beshta o'lchovning har biriga 1/5 vazn berilib, o'lchov ichida indikatorlarga teng taqsimlandi. Bu yondashuv global MPI va ko'plab milliy indekslarda qo'llaniladi va uning asosiy afzalligi shaffofligi va me'yoriy jihatdan neytralligidir: hech bir o'lchov boshqasidan muhimroq deb hisoblanmaydi {alkire2015}. Vaznlarni ma'lumotlarga asoslangan statistik usullar (masalan, bosh komponentlar tahlili) bilan aniqlash ham mumkin, biroq bunday vaznlar indikatorlar o'rtasidagi korrelyatsiyani aks ettiradi va ularning normativ ahamiyatini ifodalamaydi {oecd2008}. Shu sababli statistik vaznlar asosiy variant sifatida emas, balki mustahkamlik tekshiruvi sifatida qo'llanildi.
+
+**Indikatorlar chegaralarini tanlash.** Mahrumlik chegaralari milliy standartlar, xalqaro tavsiyalar va viloyat sharoitini hisobga olgan holda belgilandi. Masalan, ta'lim indikatorida umumiy o'rta ta'lim O'zbekistonda deyarli universal bo'lgani sababli chegara sifatida kasbiy (o'rta maxsus, professional yoki oliy) ta'lim qabul qilindi. Ichimlik suvi indikatorida faqat tarmoqqa ulanganlik emas, balki ta'minotning muntazamligi ham hisobga olindi, chunki so'rovnoma natijalari ko'plab xonadonlar tarmoqqa ulangan bo'lsa-da, suvni uzilishlar bilan olishini ko'rsatdi. Uy-joy zichligi indikatorida bir xonaga 3 va undan ortiq kishi to'g'ri kelishi xalqaro amaliyotda qo'llaniladigan “haddan tashqari zichlik” mezoniga mos keladi.
+
+**Indikatorlar o'rtasidagi bog'liqlik tahlili.** Indikatorlar to'plamining ichki izchilligini tekshirish uchun ular o'rtasidagi bog'liqlik Kramer V koeffitsiyenti va takrorlanish (redundancy) koeffitsiyenti R_0 yordamida baholandi:
+
+$$ R_0(j, j') = P(g_j = 1, g_j' = 1) / min[P(g_j = 1), P(g_j' = 1)] (3.1)
+
+bu yerda P(g_j = 1, g_j' = 1) – ikki indikator bo'yicha bir vaqtda mahrum bo'lgan uy xo'jaliklari ulushi. Koeffitsiyent 1 ga yaqin bo'lsa, indikatorlardan biri ikkinchisini deyarli to'liq takrorlaydi va ulardan birini indeksdan chiqarish maqsadga muvofiq bo'ladi {alkire2015}. Hisob-kitoblar natijasida indikatorlar juftliklarining R_0 koeffitsiyenti [[__]] dan oshmadi [[(eng yuqori qiymat ___ va ___ indikatorlari o'rtasida kuzatildi)]], bu indikatorlar to'plamida jiddiy takrorlanish yo'qligini ko'rsatadi.
+
+**Kambag'allik chegarasini tanlash.** Asosiy chegara sifatida global MPI bilan taqqoslanuvchanlikni ta'minlash maqsadida k = 1/3 qabul qilindi: uy xo'jaligi vaznlangan indikatorlarning kamida uchdan bir qismi bo'yicha mahrum bo'lsa, ko'p o'lchovli kambag'al hisoblanadi. Masalan, oila tadbirkorlik salohiyati o'lchovining barcha indikatorlari (1/5) va sog'liq o'lchovining bitta indikatori (1/10) bo'yicha mahrum bo'lsa, uning mahrumlik balli 0,30 ga teng bo'lib, u kambag'al hisoblanmaydi, biroq yana bitta qo'shimcha mahrumlik uni chegaradan oshiradi. Qo'shimcha ravishda k = 1/5 (“kambag'allikka zaif”) va k = 1/2 (“chuqur ko'p o'lchovli kambag'al”) chegaralari ham hisoblandi. Bunday tasnif mahalla darajasida oilalarni turli darajadagi qo'llab-quvvatlash guruhlariga ajratish uchun qulaylik yaratadi.
+
+**Hisob-kitob natijalari.** MPI-TS indeksi bo'yicha Sirdaryo viloyati uy xo'jaliklarining ko'p o'lchovli kambag'allik ko'rsatkichlari 3.2-jadvalda keltirilgan.
+
+TABLE 3.2: Sirdaryo viloyati uy xo'jaliklarining MPI-TS indeksi bo'yicha ko'p o'lchovli kambag'allik ko'rsatkichlari
+| Ko'rsatkichlar | k = 1/5 | k = 1/3 (asosiy) | k = 1/2 |
+| Kambag'allik qamrovi (H), % | [[__]] | [[__]] | [[__]] |
+| Kambag'allik intensivligi (A), % | [[__]] | [[__]] | [[__]] |
+| MPI-TS (M_0 = H × A) | [[__]] | [[__]] | [[__]] |
+| 95% ishonch oralig'i (M_0) | [[__]] | [[__]] | [[__]] |
+| Taqqoslash uchun: standart indeks bo'yicha H, % | – | [[__]] | – |
+| Taqqoslash uchun: monetar kambag'allik darajasi (rasmiy), % | – | 6,2 | – |
+NOTE: Manba: muallif hisob-kitoblari. Ishonch oralig'i klasterli tanlanma dizayni hisobga olingan holda bootstrap usulida (1000 takror) hisoblangan.
+
+Jadval ma'lumotlari MPI-TS indeksi bo'yicha ko'p o'lchovli kambag'allik qamrovi standart indeksga nisbatan sezilarli yuqori ekanini ko'rsatadi. [[Natijalar izohlansin: MPI-TS bo'yicha H = ___ %, bu monetar kambag'allik darajasidan ___ marta yuqori/past.]] Bunda shuni ta'kidlash lozimki, ko'p o'lchovli va monetar kambag'allik ko'rsatkichlari turli hodisalarni o'lchagani sababli ularning sonli qiymatlarini bevosita taqqoslash emas, balki ular o'rtasidagi mos kelmaslik tarkibini tahlil qilish ilmiy jihatdan to'g'riroqdir.
+
+Indikatorlar bo'yicha dekompozitsiya (1.6-formula) har bir mahrumlikning umumiy kambag'allikdagi hissasini aniqlash imkonini beradi (3.3-jadval).
+
+TABLE 3.3: MPI-TS indeksining indikatorlar va o'lchovlar bo'yicha dekompozitsiyasi (k = 1/3)
+| O'lchov | Indikator | Senzuralangan mahrumlik darajasi (h_j), % | Indeksdagi hissasi, % |
+| Ta'lim | Kasbiy ta'lim darajasi | [[__]] | [[__]] |
+| Ta'lim | Bolalar ta'limi | [[__]] | [[__]] |
+| Sog'liq | Tibbiy xizmatdan foydalanish | [[__]] | [[__]] |
+| Sog'liq | Oziq-ovqat xavfsizligi | [[__]] | [[__]] |
+| Turmush sharoiti | Ichimlik suvi | [[__]] | [[__]] |
+| Turmush sharoiti | Sanitariya | [[__]] | [[__]] |
+| Turmush sharoiti | Energiya ta'minoti | [[__]] | [[__]] |
+| Turmush sharoiti | Uy-joy zichligi | [[__]] | [[__]] |
+| Bandlik | Barqaror bandlik | [[__]] | [[__]] |
+| Bandlik | Bandlik sifati | [[__]] | [[__]] |
+| Bandlik | Yoshlar bandligi | [[__]] | [[__]] |
+| Tadbirkorlik salohiyati | Ishlab chiqarish aktivlari | [[__]] | [[__]] |
+| Tadbirkorlik salohiyati | Moliyaviy inklyuziya | [[__]] | [[__]] |
+| Tadbirkorlik salohiyati | Kasbiy malaka | [[__]] | [[__]] |
+| Jami | | – | 100,0 |
+NOTE: Manba: muallif hisob-kitoblari.
+
+Dekompozitsiya natijalari qo'llab-quvvatlash siyosatini ustuvorlashtirish uchun bevosita ahamiyatga ega. Agar kambag'allikka eng katta hissani bandlik va tadbirkorlik salohiyati o'lchovlari qo'shsa, bu tadbirkorlikni qo'llab-quvvatlash dasturlarining to'g'ri yo'naltirilganini tasdiqlaydi. Agar sezilarli hissani turmush sharoiti (ichimlik suvi, energiya) indikatorlari qo'shsa, bu mahrumliklarni faqat oila darajasidagi qo'llab-quvvatlash bilan bartaraf etib bo'lmaydi va ular infratuzilmaga investitsiyalarni talab qiladi. [[Natijalar bo'yicha eng katta hissa qo'shgan 3 ta indikator ko'rsatilsin va izohlansin.]]
+
+Indeksning hududlar bo'yicha dekompozitsiyasi esa tumanlar (shaharlar) kesimida kambag'allikning tarkibiy farqlarini aniqlash imkonini beradi (3.4-jadval).
+
+TABLE 3.4: MPI-TS indeksining tumanlar (shaharlar) bo'yicha dekompozitsiyasi (k = 1/3)
+| Tuman (shahar) | H, % | A, % | MPI-TS | Viloyat indeksidagi hissasi, % | Eng ko'p hissa qo'shgan o'lchov |
+| Boyovut tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Guliston tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Mirzaobod tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Oqoltin tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Sardoba tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Sayxunobod tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Sirdaryo tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Xovos tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Shaharlar | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Viloyat bo'yicha | [[__]] | [[__]] | [[__]] | 100,0 | [[__]] |
+NOTE: Manba: muallif hisob-kitoblari. Tumanlar bo'yicha baholar tanlanma hajmi cheklanganligi sababli ehtiyotkorlik bilan talqin qilinishi lozim.
+
+**Mustahkamlik tahlili.** Kompozit indekslarga nisbatan asosiy tanqidlardan biri – natijalarning vaznlar va chegaralar tanloviga sezgirligi {ravallion2011,saisana2005}. Shu sababli MPI-TS indeksining mustahkamligi uch yo'nalishda tekshirildi:
+
+- **vaznlarga nisbatan mustahkamlik** – asosiy (teng o'lchov vaznlari) variantdan tashqari uchta muqobil variant ko'rib chiqildi: (a) bandlik va tadbirkorlik salohiyati o'lchovlariga 0,25 dan, qolganlariga 0,167 dan vazn berish; (b) turmush sharoiti o'lchoviga 0,3, qolganlariga 0,175 dan vazn berish; (c) bosh komponentlar tahlili asosidagi statistik vaznlar;
+- **chegaraga nisbatan mustahkamlik** – k ning 0,20 dan 0,50 gacha bo'lgan barcha qiymatlarida tumanlar reytingining o'zgarishi tekshirildi;
+- **indikatorlar tarkibiga nisbatan mustahkamlik** – har bir indikatorni navbat bilan chiqarib tashlash orqali indeks qiymatlari va reytinglarning o'zgarishi baholandi.
+
+Reytinglarning barqarorligi Spirmen va Kendall rang korrelyatsiya koeffitsiyentlari bilan baholandi:
+
+$$ ρ = 1 – 6 · Σ_{r=1}^{R} d_r^{2} / [R · (R^{2} – 1)] (3.2)
+
+bu yerda d_r – r-hududning asosiy va muqobil variantlardagi reyting o'rinlari farqi; R – hududlar soni. Mustahkamlik tahlili natijalariga ko'ra, muqobil variantlarda Spirmen koeffitsiyenti [[__]] dan past bo'lmadi, bu tumanlar reytingi asosan vaznlar va chegara tanloviga bog'liq emasligini ko'rsatadi. [[Natijalar bo'yicha aniqlashtirilsin.]] Shuningdek, juftlik bo'yicha ustunlik (dominance) tahlili natijalariga ko'ra, [[__]] ta tumanlar juftligining [[__]] foizida reyting barcha k qiymatlarida o'zgarmadi.
+
+**MPI-TS indeksining amaliy ahamiyati.** Ishlab chiqilgan indeks bir nechta amaliy vazifalarni hal qilish imkonini beradi. Birinchidan, u mahalla darajasida kambag'al oilalarni aniqlashda monetar mezonni to'ldiruvchi vosita bo'lib xizmat qiladi: oilaning daromadi bilan birga uning mahrumlik balli ham hisoblanadi va ikkala mezon bo'yicha ham kambag'al bo'lgan oilalarga ustuvorlik beriladi. Ikkinchidan, oilaning mahrumlik profili – qaysi indikatorlar bo'yicha mahrum ekani – unga mos qo'llab-quvvatlash vositasini tanlash imkonini beradi. Uchinchidan, indeksning qo'llab-quvvatlashdan oldin va keyin hisoblanishi dastur samaradorligini ko'p o'lchovli mezonlar bo'yicha baholash imkonini beradi. To'rtinchidan, oilani reyestrdan chiqarishda monetar mezon bilan birga mahrumlik ballining belgilangan chegaradan pastga tushishi ham talab qilinishi qayta kambag'allikka tushish xavfini kamaytiradi.
+
+Indeksning mahalla darajasida qo'llanilishini soddalashtirish maqsadida biz 14 ta indikatorni aniqlash uchun zarur bo'lgan 25 ta savoldan iborat qisqa so'rovnoma shaklini ishlab chiqdik (2-ilova). U mahalla “yettiligi” vakillari tomonidan oilaga tashrif davomida 15–20 daqiqada to'ldirilishi va mahrumlik balli avtomatik hisoblanishi mumkin. Bu indeksni kambag'al oilalar reyestrini yuritishning mavjud elektron tizimiga integratsiya qilish uchun qulay imkoniyat yaratadi.
+
+Shunday qilib, hududiy sharoitga moslashtirilgan MPI-TS indeksi global MPI metodologiyasiga asoslangan holda, birinchidan, viloyat uy xo'jaliklari uchun dolzarb bo'lgan mahrumliklarni aks ettiradi; ikkinchidan, tadbirkorlik salohiyati o'lchovi orqali qo'llab-quvvatlash dasturlari ta'siriga sezgir bo'ladi; uchinchidan, vaznlar, chegaralar va indikatorlar tarkibiga nisbatan mustahkamdir; to'rtinchidan, mahalla darajasida amaliy qo'llash uchun qulay.

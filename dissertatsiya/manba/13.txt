@@ -1,0 +1,97 @@
+## 1.3. Tadbirkorlikni qo'llab-quvvatlash samaradorligini baholash usullari va ularning metodologik cheklovlari
+
+Davlat dasturlari samaradorligini baholash iqtisodiyot fanida mustaqil yo'nalish sifatida shakllangan bo'lib, u dasturning maqsadga erishganligi, sarflangan resurslarning oqlanganligi va natijalarning aynan dastur bilan bog'liqligini aniqlashga qaratilgan {rossi2019}. Iqtisodiy adabiyotda “samaradorlik” tushunchasi ko'pincha ikki ma'noda qo'llaniladi: **natijadorlik** (effectiveness) – dastur o'z oldiga qo'yilgan maqsadlarga qanchalik erishgani, va **tejamkorlik** yoki iqtisodiy samaradorlik (efficiency) – erishilgan natija bilan sarflangan resurslar o'rtasidagi nisbat. Bu ikki tushunchaga qo'shimcha ravishda **ta'sir** (impact) tushunchasi farqlanadi: u dastur bo'lmaganida yuzaga kelmagan, ya'ni aynan dastur sababli ro'y bergan o'zgarishni anglatadi.
+
+Iqtisodiy hamkorlik va taraqqiyot tashkilotining (OECD) Taraqqiyotga ko'maklashish qo'mitasi dasturlarni baholashning oltita mezonini belgilagan: dolzarblik (relevance), uyg'unlik (coherence), natijadorlik (effectiveness), tejamkorlik (efficiency), ta'sir (impact) va barqarorlik (sustainability) {oecd2019}. Bu mezonlar tizimi xalqaro amaliyotda umume'tirof etilgan bo'lib, kambag'allikni qisqartirish dasturlarini baholash uchun ham asos bo'lib xizmat qiladi. Tadbirkorlik va kichik biznesni qo'llab-quvvatlash siyosatini baholash bo'yicha OECD tomonidan alohida metodik asos ishlab chiqilgan bo'lib, unda baholashning maqsadlari, ko'rsatkichlari va usullari tavsiflangan {oecd2007}.
+
+D.Stori kichik biznesni qo'llab-quvvatlash dasturlarini baholash usullarini murakkablik va ishonchlilik darajasiga ko'ra oltita bosqichga ajratgan va uni “jannatga olti qadam” deb nomlagan {storey2000}. Birinchi uch bosqich **monitoring** usullariga taalluqli: (I) dasturdan foydalanish ko'lami (qamrov, ajratilgan mablag'lar); (II) ishtirokchilarning dasturdan qoniqishi; (III) ishtirokchilarning dastur natijalarga qanday ta'sir qilgani haqidagi o'z baholari. Keyingi uch bosqich **baholash** usullari hisoblanadi: (IV) ishtirokchilar natijalarini “tipik” korxonalar bilan solishtirish; (V) ishtirokchilarni ularga o'xshash (moslashtirilgan) korxonalar bilan solishtirish; (VI) tanlov og'ishini (selection bias) hisobga olgan holda solishtirish. D.Storining fikricha, faqat oxirgi bosqichlar dasturning haqiqiy ta'sirini ishonchli aniqlash imkonini beradi, amaliyotda esa ko'plab dasturlar birinchi uch bosqich bilan cheklanadi.
+
+**Sababiy ta'sirni baholashning nazariy asosi.** Zamonaviy ta'sirni baholash nazariyasi D.Rubin tomonidan ishlab chiqilgan “potensial natijalar” modeliga asoslanadi {rubin1974}. Unga ko'ra har bir i-uy xo'jaligi uchun ikki potensial natija mavjud: Y_i(1) – agar oila qo'llab-quvvatlash olsa, va Y_i(0) – agar olmasa. Individual ta'sir ularning farqi bilan aniqlanadi, biroq har bir oila uchun faqat bitta natija kuzatiladi. Bu “sababiy xulosa chiqarishning fundamental muammosi” deb ataladi. Shu sababli tadqiqotchilar o'rtacha ta'sirlarni baholashga e'tibor qaratadilar. Siyosat uchun eng muhimi – ishtirokchilar uchun o'rtacha ta'sir (average treatment effect on the treated, ATT):
+
+$$ ATT = E[Y_i(1) – Y_i(0) | D_i = 1] = E[Y_i(1) | D_i = 1] – E[Y_i(0) | D_i = 1] (1.7)
+
+bu yerda D_i – qo'llab-quvvatlash olganlik belgisi (1 – oldi, 0 – olmadi). Formuladagi ikkinchi had – ishtirokchilar qo'llab-quvvatlash olmaganida qanday natijaga erishgan bo'lishi (kontrfaktual) – kuzatilmaydi. Agar uni oddiygina ishtirok etmaganlarning o'rtacha natijasi bilan almashtirsak, quyidagi tenglik hosil bo'ladi:
+
+$$ E[Y | D = 1] – E[Y | D = 0] = ATT + (E[Y(0) | D = 1] – E[Y(0) | D = 0]) (1.8)
+
+Qavs ichidagi had **tanlov og'ishi** bo'lib, u ishtirokchilar va ishtirok etmaganlar dasturgacha ham bir-biridan farq qilganini aks ettiradi {ap2009}. Kambag'allikni qisqartirish dasturlari kontekstida bu og'ish ikki yo'nalishda bo'lishi mumkin. Bir tomondan, qo'llab-quvvatlash eng kambag'al oilalarga yo'naltirilgani sababli ishtirokchilarning boshlang'ich holati yomonroq bo'lib, oddiy taqqoslash dastur ta'sirini kamaytirib ko'rsatadi. Ikkinchi tomondan, kredit oluvchilar orasida tadbirkorlik tajribasi va tashabbuskorligi yuqoriroq oilalar ko'proq bo'lsa, taqqoslash ta'sirni oshirib ko'rsatadi.
+
+Tanlov og'ishini bartaraf etishning eng ishonchli usuli – **randomizatsiyalangan nazorat tajribasi** (RCT) bo'lib, unda qo'llab-quvvatlash tasodifiy tanlangan guruhga beriladi va bu guruhlarning dastlabki farqini statistik jihatdan nolga tenglashtiradi {dgk2007}. 1.2-paragrafda tahlil qilingan ko'plab xalqaro tadqiqotlar aynan shu usulga asoslangan. Biroq davlat tomonidan amalga oshirilayotgan keng ko'lamli dasturlarda randomizatsiya ko'pincha axloqiy, huquqiy va tashkiliy sabablarga ko'ra imkonsiz: qonunchilikda belgilangan mezonlarga javob beruvchi har bir oila qo'llab-quvvatlash olish huquqiga ega. Shu sababli amaliyotda **kvazi-eksperimental usullar** keng qo'llaniladi {khandker2010,gertler2016}.
+
+**Moyillik ko'rsatkichi bo'yicha moslashtirish (PSM)** usuli P.Rozenbaum va D.Rubin tomonidan taklif etilgan {rr1983}. Uning g'oyasi shundan iboratki, ishtirokchilarning har biri uchun kuzatiladigan xususiyatlari bo'yicha unga o'xshash, biroq dasturda ishtirok etmagan “egizak” topiladi. Ko'p xususiyatlar bo'yicha bevosita moslashtirish o'lchovlilik muammosiga duch kelgani uchun barcha xususiyatlar bitta ko'rsatkich – moyillik ko'rsatkichiga (propensity score) jamlanadi:
+
+$$ p(X_i) = Pr(D_i = 1 | X_i) = exp(X_i β) / [1 + exp(X_i β)] (1.9)
+
+bu yerda X_i – dasturgacha bo'lgan kuzatiladigan xususiyatlar vektori (oila tarkibi, boshliqning yoshi va ta'limi, aktivlar, yashash joyi va h.k.), β – logit model koeffitsiyentlari. P.Rozenbaum va D.Rubin agar natija kuzatiladigan xususiyatlar sharti ostida dastur ishtirokidan mustaqil bo'lsa (shartli mustaqillik farazi), u holda moyillik ko'rsatkichi sharti ostida ham mustaqil bo'lishini isbotlagan. U holda ATT quyidagicha baholanadi:
+
+$$ ATT_{PSM} = (1/N_1) · Σ_{i∈D=1} [Y_i – Σ_{j∈D=0} ω(i, j) · Y_j] (1.10)
+
+bu yerda N_1 – ishtirokchilar soni, ω(i, j) – i-ishtirokchi uchun j-nazorat kuzatuviga berilgan vazn bo'lib, u tanlangan moslashtirish algoritmiga (eng yaqin qo'shni, radius, yadroviy moslashtirish) bog'liq. M.Kaliendo va S.Kopeynig PSMni qo'llashning amaliy bosqichlarini – o'zgaruvchilarni tanlash, umumiy qo'llab-quvvatlash sohasini (common support) tekshirish, moslashtirish sifatini (balans testlari) baholash va natijalar sezgirligini tahlil qilishni – batafsil tavsiflagan {ck2008}. PSMning asosiy cheklovi – u faqat kuzatiladigan xususiyatlar bo'yicha og'ishni bartaraf etadi; tashabbuskorlik, motivatsiya kabi kuzatilmaydigan omillar tufayli og'ish saqlanib qoladi.
+
+**Farqlar ichidagi farq (DiD)** usuli ikki davr – dasturgacha va dasturdan keyingi – ma'lumotlaridan foydalanib, ishtirokchilar va nazorat guruhidagi o'zgarishlarni solishtiradi. D.Kard va A.Krueger bu usulni minimal ish haqining bandlikka ta'sirini baholashda mashhur qilgan {ck1994}. DiD bahosi:
+
+$$ ATT_{DiD} = [E(Y_{t1} | D = 1) – E(Y_{t0} | D = 1)] – [E(Y_{t1} | D = 0) – E(Y_{t0} | D = 0)] (1.11)
+
+Regressiya shaklida esa u quyidagicha ifodalanadi:
+
+$$ Y_it = α + β·D_i + γ·Post_t + δ·(D_i × Post_t) + X_it θ + ε_it (1.12)
+
+bu yerda Post_t – dasturdan keyingi davr belgisi, δ – izlanayotgan ta'sir bahosi. DiD usuli vaqt bo'yicha o'zgarmaydigan kuzatilmaydigan farqlarni (masalan, oilaning tadbirkorlik madaniyati) bartaraf etadi, biroq u “parallel trendlar” farazini talab qiladi: dastur bo'lmaganida ikki guruh natijalari bir xil sur'atda o'zgargan bo'lar edi. A.Abadi bu farazni yumshatish uchun moyillik ko'rsatkichi bilan vaznlangan yarim parametrik DiD baholovchisini taklif etgan {abadie2005}. Agar dastur turli guruhlarga turli vaqtda joriy etilsa, an'anaviy ikki tomonlama qat'iy effektli DiD regressiyasi noto'g'ri natija berishi mumkinligi so'nggi tadqiqotlarda isbotlangan va buning uchun maxsus baholovchilar taklif etilgan {gb2021,cs2021}. Bu holat O'zbekiston sharoiti uchun dolzarb, chunki qo'llab-quvvatlash dasturlari turli yillarda turli shakllarda amalga oshirilgan.
+
+PSM va DiD usullarini birlashtirish (PSM-DiD) har ikki usulning cheklovlarini qisman bartaraf etadi: moslashtirish kuzatiladigan xususiyatlar bo'yicha farqlarni, farqlash esa vaqt bo'yicha o'zgarmaydigan kuzatilmaydigan farqlarni yo'qotadi {hit1997,iw2009}. J.Xekman, X.Ichimura va P.Todd aynan shu birlashma usuli kasbga o'qitish dasturlarini baholashda eng kam og'ishli natija berganini ko'rsatgan {hit1997}. Shu sababli tadqiqotimizning empirik qismida aynan PSM-DiD yondashuvi asosiy usul sifatida tanlangan.
+
+Boshqa kvazi-eksperimental usullar ham mavjud. **Instrumental o'zgaruvchilar** usuli dastur ishtirokiga ta'sir qiluvchi, biroq natijaga bevosita ta'sir qilmaydigan o'zgaruvchidan foydalanadi {wooldridge2010}. **Regressiya uzilishi** (regression discontinuity) usuli qo'llab-quvvatlash ma'lum chegara (masalan, ball yoki daromad chegarasi) asosida berilganda chegaraga yaqin oilalarni solishtiradi. Bu usul, ayniqsa, kambag'al oilalarni ball tizimi asosida aniqlash amaliyoti mavjud bo'lganda istiqbolli hisoblanadi {karlan2011}.
+
+Baholash usullarining qiyosiy tavsifi 1.4-jadvalda keltirilgan.
+
+TABLE 1.4: Tadbirkorlikni qo'llab-quvvatlash dasturlari samaradorligini baholash usullarining qiyosiy tavsifi
+| Usul | Asosiy g'oya | Asosiy farazi | Afzalligi | Cheklovi |
+| Monitoring ko'rsatkichlari | Ajratilgan resurs, qamrov, yaratilgan ish o'rinlari | – | Oddiy, arzon, operativ | Sababiy ta'sirni ko'rsatmaydi |
+| “Oldin–keyin” taqqoslash | Ishtirokchilarning dasturgacha va keyingi holati | Boshqa omillar o'zgarmagan | Qiyosiy guruh talab qilinmaydi | Umumiy trendlar ta'sirini ajratmaydi |
+| “Bilan–siz” taqqoslash | Ishtirokchi va ishtirok etmaganlar | Guruhlar dastlab bir xil | Bir davr ma'lumoti yetarli | Tanlov og'ishi |
+| RCT | Tasodifiy taqsimlash | Randomizatsiya to'g'ri bajarilgan | Eng ishonchli baho | Davlat dasturlarida qo'llash qiyin |
+| PSM | Kuzatiladigan xususiyatlar bo'yicha moslashtirish | Shartli mustaqillik | Nazorat guruhini tizimli shakllantiradi | Kuzatilmaydigan omillar |
+| DiD | Ikki davr va ikki guruh o'zgarishlarini solishtirish | Parallel trendlar | O'zgarmas kuzatilmaydigan omillarni bartaraf etadi | Panel ma'lumot talab qiladi |
+| PSM-DiD | Moslashtirilgan guruhlar bo'yicha DiD | Shartli parallel trendlar | Ikki usul afzalliklarini birlashtiradi | Ma'lumotga talab yuqori |
+| Regressiya uzilishi | Tanlov chegarasi atrofida taqqoslash | Chegara atrofida uzluksizlik | Ichki asoslanganligi yuqori | Faqat chegara atrofidagi ta'sir |
+NOTE: Manba: {storey2000,khandker2010,gertler2016,iw2009} asosida muallif tomonidan tuzilgan.
+
+**Natija ko'rsatkichlari muammosi.** Baholash usulini tanlash bilan birga qaysi natija ko'rsatkichi bo'yicha ta'sir baholanishi ham hal qiluvchi ahamiyatga ega. Tadbirkorlikni qo'llab-quvvatlash dasturlarini baholash amaliyotini tahlil qilish natijasida natija ko'rsatkichlarining to'rt guruhini ajratish mumkin: (1) **resurs ko'rsatkichlari** – ajratilgan kredit va subsidiyalar hajmi, qamrab olingan oilalar soni; (2) **bevosita natija ko'rsatkichlari** – ochilgan korxonalar, yaratilgan ish o'rinlari, o'qitilgan shaxslar soni; (3) **monetar ta'sir ko'rsatkichlari** – uy xo'jaligi daromadi va iste'molining o'zgarishi, monetar kambag'allikdan chiqish; (4) **ko'p o'lchovli ta'sir ko'rsatkichlari** – ta'lim, sog'liq, turmush sharoiti va boshqa sohalardagi mahrumliklarning o'zgarishi. Amaliyotda, ayniqsa, MDH mamlakatlarida, baholash asosan birinchi va ikkinchi guruh ko'rsatkichlari bilan cheklanadi.
+
+O'zbekistonda tadbirkorlikni qo'llab-quvvatlash dasturlari samaradorligini baholashning amaldagi tizimini tahlil qilish quyidagi **metodologik cheklovlarni** aniqlash imkonini berdi.
+
+Birinchidan, **samaradorlik resurs va bevosita natija ko'rsatkichlari bilan o'lchanmoqda**. Hisobotlarda ajratilgan kreditlar hajmi, qamrab olingan oilalar soni va “kambag'allikdan chiqarilgan” oilalar soni ustunlik qiladi. Bu ko'rsatkichlar dastur faoliyati hajmini aks ettiradi, biroq uning oilalar farovonligiga real ta'sirini ko'rsatmaydi.
+
+Ikkinchidan, **qiyosiy guruh mavjud emas**. Oilaning kambag'allikdan chiqishi to'liq dasturga bog'lanadi, holbuki u umumiy iqtisodiy o'sish, ish haqi oshishi, mehnat migratsiyasidan pul o'tkazmalari yoki boshqa ijtimoiy to'lovlar bilan ham izohlanishi mumkin. Rasmiy ma'lumotlarga ko'ra kambag'allik darajasining tez pasayishi kuzatilgan sharoitda bu omillarni ajratmaslik dastur ta'sirini sezilarli darajada oshirib ko'rsatishi mumkin.
+
+Uchinchidan, **kambag'allikdan chiqish mezoni bir o'lchovli**. Oila daromadi belgilangan darajadan oshganda u reyestrdan chiqariladi, biroq uning ta'lim, sog'liq va turmush sharoitidagi mahrumliklari saqlanib qolishi mumkin. Bunday oilalar tashqi zarbalarga (kasallik, ish yo'qotish, hosil nobud bo'lishi) nisbatan zaif bo'lib, qayta kambag'allikka tushish xavfi yuqori.
+
+To'rtinchidan, **qo'llab-quvvatlash turlari bo'yicha differensial baholash yo'q**. Kredit, subsidiya, kasbga o'qitish va yer ajratishning qaysi biri qaysi oila toifasi uchun samaraliroq ekani aniqlanmagan, natijada resurslar taqsimotida vositaning oila ehtiyojiga mosligi hisobga olinmaydi.
+
+Beshinchidan, **natijalar barqarorligi kuzatilmaydi**. Qo'llab-quvvatlash olgan oilalarning bir-ikki yildan keyingi holati, tashkil etilgan faoliyatning davom etishi va kreditlarning qaytarilishi muntazam monitoring qilinmaydi.
+
+Oltinchidan, **hududiy farqlar yetarlicha hisobga olinmaydi**. Respublika miqyosida belgilangan mezonlar va ko'rsatkichlar Sirdaryo viloyati kabi agrar xususiyatli, sug'oriladigan yerlar meliorativ holati murakkab va sanoat salohiyati cheklangan hududlar xususiyatlarini to'liq aks ettirmaydi.
+
+Aniqlangan cheklovlarni bartaraf etish uchun biz tadbirkorlikni qo'llab-quvvatlash samaradorligini baholashning **kompleks mezonlar tizimini** taklif etamiz. Unda an'anaviy ko'rsatkichlar saqlanib qolgan holda ular ko'p o'lchovli ta'sir va barqarorlik ko'rsatkichlari bilan to'ldiriladi (1.5-jadval).
+
+TABLE 1.5: Tadbirkorlikni qo'llab-quvvatlash samaradorligini baholashning taklif etilayotgan mezonlar tizimi
+| Mezonlar guruhi | Ko'rsatkichlar | Baholash usuli | OECD DAC mezoniga muvofiqligi |
+| 1. Maqsadli yo'naltirilganlik | Qo'llab-quvvatlash olganlar orasida ko'p o'lchovli kambag'allar ulushi; kiritish va chiqarish xatolari | Reyestr va so'rovnoma ma'lumotlarini solishtirish | Dolzarblik |
+| 2. Monetar ta'sir | Daromad va iste'mol o'zgarishi; monetar kambag'allikdan chiqish ehtimoli | PSM-DiD | Natijadorlik, ta'sir |
+| 3. Ko'p o'lchovli ta'sir | M_0, H, A va indikatorlar bo'yicha senzuralangan mahrumliklar o'zgarishi | Alkire–Foster usuli + PSM-DiD | Ta'sir |
+| 4. Differensial samara | Har bir qo'llab-quvvatlash turining o'lchovlar bo'yicha ta'siri | Ko'p tanlovli moslashtirish, regressiya | Natijadorlik |
+| 5. Tejamkorlik | Ajratilgan 1 mln so'm hisobiga M_0 kamayishi | Xarajat–samaradorlik tahlili | Tejamkorlik |
+| 6. Barqarorlik | Faoliyatning davom etishi; qayta kambag'allikka tushish ehtimoli; kredit qaytarilishi | Kuzatuv, zaiflik modeli | Barqarorlik |
+NOTE: Manba: muallif ishlanmasi.
+
+Ushbu tizimning asosiy afzalligi shundaki, u dastur samaradorligini faqat “qancha resurs sarflandi va qancha oila qamrab olindi” degan savol bilan emas, balki “qo'llab-quvvatlash qaysi oilalarga, qanday mahrumliklarni qanchalik kamaytirdi va bu natija qanchalik barqaror” degan savollar bilan baholash imkonini beradi. Tizimning amaliy qo'llanilishi dissertatsiyaning III bobida Sirdaryo viloyati misolida ko'rsatib beriladi.
+
+CENTER: I bob bo'yicha xulosalar
+
+Birinchidan, kambag'allik tushunchasi minimal fiziologik ehtiyojlarni qondira olmaslikdan inson imkoniyatlarining ko'p sohali cheklanganligi sifatida talqin qilinishgacha evolyutsiyani bosib o'tgan. Monetar va ko'p o'lchovli yondashuvlar bir-birini inkor etmaydi, balki o'zaro to'ldiradi. Alkire–Foster usuli o'zining dekompozitsiyalanuvchanligi va o'lchovli monotonligi tufayli dastur ta'sirini baholash va resurslarni maqsadli taqsimlash uchun eng qulay vosita bo'lib, uni o'rta daromadli mamlakat va alohida hudud sharoitiga moslashtirish zarur.
+
+Ikkinchidan, nazariy va empirik tadqiqotlar tadbirkorlikni qo'llab-quvvatlash moliyaviy cheklovlarni bartaraf etish orqali kambag'allikni qisqartirishga xizmat qilishini, biroq uning samaradorligi oilaning dastlabki holati, qo'llab-quvvatlash turi va hajmiga bog'liq ekanini ko'rsatadi. Mikrokreditning o'rtacha ta'siri cheklangan bo'lsa, aktiv berish, o'qitish va iste'mol yordamini birlashtirgan kompleks dasturlar ko'p o'lchovli farovonlikni barqaror yaxshilaydi.
+
+Uchinchidan, dastur ta'sirini ishonchli baholash uchun tanlov og'ishini bartaraf etuvchi usullar zarur. Keng ko'lamli davlat dasturlari sharoitida moyillik ko'rsatkichi bo'yicha moslashtirish va farqlar ichidagi farq usullarining birlashmasi (PSM-DiD) eng maqbul yondashuv hisoblanadi.
+
+To'rtinchidan, O'zbekistonda tadbirkorlikni qo'llab-quvvatlash samaradorligini baholashning amaldagi tizimi resurs va bevosita natija ko'rsatkichlariga tayanadi, qiyosiy guruhdan foydalanmaydi, kambag'allikdan chiqishni bir o'lchovli mezon bilan aniqlaydi, qo'llab-quvvatlash turlarini differensial baholamaydi va natijalar barqarorligini kuzatmaydi. Ushbu cheklovlarni bartaraf etish uchun maqsadli yo'naltirilganlik, monetar ta'sir, ko'p o'lchovli ta'sir, differensial samara, tejamkorlik va barqarorlik mezonlarini o'z ichiga olgan kompleks baholash tizimi taklif etildi.

@@ -1,0 +1,112 @@
+% kalit | bibliografik yozuv. "@" — bo'lim sarlavhasi. [[...]] — tekshirilishi lozim bo'lgan ma'lumot.
+@I. Normativ-huquqiy hujjatlar va metodologik ahamiyatga ega nashrlar
+konst | O'zbekiston Respublikasining Konstitutsiyasi. – T.: O'zbekiston, 2023. – 80 b.
+qonun_tadb | O'zbekiston Respublikasining “Tadbirkorlik faoliyati erkinligining kafolatlari to'g'risida”gi Qonuni (yangi tahriri). 2012-yil 2-maydagi O'RQ-328-son // Qonun hujjatlari ma'lumotlari milliy bazasi (lex.uz).
+qonun_bandlik | O'zbekiston Respublikasining “Aholini ish bilan ta'minlash to'g'risida”gi Qonuni. 2020-yil 20-oktabrdagi O'RQ-642-son // Qonun hujjatlari ma'lumotlari milliy bazasi (lex.uz).
+pf4947 | O'zbekiston Respublikasi Prezidentining “O'zbekiston Respublikasini yanada rivojlantirish bo'yicha Harakatlar strategiyasi to'g'risida”gi PF-4947-son Farmoni. 2017-yil 7-fevral // lex.uz.
+pq3777 | O'zbekiston Respublikasi Prezidentining “«Har bir oila – tadbirkor» dasturini amalga oshirish to'g'risida”gi PQ-3777-son Qarori. 2018-yil 7-iyun // lex.uz.
+pf60 | O'zbekiston Respublikasi Prezidentining “2022–2026-yillarga mo'ljallangan Yangi O'zbekistonning taraqqiyot strategiyasi to'g'risida”gi PF-60-son Farmoni. 2022-yil 28-yanvar // lex.uz.
+pf158_2030 | O'zbekiston Respublikasi Prezidentining “«O'zbekiston – 2030» strategiyasi to'g'risida”gi PF-158-son Farmoni. 2023-yil 11-sentabr // lex.uz.
+pf2024 | O'zbekiston Respublikasi Prezidentining “Kambag'allikni qisqartirish va aholi farovonligini oshirish chora-tadbirlarini yangi bosqichga olib chiqish to'g'risida”gi Farmoni. 2024-yil 23-sentabr, [[PF-___-son — raqami lex.uz orqali tekshirilsin]].
+pq330 | O'zbekiston Respublikasi Prezidentining “«Kambag'allikdan farovonlik sari» dasturini amalga oshirish bo'yicha birinchi navbatdagi chora-tadbirlar to'g'risida”gi PQ-330-son Qarori. 2024-yil 23-sentabr [[nomi lex.uz orqali tekshirilsin]].
+murojaat2020 | O'zbekiston Respublikasi Prezidenti Sh.M.Mirziyoyevning Oliy Majlisga Murojaatnomasi. 2020-yil 24-yanvar // Xalq so'zi. – 2020. – 25-yanvar.
+un2030 | United Nations. Transforming our world: the 2030 Agenda for Sustainable Development. Resolution A/RES/70/1. – New York: UN General Assembly, 2015. – 35 p.
+@II. Asosiy adabiyotlar
+abdurahmonov | Abdurahmonov Q.X. Mehnat iqtisodiyoti: nazariya va amaliyot. Darslik. – T.: Fan, 2019. – 592 b. [[nashr ma'lumotlari tekshirilsin]]
+gulomov | G'ulomov S.S. Tadbirkorlik va kichik biznes. – T.: Sharq, 2002. [[nashr ma'lumotlari tekshirilsin]]
+xodiyev | Xodiyev B.Yu., Qosimova M.S., Samadov A.N. Kichik biznes va xususiy tadbirkorlik. O'quv qo'llanma. – T.: TDIU, 2010. [[nashr ma'lumotlari tekshirilsin]]
+ovcharova | Овчарова Л.Н. Теоретико-методологические возможности и практические последствия альтернативных подходов к измерению бедности // Вопросы экономики. – 2009. – № 7. [[nashr ma'lumotlari tekshirilsin]]
+rimashevskaya | Римашевская Н.М. Человек и реформы: секреты выживания. – М.: ИСЭПН РАН, 2003. [[nashr ma'lumotlari tekshirilsin]]
+abadie2005 | Abadie A. Semiparametric Difference-in-Differences Estimators // Review of Economic Studies. – 2005. – Vol. 72, No. 1. – P. 1–19.
+af2011 | Alkire S., Foster J. Counting and multidimensional poverty measurement // Journal of Public Economics. – 2011. – Vol. 95, No. 7–8. – P. 476–487.
+alkire2015 | Alkire S., Foster J.E., Seth S., Santos M.E., Roche J.M., Ballon P. Multidimensional Poverty Measurement and Analysis. – Oxford: Oxford University Press, 2015. – 560 p.
+alkire_santos2014 | Alkire S., Santos M.E. Measuring Acute Poverty in the Developing World: Robustness and Scope of the Multidimensional Poverty Index // World Development. – 2014. – Vol. 59. – P. 251–274.
+alatas2012 | Alatas V., Banerjee A., Hanna R., Olken B.A., Tobias J. Targeting the Poor: Evidence from a Field Experiment in Indonesia // American Economic Review. – 2012. – Vol. 102, No. 4. – P. 1206–1240.
+angelucci2015 | Angelucci M., Karlan D., Zinman J. Microcredit Impacts: Evidence from a Randomized Microcredit Program Placement Experiment by Compartamos Banco // American Economic Journal: Applied Economics. – 2015. – Vol. 7, No. 1. – P. 151–182.
+ap2009 | Angrist J.D., Pischke J.-S. Mostly Harmless Econometrics: An Empiricist's Companion. – Princeton: Princeton University Press, 2009. – 392 p.
+atkinson2003 | Atkinson A.B. Multidimensional deprivation: contrasting social welfare and counting approaches // Journal of Economic Inequality. – 2003. – Vol. 1, No. 1. – P. 51–65.
+attanasio2015 | Attanasio O., Augsburg B., De Haas R., Fitzsimons E., Harmgart H. The Impacts of Microfinance: Evidence from Joint-Liability Lending in Mongolia // American Economic Journal: Applied Economics. – 2015. – Vol. 7, No. 1. – P. 90–122.
+augsburg2015 | Augsburg B., De Haas R., Harmgart H., Meghir C. The Impacts of Microcredit: Evidence from Bosnia and Herzegovina // American Economic Journal: Applied Economics. – 2015. – Vol. 7, No. 1. – P. 183–203.
+bandiera2017 | Bandiera O., Burgess R., Das N., Gulesci S., Rasul I., Sulaiman M. Labor Markets and Poverty in Village Economies // Quarterly Journal of Economics. – 2017. – Vol. 132, No. 2. – P. 811–870.
+banerjee_newman1993 | Banerjee A.V., Newman A.F. Occupational Choice and the Process of Development // Journal of Political Economy. – 1993. – Vol. 101, No. 2. – P. 274–298.
+poorecon2011 | Banerjee A.V., Duflo E. Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty. – New York: PublicAffairs, 2011. – 303 p.
+banerjee2015sci | Banerjee A., Duflo E., Goldberg N., Karlan D., Osei R., Parienté W., Shapiro J., Thuysbaert B., Udry C. A multifaceted program causes lasting progress for the very poor: Evidence from six countries // Science. – 2015. – Vol. 348, No. 6236. – 1260799.
+bdgk2015 | Banerjee A., Duflo E., Glennerster R., Kinnan C. The Miracle of Microfinance? Evidence from a Randomized Evaluation // American Economic Journal: Applied Economics. – 2015. – Vol. 7, No. 1. – P. 22–53.
+bkz2015 | Banerjee A., Karlan D., Zinman J. Six Randomized Evaluations of Microcredit: Introduction and Further Steps // American Economic Journal: Applied Economics. – 2015. – Vol. 7, No. 1. – P. 1–21.
+barrett2013 | Barrett C.B., Carter M.R. The Economics of Poverty Traps and Persistent Poverty: Empirical and Policy Implications // Journal of Development Studies. – 2013. – Vol. 49, No. 7. – P. 976–990.
+baumol1990 | Baumol W.J. Entrepreneurship: Productive, Unproductive, and Destructive // Journal of Political Economy. – 1990. – Vol. 98, No. 5. – P. 893–921.
+blattman2014 | Blattman C., Fiala N., Martinez S. Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda // Quarterly Journal of Economics. – 2014. – Vol. 129, No. 2. – P. 697–752.
+booth1889 | Booth C. Life and Labour of the People in London. – London: Macmillan, 1889–1903.
+bourguignon2003 | Bourguignon F., Chakravarty S.R. The measurement of multidimensional poverty // Journal of Economic Inequality. – 2003. – Vol. 1, No. 1. – P. 25–49.
+bruton2013 | Bruton G.D., Ketchen D.J., Ireland R.D. Entrepreneurship as a solution to poverty // Journal of Business Venturing. – 2013. – Vol. 28, No. 6. – P. 683–689.
+ck2008 | Caliendo M., Kopeinig S. Some Practical Guidance for the Implementation of Propensity Score Matching // Journal of Economic Surveys. – 2008. – Vol. 22, No. 1. – P. 31–72.
+cs2021 | Callaway B., Sant'Anna P.H.C. Difference-in-Differences with multiple time periods // Journal of Econometrics. – 2021. – Vol. 225, No. 2. – P. 200–230.
+ck1994 | Card D., Krueger A.B. Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania // American Economic Review. – 1994. – Vol. 84, No. 4. – P. 772–793.
+chaudhuri2002 | Chaudhuri S., Jalan J., Suryahadi A. Assessing household vulnerability to poverty from cross-sectional data: A methodology and estimates from Indonesia. Discussion Paper No. 0102-52. – New York: Columbia University, 2002.
+coady2004 | Coady D., Grosh M., Hoddinott J. Targeting of Transfers in Developing Countries: Review of Lessons and Experience. – Washington, DC: World Bank, 2004. – 124 p.
+cochran1977 | Cochran W.G. Sampling Techniques. 3rd ed. – New York: John Wiley & Sons, 1977. – 428 p.
+crepon2015 | Crépon B., Devoto F., Duflo E., Parienté W. Estimating the Impact of Microcredit on Those Who Take It Up: Evidence from a Randomized Experiment in Morocco // American Economic Journal: Applied Economics. – 2015. – Vol. 7, No. 1. – P. 123–150.
+deaton1997 | Deaton A. The Analysis of Household Surveys: A Microeconometric Approach to Development Policy. – Baltimore: Johns Hopkins University Press for the World Bank, 1997. – 479 p.
+deaton2013 | Deaton A. The Great Escape: Health, Wealth, and the Origins of Inequality. – Princeton: Princeton University Press, 2013. – 360 p.
+demel2008 | de Mel S., McKenzie D., Woodruff C. Returns to Capital in Microenterprises: Evidence from a Field Experiment // Quarterly Journal of Economics. – 2008. – Vol. 123, No. 4. – P. 1329–1372.
+dgk2007 | Duflo E., Glennerster R., Kremer M. Using Randomization in Development Economics Research: A Toolkit // Handbook of Development Economics. Vol. 4. – Amsterdam: Elsevier, 2007. – P. 3895–3962.
+easterly2006 | Easterly W. The White Man's Burden: Why the West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good. – New York: Penguin Press, 2006. – 436 p.
+evans1989 | Evans D.S., Jovanovic B. An Estimated Model of Entrepreneurial Choice under Liquidity Constraints // Journal of Political Economy. – 1989. – Vol. 97, No. 4. – P. 808–827.
+fgt1984 | Foster J., Greer J., Thorbecke E. A Class of Decomposable Poverty Measures // Econometrica. – 1984. – Vol. 52, No. 3. – P. 761–766.
+gertler2016 | Gertler P.J., Martinez S., Premand P., Rawlings L.B., Vermeersch C.M.J. Impact Evaluation in Practice. 2nd ed. – Washington, DC: Inter-American Development Bank and World Bank, 2016. – 367 p.
+gb2021 | Goodman-Bacon A. Difference-in-differences with variation in treatment timing // Journal of Econometrics. – 2021. – Vol. 225, No. 2. – P. 254–277.
+grosh2022 | Grosh M., Leite P., Wai-Poi M., Tesliuc E. (eds.) Revisiting Targeting in Social Assistance: A New Look at Old Dilemmas. – Washington, DC: World Bank, 2022.
+haushofer2016 | Haushofer J., Shapiro J. The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya // Quarterly Journal of Economics. – 2016. – Vol. 131, No. 4. – P. 1973–2042.
+hit1997 | Heckman J.J., Ichimura H., Todd P.E. Matching as an Econometric Evaluation Estimator: Evidence from Evaluating a Job Training Programme // Review of Economic Studies. – 1997. – Vol. 64, No. 4. – P. 605–654.
+imbens2000 | Imbens G.W. The role of the propensity score in estimating dose-response functions // Biometrika. – 2000. – Vol. 87, No. 3. – P. 706–710.
+iw2009 | Imbens G.W., Wooldridge J.M. Recent Developments in the Econometrics of Program Evaluation // Journal of Economic Literature. – 2009. – Vol. 47, No. 1. – P. 5–86.
+karlan2011 | Karlan D., Zinman J. Microcredit in Theory and Practice: Using Randomized Credit Scoring for Impact Evaluation // Science. – 2011. – Vol. 332, No. 6035. – P. 1278–1284.
+khandker2010 | Khandker S.R., Koolwal G.B., Samad H.A. Handbook on Impact Evaluation: Quantitative Methods and Practices. – Washington, DC: World Bank, 2010. – 262 p.
+kirzner1973 | Kirzner I.M. Competition and Entrepreneurship. – Chicago: University of Chicago Press, 1973. – 246 p.
+knight1921 | Knight F.H. Risk, Uncertainty and Profit. – Boston: Houghton Mifflin, 1921. – 381 p.
+kraay2014 | Kraay A., McKenzie D. Do Poverty Traps Exist? Assessing the Evidence // Journal of Economic Perspectives. – 2014. – Vol. 28, No. 3. – P. 127–148.
+lechner2001 | Lechner M. Identification and estimation of causal effects of multiple treatments under the conditional independence assumption // Lechner M., Pfeiffer F. (eds.) Econometric Evaluation of Labour Market Policies. – Heidelberg: Physica, 2001. – P. 43–58.
+lerner2009 | Lerner J. Boulevard of Broken Dreams: Why Public Efforts to Boost Entrepreneurship and Venture Capital Have Failed – and What to Do About It. – Princeton: Princeton University Press, 2009. – 248 p.
+mckenzie2014 | McKenzie D., Woodruff C. What Are We Learning from Business Training and Entrepreneurship Evaluations around the Developing World? // World Bank Research Observer. – 2014. – Vol. 29, No. 1. – P. 48–82.
+meager2019 | Meager R. Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments // American Economic Journal: Applied Economics. – 2019. – Vol. 11, No. 1. – P. 57–91.
+morduch1999 | Morduch J. The Microfinance Promise // Journal of Economic Literature. – 1999. – Vol. 37, No. 4. – P. 1569–1614.
+mullainathan2013 | Mullainathan S., Shafir E. Scarcity: Why Having Too Little Means So Much. – New York: Times Books, 2013. – 288 p.
+nussbaum2011 | Nussbaum M.C. Creating Capabilities: The Human Development Approach. – Cambridge, MA: Harvard University Press, 2011. – 237 p.
+oecd2007 | OECD. OECD Framework for the Evaluation of SME and Entrepreneurship Policies and Programmes. – Paris: OECD Publishing, 2007. – 166 p.
+oecd2008 | OECD, JRC. Handbook on Constructing Composite Indicators: Methodology and User Guide. – Paris: OECD Publishing, 2008. – 162 p.
+oecd2019 | OECD DAC. Better Criteria for Better Evaluation: Revised Evaluation Criteria Definitions and Principles for Use. – Paris: OECD, 2019. – 21 p.
+pitt1998 | Pitt M.M., Khandker S.R. The Impact of Group-Based Credit Programs on Poor Households in Bangladesh: Does the Gender of Participants Matter? // Journal of Political Economy. – 1998. – Vol. 106, No. 5. – P. 958–996.
+ravallion2011 | Ravallion M. On multidimensional indices of poverty // Journal of Economic Inequality. – 2011. – Vol. 9, No. 2. – P. 235–248.
+ravallion2016 | Ravallion M. The Economics of Poverty: History, Measurement, and Policy. – New York: Oxford University Press, 2016. – 712 p.
+roodman2014 | Roodman D., Morduch J. The Impact of Microcredit on the Poor in Bangladesh: Revisiting the Evidence // Journal of Development Studies. – 2014. – Vol. 50, No. 4. – P. 583–604.
+rr1983 | Rosenbaum P.R., Rubin D.B. The central role of the propensity score in observational studies for causal effects // Biometrika. – 1983. – Vol. 70, No. 1. – P. 41–55.
+rossi2019 | Rossi P.H., Lipsey M.W., Henry G.T. Evaluation: A Systematic Approach. 8th ed. – Thousand Oaks: SAGE, 2019. – 352 p.
+rowntree1901 | Rowntree B.S. Poverty: A Study of Town Life. – London: Macmillan, 1901. – 437 p.
+rubin1974 | Rubin D.B. Estimating causal effects of treatments in randomized and nonrandomized studies // Journal of Educational Psychology. – 1974. – Vol. 66, No. 5. – P. 688–701.
+sachs2005 | Sachs J.D. The End of Poverty: Economic Possibilities for Our Time. – New York: Penguin Press, 2005. – 396 p.
+saisana2005 | Saisana M., Saltelli A., Tarantola S. Uncertainty and sensitivity analysis techniques as tools for the quality assessment of composite indicators // Journal of the Royal Statistical Society: Series A. – 2005. – Vol. 168, No. 2. – P. 307–323.
+schumpeter1934 | Schumpeter J.A. The Theory of Economic Development. – Cambridge, MA: Harvard University Press, 1934. – 255 p.
+sen1976 | Sen A. Poverty: An Ordinal Approach to Measurement // Econometrica. – 1976. – Vol. 44, No. 2. – P. 219–231.
+sen1985 | Sen A. Commodities and Capabilities. – Amsterdam: North-Holland, 1985. – 130 p.
+sen1999 | Sen A. Development as Freedom. – Oxford: Oxford University Press, 1999. – 366 p.
+shane2009 | Shane S. Why encouraging more people to become entrepreneurs is bad public policy // Small Business Economics. – 2009. – Vol. 33, No. 2. – P. 141–149.
+storey2000 | Storey D.J. Six steps to heaven: evaluating the impact of public policies to support small businesses in developed economies // Sexton D.L., Landström H. (eds.) The Blackwell Handbook of Entrepreneurship. – Oxford: Blackwell, 2000. – P. 176–193.
+sutter2019 | Sutter C., Bruton G.D., Chen J. Entrepreneurship as a solution to extreme poverty: A review and future research directions // Journal of Business Venturing. – 2019. – Vol. 34, No. 1. – P. 197–214.
+tarozzi2015 | Tarozzi A., Desai J., Johnson K. The Impacts of Microcredit: Evidence from Ethiopia // American Economic Journal: Applied Economics. – 2015. – Vol. 7, No. 1. – P. 54–89.
+townsend1979 | Townsend P. Poverty in the United Kingdom: A Survey of Household Resources and Standards of Living. – Harmondsworth: Penguin Books, 1979. – 1216 p.
+tsui2002 | Tsui K. Multidimensional poverty indices // Social Choice and Welfare. – 2002. – Vol. 19, No. 1. – P. 69–93.
+undp2010 | UNDP. Human Development Report 2010. The Real Wealth of Nations: Pathways to Human Development. – New York: UNDP, 2010. – 238 p.
+mpi2024 | UNDP, OPHI. Global Multidimensional Poverty Index 2024: Poverty amid conflict. – New York: UNDP; Oxford: OPHI, 2024.
+wooldridge2010 | Wooldridge J.M. Econometric Analysis of Cross Section and Panel Data. 2nd ed. – Cambridge, MA: MIT Press, 2010. – 1064 p.
+wb2017 | World Bank. Monitoring Global Poverty: Report of the Commission on Global Poverty. – Washington, DC: World Bank, 2017. – 216 p.
+wb2018 | World Bank. Poverty and Shared Prosperity 2018: Piecing Together the Poverty Puzzle. – Washington, DC: World Bank, 2018. – 178 p.
+wb2022uz | World Bank. Toward a Prosperous and Inclusive Future: The Second Systematic Country Diagnostic for Uzbekistan. – Washington, DC: World Bank, 2022. [[nashr ma'lumotlari tekshirilsin]]
+yunus1999 | Yunus M. Banker to the Poor: Micro-Lending and the Battle Against World Poverty. – New York: PublicAffairs, 1999. – 273 p.
+@III. Internet resurslar
+stat_uz | O'zbekiston Respublikasi Prezidenti huzuridagi Statistika agentligi rasmiy sayti. – https://stat.uz
+sirstat | Sirdaryo viloyati statistika boshqarmasi rasmiy sayti. – https://sirstat.uz
+mehnat | O'zbekiston Respublikasi Kambag'allikni qisqartirish va bandlik vazirligi rasmiy sayti. – https://mehnat.uz
+lex | O'zbekiston Respublikasi Qonun hujjatlari ma'lumotlari milliy bazasi. – https://lex.uz
+ophi | Oxford Poverty and Human Development Initiative (OPHI) rasmiy sayti. – https://ophi.org.uk
+hdr | UNDP Human Development Reports rasmiy sayti. – https://hdr.undp.org
+pip | World Bank Poverty and Inequality Platform. – https://pip.worldbank.org

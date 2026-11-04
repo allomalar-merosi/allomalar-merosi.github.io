@@ -1,0 +1,86 @@
+## 2.2. Sirdaryo viloyatida tadbirkorlikni qo'llab-quvvatlash dasturlarining amalga oshirilishi va resurslar taqsimotining tahlili
+
+Sirdaryo viloyati respublikaning markaziy qismida, Mirzacho'l hududida joylashgan bo'lib, uning ma'muriy tarkibiga sakkizta tuman – Boyovut, Guliston, Mirzaobod, Oqoltin, Sardoba, Sayxunobod, Sirdaryo va Xovos tumanlari hamda uchta shahar – Guliston, Shirin va Yangiyer shaharlari kiradi {sirstat}. Statistika agentligi ma'lumotlariga ko'ra, 2025-yil 1-oktabr holatiga viloyatning doimiy aholisi 942,6 ming kishini tashkil etgan {stat_uz}. Aholi soni bo'yicha viloyat respublikaning eng kichik hududlaridan biri hisoblanadi, biroq uning aholisining katta qismi qishloq joylarida istiqomat qiladi va iqtisodiyoti agrar yo'nalishga ega.
+
+Viloyat iqtisodiyotining tarkibiy xususiyatlari kambag'allik va tadbirkorlik o'rtasidagi bog'liqlikni tushunish uchun muhim ahamiyatga ega. Birinchidan, viloyat sug'oriladigan dehqonchilikka asoslangan bo'lib, paxta, g'alla, sabzavot va poliz ekinlari yetishtirish asosiy tarmoqlardan biri hisoblanadi. Mirzacho'l yerlarining o'zlashtirilish tarixi tufayli tuproqlarning sho'rlanishi va sizot suvlari sathining yuqoriligi qishloq xo'jaligi unumdorligini cheklovchi muhim omil bo'lib qolmoqda. Ikkinchidan, viloyatda yirik energetika obyektlari joylashgan bo'lsa-da, ular kapital sig'imli bo'lib, mahalliy aholining ommaviy bandligini ta'minlamaydi. Uchinchidan, qishloq aholisi daromadlarining muhim qismi tomorqa xo'jaligi, mavsumiy qishloq xo'jaligi ishlari va mehnat migratsiyasidan olinadi. Bu omillar daromadlarning beqarorligi va mavsumiyligini keltirib chiqaradi hamda kambag'allikdan chiqqan oilalarning qayta kambag'allikka tushish xavfini oshiradi.
+
+Viloyatning asosiy ijtimoiy-iqtisodiy ko'rsatkichlari 2.3-jadvalda keltirilgan.
+
+TABLE 2.3: Sirdaryo viloyatining asosiy ijtimoiy-iqtisodiy ko'rsatkichlari
+| Ko'rsatkichlar | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Doimiy aholi soni (yil oxiriga), ming kishi | [[__]] | [[__]] | [[__]] | [[__]] | 942,6* |
+| Shu jumladan, qishloq aholisi ulushi, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Yalpi hududiy mahsulot o'sish sur'ati, % | [[__]] | [[__]] | [[__]] | [[__]] | 109,8 |
+| Aholi jon boshiga YaHM, ming so'm | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| YaHMda kichik biznes ulushi, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Faol kichik biznes subyektlari soni, birlik | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Ishsizlik darajasi, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Kambag'allik darajasi, % | [[__]] | [[__]] | [[__]] | 11,3 | 6,2 |
+| Respublika bo'yicha kambag'allik darajasi, % | [[__]] | 14,0 | [[__]] | [[__]] | 5,8 |
+NOTE: Manba: Statistika agentligi va Sirdaryo viloyati statistika boshqarmasi ma'lumotlari asosida muallif tomonidan tuzilgan {stat_uz,sirstat}. * 2025-yil 1-oktabr holatiga.
+
+Jadval ma'lumotlaridan ko'rinib turibdiki, viloyatda kambag'allik darajasi 2024-yildagi 11,3 foizdan 2025-yilda 6,2 foizga, ya'ni bir yil ichida 5,1 foiz punktga yoki deyarli 1,8 barobar qisqargan. Bu respublika bo'yicha ko'rsatkichning pasayish sur'atidan yuqori. Biroq 2025-yilda ham viloyatdagi kambag'allik darajasi respublika o'rtacha ko'rsatkichidan (5,8 foiz) 0,4 foiz punktga yuqori bo'lib qolmoqda. 2025-yilda yalpi hududiy mahsulotning 9,8 foizga o'sganini hisobga olsak, kambag'allikning qisqarishida umumiy iqtisodiy o'sishning ham muhim o'rni borligini e'tirof etish lozim. Aynan shu holat qo'llab-quvvatlash dasturlarining sof ta'sirini umumiy iqtisodiy o'sish ta'siridan ajratib baholash zaruriyatini ko'rsatadi.
+
+Kambag'allikning bunday tez sur'atda qisqarishi ikki xil talqin qilinishi mumkin. Birinchi talqinga ko'ra, bu davlat dasturlari va iqtisodiy o'sishning birgalikdagi ijobiy ta'siri natijasidir. Ikkinchi talqinga ko'ra, monetar kambag'allik chegarasiga yaqin joylashgan oilalarning kichik daromad o'zgarishi hisobiga chegaradan yuqoriga chiqishi rasmiy ko'rsatkichni sezilarli kamaytiradi, biroq bu oilalarning nomonetar mahrumliklari saqlanib qolishi mumkin. 1.1-paragrafda ta'kidlanganidek, kambag'allik darajasi ko'rsatkichi kambag'allik chuqurligi va nomonetar mahrumliklarga befarq. Shu sababli rasmiy statistik ma'lumotlarni ko'p o'lchovli baholash bilan to'ldirish zarur.
+
+Viloyatda tadbirkorlikni qo'llab-quvvatlash vositalari bo'yicha ajratilgan resurslar dinamikasi 2.4-jadvalda keltirilgan.
+
+TABLE 2.4: Sirdaryo viloyatida tadbirkorlikni qo'llab-quvvatlash vositalari bo'yicha ajratilgan resurslar dinamikasi
+| Qo'llab-quvvatlash vositasi | Ko'rsatkich | 2022 | 2023 | 2024 | 2025 |
+| Imtiyozli kreditlar | Oluvchilar soni, kishi | [[__]] | [[__]] | [[__]] | [[__]] |
+| Imtiyozli kreditlar | Summasi, mlrd so'm | [[__]] | [[__]] | [[__]] | [[__]] |
+| Subsidiyalar | Oluvchilar soni, kishi | [[__]] | [[__]] | [[__]] | [[__]] |
+| Subsidiyalar | Summasi, mlrd so'm | [[__]] | [[__]] | [[__]] | [[__]] |
+| Kasbga o'qitish | O'qitilganlar soni, kishi | [[__]] | [[__]] | [[__]] | [[__]] |
+| Kasbga o'qitish | Xarajatlar, mlrd so'm | [[__]] | [[__]] | [[__]] | [[__]] |
+| Yer ajratish | Oluvchilar soni, oila | [[__]] | [[__]] | [[__]] | [[__]] |
+| Yer ajratish | Maydoni, ga | [[__]] | [[__]] | [[__]] | [[__]] |
+| Jami | Qamrab olingan oilalar, birlik | [[__]] | [[__]] | [[__]] | [[__]] |
+| Jami | Shu jumladan reyestrdagi kambag'al oilalar ulushi, % | [[__]] | [[__]] | [[__]] | [[__]] |
+NOTE: Manba: Sirdaryo viloyati hokimligi, viloyat bandlik va kambag'allikni qisqartirish boshqarmasi hamda tijorat banklari ma'lumotlari asosida muallif tomonidan tuzilgan.
+
+Jadval ma'lumotlarini tahlil qilishda quyidagi jihatlarga e'tibor qaratish muhim. Birinchidan, qo'llab-quvvatlash vositalari tarkibida imtiyozli kreditlarning ulushi [[__]] foizni tashkil etib, ular resurs hajmi bo'yicha yetakchi o'rinda turadi. Ikkinchidan, qamrab olingan oilalar orasida kambag'al oilalar reyestrida turgan oilalarning ulushi [[__]] foizni tashkil etgan; demak, qo'llab-quvvatlashning bir qismi kambag'al bo'lmagan oilalarga yo'naltirilgan. Bu holat 1.3-paragrafda qayd etilgan “kiritish xatosi” mavjudligini ko'rsatadi va qo'llab-quvvatlash vositasi turiga qarab farqlanadi: kreditlar bo'yicha bu ulush odatda pastroq, subsidiyalar bo'yicha esa yuqoriroq bo'ladi. Uchinchidan, kasbga o'qitish bo'yicha qamrov sezilarli bo'lsa-da, unga yo'naltirilgan xarajatlar umumiy resurslarning kichik qismini tashkil etadi.
+
+Resurslarning hududlar bo'yicha taqsimotini baholash uchun biz **maqsadli yo'naltirish koeffitsiyenti**dan foydalandik:
+
+$$ TC_r = (S_r / S) / (P_r / P) (2.1)
+
+bu yerda S_r – r-tuman (shahar)ga ajratilgan qo'llab-quvvatlash resurslari hajmi; S – viloyat bo'yicha jami resurslar; P_r – r-tumandagi kambag'al oilalar soni; P – viloyat bo'yicha kambag'al oilalar soni. TC_r = 1 bo'lganda tumanning resurslardagi ulushi uning kambag'al oilalar sonidagi ulushiga teng; TC_r > 1 – tuman kambag'allik ko'lamiga nisbatan ko'proq, TC_r < 1 esa kamroq resurs olganini anglatadi.
+
+Resurslar taqsimotining umumiy notekisligini baholash uchun **konsentratsiya indeksi**dan foydalanildi. Buning uchun tumanlar jon boshiga kambag'allik darajasi bo'yicha kamayish tartibida joylashtirilib, ularning kambag'al oilalar soni va ajratilgan resurslardagi kumulyativ ulushlari hisoblanadi:
+
+$$ CI = Σ_{k=1}^{R} (X_k – X_{k–1}) · (Y_k + Y_{k–1}) – 1 (2.2)
+
+bu yerda X_k – birinchi k ta tumanning kambag'al oilalar sonidagi kumulyativ ulushi; Y_k – ularning resurslardagi kumulyativ ulushi; R – tumanlar soni. CI = 0 bo'lganda resurslar kambag'allik ko'lamiga proporsional taqsimlangan; CI > 0 bo'lganda resurslar kambag'allik darajasi yuqori hududlarga nisbatan ko'proq (progressiv), CI < 0 bo'lganda esa kamroq (regressiv) yo'naltirilgan.
+
+Mahallalar darajasida resurslar taqsimotining notekisligi esa bir kambag'al oilaga to'g'ri keladigan resurslar hajmining variatsiya koeffitsiyenti bilan baholandi:
+
+$$ V = σ(s_m) / s̄ × 100% (2.3)
+
+bu yerda s_m – m-mahallada bir kambag'al oilaga to'g'ri keladigan resurslar hajmi; s̄ – uning o'rtacha qiymati; σ – standart chetlanish.
+
+Hisob-kitob natijalari 2.5-jadvalda keltirilgan.
+
+TABLE 2.5: Sirdaryo viloyatida qo'llab-quvvatlash resurslarining tumanlar (shaharlar) kesimida taqsimlanishi (2025-yil)
+| Tuman (shahar) | Kambag'al oilalar soni | Ulushi, % | Ajratilgan resurslar, mlrd so'm | Ulushi, % | Bir kambag'al oilaga, mln so'm | TC_r |
+| Boyovut tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Guliston tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Mirzaobod tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Oqoltin tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Sardoba tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Sayxunobod tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Sirdaryo tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Xovos tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Guliston shahri | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Shirin shahri | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Yangiyer shahri | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Viloyat bo'yicha | [[__]] | 100,0 | [[__]] | 100,0 | [[__]] | 1,00 |
+NOTE: Manba: viloyat bandlik va kambag'allikni qisqartirish boshqarmasi ma'lumotlari asosida muallif hisob-kitoblari.
+
+Hisob-kitoblar natijasida konsentratsiya indeksi CI = [[__]] ga, mahallalar kesimida bir kambag'al oilaga to'g'ri keladigan resurslarning variatsiya koeffitsiyenti V = [[__]] foizga teng bo'ldi. Maqsadli yo'naltirish koeffitsiyenti tumanlar kesimida [[__]] dan [[__]] gacha o'zgaradi. Bu ko'rsatkichlarni talqin qilishda shuni hisobga olish kerakki, resurslar taqsimoti kambag'allik ko'lamidan tashqari tumanlarning bank infratuzilmasi, kredit qaytarish tarixi va tadbirkorlik faolligiga ham bog'liq. Kredit resurslari, odatda, bank filiallari tarmog'i rivojlangan va tadbirkorlik faolligi yuqori shahar va tuman markazlariga ko'proq jalb qilinadi, holbuki kambag'allik darajasi chekka qishloq mahallalarida yuqoriroq. [[Natijalar yo'nalishiga qarab izohlansin: qaysi tumanlarda TC_r < 1 va buning sabablari.]]
+
+Resurslar taqsimotining amaldagi tartibini o'rganish natijasida quyidagi muammolar aniqlandi. Birinchidan, resurslar hududlarga asosan kambag'al oilalar soniga, ya'ni monetar kambag'allik ko'lamiga qarab taqsimlanadi, biroq kambag'allik intensivligi (oilalar duch kelayotgan mahrumliklar soni) hisobga olinmaydi. Natijada mahrumliklari ko'p bo'lgan, “chuqur” kambag'allik hududlari va oz sonli mahrumlikka ega “sayoz” kambag'allik hududlari bir xil mezon bilan baholanadi. Ikkinchidan, qo'llab-quvvatlash vositasining turi hududning mahrumlik tarkibiga mos kelmasligi mumkin: masalan, asosiy muammo malaka yetishmasligi bo'lgan mahallada kredit limitlari ko'p, o'qitish imkoniyatlari esa kam bo'lishi mumkin. Uchinchidan, oldingi yillarda berilgan qo'llab-quvvatlash natijalari keyingi yil resurslarini taqsimlashda hisobga olinmaydi.
+
+Viloyatdagi dastur ijrochilari – mahalla “yettiligi” vakillari, tuman bandlikka ko'maklashish markazlari xodimlari va bank xodimlari bilan o'tkazilgan suhbatlar [[(n = __ nafar)]] natijalari ham yuqoridagi xulosalarni tasdiqlaydi. Suhbat ishtirokchilari tomonidan eng ko'p qayd etilgan muammolar quyidagilar: kambag'al oilalarda garov ta'minoti yo'qligi sababli kredit olish imkoniyatining cheklanganligi; subsidiya hisobiga olingan aktivlarning (masalan, chorva mollarining) ozuqa va veterinariya xizmatlari bilan ta'minlanmaganligi sababli samarasizligi; o'qitish yo'nalishlarining mahalliy mehnat bozori talabiga to'liq mos kelmasligi; ajratilgan yerlarning suv bilan ta'minlanishi va mahsulotni sotish bilan bog'liq qiyinchiliklar; hamda qo'llab-quvvatlash natijalarini kuzatishning tizimli mexanizmi yo'qligi.
+
+Tahlil natijalarini umumlashtirib, quyidagi xulosalarni chiqarish mumkin. Sirdaryo viloyatida so'nggi yillarda kambag'allik darajasi sezilarli qisqargan, tadbirkorlikni qo'llab-quvvatlashga katta resurslar yo'naltirilgan. Biroq resurslarning hududlar va mahallalar bo'yicha taqsimlanishi faqat monetar kambag'allik ko'lamiga asoslangan bo'lib, kambag'allik intensivligi, mahrumliklar tarkibi va oldingi qo'llab-quvvatlash samaradorligini hisobga olmaydi. Qo'llab-quvvatlash vositalarining tarkibi esa kreditlar tomon og'gan bo'lib, bu eng kambag'al oilalarning qamrovini cheklaydi. Ushbu muammolarni chuqurroq tahlil qilish uchun uy xo'jaliklari darajasida ko'p o'lchovli kambag'allikni baholash zarur.

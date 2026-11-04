@@ -1,0 +1,74 @@
+#CH KIRISH
+
+**Dissertatsiya mavzusining dolzarbligi va zarurati.** Jahon tajribasi kambag'allikni faqat daromad yoki iste'mol darajasi bilan o'lchash uning ko'p qirrali tabiatini to'liq aks ettirmasligini ko'rsatmoqda. BMT Taraqqiyot dasturi (UNDP) va Oksford universitetining Kambag'allik va inson taraqqiyoti tashabbusi (OPHI) tomonidan ishlab chiqilgan global ko'p o'lchovli kambag'allik indeksi (MPI) ta'lim, sog'liq va turmush sharoiti bo'yicha mahrumliklarni birgalikda baholaydi va 100 dan ortiq mamlakatda qo'llanilmoqda {undp2010,mpi2024}. BMTning 2030-yilgacha barqaror rivojlanish kun tartibida kambag'allikni “uning barcha ko'rinishlarida” tugatish birinchi maqsad sifatida belgilangani ham kambag'allikni ko'p o'lchovli hodisa sifatida tan olinganini anglatadi {un2030}. Shu bilan birga, xalqaro tadqiqotlar tadbirkorlikni qo'llab-quvvatlash dasturlari (mikrokredit, grant, subsidiya, kasbga o'qitish) uy xo'jaliklari daromadiga ijobiy ta'sir ko'rsatsa-da, ularning ta'lim, sog'liq va turmush sharoitiga ta'siri turlicha va ko'pincha kutilganidan past bo'lishini ko'rsatmoqda {bkz2015,meager2019}. Bu esa qo'llab-quvvatlash samaradorligini ko'p o'lchovli mezonlar asosida baholashni talab etadi.
+
+O'zbekistonda so'nggi yillarda kambag'allikni qisqartirish davlat siyosatining ustuvor yo'nalishiga aylandi. Xususan, O'zbekiston Respublikasi Prezidentining 2022-yil 28-yanvardagi PF-60-son Farmoni bilan tasdiqlangan 2022–2026-yillarga mo'ljallangan Yangi O'zbekistonning taraqqiyot strategiyasida 2026-yil yakuniga qadar kambag'allikni kamida ikki barobar qisqartirish vazifasi belgilangan {pf60}. “Mahallabay” ishlash tizimi va “Kambag'allikdan farovonlik sari” dasturi doirasida aholiga imtiyozli kreditlar, subsidiyalar, kasb-hunarga o'qitish va yer ajratish orqali tadbirkorlikni qo'llab-quvvatlashga katta resurslar yo'naltirilmoqda {pf2024,pq330}. Rasmiy ma'lumotlarga ko'ra, mamlakatda kambag'allik darajasi 2022-yildagi 14 foizdan 2025-yilda 5,8 foizga, Sirdaryo viloyatida esa 2024-yildagi 11,3 foizdan 2025-yilda 6,2 foizga qisqargan.
+
+Biroq rasmiy kambag'allik ko'rsatkichi iste'mol xarajatlariga asoslangan monetar mezon hisoblanadi, tadbirkorlikni qo'llab-quvvatlash samaradorligi esa asosan ajratilgan kredit hajmi, yaratilgan ish o'rinlari va “kambag'allikdan chiqarilgan” oilalar soni bilan baholanmoqda. Bugungi kunda kambag'allikning ko'p o'lchovli mezonlari asosida tadbirkorlikni qo'llab-quvvatlash samaradorligini baholash metodikasini takomillashtirish zaruriyati quyidagi omillar bilan asoslanadi:
+- **baholash mezonlarini kengaytirish ehtiyoji:** monetar ko'rsatkichlar uy xo'jaliklarining ta'lim, sog'liqni saqlash, uy-joy va kommunal xizmatlardan foydalanish imkoniyatidagi real o'zgarishlarni to'liq aks ettirmaydi;
+- **davlat resurslaridan foydalanish samaradorligini oshirish zaruriyati:** qo'llab-quvvatlash vositalaridan qaysi biri kambag'allikning qaysi o'lchoviga ko'proq ta'sir qilishini aniqlash mablag'larni maqsadli yo'naltirish imkonini beradi;
+- **natijalar barqarorligini ta'minlash:** kambag'allikdan chiqqan oilalarning qayta kambag'allikka tushish xavfini baholash dasturlarning uzoq muddatli samarasini aniqlash uchun muhim ahamiyatga ega;
+- **hududiy tafovutlarni hisobga olish:** Sirdaryo viloyatida kambag'allik darajasi respublika o'rtacha ko'rsatkichidan yuqori bo'lib, bu qo'llab-quvvatlash choralarini hududiy xususiyatlarni hisobga olgan holda baholash va takomillashtirishni talab etadi.
+
+Shu sababli, kambag'allikning ko'p o'lchovli mezonlari asosida tadbirkorlikni qo'llab-quvvatlash samaradorligini baholash metodikasini takomillashtirish davlat resurslarini maqsadli taqsimlash, kambag'allikni qisqartirish dasturlarining natijadorligini oshirish va aholi farovonligini barqaror yaxshilashga xizmat qiladi.
+
+O'zbekiston Respublikasining “Tadbirkorlik faoliyati erkinligining kafolatlari to'g'risida”gi {qonun_tadb}, “Aholini ish bilan ta'minlash to'g'risida”gi {qonun_bandlik} qonunlari, O'zbekiston Respublikasi Prezidentining 2022-yil 28-yanvardagi PF-60-son “2022–2026-yillarga mo'ljallangan Yangi O'zbekistonning taraqqiyot strategiyasi to'g'risida”gi {pf60}, 2023-yil 11-sentabrdagi PF-158-son “«O'zbekiston – 2030» strategiyasi to'g'risida”gi {pf158_2030} farmonlari, 2024-yil 23-sentabrdagi “Kambag'allikni qisqartirish va aholi farovonligini oshirish chora-tadbirlarini yangi bosqichga olib chiqish to'g'risida”gi Farmoni {pf2024} va PQ-330-son Qarori {pq330} hamda mazkur sohaga tegishli boshqa normativ-huquqiy hujjatlarda belgilangan vazifalarni amalga oshirishda ushbu dissertatsiya tadqiqoti muayyan darajada xizmat qiladi.
+
+**Tadqiqotning respublika fan va texnologiyalari rivojlanishining ustuvor yo'nalishlariga mosligi.** Mazkur tadqiqot respublika fan va texnologiyalar rivojlanishining [[“Demokratik va huquqiy jamiyatni ma'naviy-axloqiy va madaniy rivojlantirish, innovatsion iqtisodiyotni shakllantirish” — ustuvor yo'nalish nomi amaldagi ro'yxat bo'yicha aniqlashtirilsin]] ustuvor yo'nalishiga muvofiq bajarilgan.
+
+**Muammoning o'rganilganlik darajasi.** Kambag'allikni ko'p o'lchovli baholash nazariyasi A.Senning “imkoniyatlar” (capability) konsepsiyasiga asoslanadi {sen1985,sen1999}. Kambag'allikni o'lchashning aksiomatik asoslari A.Sen {sen1976}, J.Foster, J.Greer va E.Torbeke {fgt1984}, ko'p o'lchovli indekslar nazariyasi esa F.Burginon va S.Chakravarti {bourguignon2003}, K.Tsui {tsui2002}, A.Atkinson {atkinson2003} ishlarida rivojlantirilgan. S.Alkire va J.Foster kambag'allikni ko'p o'lchovli o'lchash usulini ishlab chiqqan bo'lib, u global MPIning metodologik asosini tashkil etadi {af2011,alkire2015}. M.Ravallion esa ko'p o'lchovli kompozit indekslarning cheklovlarini tanqidiy tahlil qilgan {ravallion2011,ravallion2016}.
+
+Tadbirkorlik va mikromoliyaning kambag'allikni qisqartirishdagi o'rni M.Yunus {yunus1999}, J.Morduk {morduch1999}, A.Banerji, E.Duflo {poorecon2011}, D.Karlan va J.Zinman {karlan2011} ishlarida o'rganilgan. Xususan, A.Banerji, D.Karlan va J.Zinman olti mamlakatda o'tkazilgan randomizatsiyalangan tajribalar natijalarini umumlashtirib, mikrokreditning uy xo'jaliklari farovonligiga ta'siri o'rtacha va cheklangan ekanini ko'rsatgan {bkz2015}. Kambag'al uy xo'jaliklariga aktiv berish va o'qitishni birlashtirgan kompleks dasturlarning uzoq muddatli ta'siri A.Banerji va boshqalar {banerjee2015sci}, O.Bandiera va boshqalar {bandiera2017} tomonidan isbotlangan. Dastur ta'sirini baholash usullari P.Rozenbaum va D.Rubin (moyillik ko'rsatkichi bo'yicha moslashtirish) {rr1983}, D.Kard va A.Krueger (farqlar ichidagi farq) {ck1994}, J.Xekman {hit1997}, G.Imbens va J.Vuldrij {iw2009} ishlarida asoslangan.
+
+MDH mamlakatlarida kambag'allikni o'lchash va ijtimoiy siyosat masalalari N.M.Rimashevskaya {rimashevskaya}, L.N.Ovcharova {ovcharova} va boshqa olimlar tomonidan o'rganilgan. Mamlakatimizda aholi turmush darajasi, bandlik, kichik biznes va tadbirkorlikni rivojlantirish masalalari Q.X.Abdurahmonov {abdurahmonov}, S.S.G'ulomov {gulomov}, B.Yu.Xodiyev, M.S.Qosimova {xodiyev} va boshqa iqtisodchi olimlarning ilmiy ishlarida tadqiq etilgan.
+
+Biroq O'zbekiston sharoitida tadbirkorlikni qo'llab-quvvatlash dasturlarining samaradorligi asosan monetar va hajmiy ko'rsatkichlar bilan baholanib, ularning kambag'allikning nomonetar o'lchovlariga ta'siri empirik jihatdan o'rganilmagan. Qo'llab-quvvatlash turlarining kambag'allik o'lchovlariga differensial ta'sirini baholash hamda hududiy sharoitga moslashtirilgan ko'p o'lchovli baholash metodikasini ishlab chiqish masalalari alohida tadqiqot obyekti sifatida o'rganilmagan. Mazkur tadqiqot ushbu ilmiy-amaliy bo'shliqni to'ldirishga qaratilgan.
+
+**Dissertatsiya tadqiqotining dissertatsiya bajarilgan oliy ta'lim muassasasining ilmiy-tadqiqot ishlari rejalari bilan bog'liqligi.** Dissertatsiya tadqiqoti Guliston davlat universitetining ilmiy-tadqiqot ishlari rejasiga muvofiq [[“__________” mavzusidagi ilmiy-tadqiqot ishi / loyiha doirasida]] bajarilgan.
+
+**Tadqiqotning maqsadi** kambag'allikning ko'p o'lchovli mezonlari asosida tadbirkorlikni qo'llab-quvvatlash samaradorligini baholash metodikasini takomillashtirish bo'yicha ilmiy taklif va amaliy tavsiyalar ishlab chiqishdan iborat.
+
+**Tadqiqotning vazifalari.** Tadqiqot maqsadiga erishish uchun quyidagi vazifalar belgilangan:
+- kambag'allikni o'lchashga monetar va ko'p o'lchovli yondashuvlarning nazariy asoslarini tizimlashtirish;
+- tadbirkorlikni qo'llab-quvvatlashning kambag'allikni qisqartirishdagi o'rnini nazariy jihatdan asoslash va xorijiy tajribani umumlashtirish;
+- tadbirkorlikni qo'llab-quvvatlash samaradorligini baholashning amaldagi usullari va ularning metodologik cheklovlarini aniqlash;
+- Sirdaryo viloyatida tadbirkorlikni qo'llab-quvvatlash dasturlari va resurslar taqsimotini tumanlar va mahallalar kesimida tahlil qilish;
+- viloyat uy xo'jaliklarida kambag'allikning ko'p o'lchovli holatini so'rovnoma asosida baholash;
+- hududiy sharoitga moslashtirilgan, tadbirkorlik salohiyati o'lchovini o'z ichiga olgan ko'p o'lchovli kambag'allik indeksini ishlab chiqish;
+- qo'llab-quvvatlashning uy xo'jaliklari kambag'alligiga ta'sirini va qo'llab-quvvatlash turlarining differensial samarasini ekonometrik usullar bilan baholash;
+- mahalla darajasida qo'llab-quvvatlash resurslarini maqsadli taqsimlash mexanizmi va 2030-yilgacha prognoz ssenariylarini ishlab chiqish.
+
+**Tadqiqotning obyekti** sifatida Sirdaryo viloyatida tadbirkorlikni qo'llab-quvvatlash tizimi va uning ishtirokchisi bo'lgan uy xo'jaliklari olingan.
+
+**Tadqiqotning predmeti** tadbirkorlikni qo'llab-quvvatlash orqali kambag'allikni qisqartirish jarayonida yuzaga keladigan iqtisodiy munosabatlar va ularni baholash usullari hisoblanadi.
+
+**Tadqiqotning usullari.** Tadqiqotda tizimli va qiyosiy tahlil, guruhlash, monografik kuzatuv, sotsiologik so'rovnoma, Alkire–Foster usuli, moyillik ko'rsatkichi bo'yicha moslashtirish (propensity score matching, PSM), farqlar ichidagi farq (difference-in-differences, DiD), regressiya tahlili hamda ssenariyli prognozlash usullaridan foydalanilgan. Tadqiqotning nazariy asosini kambag'allikni o'lchash va tadbirkorlikni qo'llab-quvvatlash masalalariga bag'ishlangan xorijiy va mahalliy olimlarning ilmiy ishlari tashkil etadi.
+
+**Tadqiqotning ilmiy yangiligi** quyidagilardan iborat:
+- tadbirkorlik salohiyati o'lchovini (ishlab chiqarish aktivlariga egalik, moliyaviy xizmatlardan foydalanish imkoniyati va kasbiy malaka) o'z ichiga olgan, Sirdaryo viloyati sharoitiga moslashtirilgan besh o'lchovli, 14 indikatorli kambag'allik indeksi (MPI-TS) ishlab chiqilgan;
+- moyillik ko'rsatkichi bo'yicha moslashtirish va farqlar ichidagi farq usullarini birlashtirish (PSM-DiD) asosida tadbirkorlikni qo'llab-quvvatlashning uy xo'jaliklari ko'p o'lchovli kambag'alligiga sof ta'sirini miqdoriy baholash modeli taklif etilgan;
+- qo'llab-quvvatlash turlari (imtiyozli kredit, subsidiya, kasbga o'qitish, yer ajratish)ning kambag'allik o'lchovlariga differensial ta'sirini baholashga asoslangan “qo'llab-quvvatlash turi – mahrumlik o'lchovi” samaradorlik matritsasi ishlab chiqilgan;
+- mahalla darajasida qo'llab-quvvatlash resurslarini ko'p o'lchovli kambag'allik intensivligi, qamrov kamomadi va kutilayotgan samaradorlik mezonlari asosida maqsadli taqsimlash algoritmi ishlab chiqilgan va Sirdaryo viloyatida kambag'allikni qisqartirishning 2030-yilgacha bo'lgan prognoz ssenariylari asoslangan.
+
+**Tadqiqotning amaliy natijalari** quyidagilardan iborat:
+- uy xo'jaliklarining ko'p o'lchovli kambag'allik holatini aniqlash uchun mahalla darajasida qo'llash mumkin bo'lgan so'rovnoma vositasi va indikatorlar tizimi ishlab chiqilgan;
+- tadbirkorlikni qo'llab-quvvatlash dasturlari monitoringi uchun monetar, ko'p o'lchovli va barqarorlik ko'rsatkichlarini birlashtirgan baholash kartasi taklif etilgan;
+- mahalla “yettiligi” faoliyatida qo'llab-quvvatlash vositasini oila mahrumlik profiliga muvofiq tanlash bo'yicha amaliy tavsiyalar ishlab chiqilgan.
+
+**Tadqiqot natijalarining ishonchliligi** foydalanilgan yondashuv va usullarning maqsadga muvofiqligi, ma'lumotlarning O'zbekiston Respublikasi Prezidenti huzuridagi Statistika agentligi, Sirdaryo viloyati statistika boshqarmasi, Kambag'allikni qisqartirish va bandlik vazirligi hamda muallif tomonidan o'tkazilgan so'rovnoma natijalaridan olinganligi, ekonometrik baholashlarning mustahkamlik (robustness) testlari bilan tekshirilganligi, xulosa va tavsiyalarning amaliyotga joriy etilganligi hamda vakolatli tashkilotlar tomonidan tasdiqlanganligi bilan izohlanadi.
+
+**Tadqiqot natijalarining ilmiy va amaliy ahamiyati.** Tadqiqotning ilmiy ahamiyati shundaki, uning natijalari tadbirkorlikni qo'llab-quvvatlash samaradorligini baholash nazariyasini kambag'allikning ko'p o'lchovli mezonlari bilan boyitadi, dastur ta'sirini baholashning zamonaviy ekonometrik yondashuvlarini mahalliy sharoitga moslashtiradi hamda kambag'allikni hududiy darajada o'lchash metodologiyasini rivojlantiradi.
+
+Tadqiqotning amaliy ahamiyati shundaki, ishlab chiqilgan taklif va tavsiyalardan kambag'allikni qisqartirish va bandlikka ko'maklashish sohasidagi vakolatli davlat organlari, Sirdaryo viloyati va tumanlar hokimliklari, mahalla tizimi tomonidan tadbirkorlikni qo'llab-quvvatlash dasturlarini ishlab chiqish, resurslarni taqsimlash va natijalarini monitoring qilishda, shuningdek, oliy ta'lim muassasalarida “Tadbirkorlik va kichik biznes iqtisodiyoti”, “Ijtimoiy siyosat” va “Ekonometrika” fanlarini o'qitishda foydalanish mumkin.
+
+**Tadqiqot natijalarining joriy qilinishi.** Kambag'allikning ko'p o'lchovli mezonlari asosida tadbirkorlikni qo'llab-quvvatlash samaradorligini baholash metodikasini takomillashtirish bo'yicha olingan ilmiy natijalar asosida:
+- [[1-ilmiy yangilik bo'yicha taklif ____________ tomonidan amaliyotga joriy etilgan (__________ tashkilotining 20__-yil __-______dagi __-son ma'lumotnomasi)]];
+- [[2-ilmiy yangilik bo'yicha taklif ____________ (ma'lumotnoma raqami va sanasi)]];
+- [[3-ilmiy yangilik bo'yicha taklif ____________ (ma'lumotnoma raqami va sanasi)]];
+- [[4-ilmiy yangilik bo'yicha taklif ____________ (ma'lumotnoma raqami va sanasi)]].
+
+**Tadqiqot natijalarining aprobatsiyasi.** Mazkur tadqiqot natijalari [[__]] ta, jumladan [[__]] ta xalqaro va [[__]] ta respublika ilmiy-amaliy anjumanlarida muhokamadan o'tkazilgan.
+
+**Tadqiqot natijalarining e'lon qilinganligi.** Dissertatsiya mavzusi bo'yicha jami [[__]] ta ilmiy ish, shundan O'zbekiston Respublikasi Oliy attestatsiya komissiyasining falsafa doktori (PhD) dissertatsiyalari asosiy ilmiy natijalarini chop etish tavsiya etilgan ilmiy nashrlarda [[__]] ta maqola, jumladan [[__]] tasi xorijiy jurnallarda nashr etilgan.
+
+**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya tarkibi kirish, uchta bob, xulosa, foydalanilgan adabiyotlar ro'yxati va ilovalardan iborat. Dissertatsiyaning hajmi [[___]] betni tashkil etadi.

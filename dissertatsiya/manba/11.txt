@@ -1,0 +1,96 @@
+#CH I BOB. KAMBAG'ALLIK VA TADBIRKORLIKNI QO'LLAB-QUVVATLASH O'ZARO BOG'LIQLIGINING NAZARIY-METODOLOGIK ASOSLARI
+
+## 1.1. Kambag'allikning iqtisodiy mazmuni va uni o'lchashga monetar hamda ko'p o'lchovli yondashuvlar evolyutsiyasi
+
+Kambag'allik iqtisodiyot fanining eng qadimiy va ayni paytda eng munozarali tushunchalaridan biri hisoblanadi. Uning mazmunini qanday talqin qilish to'g'ridan-to'g'ri kambag'allikni qanday o'lchash, kimni kambag'al deb hisoblash va, eng muhimi, davlat resurslarini qaysi uy xo'jaliklariga va qanday shaklda yo'naltirish masalalarini belgilab beradi. Shu sababli kambag'allik tushunchasining evolyutsiyasini tahlil qilish tadbirkorlikni qo'llab-quvvatlash samaradorligini baholash metodikasini takomillashtirishning zaruriy nazariy shartidir.
+
+Ilmiy adabiyotlarda kambag'allikka berilgan ta'riflarni umumlashtirib, ularni uchta asosiy yondashuvga ajratish mumkin: mutlaq (absolyut), nisbiy va subyektiv kambag'allik. **Mutlaq kambag'allik** insonning jismoniy yashashi va mehnat qobiliyatini saqlab qolishi uchun zarur bo'lgan minimal ehtiyojlarni qondira olmaslik holatidir. Bu yondashuvning ilmiy asoslari XIX asr oxiri – XX asr boshida Ch.Butning London aholisi turmush sharoitiga oid tadqiqotlari {booth1889} hamda B.S.Rountrining York shahrida o'tkazgan mashhur so'rovi {rowntree1901} bilan bog'liq. B.S.Rountri oziq-ovqat, kiyim-kechak, uy-joy va yoqilg'i uchun zarur bo'lgan minimal xarajatlar summasini hisoblab, uni “birlamchi kambag'allik” chegarasi sifatida qo'llagan. Aynan shu ish keyinchalik “asosiy ehtiyojlar qiymati” (cost of basic needs) usuliga asos bo'ldi va bugungi kunda ham ko'plab mamlakatlarning rasmiy kambag'allik chegaralari shu mantiqqa tayanadi.
+
+**Nisbiy kambag'allik** yondashuvi kambag'allikni jamiyatda qabul qilingan turmush darajasiga nisbatan aniqlaydi. P.Taunsend o'zining “Birlashgan Qirollikdagi kambag'allik” asarida kambag'allikni “nisbiy mahrumlik” sifatida talqin qilib, shaxs yoki oila jamiyatda odatiy hisoblangan ovqatlanish, faoliyat turlari va yashash sharoitlaridan foydalanish uchun resurslarga ega bo'lmasa, u kambag'al hisoblanadi, degan xulosaga kelgan {townsend1979}. Amaliyotda nisbiy kambag'allik chegarasi ko'pincha median daromadning 50 yoki 60 foizi sifatida belgilanadi. Bu yondashuv rivojlangan mamlakatlarda, xususan, Yevropa Ittifoqida keng qo'llaniladi. Uning afzalligi – jamiyat taraqqiyoti bilan birga kambag'allik standartining ham o'zgarib borishi, kamchiligi esa iqtisodiy o'sish barcha qatlamlarga teng taqsimlanganda kambag'allik darajasining o'zgarmasligidir.
+
+**Subyektiv kambag'allik** yondashuvi uy xo'jaliklarining o'z moddiy ahvolini qanday baholashiga asoslanadi. Bunda respondentlardan oilasi uchun “minimal yetarli” daromad miqdori yoki o'zini qaysi qatlamga mansub deb hisoblashi so'raladi. Ushbu yondashuv kambag'allikning psixologik va ijtimoiy jihatlarini ochib berishga yordam beradi, biroq u respondentlarning kutishlari, ijtimoiy muhit va axborot olish darajasiga kuchli bog'liq bo'lgani uchun asosiy rasmiy o'lchov sifatida kam qo'llaniladi.
+
+Kambag'allikni o'lchashning eng keng tarqalgan usuli **monetar yondashuv** hisoblanadi. Unda uy xo'jaligining farovonligi bitta ko'rsatkich – jon boshiga daromad yoki iste'mol xarajatlari bilan ifodalanadi va bu ko'rsatkich belgilangan kambag'allik chegarasi (z) bilan solishtiriladi. Rivojlanayotgan mamlakatlarda daromaddan ko'ra iste'mol xarajatlari afzal ko'riladi, chunki ular norasmiy daromadlar, natural iste'mol (tomorqa mahsulotlari) va daromadning mavsumiy tebranishlarini yaxshiroq aks ettiradi {deaton1997}. Jahon banki xalqaro taqqoslashlar uchun xarid qobiliyati pariteti bo'yicha hisoblangan xalqaro kambag'allik chegarasidan foydalanadi; uning qiymati narxlar bo'yicha yangi ma'lumotlar paydo bo'lishi bilan bir necha marta qayta ko'rib chiqilgan {wb2017,wb2018}. Mamlakatlar bo'yicha monetar kambag'allik ko'rsatkichlari Jahon bankining Kambag'allik va tengsizlik platformasida {pip}, inson taraqqiyoti va ko'p o'lchovli kambag'allik ko'rsatkichlari esa UNDP Inson taraqqiyoti hisobotlarida {hdr} muntazam e'lon qilinadi.
+
+Monetar kambag'allikni agregatsiyalashning nazariy jihatdan eng asoslangan vositasi J.Foster, J.Greer va E.Torbeke tomonidan taklif etilgan ko'rsatkichlar oilasidir {fgt1984}:
+
+$$ P_α = (1/N) · Σ_{i=1}^{q} [(z – y_i) / z]^α (1.1)
+
+bu yerda N – aholi soni; q – daromadi (iste'moli) kambag'allik chegarasidan past bo'lgan shaxslar soni; y_i – i-shaxsning daromadi; z – kambag'allik chegarasi; α – kambag'allikdan “norozilik” parametri. α = 0 bo'lganda formula kambag'allik darajasini (headcount ratio), α = 1 bo'lganda kambag'allik chuqurligini (poverty gap), α = 2 bo'lganda esa kambag'allik o'tkirligini (severity) ifodalaydi. FGT ko'rsatkichlarining muhim xususiyati – ularning additiv dekompozitsiyalanishi, ya'ni umumiy kambag'allikni hududlar yoki ijtimoiy guruhlar ulushlari yig'indisi sifatida ifodalash mumkinligidir. Aynan shu xususiyat keyinchalik ko'p o'lchovli indekslarga ham meros bo'lib o'tdi.
+
+A.Sen 1976-yilda chop etilgan maqolasida kambag'allik darajasi (headcount) ko'rsatkichining jiddiy kamchiliklarini ko'rsatib bergan: u kambag'allarning chegaradan qanchalik pastda ekanini va ular orasidagi tengsizlikni hisobga olmaydi {sen1976}. Masalan, eng kambag'al oiladan chegaraga yaqin oilaga resurs o'tkazilsa, ikkinchisi chegaradan yuqoriga chiqib, rasmiy kambag'allik darajasi kamayadi, holbuki jamiyatdagi umumiy mahrumlik ortadi. Bu xulosa davlat dasturlari samaradorligini baholash uchun bevosita ahamiyatga ega: agar dastur samaradorligi faqat “kambag'allikdan chiqarilgan oilalar soni” bilan o'lchansa, ijrochilarda eng og'ir ahvoldagi oilalarni emas, balki chegaraga yaqin, “oson chiqariladigan” oilalarni tanlash rag'bati paydo bo'ladi.
+
+Monetar yondashuvga nisbatan tanqidiy qarashlarning kuchayishiga A.Senning **imkoniyatlar (capability) konsepsiyasi** hal qiluvchi ta'sir ko'rsatdi {sen1985,sen1999}. A.Senga ko'ra, farovonlikni insonga tegishli tovarlar yoki daromad bilan emas, balki uning qadrlaydigan hayot tarzini kechirish uchun real imkoniyatlari – “faoliyatlar” (functionings) va “imkoniyatlar” (capabilities) bilan o'lchash kerak. Daromad bu imkoniyatlarga erishishning faqat vositasi bo'lib, uni imkoniyatlarga aylantirish samaradorligi insonning sog'lig'i, yoshi, jinsi, ta'lim darajasi, yashash joyidagi infratuzilma va ijtimoiy muhitga bog'liq. Masalan, bir xil daromadga ega ikki oiladan birida surunkali kasal a'zo bo'lsa yoki uy markazlashgan suv ta'minotiga ulanmagan bo'lsa, ularning real farovonligi keskin farq qiladi. M.Nussbaum bu g'oyani rivojlantirib, inson qadr-qimmatiga mos hayot uchun zarur bo'lgan markaziy imkoniyatlar ro'yxatini taklif etgan {nussbaum2011}.
+
+Imkoniyatlar konsepsiyasi kambag'allikni **ko'p o'lchovli hodisa** sifatida tushunishga olib keldi. Bunda kambag'allik bir vaqtning o'zida bir nechta sohalarda – ta'lim, sog'liq, turmush sharoiti, bandlik, ijtimoiy ishtirok va boshqalarda – mahrumlik sifatida namoyon bo'ladi. Ko'p o'lchovli kambag'allikni o'lchashning nazariy asoslari 2000-yillar boshida jadal rivojlandi. Bu borada ikki asosiy yo'nalishni ajratish mumkin.
+
+Birinchisi – **aksiomatik yondashuv** bo'lib, unda bir o'lchovli kambag'allik ko'rsatkichlari uchun ishlab chiqilgan xossalar (monotonlik, transfer tamoyili, dekompozitsiyalanuvchanlik va h.k.) ko'p o'lchovli holatga umumlashtiriladi. F.Burginon va S.Chakravarti {bourguignon2003} hamda K.Tsui {tsui2002} har bir o'lchov uchun alohida chegara belgilash va o'lchovlar orasidagi o'rinbosarlik yoki to'ldiruvchilik munosabatlarini hisobga olish imkonini beruvchi indekslar sinfini taklif etgan. Bu indekslar nazariy jihatdan nafis bo'lsa-da, ular uzluksiz (kardinal) o'zgaruvchilarni talab qiladi, amaliyotda esa ko'plab mahrumlik indikatorlari (masalan, bolaning maktabga borishi yoki uyning kanalizatsiyaga ulanganligi) diskret yoki tartibli xarakterga ega.
+
+Ikkinchisi – **hisoblash (counting) yondashuvi** bo'lib, u har bir uy xo'jaligi qancha sohada mahrum ekanini sanashga asoslanadi. A.Atkinson ijtimoiy farovonlik va hisoblash yondashuvlarini qiyoslab, aynan hisoblash yondashuvi siyosiy amaliyotga yaqinroq ekanini ko'rsatgan {atkinson2003}. Hisoblash yondashuvida kim kambag'al ekanini aniqlashning ikki chegaraviy qoidasi mavjud: “birlashma” (union) qoidasida kamida bitta sohada mahrum bo'lgan har bir shaxs kambag'al hisoblanadi, “kesishma” (intersection) qoidasida esa faqat barcha sohalarda mahrum bo'lganlar kambag'al deb topiladi. Birinchi qoida kambag'allikni haddan tashqari keng, ikkinchisi esa haddan tashqari tor aniqlaydi.
+
+S.Alkire va J.Foster 2011-yilda bu muammoni hal qiluvchi **“ikki chegarali” (dual cut-off)** usulni taklif etdilar {af2011}. Ushbu usul hozirgi kunda global MPI va ko'plab milliy ko'p o'lchovli kambag'allik indekslarining metodologik asosini tashkil etadi {alkire2015}. Uning mohiyati quyidagicha. Avvalo, d ta indikator tanlanadi va har bir j-indikator uchun mahrumlik chegarasi z_j belgilanadi. Agar i-uy xo'jaligining j-indikatordagi qiymati chegaradan past bo'lsa, u shu indikator bo'yicha mahrum hisoblanadi (g_ij = 1), aks holda g_ij = 0. Har bir indikatorga nisbiy vazn w_j beriladi (Σw_j = 1). So'ngra har bir uy xo'jaligining vaznlangan mahrumlik balli hisoblanadi:
+
+$$ c_i = Σ_{j=1}^{d} w_j · g_ij (1.2)
+
+Ikkinchi chegara – **kambag'allik chegarasi k** (0 < k ≤ 1) bo'lib, mahrumlik balli c_i ≥ k bo'lgan uy xo'jaliklari ko'p o'lchovli kambag'al hisoblanadi. k ning eng kichik qiymati “birlashma”, k = 1 esa “kesishma” qoidasiga mos keladi; oraliq qiymatlar esa ikki chekka holat orasidagi muvozanatni ta'minlaydi. Global MPIda k = 1/3 qabul qilingan.
+
+Kambag'al deb topilgan uy xo'jaliklari uchun “senzuralangan” mahrumlik balli c_i(k) aniqlanadi (kambag'al bo'lmaganlarniki nolga tenglashtiriladi). So'ngra uchta asosiy ko'rsatkich hisoblanadi. Ko'p o'lchovli kambag'allik qamrovi (incidence):
+
+$$ H = q / n (1.3)
+
+bu yerda q – ko'p o'lchovli kambag'al shaxslar soni, n – jami aholi soni. Kambag'allik intensivligi, ya'ni kambag'allar duch kelayotgan mahrumliklarning o'rtacha ulushi:
+
+$$ A = Σ_{i=1}^{n} c_i(k) / q (1.4)
+
+Va nihoyat, tuzatilgan qamrov ko'rsatkichi (adjusted headcount ratio) yoki ko'p o'lchovli kambag'allik indeksi:
+
+$$ MPI = M_0 = H × A = (1/n) · Σ_{i=1}^{n} c_i(k) (1.5)
+
+M_0 ko'rsatkichining muhim afzalligi shundaki, u “o'lchovli monotonlik” xossasiga ega: agar kambag'al oila qo'shimcha bir sohada mahrum bo'lib qolsa, H o'zgarmasa ham, M_0 ortadi. Demak, dastur samaradorligini M_0 orqali baholash ijrochilarni eng ko'p mahrumlikka ega oilalarga e'tibor qaratishga undaydi. Bundan tashqari, M_0 ham hududlar (yoki ijtimoiy guruhlar) bo'yicha, ham indikatorlar bo'yicha dekompozitsiyalanadi:
+
+$$ M_0 = Σ_{r=1}^{R} (n_r / n) · M_{0r}; Contrib_j = w_j · h_j / M_0 (1.6)
+
+bu yerda n_r – r-hudud aholisi, M_{0r} – shu hudud indeksi, h_j – j-indikator bo'yicha senzuralangan mahrumlik darajasi, Contrib_j – j-indikatorning umumiy kambag'allikdagi ulushi. Indikatorlar bo'yicha dekompozitsiya qaysi mahrumlik kambag'allikka eng katta hissa qo'shayotganini ko'rsatib, siyosat choralarini ustuvorlashtirish imkonini beradi. Aynan shu xususiyat tadqiqotimizning III bobida qo'llab-quvvatlash vositalarini mahrumlik profiliga moslashtirish uchun asos qilib olingan.
+
+Alkire–Foster usuli asosida 2010-yilda UNDPning Inson taraqqiyoti hisobotida global ko'p o'lchovli kambag'allik indeksi e'lon qilindi {undp2010}. Uning tuzilishi 1.1-jadvalda keltirilgan.
+
+TABLE 1.1: Global ko'p o'lchovli kambag'allik indeksining tuzilishi
+| O'lchov | Indikator | Mahrumlik mezoni (qisqacha) | Vazni |
+| Sog'liq | Ovqatlanish | Oilada to'yib ovqatlanmaydigan bola yoki kattalar mavjud | 1/6 |
+| Sog'liq | Bolalar o'limi | So'rovdan oldingi 5 yilda oilada 18 yoshgacha bola vafot etgan | 1/6 |
+| Ta'lim | Ta'lim yillari | Oilaning 10 yoshdan katta a'zolaridan hech biri 6 yillik ta'limni tugatmagan | 1/6 |
+| Ta'lim | Maktabga qatnash | Maktab yoshidagi bola 8-sinfgacha maktabga bormaydi | 1/6 |
+| Turmush darajasi | Ovqat pishirish yoqilg'isi | Go'ng, o'tin, ko'mir kabi qattiq yoqilg'idan foydalaniladi | 1/18 |
+| Turmush darajasi | Sanitariya | Yaxshilangan yoki alohida sanitariya sharoiti yo'q | 1/18 |
+| Turmush darajasi | Ichimlik suvi | Xavfsiz ichimlik suvi yo'q yoki 30 daqiqadan uzoq masofada | 1/18 |
+| Turmush darajasi | Elektr energiyasi | Elektr energiyasi yo'q | 1/18 |
+| Turmush darajasi | Uy-joy | Pol, tom yoki devor sifatsiz materiallardan | 1/18 |
+| Turmush darajasi | Aktivlar | Asosiy aktivlardan biridan ortig'i yo'q va avtomobil yo'q | 1/18 |
+NOTE: Manba: UNDP va OPHI materiallari asosida muallif tomonidan tuzilgan {undp2010,mpi2024,ophi}.
+
+Global MPI rivojlanayotgan mamlakatlarni taqqoslash uchun yaratilgan bo'lib, uning indikatorlari “o'tkir” kambag'allikka yo'naltirilgan. O'zbekiston kabi o'rta daromadli, elektr energiyasi va boshlang'ich ta'lim deyarli to'liq qamrab olingan mamlakatlarda bu indikatorlarning ko'pchiligi bo'yicha mahrumlik darajasi nolga yaqin bo'lib, indeks aholining real muammolarini aniq ifoda etmaydi. Shu sababli ko'plab mamlakatlar global MPI tuzilishini o'z sharoitiga moslashtirib, **milliy ko'p o'lchovli kambag'allik indekslari** ishlab chiqmoqda. Masalan, Meksika 2009-yilda kambag'allikning daromad va ijtimoiy huquqlar bo'yicha mahrumlikni birlashtirgan rasmiy o'lchovini joriy etgan, Kolumbiya 2011-yildan milliy MPIdan davlat dasturlarini rejalashtirish va monitoring qilish vositasi sifatida foydalanadi {alkire2015}. Milliy indekslarda ko'pincha bandlik sifati, ijtimoiy himoya bilan qamrov, uy-joy zichligi, internetdan foydalanish kabi o'rta daromadli mamlakatlarga xos indikatorlar qo'shiladi.
+
+Ko'p o'lchovli yondashuvga nisbatan ham ilmiy tanqidlar mavjud. M.Ravallion kompozit indekslardagi vaznlar ixtiyoriy tanlanishi, turli sohalardagi mahrumliklarning yagona songa birlashtirilishi ularning o'zaro almashinuv nisbatlarini (trade-offs) yashirib qo'yishi va bunday nisbatlar uy xo'jaliklarining real afzalliklariga mos kelmasligi mumkinligini ta'kidlagan {ravallion2011}. Uning fikricha, alohida o'lchovlar bo'yicha ko'rsatkichlar “boshqaruv paneli” (dashboard) ko'rinishida taqdim etilishi va monetar kambag'allik o'lchovi bilan birga qo'llanilishi kerak {ravallion2016}. Jahon bankining Global kambag'allik bo'yicha komissiyasi ham monetar o'lchovni saqlab qolgan holda uni nomonetar ko'rsatkichlar bilan to'ldirishni tavsiya etgan {wb2017}. Jahon banki 2018-yildagi hisobotida monetar kambag'allik bilan bir qatorda ta'lim va asosiy infratuzilmaga kirish imkoniyatini ham qamrab oluvchi ko'p o'lchovli kambag'allik o'lchovini joriy etdi {wb2018}.
+
+Ushbu tanqidlarga javoban S.Alkire va hammualliflari M_0 indeksi “panel” yondashuvini inkor etmasligini, aksincha, uning indikatorlar bo'yicha dekompozitsiyasi aynan alohida mahrumliklar tarkibini ko'rsatishini, vaznlar va chegaralarga nisbatan esa natijalarning barqarorligi mustahkamlik testlari bilan tekshirilishi zarurligini asoslaydilar {alkire2015,alkire_santos2014}. Bizning fikrimizcha, bu ikki yondashuv bir-birini istisno qilmaydi: dastur samaradorligini baholashda monetar kambag'allik ko'rsatkichi daromad o'zgarishini, M_0 indeksi va uning dekompozitsiyasi esa nomonetar mahrumliklardagi o'zgarishni aks ettiruvchi o'zaro to'ldiruvchi mezonlar sifatida qo'llanilishi lozim.
+
+Kambag'allikni o'lchashga oid asosiy yondashuvlarning qiyosiy tavsifi 1.2-jadvalda umumlashtirilgan.
+
+TABLE 1.2: Kambag'allikni o'lchashga monetar va ko'p o'lchovli yondashuvlarning qiyosiy tavsifi
+| Mezon | Monetar yondashuv | Ko'p o'lchovli yondashuv (Alkire–Foster) |
+| Nazariy asos | Utilitarizm, iste'mol nazariyasi | A.Senning imkoniyatlar konsepsiyasi |
+| Farovonlik o'lchovi | Jon boshiga daromad yoki iste'mol | Bir nechta sohadagi mahrumliklar majmui |
+| Kambag'allik chegarasi | Bitta pul chegarasi (z) | Indikator chegaralari (z_j) va kambag'allik chegarasi (k) |
+| Asosiy ko'rsatkichlar | P_0, P_1, P_2 (FGT) | H, A, M_0 |
+| Dekompozitsiya | Hududlar, guruhlar bo'yicha | Hududlar, guruhlar va indikatorlar bo'yicha |
+| Ma'lumot manbai | Uy xo'jaliklari byudjeti tadqiqoti | Ko'p maqsadli uy xo'jaliklari so'rovi |
+| Afzalligi | Oddiy, xalqaro taqqoslanadigan, iqtisodiy o'sish bilan bevosita bog'liq | Nomonetar mahrumliklarni ko'rsatadi, siyosatni ustuvorlashtirishga yordam beradi |
+| Kamchiligi | Imkoniyatlarni va jamoat ne'matlariga kirishni aks ettirmaydi | Vaznlar va chegaralar tanlovining me'yoriyligi |
+| Siyosatdagi o'rni | Ijtimoiy yordam va daromad siyosati | Tarmoqlararo dasturlarni rejalashtirish va maqsadli taqsimlash |
+NOTE: Manba: {sen1999,af2011,ravallion2016,alkire2015} asosida muallif tomonidan tuzilgan.
+
+O'zbekistonda kambag'allikni o'lchash tizimi so'nggi yillarda tubdan o'zgardi. O'zbekiston Respublikasi Prezidenti 2020-yil 24-yanvardagi Oliy Majlisga Murojaatnomasida mamlakatda kambag'allik mavjudligini birinchi marta rasman e'tirof etib, aholining 12–15 foizi (4–5 million kishi) kunlik daromadi juda past ekanini ta'kidladi {murojaat2020}. Shundan so'ng aholining minimal iste'mol xarajatlari qiymati hisoblanib, u kambag'allik chegarasi sifatida qo'llanila boshlandi, Statistika agentligi tomonidan uy xo'jaliklari byudjetini tanlanma kuzatish asosida kambag'allik darajasi muntazam e'lon qilinmoqda {stat_uz}. Mazkur o'lchov iste'mol xarajatlariga asoslangan monetar yondashuvga tegishli bo'lib, u xalqaro amaliyotga mos keladi va iqtisodiy o'sishning aholiga ta'sirini kuzatish imkonini beradi.
+
+Shu bilan birga, amaldagi tizimda ko'p o'lchovli kambag'allikning rasmiy o'lchovi hali shakllanmagan. Mahalla darajasida “kambag'al oilalar reyestri” shakllantirilayotgan bo'lsa-da, oilalarni ro'yxatga kiritish mezonlari asosan daromad, ishsiz a'zolar mavjudligi va ijtimoiy toifalarga tayanadi {pf2024,mehnat}. Bu holat, birinchidan, nomonetar mahrumliklarni yashirin qoldiradi; ikkinchidan, oila kambag'allikdan “chiqarilgan” deb hisoblanganda uning sog'liq, ta'lim va turmush sharoitidagi real o'zgarishlarni nazoratdan chetda qoldiradi; uchinchidan, turli qo'llab-quvvatlash vositalarining aynan qaysi mahrumlikni bartaraf etishini baholash imkonini bermaydi.
+
+Yuqoridagi tahlil asosida quyidagi nazariy xulosalarga kelish mumkin. Birinchidan, kambag'allik tushunchasi minimal fiziologik ehtiyojlarni qondira olmaslikdan inson imkoniyatlarining ko'p sohali cheklanganligi sifatida talqin qilinishgacha evolyutsiyani bosib o'tgan. Ikkinchidan, monetar va ko'p o'lchovli yondashuvlar bir-birini inkor etmaydi, balki farovonlikning turli jihatlarini aks ettiruvchi o'zaro to'ldiruvchi o'lchovlar hisoblanadi. Uchinchidan, Alkire–Foster usuli o'zining dekompozitsiyalanuvchanligi va o'lchovli monotonligi tufayli davlat dasturlari ta'sirini baholash va resurslarni maqsadli taqsimlash uchun eng qulay vosita bo'lib, uni o'rta daromadli mamlakat va alohida hudud sharoitiga moslashtirish zarur. To'rtinchidan, kambag'allikni o'lchash usuli va dastur samaradorligini baholash mezonlari o'rtasida bevosita bog'liqlik mavjud: qaysi ko'rsatkich bilan o'lchansa, ijrochilar aynan o'sha ko'rsatkichni yaxshilashga intiladi. Shu sababli ko'p o'lchovli mezonlarni samaradorlikni baholash tizimiga kiritish nafaqat ilmiy, balki boshqaruv nuqtayi nazaridan ham dolzarbdir.
