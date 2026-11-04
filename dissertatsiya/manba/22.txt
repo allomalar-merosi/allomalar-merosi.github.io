@@ -1,4 +1,4 @@
-## 2.2. Sirdaryo viloyatida tadbirkorlikni qo'llab-quvvatlash dasturlarining amalga oshirilishi va resurslar taqsimotining tahlili
+## 2.2-§. Sirdaryo viloyatida tadbirkorlikni qo'llab-quvvatlash dasturlarining amalga oshirilishi va resurslar taqsimotining tahlili
 
 Sirdaryo viloyati respublikaning markaziy qismida, Mirzacho'l hududida joylashgan bo'lib, uning ma'muriy tarkibiga sakkizta tuman – Boyovut, Guliston, Mirzaobod, Oqoltin, Sardoba, Sayxunobod, Sirdaryo va Xovos tumanlari hamda uchta shahar – Guliston, Shirin va Yangiyer shaharlari kiradi {sirstat}. Statistika agentligi ma'lumotlariga ko'ra, 2025-yil 1-oktabr holatiga viloyatning doimiy aholisi 942,6 ming kishini tashkil etgan {stat_uz}. Aholi soni bo'yicha viloyat respublikaning eng kichik hududlaridan biri hisoblanadi, biroq uning aholisining katta qismi qishloq joylarida istiqomat qiladi va iqtisodiyoti agrar yo'nalishga ega.
 
@@ -23,6 +23,26 @@ Jadval ma'lumotlaridan ko'rinib turibdiki, viloyatda kambag'allik darajasi 2024-
 
 Kambag'allikning bunday tez sur'atda qisqarishi ikki xil talqin qilinishi mumkin. Birinchi talqinga ko'ra, bu davlat dasturlari va iqtisodiy o'sishning birgalikdagi ijobiy ta'siri natijasidir. Ikkinchi talqinga ko'ra, monetar kambag'allik chegarasiga yaqin joylashgan oilalarning kichik daromad o'zgarishi hisobiga chegaradan yuqoriga chiqishi rasmiy ko'rsatkichni sezilarli kamaytiradi, biroq bu oilalarning nomonetar mahrumliklari saqlanib qolishi mumkin. 1.1-paragrafda ta'kidlanganidek, kambag'allik darajasi ko'rsatkichi kambag'allik chuqurligi va nomonetar mahrumliklarga befarq. Shu sababli rasmiy statistik ma'lumotlarni ko'p o'lchovli baholash bilan to'ldirish zarur.
 
+**Tumanlar kesimidagi ijtimoiy-iqtisodiy tafovutlar.** Viloyat tumanlari va shaharlari iqtisodiy salohiyati, aholining joylashuvi va infratuzilma bilan ta'minlanganligi bo'yicha sezilarli farq qiladi. Bu farqlar kambag'allik darajasi va tadbirkorlik faolligining hududiy notekisligini keltirib chiqaradi. Tumanlar kesimidagi asosiy ko'rsatkichlar 2.c-jadvalda keltirilgan.
+
+TABLE 2.c: Sirdaryo viloyati tumanlari (shaharlari)ning asosiy ijtimoiy-iqtisodiy ko'rsatkichlari (2025-yil)
+| Tuman (shahar) | Aholi soni, ming kishi | Qishloq aholisi ulushi, % | Kambag'allik darajasi, % | 1000 kishiga kichik biznes subyektlari | Ishsizlik darajasi, % |
+| Boyovut tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Guliston tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Mirzaobod tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Oqoltin tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Sardoba tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Sayxunobod tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Sirdaryo tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Xovos tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Guliston shahri | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Shirin shahri | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Yangiyer shahri | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Viloyat bo'yicha | 942,6* | [[__]] | 6,2 | [[__]] | [[__]] |
+NOTE: Manba: Sirdaryo viloyati statistika boshqarmasi ma'lumotlari asosida muallif tomonidan tuzilgan{sirstat}. * 2025-yil 1-oktabr holatiga.
+
+Hududiy tafovutlarni miqdoriy baholash uchun kambag'allik darajasining tumanlar bo'yicha variatsiya koeffitsiyenti va maksimal hamda minimal qiymatlar nisbati hisoblandi. [[Natijalar bo'yicha: variatsiya koeffitsiyenti ___ %, eng yuqori va eng past kambag'allik darajasi nisbati ___ marta.]] Odatda kambag'allik darajasi yuqori bo'lgan tumanlarda qishloq aholisi ulushi yuqori, kichik biznes zichligi esa past bo'ladi. Bu bog'liqlik kambag'allikni qisqartirishda tadbirkorlik muhitini rivojlantirishning ahamiyatini ko'rsatadi, biroq u sababiy bog'liqlikni anglatmaydi: tadbirkorlik faolligi va kambag'allik bir xil omillar – infratuzilma, bozorga yaqinlik, aholining ta'lim darajasi – ta'sirida shakllanadi.
+
 Viloyatda tadbirkorlikni qo'llab-quvvatlash vositalari bo'yicha ajratilgan resurslar dinamikasi 2.4-jadvalda keltirilgan.
 
 TABLE 2.4: Sirdaryo viloyatida tadbirkorlikni qo'llab-quvvatlash vositalari bo'yicha ajratilgan resurslar dinamikasi
@@ -40,6 +60,28 @@ TABLE 2.4: Sirdaryo viloyatida tadbirkorlikni qo'llab-quvvatlash vositalari bo'y
 NOTE: Manba: Sirdaryo viloyati hokimligi, viloyat bandlik va kambag'allikni qisqartirish boshqarmasi hamda tijorat banklari ma'lumotlari asosida muallif tomonidan tuzilgan.
 
 Jadval ma'lumotlarini tahlil qilishda quyidagi jihatlarga e'tibor qaratish muhim. Birinchidan, qo'llab-quvvatlash vositalari tarkibida imtiyozli kreditlarning ulushi [[__]] foizni tashkil etib, ular resurs hajmi bo'yicha yetakchi o'rinda turadi. Ikkinchidan, qamrab olingan oilalar orasida kambag'al oilalar reyestrida turgan oilalarning ulushi [[__]] foizni tashkil etgan; demak, qo'llab-quvvatlashning bir qismi kambag'al bo'lmagan oilalarga yo'naltirilgan. Bu holat 1.3-paragrafda qayd etilgan “kiritish xatosi” mavjudligini ko'rsatadi va qo'llab-quvvatlash vositasi turiga qarab farqlanadi: kreditlar bo'yicha bu ulush odatda pastroq, subsidiyalar bo'yicha esa yuqoriroq bo'ladi. Uchinchidan, kasbga o'qitish bo'yicha qamrov sezilarli bo'lsa-da, unga yo'naltirilgan xarajatlar umumiy resurslarning kichik qismini tashkil etadi.
+
+**Qo'llab-quvvatlash hisobiga tashkil etilgan faoliyat yo'nalishlari.** Qo'llab-quvvatlash samaradorligi ko'p jihatdan tashkil etilgan faoliyatning turiga bog'liq. Viloyatda imtiyozli kredit va subsidiyalar hisobiga tashkil etilgan faoliyat yo'nalishlarining tarkibi 2.d-jadvalda keltirilgan.
+
+TABLE 2.d: Sirdaryo viloyatida qo'llab-quvvatlash hisobiga tashkil etilgan faoliyat yo'nalishlari tarkibi (2024–2025-yillar)
+| Faoliyat yo'nalishi | Loyihalar soni | Ulushi, % | O'rtacha loyiha qiymati, mln so'm | 12 oydan keyin faoliyatini davom ettirayotganlar, % |
+| Chorvachilik | [[__]] | [[__]] | [[__]] | [[__]] |
+| Parrandachilik | [[__]] | [[__]] | [[__]] | [[__]] |
+| Issiqxona va sabzavotchilik | [[__]] | [[__]] | [[__]] | [[__]] |
+| Bog'dorchilik va ko'chatchilik | [[__]] | [[__]] | [[__]] | [[__]] |
+| Tikuvchilik va hunarmandchilik | [[__]] | [[__]] | [[__]] | [[__]] |
+| Oziq-ovqat tayyorlash (qandolatchilik, novvoyxona) | [[__]] | [[__]] | [[__]] | [[__]] |
+| Maishiy xizmatlar | [[__]] | [[__]] | [[__]] | [[__]] |
+| Savdo | [[__]] | [[__]] | [[__]] | [[__]] |
+| Boshqa yo'nalishlar | [[__]] | [[__]] | [[__]] | [[__]] |
+| Jami | [[__]] | 100,0 | [[__]] | [[__]] |
+NOTE: Manba: viloyat bandlik va kambag'allikni qisqartirish boshqarmasi hamda tijorat banklari ma'lumotlari asosida muallif tomonidan tuzilgan.
+
+Qo'llab-quvvatlash hisobiga tashkil etilgan faoliyat tarkibida qishloq xo'jaligi bilan bog'liq yo'nalishlar – chorvachilik, parrandachilik va issiqxona xo'jaligi – ustunlik qilishi viloyatning agrar xususiyatini aks ettiradi. Bu yo'nalishlar boshlang'ich kapital va malakaga nisbatan kam talabchan bo'lsa-da, ular tabiiy-iqlim xavflari, ozuqa va veterinariya xizmatlari narxlari hamda mahsulotni sotish imkoniyatlariga kuchli bog'liq. Bir xil yo'nalishdagi ko'plab kichik loyihalarning bir mahallada bir vaqtda tashkil etilishi mahalliy bozorda taklifning ortishiga va narxlarning pasayishiga olib kelishi mumkin. Shu sababli faoliyat yo'nalishlarini tanlashda mahalliy bozor sig'imi va qiymat zanjirlari tahlil qilinishi lozim.
+
+Faoliyatning davom etish darajasi qo'llab-quvvatlash samaradorligining muhim ko'rsatkichi hisoblanadi. [[Natijalar bo'yicha: 12 oydan keyin faoliyatini davom ettirayotgan loyihalar ulushi ___ % ni tashkil etgan, eng past ko'rsatkich ___ yo'nalishida kuzatilgan.]] Faoliyatning to'xtash sabablari ijrochilar bilan suhbatlarda quyidagicha izohlandi: ozuqa va xomashyo narxlarining oshishi, mahsulotni sotishdagi qiyinchiliklar, oila a'zosining mehnat migratsiyasiga ketishi, kasallik va boshqa favqulodda xarajatlar sababli aktivlarni sotish. Bu omillar qo'llab-quvvatlashni faqat moliyaviy resurs berish bilan cheklash yetarli emasligini, unga xizmat ko'rsatish, sotish kanallariga ulash va xavflardan himoyalash elementlarini qo'shish zarurligini ko'rsatadi.
+
+**Kredit resurslaridan foydalanish va qaytarilishi.** Imtiyozli kreditlarning qaytarilish darajasi bir tomondan dastur moliyaviy barqarorligini, ikkinchi tomondan esa qarz oluvchilar faoliyatining muvaffaqiyatini aks ettiradi. [[Natijalar bo'yicha: muddati o'tgan qarzdorlik ulushi ___ %.]] Shu bilan birga, kreditning o'z vaqtida qaytarilishi har doim ham oila farovonligining oshganini anglatmaydi: oila qarzni boshqa daromad manbalari (pul o'tkazmalari, aktivlarni sotish, qarindoshlardan qarz olish) hisobiga ham to'lashi mumkin. Shu sababli kredit qaytarilishi ko'rsatkichi oilaning iste'moli va mahrumlik balli o'zgarishi bilan birgalikda tahlil qilinishi lozim.
 
 Resurslarning hududlar bo'yicha taqsimotini baholash uchun biz **maqsadli yo'naltirish koeffitsiyenti**dan foydalandik:
 
@@ -79,8 +121,43 @@ NOTE: Manba: viloyat bandlik va kambag'allikni qisqartirish boshqarmasi ma'lumot
 
 Hisob-kitoblar natijasida konsentratsiya indeksi CI = [[__]] ga, mahallalar kesimida bir kambag'al oilaga to'g'ri keladigan resurslarning variatsiya koeffitsiyenti V = [[__]] foizga teng bo'ldi. Maqsadli yo'naltirish koeffitsiyenti tumanlar kesimida [[__]] dan [[__]] gacha o'zgaradi. Bu ko'rsatkichlarni talqin qilishda shuni hisobga olish kerakki, resurslar taqsimoti kambag'allik ko'lamidan tashqari tumanlarning bank infratuzilmasi, kredit qaytarish tarixi va tadbirkorlik faolligiga ham bog'liq. Kredit resurslari, odatda, bank filiallari tarmog'i rivojlangan va tadbirkorlik faolligi yuqori shahar va tuman markazlariga ko'proq jalb qilinadi, holbuki kambag'allik darajasi chekka qishloq mahallalarida yuqoriroq. [[Natijalar yo'nalishiga qarab izohlansin: qaysi tumanlarda TC_r < 1 va buning sabablari.]]
 
+Resurslar taqsimoti va kambag'allik darajasi o'rtasidagi bog'liqlikni baholash uchun tumanlar kesimida korrelyatsiya tahlili ham o'tkazildi:
+
+$$ r = Σ(x_r – x̄)(y_r – ȳ) / sqrt[Σ(x_r – x̄)^{2} · Σ(y_r – ȳ)^{2}] (2.4)
+
+bu yerda x_r – r-tumandagi kambag'allik darajasi; y_r – shu tumanda bir kambag'al oilaga to'g'ri keladigan qo'llab-quvvatlash resurslari hajmi. Agar resurslar ehtiyojga mos taqsimlangan bo'lsa, korrelyatsiya koeffitsiyenti ijobiy bo'lishi kerak. [[Natijalar bo'yicha: r = ___, bu ...]]
+
 Resurslar taqsimotining amaldagi tartibini o'rganish natijasida quyidagi muammolar aniqlandi. Birinchidan, resurslar hududlarga asosan kambag'al oilalar soniga, ya'ni monetar kambag'allik ko'lamiga qarab taqsimlanadi, biroq kambag'allik intensivligi (oilalar duch kelayotgan mahrumliklar soni) hisobga olinmaydi. Natijada mahrumliklari ko'p bo'lgan, “chuqur” kambag'allik hududlari va oz sonli mahrumlikka ega “sayoz” kambag'allik hududlari bir xil mezon bilan baholanadi. Ikkinchidan, qo'llab-quvvatlash vositasining turi hududning mahrumlik tarkibiga mos kelmasligi mumkin: masalan, asosiy muammo malaka yetishmasligi bo'lgan mahallada kredit limitlari ko'p, o'qitish imkoniyatlari esa kam bo'lishi mumkin. Uchinchidan, oldingi yillarda berilgan qo'llab-quvvatlash natijalari keyingi yil resurslarini taqsimlashda hisobga olinmaydi.
 
 Viloyatdagi dastur ijrochilari – mahalla “yettiligi” vakillari, tuman bandlikka ko'maklashish markazlari xodimlari va bank xodimlari bilan o'tkazilgan suhbatlar [[(n = __ nafar)]] natijalari ham yuqoridagi xulosalarni tasdiqlaydi. Suhbat ishtirokchilari tomonidan eng ko'p qayd etilgan muammolar quyidagilar: kambag'al oilalarda garov ta'minoti yo'qligi sababli kredit olish imkoniyatining cheklanganligi; subsidiya hisobiga olingan aktivlarning (masalan, chorva mollarining) ozuqa va veterinariya xizmatlari bilan ta'minlanmaganligi sababli samarasizligi; o'qitish yo'nalishlarining mahalliy mehnat bozori talabiga to'liq mos kelmasligi; ajratilgan yerlarning suv bilan ta'minlanishi va mahsulotni sotish bilan bog'liq qiyinchiliklar; hamda qo'llab-quvvatlash natijalarini kuzatishning tizimli mexanizmi yo'qligi.
+
+**Agrar sektor va tomorqa xo'jaliklari salohiyati.** Viloyat qishloq aholisi uchun tomorqa xo'jaligi ham iste'mol, ham daromad manbai hisoblanadi. Tomorqa yerlaridan samarali foydalanish kambag'al oilalarning oziq-ovqat xavfsizligini ta'minlash va qo'shimcha daromad olishning eng qulay yo'li bo'lib, u katta boshlang'ich kapital talab qilmaydi. Biroq tomorqa salohiyatidan foydalanish darajasi sug'orish suvi, urug' va ko'chat bilan ta'minlanganlik, agronomik bilim va mahsulotni sotish imkoniyatlariga bog'liq. Viloyat agrar sektorining asosiy ko'rsatkichlari 2.g-jadvalda keltirilgan.
+
+TABLE 2.g: Sirdaryo viloyati agrar sektori va qishloq infratuzilmasining asosiy ko'rsatkichlari
+| Ko'rsatkichlar | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Qishloq, o'rmon va baliq xo'jaligi mahsulotlari o'sish sur'ati, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Dehqon (shaxsiy yordamchi) xo'jaliklari ulushi, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Sug'oriladigan yerlarning meliorativ holati yaxshi bo'lgan qismi, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Aholiga ajratilgan qishloq xo'jaligi yerlari, ga | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Markazlashgan ichimlik suvi bilan ta'minlanganlik, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Tabiiy gaz bilan ta'minlanganlik, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+NOTE: Manba: Sirdaryo viloyati statistika boshqarmasi va viloyat hokimligi ma'lumotlari asosida muallif tomonidan tuzilgan{sirstat}.
+
+Mirzacho'l hududida tuproqlarning sho'rlanishi va sizot suvlari sathining yuqoriligi qishloq xo'jaligi unumdorligini pasaytiruvchi asosiy omil hisoblanadi. Bu holat tomorqa va ajratilgan yer maydonlaridan olinadigan daromadni cheklaydi va yer ajratish vositasining samaradorligiga bevosita ta'sir qiladi. Shu bilan birga, sho'rlanishga chidamli ekinlar, tomchilatib sug'orish texnologiyalari, issiqxona xo'jaligi va chorvachilik kabi yo'nalishlar viloyat sharoitida kambag'al oilalar uchun istiqbolli tadbirkorlik yo'nalishlari bo'lishi mumkin. Qishloq infratuzilmasi – ichimlik suvi va tabiiy gaz bilan ta'minlanganlik – ko'rsatkichlari esa MPI-TS indeksining turmush sharoiti o'lchovidagi mahrumliklar bilan bevosita bog'liq.
+
+**Viloyat mehnat bozori va uy xo'jaliklari daromadlarining tarkibi.** Kambag'allik va tadbirkorlik o'rtasidagi bog'liqlikni chuqurroq tushunish uchun viloyat aholisi daromadlarining tarkibini tahlil qilish muhim. Viloyat qishloq aholisi daromadlarining asosiy manbalari quyidagilardan iborat: yollanma mehnat (asosan budjet tashkilotlari, qishloq xo'jaligi korxonalari va xizmat ko'rsatish sohasida), tomorqa va dehqon xo'jaligidan olinadigan daromadlar, mehnat migratsiyasidan pul o'tkazmalari, ijtimoiy to'lovlar (pensiya va nafaqalar) hamda kichik tadbirkorlik faoliyati. Bu manbalarning nisbati oilalar orasida keskin farq qiladi: kambag'al oilalarda ijtimoiy to'lovlar va mavsumiy ish haqining ulushi yuqori, tadbirkorlik daromadlari ulushi esa past.
+
+Mehnat migratsiyasi viloyat uchun muhim ijtimoiy-iqtisodiy hodisa hisoblanadi. Pul o'tkazmalari ko'plab oilalar uchun asosiy daromad manbai bo'lib, ularning kambag'allikdan chiqishiga yordam beradi. Biroq bu daromadlar tashqi iqtisodiy sharoitga bog'liq va beqaror, migratsiya esa oilada mehnatga layoqatli a'zolarning, ko'pincha erkaklarning, yo'qligi tufayli mahalliy tadbirkorlik salohiyatini cheklaydi. Shu bilan birga, xorijda tajriba va kapital to'plagan qaytgan migrantlar mahalliy tadbirkorlik uchun muhim salohiyat hisoblanadi; ularni qo'llab-quvvatlash dasturlariga jalb qilish alohida e'tiborni talab etadi. Empirik tahlilda mehnat migranti bor oilalar alohida nazorat o'zgaruvchisi sifatida hisobga olinadi.
+
+**Viloyatda tadbirkorlikni qo'llab-quvvatlash tizimining SWOT-tahlili.** Yuqoridagi tahlil, rasmiy ma'lumotlar va ijrochilar bilan o'tkazilgan suhbatlar natijalarini umumlashtirib, viloyatda kambag'allikni qisqartirish maqsadida tadbirkorlikni qo'llab-quvvatlash tizimining kuchli va zaif tomonlari, imkoniyatlari va xavflari aniqlandi (2.3-rasm).
+
+FIG 2.3: Sirdaryo viloyatida tadbirkorlikni qo'llab-quvvatlash tizimining SWOT-tahlili
+Kuchli tomonlar: yuqori siyosiy e'tibor va resurslar || mahalla darajasida oilalar bilan bevosita ishlash || vositalarning xilma-xilligi || kambag'allik darajasining tez qisqarishi
+Zaif tomonlar: monetar mezonlarga tayanish || kreditlar ustunligi, eng kambag'allar qamrovining cheklanganligi || natijalar monitoringining yo'qligi || idoralararo ma'lumotlarning tarqoqligi
+Imkoniyatlar: sug'oriladigan yerlar va agrar salohiyat || qaytgan migrantlar tajribasi va kapitali || raqamli reyestrlarni integratsiya qilish || kooperatsiya va agroservisni rivojlantirish
+Xavflar: tuproq sho'rlanishi va suv tanqisligi || pul o'tkazmalarining tashqi sharoitga bog'liqligi || qarz yuki va faoliyatning to'xtashi || qayta kambag'allikka tushish
+NOTE: Manba: muallif tomonidan tuzilgan.
+
+SWOT-tahlil natijalari viloyatda tadbirkorlikni qo'llab-quvvatlash tizimining kuchli tomonlaridan – yuqori siyosiy e'tibor va mahalla darajasidagi tashkiliy salohiyatdan – foydalangan holda uning zaif tomonlarini, birinchi navbatda, monetar mezonlarga tayanish va natijalar monitoringining yo'qligini bartaraf etish zarurligini ko'rsatadi. Imkoniyatlardan foydalanish uchun esa qo'llab-quvvatlash vositalarini agrar sektorning o'ziga xos xususiyatlariga moslashtirish, kooperatsiya va agroservis xizmatlarini rivojlantirish hamda reyestrlarni integratsiya qilish lozim. Aniqlangan xavflarni kamaytirish uchun qo'llab-quvvatlash olgan oilalar holatini muntazam kuzatish va ularning zaifligini baholash tizimi zarur.
 
 Tahlil natijalarini umumlashtirib, quyidagi xulosalarni chiqarish mumkin. Sirdaryo viloyatida so'nggi yillarda kambag'allik darajasi sezilarli qisqargan, tadbirkorlikni qo'llab-quvvatlashga katta resurslar yo'naltirilgan. Biroq resurslarning hududlar va mahallalar bo'yicha taqsimlanishi faqat monetar kambag'allik ko'lamiga asoslangan bo'lib, kambag'allik intensivligi, mahrumliklar tarkibi va oldingi qo'llab-quvvatlash samaradorligini hisobga olmaydi. Qo'llab-quvvatlash vositalarining tarkibi esa kreditlar tomon og'gan bo'lib, bu eng kambag'al oilalarning qamrovini cheklaydi. Ushbu muammolarni chuqurroq tahlil qilish uchun uy xo'jaliklari darajasida ko'p o'lchovli kambag'allikni baholash zarur.

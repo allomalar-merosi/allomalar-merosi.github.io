@@ -11,4 +11,6 @@
 
 **Sariq rangdagi `[...]` joylar** — so‘rovnoma natijalari, rasmiy statistika, joriy etish ma’lumotnomalari, aprobatsiya va nashrlar kabi muallif o‘zi kiritishi lozim bo‘lgan ma’lumotlar. Ular to‘qib chiqarilmagan, haqiqiy ma’lumot bilan to‘ldirilishi kerak.
 
+Tuzilishi va rasmiylashtirilishi M.Xodjiyev dissertatsiyasi namunasiga moslashtirilgan: paragraflar “1.1-§.” shaklida, har bob oxirida bob bo‘yicha xulosalar, “XULOSA VA TAKLIFLAR” bo‘limi, adabiyotlarga havolalar sahifa ostidagi izohlar (snoskalar) ko‘rinishida, jadval va rasmlar har bob ichida avtomatik raqamlanadi.
+
 Rasmiylashtirish: A4, Times New Roman 14, 1,5 interval, hoshiyalar: chap 30 mm, o‘ng 15 mm, yuqori/pastki 20 mm, xatboshi 1,25 sm.

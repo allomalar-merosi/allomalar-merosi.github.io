@@ -32,6 +32,40 @@ FONT = "Times New Roman"
 TEXT_W = Cm(16.5)
 
 
+# ---------------------------------------------------------------- jadval/rasm raqamlari
+LABELS = {}
+
+
+def build_label_map():
+    """Jadval va rasmlarni har bob ichida ketma-ket qayta raqamlaydi
+    (manbada vaqtinchalik belgilar, masalan 2.a, ishlatilishi mumkin)."""
+    LABELS.clear()
+    seq = {}
+    for f in ORDER:
+        for ln in open(os.path.join(SRC, f + ".txt"), encoding="utf-8"):
+            m = re.match(r"\s*(TABLE|FIG) (\d+)\.(\w+):", ln)
+            if not m:
+                continue
+            kind = "jadval" if m.group(1) == "TABLE" else "rasm"
+            ch = m.group(2)
+            seq[(ch, kind)] = seq.get((ch, kind), 0) + 1
+            old = "%s.%s" % (ch, m.group(3))
+            if (old, kind) in LABELS:
+                sys.exit("Takroriy belgi: %s-%s" % (old, kind))
+            LABELS[(old, kind)] = "%s.%d" % (ch, seq[(ch, kind)])
+
+
+def relabel(text):
+    def rep(m):
+        return LABELS.get((m.group(1), m.group(2)), m.group(1)) + "-" + m.group(2)
+    text = re.sub(r"(?<![\w.])(\d+\.\w+)-(jadval|rasm)", rep, text)
+    text = re.sub(r"^(\s*)(TABLE|FIG) (\d+\.\w+):",
+                  lambda m: "%s%s %s:" % (m.group(1), m.group(2),
+                                         LABELS.get((m.group(3), "jadval" if m.group(2) == "TABLE" else "rasm"), m.group(3))),
+                  text, flags=re.M)
+    return text
+
+
 # ---------------------------------------------------------------- matn
 def uz(s):
     """o' g' -> o‘ g‘, qolgan apostrof -> ’ (tutuq belgisi)."""
@@ -101,13 +135,102 @@ def fmt(p, align=WD_ALIGN_PARAGRAPH.JUSTIFY, indent=True, spacing=1.5, before=0,
 
 
 TOKEN = re.compile(r"(\*\*.+?\*\*|//.+?//|\[\[.*?\]\])")
+FNMARK = re.compile(r"(\x00[^\x00]+\x00)")
+W_NS = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+
+
+class Footnotes:
+    """Hujjatga sahifa osti izohlari (footnotes.xml) qismini qo'shadi."""
+
+    def __init__(self, doc):
+        from docx.opc.constants import RELATIONSHIP_TYPE as RT
+        from docx.opc.packuri import PackURI
+        from docx.opc.part import XmlPart
+        xml = ('<w:footnotes xmlns:w="%s">'
+               '<w:footnote w:type="separator" w:id="-1"><w:p><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/></w:pPr>'
+               '<w:r><w:separator/></w:r></w:p></w:footnote>'
+               '<w:footnote w:type="continuationSeparator" w:id="0"><w:p><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/></w:pPr>'
+               '<w:r><w:continuationSeparator/></w:r></w:p></w:footnote></w:footnotes>') % W_NS
+        dp = doc.part
+        self.part = XmlPart.load(PackURI("/word/footnotes.xml"),
+                                 "application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml",
+                                 xml.encode("utf-8"), dp.package)
+        dp.relate_to(self.part, RT.FOOTNOTES)
+        self.n = 0
+
+    def add(self, paragraph, text):
+        self.n += 1
+        fid = str(self.n)
+        fn = OxmlElement("w:footnote"); fn.set(qn("w:id"), fid)
+        fp = OxmlElement("w:p")
+        ppr = OxmlElement("w:pPr")
+        ps = OxmlElement("w:pStyle"); ps.set(qn("w:val"), "FootnoteText"); ppr.append(ps)
+        sp = OxmlElement("w:spacing"); sp.set(qn("w:after"), "0"); sp.set(qn("w:line"), "240"); sp.set(qn("w:lineRule"), "auto")
+        jc = OxmlElement("w:jc"); jc.set(qn("w:val"), "both")
+        ppr.append(sp); ppr.append(jc); fp.append(ppr)
+
+        def run(children, sup=False):
+            r = OxmlElement("w:r"); rpr = OxmlElement("w:rPr")
+            if sup:
+                rs = OxmlElement("w:rStyle"); rs.set(qn("w:val"), "FootnoteReference"); rpr.append(rs)
+            rf = OxmlElement("w:rFonts")
+            for a in ("w:ascii", "w:hAnsi", "w:eastAsia", "w:cs"):
+                rf.set(qn(a), FONT)
+            rpr.append(rf)
+            sz = OxmlElement("w:sz"); sz.set(qn("w:val"), "20"); rpr.append(sz)
+            if sup:
+                va = OxmlElement("w:vertAlign"); va.set(qn("w:val"), "superscript"); rpr.append(va)
+            r.append(rpr)
+            for c in children:
+                r.append(c)
+            return r
+        fp.append(run([OxmlElement("w:footnoteRef")], sup=True))
+        t = OxmlElement("w:t"); t.set(qn("xml:space"), "preserve"); t.text = " " + text
+        fp.append(run([t]))
+        fn.append(fp)
+        self.part.element.append(fn)
+        # matndagi havola
+        r = paragraph.add_run()
+        set_font(r, 14)
+        r.style = "Footnote Reference"
+        r.font.superscript = True
+        ref = OxmlElement("w:footnoteReference"); ref.set(qn("w:id"), fid)
+        r._element.append(ref)
+
+
+FOOT = None
+
+
+def fn_text(keys):
+    out = []
+    for k in keys.split(","):
+        k = k.strip()
+        out.append(re.sub(r"\s*\[\[.*?\]\]", "", REFS[k]).strip())
+    return uz("; ".join(out))
 SUBSUP = re.compile(r"(_\{[^}]*\}|\^\{[^}]*\}|_[A-Za-z0-9]+)")
 
 
+def mark_cite(m):
+    cite(m)  # kalitlarni tekshirish va ishlatilgan deb belgilash
+    return "\x00" + m.group(1) + "\x00"
+
+
 def add_runs(p, text, size=14, bold=False, italic=False):
-    text = re.sub(r"(?<![_^])\{([^{}]+)\}", cite, text)
+    if FOOT is not None:
+        text = re.sub(r"\s*(?<![_^])\{([^{}]+)\}", mark_cite, text)
+    else:
+        text = re.sub(r"(?<![_^])\{([^{}]+)\}", cite, text)
     text = uz(text)
-    for part in TOKEN.split(text):
+    chunks = []
+    for part in FNMARK.split(text):
+        if part.startswith("\x00"):
+            chunks.append(("FN", part.strip("\x00")))
+        elif part:
+            chunks.extend(("T", x) for x in TOKEN.split(part))
+    for kind, part in chunks:
+        if kind == "FN":
+            FOOT.add(p, fn_text(part))
+            continue
         if not part:
             continue
         b, i, hl = bold, italic, False
@@ -171,6 +294,8 @@ class Builder:
         self.toc_pages = toc_pages or {}
         self.headings = []  # (daraja, matn)
         self._setup()
+        global FOOT
+        FOOT = Footnotes(self.doc)
 
     def _setup(self):
         d = self.doc
@@ -190,6 +315,16 @@ class Builder:
             for a in ("w:asciiTheme", "w:hAnsiTheme", "w:eastAsiaTheme", "w:cstheme"):
                 if rf.get(qn(a)) is not None:
                     del rf.attrib[qn(a)]
+        from docx.enum.style import WD_STYLE_TYPE
+        if "Footnote Reference" not in [x.name for x in d.styles]:
+            fr = d.styles.add_style("Footnote Reference", WD_STYLE_TYPE.CHARACTER)
+            fr.font.superscript = True
+            fr.element.set(qn("w:styleId"), "FootnoteReference")
+        if "Footnote Text" not in [x.name for x in d.styles]:
+            ft = d.styles.add_style("Footnote Text", WD_STYLE_TYPE.PARAGRAPH)
+            ft.font.size = Pt(10); ft.font.name = FONT
+            ft.paragraph_format.space_after = Pt(0); ft.paragraph_format.line_spacing = 1.0
+            ft.element.set(qn("w:styleId"), "FootnoteText")
         s = d.sections[0]
         s.page_width, s.page_height = Cm(21), Cm(29.7)
         s.left_margin, s.right_margin = Cm(3), Cm(1.5)
@@ -233,7 +368,8 @@ class Builder:
         ts.add_tab_stop(Cm(8.25), WD_TAB_ALIGNMENT.CENTER)
         ts.add_tab_stop(TEXT_W, WD_TAB_ALIGNMENT.RIGHT)
         r = p.add_run("\t"); set_font(r)
-        add_runs(p, body, 14, False, True)
+        plain = re.sub(r"[_^]\{([^}]*)\}", r"\1", body)
+        add_runs(p, body, 14 if len(plain) <= 62 else (13 if len(plain) <= 72 else 12), False, True)
         if num:
             r = p.add_run("\t" + num); set_font(r)
 
@@ -318,20 +454,21 @@ class Builder:
 
     # ----- titul va mundarija
     def title_page(self):
-        L = lambda t, **k: self.para(t, indent=False, align=WD_ALIGN_PARAGRAPH.CENTER, spacing=1.15, **k)
+        C = WD_ALIGN_PARAGRAPH.CENTER; R = WD_ALIGN_PARAGRAPH.RIGHT
+        L = lambda t, al=C, **k: self.para(t, indent=False, align=al, spacing=1.15, **k)
         L("O'ZBEKISTON RESPUBLIKASI OLIY TA'LIM, FAN VA INNOVATSIYALAR VAZIRLIGI", bold=True)
-        L("GULISTON DAVLAT UNIVERSITETI", bold=True, after=36)
-        self.para("Qo'lyozma huquqida", indent=False, align=WD_ALIGN_PARAGRAPH.RIGHT, spacing=1.15, italic=True)
-        self.para("UO'K: [[____________]]", indent=False, align=WD_ALIGN_PARAGRAPH.RIGHT, spacing=1.15, after=36)
-        L("BATIROVA LATOFAT SHUXRATOVNA", bold=True, after=24)
+        L("GULISTON DAVLAT UNIVERSITETI", bold=True, after=60)
+        L("Qo'lyozma huquqida", R)
+        L("UO'K: [[____________]]", R, bold=True, after=60)
+        L("BATIROVA LATOFAT SHUXRATOVNA", bold=True, after=48)
         L("KAMBAG'ALLIKNING KO'P O'LCHOVLI MEZONLARI ASOSIDA TADBIRKORLIKNI QO'LLAB-QUVVATLASH "
-          "SAMARADORLIGINI BAHOLASH METODIKASINI TAKOMILLASHTIRISH", bold=True, after=24)
-        L("08.00.15 – “Tadbirkorlik va kichik biznes iqtisodiyoti”", after=24)
-        L("Iqtisodiyot fanlari bo'yicha falsafa doktori (PhD) dissertatsiyasi", bold=True, after=60)
-        p = self.para("**Ilmiy rahbar:** [[F.I.Sh.]],", indent=False, align=WD_ALIGN_PARAGRAPH.LEFT, spacing=1.15)
-        p.paragraph_format.left_indent = Cm(9)
-        p = self.para("[[ilmiy darajasi, ilmiy unvoni]]", indent=False, align=WD_ALIGN_PARAGRAPH.LEFT, spacing=1.15, after=96)
-        p.paragraph_format.left_indent = Cm(9)
+          "SAMARADORLIGINI BAHOLASH METODIKASINI TAKOMILLASHTIRISH", bold=True, after=36)
+        L("08.00.15 – “Tadbirkorlik va kichik biznes iqtisodiyoti”", after=48)
+        L("iqtisodiyot fanlari bo'yicha falsafa doktori (Doctor of philosophy)")
+        L("ilmiy darajasini olish uchun tayyorlangan")
+        L("DISSERTATSIYA", bold=True, after=48)
+        L("Ilmiy rahbar: [[F.I.Sh.]]", R, bold=True)
+        L("[[ilmiy darajasi, ilmiy unvoni]]", R, bold=True, after=110)
         L("Guliston – 2026", bold=True)
 
     def toc(self, entries):
@@ -343,18 +480,18 @@ class Builder:
             p = self.doc.add_paragraph()
             fmt(p, align=WD_ALIGN_PARAGRAPH.LEFT, indent=False, spacing=1.15, after=4)
             pf = p.paragraph_format
-            pf.left_indent = Cm(0 if lvl == 1 else 0.75)
+            pf.left_indent = Cm(0 if lvl == 1 else 1.0)
             pf.right_indent = Cm(1.0)
             pf.tab_stops.add_tab_stop(Cm(16.5), WD_TAB_ALIGNMENT.RIGHT, WD_TAB_LEADER.DOTS)
             pg = self.toc_pages.get(i, "00")
-            r = p.add_run(txt); set_font(r, 14, lvl == 1 and not re.match(r"^\d", txt))
+            r = p.add_run(txt); set_font(r, 14, False)
             r = p.add_run("\t" + str(pg)); set_font(r, 14)
             # o'ng chekinish nuqtali tab'ga xalaqit bermasligi uchun manfiy chekinish
             pf.right_indent = Cm(0)
 
     # ----- manba fayllarini o'qish
     def render_file(self, name):
-        lines = open(os.path.join(SRC, name + ".txt"), encoding="utf-8").read().split("\n")
+        lines = relabel(open(os.path.join(SRC, name + ".txt"), encoding="utf-8").read()).split("\n")
         i = 0
         while i < len(lines):
             ln = lines[i].rstrip()
@@ -403,11 +540,10 @@ class Builder:
             if idx in sec_at:
                 self.para(sec_at[idx], indent=False, align=WD_ALIGN_PARAGRAPH.CENTER, bold=True, before=6, keep=True)
             p = self.doc.add_paragraph()
-            fmt(p, indent=False, spacing=1.15, after=2)
-            p.paragraph_format.left_indent = Cm(0.9)
-            p.paragraph_format.first_line_indent = Cm(-0.9)
-            p.paragraph_format.tab_stops.add_tab_stop(Cm(0.9))
-            add_runs(p, "%d.\t%s" % (idx + 1, REFS[key]), 14)
+            fmt(p, indent=True, spacing=1.5)
+            g = FOOT; globals()["FOOT"] = None
+            add_runs(p, "%d. %s" % (idx + 1, REFS[key]), 14)
+            globals()["FOOT"] = g
 
     def build(self, toc_entries):
         self.title_page()
@@ -462,6 +598,7 @@ def to_pdf(docx_path, outdir):
 
 
 def main():
+    build_label_map()
     entries = collect_headings()
     b = Builder().build(entries)
     b.doc.save(OUT)

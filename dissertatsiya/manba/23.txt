@@ -1,4 +1,4 @@
-## 2.3. Viloyat uy xo'jaliklarida kambag'allikning ko'p o'lchovli holatini baholash
+## 2.3-§. Viloyat uy xo'jaliklarida kambag'allikning ko'p o'lchovli holatini baholash
 
 Rasmiy statistik ma'lumotlar kambag'allikning monetar ko'lamini aks ettiradi, biroq ular uy xo'jaliklarining ta'lim, sog'liq, turmush sharoiti va bandlik sohalaridagi mahrumliklari haqida yetarli axborot bermaydi. Bundan tashqari, tadbirkorlikni qo'llab-quvvatlashning sof ta'sirini baholash uchun qo'llab-quvvatlash olgan va olmagan oilalarning taqqoslanadigan mikroma'lumotlari zarur. Shu sababli tadqiqot doirasida Sirdaryo viloyati uy xo'jaliklari o'rtasida maxsus sotsiologik so'rovnoma o'tkazildi.
 
@@ -6,7 +6,7 @@ Rasmiy statistik ma'lumotlar kambag'allikning monetar ko'lamini aks ettiradi, bi
 
 **Tanlanma hajmi va tuzilishi.** Tanlanma hajmi oddiy tasodifiy tanlanma uchun ma'lum bo'lgan formula asosida, dizayn samarasi va javob bermaslik ehtimoli hisobga olingan holda aniqlandi {cochran1977}:
 
-$$ n = [z^{2} · p · (1 – p) / e^{2}] · deff / RR (2.4)
+$$ n = [z^{2} · p · (1 – p) / e^{2}] · deff / RR (2.5)
 
 bu yerda z – ishonchlilik darajasiga mos keluvchi standart normal taqsimot kvantili (95 foizlik ishonchlilik uchun z = 1,96); p – baholanayotgan ulushning kutilayotgan qiymati (eng katta dispersiyani ta'minlash uchun p = 0,5 olindi); e – yo'l qo'yiladigan xatolik (e = 0,05); deff – klasterli tanlanma tufayli dizayn samarasi (deff = 1,8); RR – javob berish darajasining kutilayotgan qiymati (RR = 0,9). Hisob-kitoblarga ko'ra, viloyat bo'yicha mahrumlik ulushlarini ±5 foiz punkt aniqlikda baholash uchun minimal tanlanma hajmi 384 · 1,8 / 0,9 ≈ 768 ta uy xo'jaligini tashkil etadi. Shu asosda tanlanma hajmi 800 ta uy xo'jaligi sifatida belgilandi va u qo'llab-quvvatlash olgan va olmagan oilalar guruhlariga teng (400 tadan) taqsimlandi. Bunday hajm dizayn samarasi hisobga olinganda 5 foizlik ahamiyatlilik darajasida va 80 foizlik quvvatda guruhlar o'rtasidagi mahrumlik ulushlaridagi taxminan 13 foiz punktli farqni aniqlash imkonini beradi; kichikroq ta'sirlarni aniqlash uchun esa 3.2-paragrafda ikki davr ma'lumotlaridan foydalaniladi, bu baholash aniqligini oshiradi.
 
@@ -49,6 +49,10 @@ NOTE: Manba: muallif tomonidan o'tkazilgan so'rovnoma natijalari asosida hisobla
 
 2.7-jadval ma'lumotlarini tahlil qilishda alohida e'tibor guruhlar o'rtasida statistik jihatdan ahamiyatli farq kuzatilgan ko'rsatkichlarga qaratilishi lozim. Xususan, qo'llab-quvvatlash olgan oilalar orasida oldin tadbirkorlik tajribasiga ega oilalar ulushining yuqoriroq bo'lishi kredit vositasi bo'yicha “ijobiy tanlov” mavjudligini, iste'mol xarajatlarining pastroq bo'lishi esa subsidiyalar bo'yicha eng kambag'al oilalarga ustuvorlik berilganini ko'rsatadi. [[So'rovnoma natijalariga ko'ra aniqlangan farqlar izohlansin.]] Bu farqlar 3.2-paragrafda moyillik ko'rsatkichi modelini tuzishda hisobga olinadi.
 
+**So'rovnoma ma'lumotlarining sifati va ishonchliligi.** So'rovnoma natijalarining ishonchliligini ta'minlash maqsadida bir qator choralar ko'rildi. Birinchidan, anketa 20 ta uy xo'jaligida sinov (pilot) so'rovidan o'tkazilib, tushunilishi qiyin bo'lgan savollar soddalashtirildi. Ikkinchidan, so'rovchilar maxsus o'qitildi va ularga savollar mazmuni hamda javoblarni qayd etish tartibi bo'yicha yo'riqnoma berildi. Uchinchidan, so'rovnomalarning [[__]] foizi takroriy telefon qo'ng'irog'i orqali nazorat tekshiruvidan o'tkazildi. To'rtinchidan, mantiqiy nomuvofiqliklar (masalan, oila tarkibi va bandlik bo'yicha javoblar o'rtasidagi ziddiyatlar) dasturiy tekshiruv orqali aniqlanib, tuzatildi. So'rovnomada javob berish darajasi [[__]] foizni tashkil etdi.
+
+Ko'p o'lchovli kambag'allik indikatorlarining ichki izchilligini baholash uchun Kronbax alfa koeffitsiyenti ham hisoblandi. Biroq ko'p o'lchovli indekslarda indikatorlar bir xil yashirin o'zgaruvchini emas, balki farovonlikning turli jihatlarini o'lchashi sababli yuqori ichki izchillik talab qilinmaydi; aksincha, indikatorlar o'rtasidagi juda yuqori korrelyatsiya ularning takrorlanishini anglatadi {alkire2015}. Shu sababli bu ko'rsatkich faqat yordamchi sifatida qo'llanildi.
+
 **Ko'p o'lchovli kambag'allikni dastlabki baholash.** Viloyat uy xo'jaliklarining ko'p o'lchovli kambag'allik holatini baholashni biz ikki bosqichda amalga oshirdik. Birinchi bosqichda global MPI tuzilishiga yaqin bo'lgan, ya'ni xalqaro miqyosda qo'llaniladigan standart indikatorlar to'plami (1.1-jadval) asosida baholash o'tkazildi. Bundan maqsad – standart indeks viloyat sharoitida qanchalik axborot berishini aniqlash. Ikkinchi bosqichda (3.1-paragraf) hududiy sharoitga moslashtirilgan indeks ishlab chiqildi.
 
 Standart indikatorlar bo'yicha senzuralanmagan mahrumlik darajalari, ya'ni har bir indikator bo'yicha mahrum bo'lgan uy xo'jaliklari ulushi 2.8-jadvalda keltirilgan.
@@ -87,11 +91,94 @@ NOTE: Manba: muallif tomonidan o'tkazilgan so'rovnoma natijalari asosida hisobla
 
 Ushbu jadval siyosat nuqtayi nazaridan muhim xulosalar chiqarish imkonini beradi. A guruh – har ikki mezon bo'yicha kambag'al oilalar – eng ustuvor maqsadli guruh hisoblanadi va ular uchun kompleks qo'llab-quvvatlash zarur. B guruh – monetar kambag'al, biroq nomonetar mahrumliklari kam bo'lgan oilalar – asosan daromad yetishmasligi bilan bog'liq muammoga ega bo'lib, ular uchun tadbirkorlik va bandlikni qo'llab-quvvatlash eng samarali vosita bo'lishi mumkin. C guruh – daromadi kambag'allik chegarasidan yuqori, biroq bir nechta sohada mahrum bo'lgan oilalar – amaldagi monetar mezonlarga asoslangan tizimda “ko'rinmas” qoladi; ular reyestrdan chiqarilgan yoki unga umuman kiritilmagan oilalardir. Xalqaro tadqiqotlar monetar va ko'p o'lchovli kambag'allik o'rtasidagi mos kelmaslik sezilarli bo'lishini ko'rsatadi {alkire2015,wb2018}; bizning tadqiqotimizda C guruhining ulushi [[__]] foizni tashkil etdi. Bu esa monetar mezon asosida “kambag'allikdan chiqarilgan” oilalarning bir qismi aslida ko'p o'lchovli kambag'al bo'lib qolayotganini anglatadi.
 
+**O'lchovlar bo'yicha tavsifiy tahlil.** So'rovnoma natijalarini o'lchovlar bo'yicha batafsil ko'rib chiqamiz.
+
+//Ta'lim o'lchovi.// Viloyatda umumiy o'rta ta'lim bilan qamrov deyarli to'liq bo'lsa-da, oilaning katta yoshdagi a'zolari orasida kasbiy (o'rta maxsus, professional yoki oliy) ma'lumotga ega bo'lmaganlar ulushi kambag'al oilalarda sezilarli darajada yuqori. So'rovnoma natijalariga ko'ra, 18 yoshdan katta a'zolaridan hech biri kasbiy ma'lumotga ega bo'lmagan oilalar ulushi [[__]] foizni tashkil etdi. Maktabgacha ta'lim bilan qamrov masalasi ham dolzarb: 3–6 yoshli bolasi maktabgacha ta'limga qamrab olinmagan oilalar ulushi [[__]] foiz. Bu holat, bir tomondan, maktabgacha ta'lim muassasalarining qishloq joylarida yetarli emasligi, ikkinchi tomondan, oilalarning to'lov imkoniyati cheklanganligi bilan izohlanadi va ayollarning iqtisodiy faolligini cheklaydi.
+
+//Sog'liq o'lchovi.// Moliyaviy sabablarga ko'ra zarur tibbiy yordam yoki dori-darmon ololmagan oilalar ulushi [[__]] foiz, so'nggi 30 kunda pul yetishmasligi sababli ovqatlanishni kamaytirishga majbur bo'lgan oilalar ulushi esa [[__]] foizni tashkil etdi. Bu ko'rsatkichlar ayniqsa ko'p bolali va nogironligi bor a'zosi bo'lgan oilalarda yuqori. Oziq-ovqat xavfsizligi indikatori qo'llab-quvvatlash dasturlarining eng tez o'zgaradigan natija ko'rsatkichlaridan biri bo'lib, u oilaning daromad o'sishiga bevosita ta'sirchan.
+
+//Turmush sharoiti o'lchovi.// Kommunal xizmatlardan foydalanish imkoniyati viloyat hududlari bo'yicha keskin farq qiladi. Markazlashgan ichimlik suvi tarmog'iga ulanmagan yoki suvni haftada 3 kundan kam oladigan oilalar ulushi [[__]] foiz, qish mavsumida gaz va elektr ta'minotida 7 kundan ortiq uzilishlarga duch kelgan oilalar ulushi [[__]] foiz. Bu mahrumliklar oilaning o'z harakati bilan emas, balki asosan hududiy infratuzilma bilan bog'liq bo'lib, ularni bartaraf etish uchun mahalla infratuzilmasiga investitsiyalar zarur.
+
+//Bandlik o'lchovi.// Mehnatga layoqatli a'zolaridan hech biri doimiy ishga ega bo'lmagan oilalar ulushi [[__]] foiz, band a'zolarning yarmidan ko'pi norasmiy yoki mavsumiy ishda bo'lgan oilalar ulushi [[__]] foiz, 18–30 yoshli a'zosi na o'qiyotgan, na ishlayotgan oilalar ulushi esa [[__]] foizni tashkil etdi. Bandlik o'lchovidagi mahrumliklar viloyat iqtisodiyotining agrar xususiyati va mavsumiylik bilan chambarchas bog'liq.
+
+//Tadbirkorlik salohiyati o'lchovi.// Ishlab chiqarish aktivlariga ega bo'lmagan oilalar ulushi [[__]] foiz, moliyaviy xizmatlardan foydalanmaydigan oilalar ulushi [[__]] foiz, mehnatga layoqatli a'zolaridan hech birida hujjatlashtirilgan kasbiy malaka bo'lmagan oilalar ulushi esa [[__]] foiz. Bu o'lchov bo'yicha mahrumliklar qo'llab-quvvatlash dasturlarining bevosita ta'sir sohasi hisoblanadi.
+
+Mahrumlik darajalarining oila turlari bo'yicha farqlari 2.10-jadvalda keltirilgan.
+
+TABLE 2.10: Ko'p o'lchovli kambag'allik ko'rsatkichlarining oila turlari bo'yicha farqlanishi (MPI-TS, k = 1/3)
+| Oila turi | Tanlanmadagi ulushi, % | H, % | A, % | MPI-TS |
+| Oila boshlig'i erkak | [[__]] | [[__]] | [[__]] | [[__]] |
+| Oila boshlig'i ayol | [[__]] | [[__]] | [[__]] | [[__]] |
+| 3 va undan ortiq 16 yoshgacha bolasi bor | [[__]] | [[__]] | [[__]] | [[__]] |
+| Nogironligi bor a'zosi bor | [[__]] | [[__]] | [[__]] | [[__]] |
+| Mehnat migranti bor | [[__]] | [[__]] | [[__]] | [[__]] |
+| Qishloq joyida yashovchi | [[__]] | [[__]] | [[__]] | [[__]] |
+| Shaharda yashovchi | [[__]] | [[__]] | [[__]] | [[__]] |
+| Jami tanlanma | 100,0 | [[__]] | [[__]] | [[__]] |
+NOTE: Manba: muallif tomonidan o'tkazilgan so'rovnoma natijalari asosida hisoblangan.
+
+Oila turlari bo'yicha tahlil kambag'allikning ijtimoiy-demografik omillarini aniqlash imkonini beradi. Xalqaro tadqiqotlar ko'p bolali oilalar, ayollar boshchiligidagi oilalar va nogironligi bor a'zosi bo'lgan oilalarda ko'p o'lchovli kambag'allik qamrovi va intensivligi yuqoriroq bo'lishini ko'rsatadi {alkire2015}. Bunday oilalar uchun tadbirkorlikni qo'llab-quvvatlash vositalari ijtimoiy xizmatlar (maktabgacha ta'lim, parvarish xizmatlari, reabilitatsiya) bilan uyg'unlashtirilishi lozim, aks holda oila a'zolarining iqtisodiy faolligi cheklanganicha qoladi.
+
 Qo'llab-quvvatlash olgan va olmagan oilalarning dastlabki ko'p o'lchovli holatini taqqoslash ham muhim natija berdi. [[So'rovnoma natijalariga ko'ra: qo'llab-quvvatlash olgan oilalarning qo'llab-quvvatlashgacha bo'lgan o'rtacha mahrumlik balli ___, olmaganlarniki ___ ga teng; farq statistik jihatdan ahamiyatli/ahamiyatsiz.]] Agar qo'llab-quvvatlash olgan oilalar dastlab nisbatan yaxshiroq holatda bo'lgan bo'lsa, bu maqsadli yo'naltirishda kambag'allik intensivligi yetarlicha hisobga olinmaganini ko'rsatadi.
+
+**Mahrumliklarning birgalikda yuzaga kelishi.** Ko'p o'lchovli yondashuvning asosiy afzalligi – mahrumliklarning bir oilada birgalikda yuzaga kelishini tahlil qilish imkoniyati. Uy xo'jaliklarining mahrumliklar soni bo'yicha taqsimoti 2.h-jadvalda keltirilgan.
+
+TABLE 2.h: Uy xo'jaliklarining mahrumlik o'lchovlari soni bo'yicha taqsimlanishi, %
+| Mahrum bo'lgan o'lchovlar soni | Jami tanlanma | Qo'llab-quvvatlash olganlar | Qo'llab-quvvatlash olmaganlar | Monetar kambag'allar |
+| 0 | [[__]] | [[__]] | [[__]] | [[__]] |
+| 1 | [[__]] | [[__]] | [[__]] | [[__]] |
+| 2 | [[__]] | [[__]] | [[__]] | [[__]] |
+| 3 | [[__]] | [[__]] | [[__]] | [[__]] |
+| 4 va undan ortiq | [[__]] | [[__]] | [[__]] | [[__]] |
+| Jami | 100,0 | 100,0 | 100,0 | 100,0 |
+NOTE: Manba: muallif tomonidan o'tkazilgan so'rovnoma natijalari asosida hisoblangan. O'lchov bo'yicha mahrumlik – o'lchov ichidagi vaznlangan mahrumlik ulushi 0,5 dan yuqori bo'lgan holat.
+
+Mahrumliklarning qaysi o'lchovlar juftligida birgalikda uchrashini aniqlash qo'llab-quvvatlash vositalarini birlashtirish bo'yicha muhim axborot beradi. Masalan, bandlik va tadbirkorlik salohiyati o'lchovlaridagi mahrumliklar ko'pincha birga uchrasa, bu bandlikni qo'llab-quvvatlash va aktiv berishni birlashtirgan kompleks yondashuv zarurligini ko'rsatadi. Agar sog'liq va bandlik o'lchovlaridagi mahrumliklar birga kelsa, bu oila a'zolarining sog'lig'i ularning iqtisodiy faolligini cheklayotganini va tadbirkorlikni qo'llab-quvvatlash sog'liqni saqlash xizmatlari bilan uyg'unlashtirilishi lozimligini anglatadi. O'lchovlar juftliklari bo'yicha birgalikdagi mahrumlik darajalari 2.i-jadvalda keltirilgan.
+
+TABLE 2.i: Mahrumlik o'lchovlari juftliklari bo'yicha birgalikdagi mahrumlik darajalari, uy xo'jaliklari ulushi, %
+| O'lchov | Ta'lim | Sog'liq | Turmush sharoiti | Bandlik | Tadbirkorlik salohiyati |
+| Ta'lim | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Sog'liq | – | [[__]] | [[__]] | [[__]] | [[__]] |
+| Turmush sharoiti | – | – | [[__]] | [[__]] | [[__]] |
+| Bandlik | – | – | – | [[__]] | [[__]] |
+| Tadbirkorlik salohiyati | – | – | – | – | [[__]] |
+NOTE: Manba: muallif tomonidan o'tkazilgan so'rovnoma natijalari asosida hisoblangan. Diagonalda – tegishli o'lchov bo'yicha mahrumlik darajasi.
+
+**Iste'mol darajasi va mahrumlik balli o'rtasidagi bog'liqlik.** Monetar va ko'p o'lchovli kambag'allik o'rtasidagi bog'liqlikni chuqurroq tahlil qilish uchun uy xo'jaliklari jon boshiga iste'mol xarajatlari bo'yicha beshta teng guruhga (kvintillarga) ajratildi va har bir guruhda o'rtacha mahrumlik balli hisoblandi (2.j-jadval).
+
+TABLE 2.j: Uy xo'jaliklarining iste'mol kvintillari bo'yicha ko'p o'lchovli kambag'allik ko'rsatkichlari
+| Iste'mol kvintili | Jon boshiga o'rtacha oylik iste'mol, ming so'm | O'rtacha mahrumlik balli | H, % | MPI-TS |
+| I (eng past) | [[__]] | [[__]] | [[__]] | [[__]] |
+| II | [[__]] | [[__]] | [[__]] | [[__]] |
+| III | [[__]] | [[__]] | [[__]] | [[__]] |
+| IV | [[__]] | [[__]] | [[__]] | [[__]] |
+| V (eng yuqori) | [[__]] | [[__]] | [[__]] | [[__]] |
+| Jami | [[__]] | [[__]] | [[__]] | [[__]] |
+NOTE: Manba: muallif tomonidan o'tkazilgan so'rovnoma natijalari asosida hisoblangan.
+
+Iste'mol darajasi oshgan sari o'rtacha mahrumlik balli pasayishi kutiladi, biroq bu bog'liqlik to'liq emas: iste'moli nisbatan yuqori bo'lgan guruhlarda ham ko'p o'lchovli kambag'al oilalar uchraydi. Bu holat ayniqsa infratuzilma bilan bog'liq mahrumliklar (ichimlik suvi, energiya ta'minoti) va sog'liq o'lchovida namoyon bo'ladi, chunki ular oilaning daromadidan ko'ra yashash joyi va oila a'zolarining sog'lig'iga ko'proq bog'liq. [[Natijalar bo'yicha izohlansin: iste'mol va mahrumlik balli o'rtasidagi korrelyatsiya koeffitsiyenti ___ ga teng.]] Ushbu natija monetar va ko'p o'lchovli mezonlarni birgalikda qo'llash zarurligini yana bir bor tasdiqlaydi.
+
+**Qo'llab-quvvatlash olgan oilalarning subyektiv baholari.** So'rovnomada qo'llab-quvvatlash olgan oilalardan uning natijalari va duch kelgan qiyinchiliklar haqida ham so'raldi. Subyektiv baholar dastur samaradorligining ob'ektiv o'lchovi bo'lmasa-da, ular qo'llab-quvvatlash jarayonidagi muammolarni aniqlash va dasturni takomillashtirish uchun muhim axborot beradi (2.e-jadval).
+
+TABLE 2.e: Qo'llab-quvvatlash olgan oilalarning qo'llab-quvvatlash natijalari va qiyinchiliklar bo'yicha baholari, respondentlar ulushi, %
+| Savol va javob variantlari | Kredit | Subsidiya | Kasbga o'qitish | Yer ajratish | Jami |
+| Oila farovonligi sezilarli yaxshilandi | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Oila farovonligi biroz yaxshilandi | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| O'zgarish bo'lmadi | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Ahvol yomonlashdi | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Asosiy qiyinchilik: mahsulotni sotish | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Asosiy qiyinchilik: xomashyo va ozuqa narxi | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Asosiy qiyinchilik: qarz to'lovlari | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Asosiy qiyinchilik: bilim va tajriba yetishmasligi | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Asosiy qiyinchilik: suv va infratuzilma | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Qo'llab-quvvatlash turi oila ehtiyojiga mos kelgan | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+NOTE: Manba: muallif tomonidan o'tkazilgan so'rovnoma natijalari asosida hisoblangan.
+
+Subyektiv baholarni tahlil qilishda, ayniqsa, “qo'llab-quvvatlash turi oila ehtiyojiga mos kelgan” degan savolga berilgan javoblarga e'tibor qaratish lozim. Agar respondentlarning sezilarli qismi berilgan vosita ularning ehtiyojiga mos kelmaganini qayd etsa, bu vosita tanlash jarayonini takomillashtirish – uni oilaning mahrumlik profiliga asoslash – zarurligini tasdiqlaydi. Shuningdek, eng ko'p qayd etilgan qiyinchiliklar har bir vosita uchun qo'shimcha xizmatlar (sotishga ko'maklashish, maslahat, infratuzilma) zarurligini ko'rsatadi. [[Natijalar bo'yicha izohlansin.]]
 
 Shunday qilib, Sirdaryo viloyati uy xo'jaliklari bo'yicha o'tkazilgan so'rovnoma natijalari quyidagi xulosalarni chiqarish imkonini beradi. Birinchidan, global MPI tuzilishiga asoslangan standart indeks o'rta daromadli mamlakat hududi sharoitida kambag'allikni yetarlicha aniq aks ettirmaydi va uni hududiy sharoitga moslashtirish zarur. Ikkinchidan, viloyat uy xo'jaliklarida standart indikatorlar qamrab olmaydigan kommunal xizmatlar sifati, bandlik sifati, tibbiy xizmatlarga moliyaviy kirish va tadbirkorlik salohiyati sohalarida sezilarli mahrumliklar mavjud. Uchinchidan, monetar va ko'p o'lchovli kambag'allik o'rtasida to'liq mos kelmaslik mavjud bo'lib, monetar mezon asosida kambag'al hisoblanmaydigan oilalarning bir qismi ko'p o'lchovli kambag'al hisoblanadi. To'rtinchidan, qo'llab-quvvatlash olgan va olmagan oilalar o'rtasida dastlabki farqlar mavjud bo'lib, bu dastur ta'sirini baholashda tanlov og'ishini bartaraf etuvchi usullarni qo'llashni talab etadi.
 
-CENTER: II bob bo'yicha xulosalar
+## II bob bo'yicha xulosalar
 
 Birinchidan, O'zbekistonda kambag'allikni qisqartirish siyosati tadbirkorlikni ommaviy rag'batlantirishdan kambag'allikni rasman e'tirof etish va undan oilaga yo'naltirilgan kompleks yondashuvga o'tish bosqichlarini bosib o'tdi. Mahalla darajasida oilalar bilan bevosita ishlash tizimi shakllantirildi, biroq kambag'al oilalarni aniqlash, reyestrdan chiqarish va dastur natijalarini baholash mezonlari asosan monetar xarakterga ega bo'lib qolmoqda.
 

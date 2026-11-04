@@ -1,4 +1,4 @@
-## 1.3. Tadbirkorlikni qo'llab-quvvatlash samaradorligini baholash usullari va ularning metodologik cheklovlari
+## 1.3-§. Tadbirkorlikni qo'llab-quvvatlash samaradorligini baholash usullari va ularning metodologik cheklovlari
 
 Davlat dasturlari samaradorligini baholash iqtisodiyot fanida mustaqil yo'nalish sifatida shakllangan bo'lib, u dasturning maqsadga erishganligi, sarflangan resurslarning oqlanganligi va natijalarning aynan dastur bilan bog'liqligini aniqlashga qaratilgan {rossi2019}. Iqtisodiy adabiyotda “samaradorlik” tushunchasi ko'pincha ikki ma'noda qo'llaniladi: **natijadorlik** (effectiveness) – dastur o'z oldiga qo'yilgan maqsadlarga qanchalik erishgani, va **tejamkorlik** yoki iqtisodiy samaradorlik (efficiency) – erishilgan natija bilan sarflangan resurslar o'rtasidagi nisbat. Bu ikki tushunchaga qo'shimcha ravishda **ta'sir** (impact) tushunchasi farqlanadi: u dastur bo'lmaganida yuzaga kelmagan, ya'ni aynan dastur sababli ro'y bergan o'zgarishni anglatadi.
 
@@ -54,7 +54,7 @@ TABLE 1.4: Tadbirkorlikni qo'llab-quvvatlash dasturlari samaradorligini baholash
 | DiD | Ikki davr va ikki guruh o'zgarishlarini solishtirish | Parallel trendlar | O'zgarmas kuzatilmaydigan omillarni bartaraf etadi | Panel ma'lumot talab qiladi |
 | PSM-DiD | Moslashtirilgan guruhlar bo'yicha DiD | Shartli parallel trendlar | Ikki usul afzalliklarini birlashtiradi | Ma'lumotga talab yuqori |
 | Regressiya uzilishi | Tanlov chegarasi atrofida taqqoslash | Chegara atrofida uzluksizlik | Ichki asoslanganligi yuqori | Faqat chegara atrofidagi ta'sir |
-NOTE: Manba: {storey2000,khandker2010,gertler2016,iw2009} asosida muallif tomonidan tuzilgan.
+NOTE: Manba: ilmiy adabiyotlar asosida muallif tomonidan tuzilgan{storey2000,khandker2010,gertler2016,iw2009}.
 
 **Natija ko'rsatkichlari muammosi.** Baholash usulini tanlash bilan birga qaysi natija ko'rsatkichi bo'yicha ta'sir baholanishi ham hal qiluvchi ahamiyatga ega. Tadbirkorlikni qo'llab-quvvatlash dasturlarini baholash amaliyotini tahlil qilish natijasida natija ko'rsatkichlarining to'rt guruhini ajratish mumkin: (1) **resurs ko'rsatkichlari** – ajratilgan kredit va subsidiyalar hajmi, qamrab olingan oilalar soni; (2) **bevosita natija ko'rsatkichlari** – ochilgan korxonalar, yaratilgan ish o'rinlari, o'qitilgan shaxslar soni; (3) **monetar ta'sir ko'rsatkichlari** – uy xo'jaligi daromadi va iste'molining o'zgarishi, monetar kambag'allikdan chiqish; (4) **ko'p o'lchovli ta'sir ko'rsatkichlari** – ta'lim, sog'liq, turmush sharoiti va boshqa sohalardagi mahrumliklarning o'zgarishi. Amaliyotda, ayniqsa, MDH mamlakatlarida, baholash asosan birinchi va ikkinchi guruh ko'rsatkichlari bilan cheklanadi.
 
@@ -72,9 +72,36 @@ Beshinchidan, **natijalar barqarorligi kuzatilmaydi**. Qo'llab-quvvatlash olgan 
 
 Oltinchidan, **hududiy farqlar yetarlicha hisobga olinmaydi**. Respublika miqyosida belgilangan mezonlar va ko'rsatkichlar Sirdaryo viloyati kabi agrar xususiyatli, sug'oriladigan yerlar meliorativ holati murakkab va sanoat salohiyati cheklangan hududlar xususiyatlarini to'liq aks ettirmaydi.
 
-Aniqlangan cheklovlarni bartaraf etish uchun biz tadbirkorlikni qo'llab-quvvatlash samaradorligini baholashning **kompleks mezonlar tizimini** taklif etamiz. Unda an'anaviy ko'rsatkichlar saqlanib qolgan holda ular ko'p o'lchovli ta'sir va barqarorlik ko'rsatkichlari bilan to'ldiriladi (1.5-jadval).
+**Natijalar zanjiri va o'zgarishlar nazariyasi.** Har qanday dasturni baholash uning **o'zgarishlar nazariyasi**ni (theory of change) aniqlashtirishdan boshlanadi, ya'ni dastur resurslari qanday faoliyatlar orqali qanday natijalarga olib kelishi va bu jarayonda qanday farazlarga tayanishi aniq ifodalanishi lozim {gertler2016,rossi2019}. Xalqaro amaliyotda buning uchun **natijalar zanjiri** (results chain) yoki **mantiqiy ramka** (logical framework) qo'llaniladi. Natijalar zanjiri beshta bo'g'indan iborat: resurslar (inputs) – faoliyatlar (activities) – bevosita mahsulotlar (outputs) – natijalar (outcomes) – yakuniy ta'sir (impact). Tadbirkorlikni qo'llab-quvvatlash dasturi uchun ishlab chiqilgan natijalar zanjiri 1.2-rasmda keltirilgan.
 
-TABLE 1.5: Tadbirkorlikni qo'llab-quvvatlash samaradorligini baholashning taklif etilayotgan mezonlar tizimi
+FIG 1.2: Tadbirkorlikni qo'llab-quvvatlash dasturining natijalar zanjiri
+Resurslar: byudjet va jamg'arma mablag'lari || bank kredit resurslari || mahalla “yettiligi” xodimlari
+Faoliyatlar: oilalarni aniqlash va ehtiyojlarni o'rganish || kredit va subsidiya ajratish || o'qitish va yer berish
+Bevosita mahsulotlar: qamrab olingan oilalar soni || ajratilgan mablag'lar || o'qitilganlar soni
+Natijalar: yangi faoliyat va ish o'rinlari || daromad va iste'mol o'sishi || aktivlar va malaka
+Yakuniy ta'sir: monetar kambag'allikning qisqarishi || ko'p o'lchovli mahrumliklarning kamayishi || natijalar barqarorligi
+NOTE: Manba: ilmiy adabiyotlar asosida muallif tomonidan ishlab chiqilgan{gertler2016,rossi2019}.
+
+Natijalar zanjirining birinchi uch bo'g'ini dastur ijrochilari tomonidan bevosita nazorat qilinadi va ularni monitoring qilish nisbatan oson. Natijalar va yakuniy ta'sir esa ko'plab tashqi omillarga – iqtisodiy vaziyat, narxlar, ob-havo sharoiti, oilaning o'z harakatlariga – bog'liq bo'lib, ularni baholash qiyosiy guruh va ekonometrik usullarni talab qiladi. O'zbekistondagi amaliyotning asosiy muammosi aynan shunda: hisobotlarda zanjirning birinchi uch bo'g'ini aks ettiriladi, “kambag'allikdan chiqarilgan oilalar soni” esa yakuniy ta'sir ko'rsatkichi sifatida talqin qilinadi, holbuki u dasturdan tashqari omillar ta'sirini ham o'z ichiga oladi.
+
+Natijalar zanjirining har bir bo'g'ini uchun ko'rsatkichlar tizimi 1.5-jadvalda keltirilgan.
+
+TABLE 1.5: Tadbirkorlikni qo'llab-quvvatlash dasturining natijalar zanjiri bo'yicha ko'rsatkichlar tizimi
+| Bo'g'in | Ko'rsatkichlar | Ma'lumot manbai | Kim tomonidan nazorat qilinadi |
+| Resurslar | Ajratilgan mablag'lar hajmi; mutasaddilar soni | Moliyaviy hisobotlar | Dastur ijrochilari |
+| Faoliyatlar | O'rganilgan oilalar soni; ko'rib chiqilgan arizalar | Ma'muriy reyestr | Dastur ijrochilari |
+| Bevosita mahsulotlar | Qo'llab-quvvatlash olgan oilalar; ajratilgan kredit va subsidiyalar; o'qitilganlar | Ma'muriy reyestr, bank ma'lumotlari | Dastur ijrochilari |
+| Natijalar | Faoliyatini davom ettirayotgan oilalar ulushi; daromad o'sishi; ish o'rinlari; kredit qaytarilishi | Monitoring so'rovi | Ijrochilar va tashqi omillar |
+| Yakuniy ta'sir | Monetar va ko'p o'lchovli kambag'allikdan chiqish; zaiflik ehtimolining kamayishi | Qiyosiy guruhli tanlama so'rov, ekonometrik baholash | Asosan tashqi omillar ta'sirida |
+NOTE: Manba: muallif ishlanmasi.
+
+**Xarajat-naf va xarajat-samaradorlik tahlili.** Dastur samaradorligini baholashning iqtisodiy jihati ikki usulda amalga oshiriladi. **Xarajat-naf tahlili** (cost-benefit analysis) dasturning barcha naflari va xarajatlarini pul ifodasida baholab, ularning sof joriy qiymatini taqqoslaydi. Bu usul nazariy jihatdan eng to'liq hisoblanadi, biroq nomonetar naflar – sog'liq, ta'lim, turmush sharoitining yaxshilanishi – ni pul ifodasida baholash murakkab va munozarali. **Xarajat-samaradorlik tahlili** (cost-effectiveness analysis) esa natijalarni natural birliklarda (masalan, kambag'allikdan chiqqan bir oila yoki mahrumlik ballining bir birlikka kamayishi) o'lchab, bir birlik natijaga to'g'ri keladigan xarajatlarni taqqoslaydi {khandker2010}. Ko'p o'lchovli kambag'allik mezonlari bilan ishlashda ikkinchi usul afzalroq, chunki u mahrumliklarni pul ifodasiga keltirishni talab qilmaydi. Shu sababli tadqiqotimizning III bobida qo'llab-quvvatlash turlarining tejamkorligi aynan xarajat-samaradorlik koeffitsiyenti orqali baholanadi.
+
+Xarajatlarni hisoblashda davlatning haqiqiy iqtisodiy xarajatlarini aniqlash muhim. Masalan, imtiyozli kredit uchun davlat xarajati kreditning nominal summasi emas, balki imtiyozli va bozor foiz stavkalari o'rtasidagi farq, kafillik va qaytarilmaslik xavfi bilan bog'liq yo'qotishlar hamda dasturni boshqarish xarajatlaridan iborat. Subsidiyalar uchun esa xarajat uning to'liq summasiga va ma'muriy xarajatlarga teng. Bu farqni hisobga olmaslik kreditlar samaradorligini kam, subsidiyalar samaradorligini esa ortiqcha baholashga olib keladi.
+
+Aniqlangan cheklovlarni bartaraf etish uchun biz tadbirkorlikni qo'llab-quvvatlash samaradorligini baholashning **kompleks mezonlar tizimini** taklif etamiz. Unda an'anaviy ko'rsatkichlar saqlanib qolgan holda ular ko'p o'lchovli ta'sir va barqarorlik ko'rsatkichlari bilan to'ldiriladi (1.6-jadval).
+
+TABLE 1.6: Tadbirkorlikni qo'llab-quvvatlash samaradorligini baholashning taklif etilayotgan mezonlar tizimi
 | Mezonlar guruhi | Ko'rsatkichlar | Baholash usuli | OECD DAC mezoniga muvofiqligi |
 | 1. Maqsadli yo'naltirilganlik | Qo'llab-quvvatlash olganlar orasida ko'p o'lchovli kambag'allar ulushi; kiritish va chiqarish xatolari | Reyestr va so'rovnoma ma'lumotlarini solishtirish | Dolzarblik |
 | 2. Monetar ta'sir | Daromad va iste'mol o'zgarishi; monetar kambag'allikdan chiqish ehtimoli | PSM-DiD | Natijadorlik, ta'sir |
@@ -86,7 +113,11 @@ NOTE: Manba: muallif ishlanmasi.
 
 Ushbu tizimning asosiy afzalligi shundaki, u dastur samaradorligini faqat “qancha resurs sarflandi va qancha oila qamrab olindi” degan savol bilan emas, balki “qo'llab-quvvatlash qaysi oilalarga, qanday mahrumliklarni qanchalik kamaytirdi va bu natija qanchalik barqaror” degan savollar bilan baholash imkonini beradi. Tizimning amaliy qo'llanilishi dissertatsiyaning III bobida Sirdaryo viloyati misolida ko'rsatib beriladi.
 
-CENTER: I bob bo'yicha xulosalar
+**Baholash natijalaridan siyosatda foydalanish.** Dastur samaradorligini baholashning yakuniy maqsadi – siyosat qarorlarini takomillashtirish. Xalqaro amaliyotda **dalillarga asoslangan siyosat** (evidence-based policy) tamoyili keng tarqalgan bo'lib, unga ko'ra dasturlarni kengaytirish, o'zgartirish yoki to'xtatish to'g'risidagi qarorlar ishonchli baholash natijalariga tayanishi lozim {gertler2016}. Bu tamoyilni amalga oshirish uchun baholash dastur loyihalash bosqichidayoq rejalashtirilishi – dastlabki (bazaviy) ma'lumotlar yig'ilishi, qiyosiy guruh shakllantirish imkoniyati ko'zda tutilishi va natija ko'rsatkichlari aniqlanishi – zarur. Baholash dastur yakunlangandan keyin “orqaga qarab” o'tkazilganda uning imkoniyatlari keskin cheklanadi.
+
+So'nggi yillarda **adaptiv boshqaruv** yondashuvi ham keng qo'llanilmoqda. Unda dastur qat'iy reja asosida emas, balki muntazam monitoring natijalariga ko'ra uzluksiz takomillashtiriladi: samarali vositalar kengaytiriladi, samarasizlari qayta ko'rib chiqiladi. U.Isterli ta'kidlaganidek, kambag'allikka qarshi dasturlarning muvaffaqiyati “qidiruvchilar” – mahalliy sharoitni biladigan, natijalarga javobgar va qayta aloqa asosida harakat qiladigan ijrochilar faoliyatiga bog'liq {easterly2006}. Mahalla darajasida ishlaydigan O'zbekiston tizimi bu yondashuv uchun qulay tashkiliy asosga ega, biroq uni amalga oshirish uchun natijalarni o'lchashning standartlashtirilgan vositalari va ma'lumotlarni tahlil qilish tizimi zarur. Tadqiqotimizning III bobida taklif etilayotgan mexanizm aynan shu yondashuvga asoslangan.
+
+## I bob bo'yicha xulosalar
 
 Birinchidan, kambag'allik tushunchasi minimal fiziologik ehtiyojlarni qondira olmaslikdan inson imkoniyatlarining ko'p sohali cheklanganligi sifatida talqin qilinishgacha evolyutsiyani bosib o'tgan. Monetar va ko'p o'lchovli yondashuvlar bir-birini inkor etmaydi, balki o'zaro to'ldiradi. Alkire–Foster usuli o'zining dekompozitsiyalanuvchanligi va o'lchovli monotonligi tufayli dastur ta'sirini baholash va resurslarni maqsadli taqsimlash uchun eng qulay vosita bo'lib, uni o'rta daromadli mamlakat va alohida hudud sharoitiga moslashtirish zarur.
 

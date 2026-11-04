@@ -1,5 +1,5 @@
 % kalit | bibliografik yozuv. "@" — bo'lim sarlavhasi. [[...]] — tekshirilishi lozim bo'lgan ma'lumot.
-@I. Normativ-huquqiy hujjatlar va metodologik ahamiyatga ega nashrlar
+@I. Normativ-huquqiy hujjatlar va metodologik ahamiyatga molik nashrlar
 konst | O'zbekiston Respublikasining Konstitutsiyasi. – T.: O'zbekiston, 2023. – 80 b.
 qonun_tadb | O'zbekiston Respublikasining “Tadbirkorlik faoliyati erkinligining kafolatlari to'g'risida”gi Qonuni (yangi tahriri). 2012-yil 2-maydagi O'RQ-328-son // Qonun hujjatlari ma'lumotlari milliy bazasi (lex.uz).
 qonun_bandlik | O'zbekiston Respublikasining “Aholini ish bilan ta'minlash to'g'risida”gi Qonuni. 2020-yil 20-oktabrdagi O'RQ-642-son // Qonun hujjatlari ma'lumotlari milliy bazasi (lex.uz).
@@ -11,7 +11,7 @@ pf2024 | O'zbekiston Respublikasi Prezidentining “Kambag'allikni qisqartirish 
 pq330 | O'zbekiston Respublikasi Prezidentining “«Kambag'allikdan farovonlik sari» dasturini amalga oshirish bo'yicha birinchi navbatdagi chora-tadbirlar to'g'risida”gi PQ-330-son Qarori. 2024-yil 23-sentabr [[nomi lex.uz orqali tekshirilsin]].
 murojaat2020 | O'zbekiston Respublikasi Prezidenti Sh.M.Mirziyoyevning Oliy Majlisga Murojaatnomasi. 2020-yil 24-yanvar // Xalq so'zi. – 2020. – 25-yanvar.
 un2030 | United Nations. Transforming our world: the 2030 Agenda for Sustainable Development. Resolution A/RES/70/1. – New York: UN General Assembly, 2015. – 35 p.
-@II. Asosiy adabiyotlar
+@II. Monografiyalar, ilmiy maqolalar va ilmiy to'plamlar
 abdurahmonov | Abdurahmonov Q.X. Mehnat iqtisodiyoti: nazariya va amaliyot. Darslik. – T.: Fan, 2019. – 592 b. [[nashr ma'lumotlari tekshirilsin]]
 gulomov | G'ulomov S.S. Tadbirkorlik va kichik biznes. – T.: Sharq, 2002. [[nashr ma'lumotlari tekshirilsin]]
 xodiyev | Xodiyev B.Yu., Qosimova M.S., Samadov A.N. Kichik biznes va xususiy tadbirkorlik. O'quv qo'llanma. – T.: TDIU, 2010. [[nashr ma'lumotlari tekshirilsin]]
@@ -48,6 +48,7 @@ cochran1977 | Cochran W.G. Sampling Techniques. 3rd ed. – New York: John Wiley
 crepon2015 | Crépon B., Devoto F., Duflo E., Parienté W. Estimating the Impact of Microcredit on Those Who Take It Up: Evidence from a Randomized Experiment in Morocco // American Economic Journal: Applied Economics. – 2015. – Vol. 7, No. 1. – P. 123–150.
 deaton1997 | Deaton A. The Analysis of Household Surveys: A Microeconometric Approach to Development Policy. – Baltimore: Johns Hopkins University Press for the World Bank, 1997. – 479 p.
 deaton2013 | Deaton A. The Great Escape: Health, Wealth, and the Origins of Inequality. – Princeton: Princeton University Press, 2013. – 360 p.
+desoto2000 | de Soto H. The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else. – New York: Basic Books, 2000. – 276 p.
 demel2008 | de Mel S., McKenzie D., Woodruff C. Returns to Capital in Microenterprises: Evidence from a Field Experiment // Quarterly Journal of Economics. – 2008. – Vol. 123, No. 4. – P. 1329–1372.
 dgk2007 | Duflo E., Glennerster R., Kremer M. Using Randomization in Development Economics Research: A Toolkit // Handbook of Development Economics. Vol. 4. – Amsterdam: Elsevier, 2007. – P. 3895–3962.
 easterly2006 | Easterly W. The White Man's Burden: Why the West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good. – New York: Penguin Press, 2006. – 436 p.
@@ -71,6 +72,7 @@ mckenzie2014 | McKenzie D., Woodruff C. What Are We Learning from Business Train
 meager2019 | Meager R. Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments // American Economic Journal: Applied Economics. – 2019. – Vol. 11, No. 1. – P. 57–91.
 morduch1999 | Morduch J. The Microfinance Promise // Journal of Economic Literature. – 1999. – Vol. 37, No. 4. – P. 1569–1614.
 mullainathan2013 | Mullainathan S., Shafir E. Scarcity: Why Having Too Little Means So Much. – New York: Times Books, 2013. – 288 p.
+north1990 | North D.C. Institutions, Institutional Change and Economic Performance. – Cambridge: Cambridge University Press, 1990. – 152 p.
 nussbaum2011 | Nussbaum M.C. Creating Capabilities: The Human Development Approach. – Cambridge, MA: Harvard University Press, 2011. – 237 p.
 oecd2007 | OECD. OECD Framework for the Evaluation of SME and Entrepreneurship Policies and Programmes. – Paris: OECD Publishing, 2007. – 166 p.
 oecd2008 | OECD, JRC. Handbook on Constructing Composite Indicators: Methodology and User Guide. – Paris: OECD Publishing, 2008. – 162 p.
@@ -102,7 +104,7 @@ wb2017 | World Bank. Monitoring Global Poverty: Report of the Commission on Glob
 wb2018 | World Bank. Poverty and Shared Prosperity 2018: Piecing Together the Poverty Puzzle. – Washington, DC: World Bank, 2018. – 178 p.
 wb2022uz | World Bank. Toward a Prosperous and Inclusive Future: The Second Systematic Country Diagnostic for Uzbekistan. – Washington, DC: World Bank, 2022. [[nashr ma'lumotlari tekshirilsin]]
 yunus1999 | Yunus M. Banker to the Poor: Micro-Lending and the Battle Against World Poverty. – New York: PublicAffairs, 1999. – 273 p.
-@III. Internet resurslar
+@III. Internet saytlari
 stat_uz | O'zbekiston Respublikasi Prezidenti huzuridagi Statistika agentligi rasmiy sayti. – https://stat.uz
 sirstat | Sirdaryo viloyati statistika boshqarmasi rasmiy sayti. – https://sirstat.uz
 mehnat | O'zbekiston Respublikasi Kambag'allikni qisqartirish va bandlik vazirligi rasmiy sayti. – https://mehnat.uz

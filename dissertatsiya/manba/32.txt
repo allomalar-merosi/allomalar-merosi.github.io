@@ -1,4 +1,4 @@
-## 3.2. Tadbirkorlikni qo'llab-quvvatlashning uy xo'jaliklari kambag'alligiga ta'sirini ekonometrik baholash
+## 3.2-§. Tadbirkorlikni qo'llab-quvvatlashning uy xo'jaliklari kambag'alligiga ta'sirini ekonometrik baholash
 
 Ushbu paragrafning maqsadi tadbirkorlikni qo'llab-quvvatlashning uy xo'jaliklari kambag'alligiga sof ta'sirini, ya'ni umumiy iqtisodiy o'sish, oilalarning dastlabki farqlari va boshqa omillar ta'siridan tozalangan ta'sirini miqdoriy baholashdan iborat. 1.3-paragrafda asoslanganidek, bu maqsad uchun moyillik ko'rsatkichi bo'yicha moslashtirish va farqlar ichidagi farq usullarining birlashmasi (PSM-DiD) qo'llanildi {hit1997,iw2009,ck2008}.
 
@@ -12,6 +12,25 @@ Ushbu paragrafning maqsadi tadbirkorlikni qo'llab-quvvatlashning uy xo'jaliklari
 - Y9 – monetar kambag'allik holati (iste'mol xarajatlari minimal iste'mol xarajatlaridan past bo'lsa 1).
 
 Bunday natija ko'rsatkichlari to'plami qo'llab-quvvatlash ta'sirini monetar va nomonetar o'lchovlar bo'yicha bir vaqtda solishtirish imkonini beradi.
+
+Tahlilda foydalanilgan asosiy o'zgaruvchilarning tavsifi 3.a-jadvalda keltirilgan.
+
+TABLE 3.a: Ekonometrik tahlilda foydalanilgan asosiy o'zgaruvchilar tavsifi
+| O'zgaruvchi | Tavsifi | O'lchov birligi | Davr |
+| D_i | Tadbirkorlikni qo'llab-quvvatlash olganlik belgisi | 1/0 | 2024 |
+| T_i | Qo'llab-quvvatlash turi (0–5) | Kategoriya | 2024 |
+| c_i | MPI-TS bo'yicha mahrumlik balli | 0–1 | 2023, yakuniy |
+| MPI_i | Ko'p o'lchovli kambag'allik holati (c_i ≥ 1/3) | 1/0 | 2023, yakuniy |
+| ln(cons_i) | Jon boshiga oylik iste'mol xarajatlarining logarifmi | ln (ming so'm) | 2023, yakuniy |
+| hhsize | Oila a'zolari soni | Kishi | 2023 |
+| dep | Qaramlik koeffitsiyenti (mehnatga layoqatsizlar / layoqatlilar) | Nisbat | 2023 |
+| age_h, fem_h, edu_h | Oila boshlig'ining yoshi, jinsi, kasbiy ta'limi | Yil; 1/0; 1/0 | 2023 |
+| exp_b | Oldin tadbirkorlik tajribasi | 1/0 | 2023 |
+| land | Tomorqa maydoni | Sotix | 2023 |
+| migr | Mehnat migranti bor oila | 1/0 | 2023 |
+| reg | Kambag'al oilalar reyestrida turganlik | 1/0 | 2023 |
+| dist | Tuman markazigacha masofa | km | – |
+NOTE: Manba: muallif ishlanmasi.
 
 **Birinchi bosqich: moyillik ko'rsatkichini baholash.** Uy xo'jaligining qo'llab-quvvatlash olish ehtimoli dastlabki davrdagi xususiyatlari asosida logit model yordamida baholandi (1.9-formula). Modelga qo'llab-quvvatlash olishga ham, natija ko'rsatkichlariga ham ta'sir qilishi mumkin bo'lgan, biroq qo'llab-quvvatlashning o'zi ta'sir ko'rsatmagan (ya'ni dastlabki davrda o'lchangan) o'zgaruvchilar kiritildi {ck2008}. Baholash natijalari 3.5-jadvalda keltirilgan.
 
@@ -59,6 +78,12 @@ TABLE 3.6: Moslashtirishgacha va moslashtirishdan keyingi kovariatlar balansi
 | O'rtacha mutlaq SB | [[__]] | [[__]] | [[__]] |
 | Psevdo-R² (moslashtirilgan tanlanmada) | [[__]] | [[__]] | – |
 NOTE: Manba: muallif hisob-kitoblari.
+
+**Identifikatsiya farazlari va ularning asoslanganligi.** PSM-DiD bahosining ishonchliligi ikki asosiy farazga tayanadi. Birinchisi – **shartli parallel trendlar farazi**: dastlabki xususiyatlari bir xil bo'lgan oilalarda, qo'llab-quvvatlash bo'lmaganida, natija ko'rsatkichlari bir xil sur'atda o'zgargan bo'lar edi. Bu faraz bevosita tekshirilmaydi, biroq uni ikki yo'l bilan qo'llab-quvvatlash mumkin: qo'llab-quvvatlashgacha bo'lgan davrdagi trendlarni solishtirish (placebo testi) va qiyosiy guruhni bir xil mahallalardan tanlash orqali mahalliy iqtisodiy zarbalarning ikki guruhga bir xil ta'sir qilishini ta'minlash. Ikkinchisi – **umumiy qo'llab-quvvatlash sohasi farazi**: har bir ishtirokchi uchun o'xshash moyillik ko'rsatkichiga ega qiyosiy kuzatuv mavjud bo'lishi kerak. Bu faraz moyillik ko'rsatkichlari taqsimotini grafik va statistik solishtirish orqali tekshiriladi.
+
+Bundan tashqari, **o'zaro ta'sirsizlik farazi** (SUTVA) ham muhim: bir oilaning qo'llab-quvvatlash olishi boshqa oilalar natijalariga ta'sir qilmasligi kerak. Mahalla sharoitida bu faraz buzilishi mumkin: masalan, qo'llab-quvvatlash olgan oila yangi ish o'rinlari yaratib, qo'shnilarni ishga olsa yoki aksincha, mahalliy bozorda raqobatni kuchaytirib, boshqa kichik ishlab chiqaruvchilarning daromadini kamaytirsa. Birinchi holatda dastur ta'siri kam baholanadi, ikkinchisida esa oshirib ko'rsatiladi. Bu muammoni qisman hal qilish uchun mustahkamlik tahlilida qo'llab-quvvatlash qamrovi yuqori va past bo'lgan mahallalardagi qiyosiy guruh natijalari solishtirildi.
+
+**Tadqiqotning cheklovlari.** Natijalarni talqin qilishda tadqiqotning quyidagi cheklovlarini hisobga olish lozim. Birinchidan, dastlabki davr ma'lumotlarining bir qismi retrospektiv savollar asosida yig'ilgan bo'lib, ular eslab qolish xatolariga moyil; bu cheklovni kamaytirish uchun retrospektiv savollar obyektiv va oson eslab qolinadigan ko'rsatkichlar bilan cheklandi va reyestr ma'lumotlari bilan solishtirildi. Ikkinchidan, ta'sir qo'llab-quvvatlashdan keyingi qisqa davr uchun baholangan; ba'zi vositalarning ta'siri uzoq muddatda kuchayishi yoki, aksincha, so'nishi mumkin. Uchinchidan, tanlanma bitta viloyat bilan cheklangan va natijalarni boshqa hududlarga umumlashtirishda ehtiyotkorlik talab etiladi. To'rtinchidan, PSM-DiD usuli kuzatilmaydigan va vaqt bo'yicha o'zgaruvchan omillar tufayli og'ishni to'liq bartaraf etmaydi; bu cheklov sezgirlik tahlili orqali baholandi.
 
 **Uchinchi bosqich: farqlar ichidagi farq bahosi.** Moslashtirilgan tanlanmada ta'sir quyidagi regressiya modeli bilan baholandi:
 

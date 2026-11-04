@@ -1,4 +1,4 @@
-## 3.4. Mahalla darajasida qo'llab-quvvatlash resurslarini maqsadli taqsimlash mexanizmini takomillashtirish va prognoz ssenariylari
+## 3.4-§. Mahalla darajasida qo'llab-quvvatlash resurslarini maqsadli taqsimlash mexanizmini takomillashtirish va prognoz ssenariylari
 
 2.2-paragrafda o'tkazilgan tahlil qo'llab-quvvatlash resurslarining hududlar va mahallalar bo'yicha taqsimlanishi asosan monetar kambag'allik ko'lamiga asoslanishini, kambag'allik intensivligi, mahrumliklar tarkibi va oldingi qo'llab-quvvatlash samaradorligi esa hisobga olinmasligini ko'rsatdi. 3.1–3.3-paragraflarda ishlab chiqilgan MPI-TS indeksi, ta'sir baholari va samaradorlik matritsasi bu kamchiliklarni bartaraf etuvchi taqsimlash mexanizmini yaratish uchun zarur vositalarni taqdim etadi. Ushbu paragrafda ana shunday mexanizm taklif etiladi va uning qo'llanilishi natijasida Sirdaryo viloyatida kambag'allikni qisqartirishning 2030-yilgacha bo'lgan prognoz ssenariylari asoslanadi.
 
@@ -101,6 +101,33 @@ NOTE: Manba: muallif hisob-kitoblari.
 
 Ko'p o'lchovli kambag'allik ko'rsatkichlarining qisqarish sur'ati monetar kambag'allikka nisbatan sekinroq bo'lishi kutiladi, chunki infratuzilma bilan bog'liq mahrumliklar (ichimlik suvi, energiya ta'minoti) tadbirkorlikni qo'llab-quvvatlash orqali bartaraf etilmaydi va alohida investitsiya dasturlarini talab qiladi. Shu sababli maqsadli ssenariyni amalga oshirish uchun tadbirkorlikni qo'llab-quvvatlash dasturlarini mahalla infratuzilmasini rivojlantirish dasturlari bilan muvofiqlashtirish zarur: 3.13-jadvaldagi VI profil oilalari yashaydigan mahallalar infratuzilma dasturlarida ustuvor bo'lishi lozim.
 
+**Monitoring va baholash ko'rsatkichlari tizimi.** Taklif etilayotgan mexanizmning samarali ishlashi uchun natijalarni muntazam kuzatish va baholash tizimi zarur. Biz 1.3-paragrafda taklif etilgan mezonlar tizimi (1.6-jadval) asosida mahalla, tuman va viloyat darajalarida qo'llaniladigan asosiy ko'rsatkichlar (KPI) to'plamini ishlab chiqdik (3.18-jadval).
+
+TABLE 3.18: Tadbirkorlikni qo'llab-quvvatlash samaradorligini monitoring qilishning asosiy ko'rsatkichlari
+| Ko'rsatkich | Hisoblash usuli | Davriyligi | Mas'ul |
+| Maqsadli yo'naltirish aniqligi | Qo'llab-quvvatlash olganlar orasida ko'p o'lchovli kambag'al oilalar ulushi | Yarim yillik | Tuman bandlik markazi |
+| Qamrov kamomadi | Qo'llab-quvvatlash olmagan ko'p o'lchovli kambag'al oilalar ulushi | Yarim yillik | Mahalla “yettiligi” |
+| Mahrumlik ballining o'zgarishi | Qo'llab-quvvatlash olgan oilalarda c_i ning 12 oydagi o'rtacha o'zgarishi | Yillik | Mahalla “yettiligi” |
+| Ko'p o'lchovli kambag'allikdan chiqish darajasi | c_i < 1/3 holatiga o'tgan oilalar ulushi | Yillik | Tuman bandlik markazi |
+| Faoliyatning davom etishi | 12 va 24 oydan keyin faoliyatini davom ettirayotgan oilalar ulushi | Yillik | Tuman bandlik markazi, banklar |
+| Kredit qaytarilishi | Muddati o'tgan qarzdorlik ulushi | Choraklik | Banklar |
+| Qayta kambag'allikka tushish | Reyestrdan chiqib, 24 oy ichida qayta kiritilgan oilalar ulushi | Yillik | Viloyat boshqarmasi |
+| Tejamkorlik | Davlat xarajatlarining 10 mln so'mi hisobiga mahrumlik ballining kamayishi | Yillik | Viloyat boshqarmasi |
+NOTE: Manba: muallif ishlanmasi.
+
+Ushbu ko'rsatkichlar tizimi, birinchidan, natijalar zanjirining barcha bo'g'inlarini qamrab oladi; ikkinchidan, mahalla darajasidan viloyat darajasigacha agregatsiyalanadi; uchinchidan, monetar, ko'p o'lchovli va barqarorlik jihatlarini birlashtiradi. Ko'rsatkichlarning ko'pchiligi qisqa so'rovnoma va mavjud reyestrlar asosida qo'shimcha xarajatsiz hisoblanishi mumkin.
+
+**Joriy etish xavflari va ularni kamaytirish choralari.** Har qanday yangi mexanizmni joriy etish muayyan xavflar bilan bog'liq. Ularni oldindan aniqlash va kamaytirish choralarini belgilash mexanizmning muvaffaqiyatli amalga oshirilishi uchun muhim (3.19-jadval).
+
+TABLE 3.19: Taklif etilayotgan mexanizmni joriy etish xavflari va ularni kamaytirish choralari
+| Xavf | Mazmuni | Kamaytirish choralari |
+| Ma'lumotlar sifati | Mahalla darajasidagi so'rovnomada javoblarning noto'g'ri qayd etilishi yoki oilalarning o'z ahvolini yomonroq ko'rsatishga intilishi | Obyektiv tekshiriladigan indikatorlardan foydalanish; tanlama nazorat tekshiruvlari; reyestrlar bilan solishtirish |
+| Strategik xulq | Oilalarning qo'llab-quvvatlash olish uchun mahrumlik ballini sun'iy oshirishga urinishi | Indikatorlarning asosan kuzatiladigan belgilarga asoslanishi; jamoatchilik nazorati |
+| Ma'muriy yuklama | Mahalla xodimlari ish hajmining ortishi | Qisqa so'rovnoma (25 savol); elektron shakl va avtomatik hisoblash |
+| Idoralararo muvofiqlik | Turli idoralarning ma'lumot almashishga tayyor emasligi | Yagona identifikator asosida reyestrlarni integratsiya qilish; idoralararo kelishuvlar |
+| Natijalarni noto'g'ri talqin qilish | Ko'p o'lchovli ko'rsatkichlarning sekin o'zgarishi tufayli dasturning “samarasiz” deb baholanishi | Monetar va ko'p o'lchovli ko'rsatkichlarni birgalikda taqdim etish; o'rta muddatli baholash davri |
+NOTE: Manba: muallif ishlanmasi.
+
 **Mexanizmni joriy etish bo'yicha tavsiyalar.** Taklif etilayotgan mexanizmni amaliyotga bosqichma-bosqich joriy etish maqsadga muvofiq:
 
 - **birinchi bosqich (tajriba-sinov)** – viloyatning 2–3 ta tumanida mahalla “yettiligi” tomonidan qisqa so'rovnoma asosida MPI-TS mahrumlik ballarini hisoblash, ularni kambag'al oilalar reyestriga qo'shimcha ma'lumot sifatida kiritish;
@@ -109,9 +136,19 @@ Ko'p o'lchovli kambag'allik ko'rsatkichlarining qisqarish sur'ati monetar kambag
 
 Tajriba-sinov bosqichini randomizatsiyalangan yoki bosqichma-bosqich joriy etish (stepped-wedge) dizayni asosida tashkil etish mexanizm samaradorligini ishonchli baholash imkonini beradi {dgk2007,gertler2016}.
 
+Mexanizmni joriy etish bo'yicha yo'l xaritasi 3.20-jadvalda keltirilgan.
+
+TABLE 3.20: Ko'p o'lchovli mezonlar asosidagi taqsimlash mexanizmini Sirdaryo viloyatida joriy etish yo'l xaritasi
+| Bosqich va muddat | Asosiy tadbirlar | Mas'ul ijrochilar | Kutilayotgan natija |
+| 1. Tayyorgarlik (2026-yil) | Qisqa so'rovnoma va hisoblash dasturini tasdiqlash; mahalla xodimlarini o'qitish | Viloyat boshqarmasi, oliy ta'lim muassasasi | Metodik hujjatlar va o'qitilgan xodimlar |
+| 2. Tajriba-sinov (2027-yil) | 2–3 tumanda MPI-TS ballarini hisoblash; resurslarni yangi qoida bo'yicha taqsimlash | Tuman hokimliklari, mahalla “yettiligi” | Tajriba-sinov natijalari, qiyosiy baholash |
+| 3. Baholash va tuzatish (2028-yil) | Tajriba-sinov natijalarini qiyosiy tumanlar bilan solishtirish; samaradorlik matritsasini yangilash | Viloyat boshqarmasi, tadqiqotchilar | Tuzatilgan mexanizm va me'yoriy hujjat loyihasi |
+| 4. Kengaytirish (2029–2030-yillar) | Mexanizmni barcha tumanlarga joriy etish; reyestrdan chiqarishning ko'p o'lchovli mezonini qo'llash | Viloyat hokimligi, tuman hokimliklari | Maqsadli ssenariy ko'rsatkichlariga erishish |
+NOTE: Manba: muallif ishlanmasi.
+
 Shunday qilib, taklif etilayotgan mexanizm resurslarni mahallalar va oilalar o'rtasida ko'p o'lchovli kambag'allik intensivligi, qamrov kamomadi va kutilayotgan samaradorlik asosida taqsimlash, vositani oilaning mahrumlik profiliga moslashtirish va natijalar asosida o'z-o'zini takomillashtirish imkonini beradi. Prognoz ssenariylari uning to'liq joriy etilishi 2030-yilga qadar viloyatda kambag'allik darajasini inersion ssenariyga nisbatan sezilarli darajada qisqartirishga xizmat qilishini ko'rsatadi.
 
-CENTER: III bob bo'yicha xulosalar
+## III bob bo'yicha xulosalar
 
 Birinchidan, Sirdaryo viloyati sharoitiga moslashtirilgan, beshta o'lchov (ta'lim, sog'liq, turmush sharoiti, bandlik, tadbirkorlik salohiyati) va 14 ta indikatordan iborat MPI-TS indeksi ishlab chiqildi. Uning global MPIdan asosiy farqi – tadbirkorlik salohiyati o'lchovining kiritilishi bo'lib, u indeksni qo'llab-quvvatlash dasturlari ta'siriga sezgir qiladi. Indeks vaznlar, chegaralar va indikatorlar tarkibiga nisbatan mustahkamlik testlaridan o'tkazildi.
 

@@ -1,6 +1,6 @@
 #CH III BOB. KO'P O'LCHOVLI MEZONLAR ASOSIDA TADBIRKORLIKNI QO'LLAB-QUVVATLASH SAMARADORLIGINI BAHOLASH METODIKASINI TAKOMILLASHTIRISH
 
-## 3.1. Hududiy sharoitga moslashtirilgan ko'p o'lchovli kambag'allik indeksini ishlab chiqish
+## 3.1-§. Hududiy sharoitga moslashtirilgan ko'p o'lchovli kambag'allik indeksini ishlab chiqish
 
 Ikkinchi bobda o'tkazilgan tahlil global MPI tuzilishiga asoslangan standart indeks Sirdaryo viloyati sharoitida kambag'allikni yetarli darajada aks ettirmasligini ko'rsatdi. Shu sababli tadqiqotning muhim vazifalaridan biri – hududiy sharoitga moslashtirilgan va tadbirkorlikni qo'llab-quvvatlash samaradorligini baholash maqsadlariga mos keluvchi ko'p o'lchovli kambag'allik indeksini ishlab chiqishdan iborat. Biz ushbu indeksni **tadbirkorlik salohiyatini hisobga oluvchi ko'p o'lchovli kambag'allik indeksi (MPI-TS)** deb nomladik.
 
@@ -34,6 +34,24 @@ TABLE 3.1: Hududiy sharoitga moslashtirilgan ko'p o'lchovli kambag'allik indeksi
 | Tadbirkorlik salohiyati (1/5) | 13. Moliyaviy inklyuziya | Hech bir a'zoda bank hisobvarag'i yoki bank kartasi bo'lmasa va oila rasmiy moliya tashkilotidan hech qachon kredit olmagan bo'lsa | 1/15 |
 | Tadbirkorlik salohiyati (1/5) | 14. Kasbiy malaka | Mehnatga layoqatli a'zolardan hech biri hujjat bilan tasdiqlangan kasbiy malaka yoki sertifikatga ega bo'lmasa | 1/15 |
 NOTE: Manba: muallif ishlanmasi.
+
+**Indikatorlarni tanlash asoslari.** MPI-TS indeksining har bir indikatori nazariy asoslanganlik, hududiy dolzarblik va siyosatga sezgirlik mezonlari bo'yicha alohida asoslandi.
+
+//Kasbiy ta'lim darajasi// indikatori global MPIdagi “ta'lim yillari” indikatorining o'rta daromadli mamlakat sharoitiga moslashtirilgan shaklidir. O'zbekistonda umumiy o'rta ta'lim majburiy va deyarli universal bo'lgani sababli ta'lim yillari bo'yicha mahrumlik amalda kuzatilmaydi. Biroq mehnat bozorida raqobatbardoshlik va tadbirkorlik faoliyatini yuritish uchun kasbiy ta'lim hal qiluvchi ahamiyatga ega. Oilada kamida bitta kasbiy ma'lumotli a'zoning mavjudligi oilaning yangi bilim va texnologiyalarni o'zlashtirish imkoniyatini ham aks ettiradi.
+
+//Bolalar ta'limi// indikatori kambag'allikning avloddan avlodga o'tishini aks ettiradi. Maktabgacha ta'limga qamrab olinmaslik bolaning keyingi ta'lim natijalariga salbiy ta'sir qiladi va onaning iqtisodiy faolligini cheklaydi. Shu sababli indikatorga 3–6 yoshli bolalarning maktabgacha ta'lim bilan qamrovi ham kiritildi.
+
+//Tibbiy xizmatdan foydalanish// indikatori global MPIdagi bolalar o'limi indikatori o'rniga kiritildi. O'zbekistonda bolalar o'limi darajasi nisbatan past bo'lib, kichik tanlanmada bu indikator statistik jihatdan ishonchli baholanmaydi. Moliyaviy sabablarga ko'ra tibbiy yordamdan voz kechish esa kambag'allikning sog'liqqa ta'sirini bevosita aks ettiradi va tibbiy xarajatlar oilani kambag'allikka tushiruvchi asosiy zarbalardan biri ekanini hisobga oladi.
+
+//Oziq-ovqat xavfsizligi// indikatori global MPIdagi ovqatlanish indikatorining antropometrik o'lchovlarsiz aniqlanadigan muqobilidir. Antropometrik o'lchovlar (bo'y, vazn) mahalla darajasidagi so'rovnomalarda amalga oshirib bo'lmaydi, oziq-ovqat iste'molini cheklashga majbur bo'lish to'g'risidagi savollar esa xalqaro amaliyotda keng qo'llaniladi va oila daromadining o'zgarishiga tez ta'sirchan.
+
+//Ichimlik suvi, sanitariya va energiya ta'minoti// indikatorlarida faqat tarmoqqa ulanganlik emas, balki ta'minotning muntazamligi ham hisobga olindi. Viloyat sharoitida asosiy muammo – xonadonlarning tarmoqqa ulanmaganligi emas, balki xizmatlarning uzilishlar bilan ko'rsatilishi. //Uy-joy zichligi// indikatori esa global MPIdagi uy-joy materiallari indikatori o'rniga kiritildi, chunki viloyatda uy-joy materiallari bo'yicha mahrumlik kam uchraydi, ko'p avlodli katta oilalarning cheklangan maydonda yashashi esa keng tarqalgan.
+
+//Bandlik// o'lchovining uchta indikatori bandlikning mavjudligi, sifati va yoshlar bandligini aks ettiradi. //Barqaror bandlik// indikatori oilada yil davomida doimiy daromad manbai mavjudligini, //bandlik sifati// indikatori norasmiy va mavsumiy ishlarning ustunligini, //yoshlar bandligi// indikatori esa na o'qiyotgan, na ishlayotgan yoshlar muammosini ifodalaydi. Oxirgi indikator kambag'allikning kelajakdagi xavfini ko'rsatuvchi muhim signal hisoblanadi.
+
+//Tadbirkorlik salohiyati// o'lchovining indikatorlari tadbirkorlik faoliyatini boshlash va yuritish uchun zarur bo'lgan uchta asosiy resursni aks ettiradi: jismoniy kapital (ishlab chiqarish aktivlari), moliyaviy kapital (moliyaviy xizmatlardan foydalanish) va inson kapitali (kasbiy malaka). Bu indikatorlar 1.2-paragrafda ko'rib chiqilgan moliyaviy cheklovlar, aktivlarga asoslangan kambag'allik tuzog'i va inson kapitali nazariyalariga asoslanadi {evans1989,banerjee_newman1993,barrett2013}. Ular qo'llab-quvvatlash vositalari bilan bevosita bog'liq: subsidiya va yer ajratish – ishlab chiqarish aktivlariga, kredit – moliyaviy inklyuziyaga, kasbga o'qitish – kasbiy malakaga ta'sir qiladi.
+
+MPI-TS indeksining global MPIdan asosiy farqlari quyidagilardan iborat: o'lchovlar soni uchtadan beshtaga oshirildi; o'n indikatordan to'rttasi (maktabga qatnash, sanitariya, ichimlik suvi, ovqatlanish) mazmunan saqlangan holda chegaralari viloyat sharoitiga moslashtirildi; olti indikator (ta'lim yillari, bolalar o'limi, yoqilg'i, elektr energiyasi, uy-joy materiallari, aktivlar) o'rniga viloyat uchun dolzarbroq indikatorlar kiritildi; bandlik va tadbirkorlik salohiyati bo'yicha olti yangi indikator qo'shildi. Shu bilan birga, hisoblash usuli, vazn berish tamoyili va kambag'allik chegarasi global MPI bilan bir xil saqlanib, metodologik izchillik ta'minlandi.
 
 **Vaznlarni tanlash.** Indeksda “ichma-ich teng vaznlar” tamoyili qo'llanildi: beshta o'lchovning har biriga 1/5 vazn berilib, o'lchov ichida indikatorlarga teng taqsimlandi. Bu yondashuv global MPI va ko'plab milliy indekslarda qo'llaniladi va uning asosiy afzalligi shaffofligi va me'yoriy jihatdan neytralligidir: hech bir o'lchov boshqasidan muhimroq deb hisoblanmaydi {alkire2015}. Vaznlarni ma'lumotlarga asoslangan statistik usullar (masalan, bosh komponentlar tahlili) bilan aniqlash ham mumkin, biroq bunday vaznlar indikatorlar o'rtasidagi korrelyatsiyani aks ettiradi va ularning normativ ahamiyatini ifodalamaydi {oecd2008}. Shu sababli statistik vaznlar asosiy variant sifatida emas, balki mustahkamlik tekshiruvi sifatida qo'llanildi.
 

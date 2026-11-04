@@ -1,6 +1,6 @@
 #CH II BOB. SIRDARYO VILOYATIDA TADBIRKORLIKNI QO'LLAB-QUVVATLASH VA KAMBAG'ALLIKNI QISQARTIRISH HOLATINING TAHLILI
 
-## 2.1. O'zbekistonda kambag'allikni qisqartirish va tadbirkorlikni qo'llab-quvvatlash davlat siyosatining institutsional asoslari
+## 2.1-§. O'zbekistonda kambag'allikni qisqartirish va tadbirkorlikni qo'llab-quvvatlash davlat siyosatining institutsional asoslari
 
 O'zbekistonda kambag'allikni qisqartirish va tadbirkorlikni qo'llab-quvvatlash siyosati so'nggi o'n yilda tub institutsional o'zgarishlarni boshdan kechirdi. Ushbu o'zgarishlarni tahlil qilish Sirdaryo viloyatida amalga oshirilayotgan dasturlar samaradorligini baholash uchun zarur kontekstni yaratadi, chunki hududiy darajadagi choralar respublika miqyosida belgilangan huquqiy asoslar, moliyalashtirish manbalari va boshqaruv tuzilmasi doirasida amalga oshiriladi.
 
@@ -31,7 +31,23 @@ TABLE 2.1: Kambag'allikni qisqartirish va tadbirkorlikni qo'llab-quvvatlashga oi
 | “O'zbekiston – 2030” strategiyasi (PF-158) | 11.09.2023 | Kambag'allikni qisqartirish va farovonlikni oshirishning uzoq muddatli maqsadlari |
 | Kambag'allikni qisqartirish chora-tadbirlarini yangi bosqichga olib chiqish to'g'risidagi Farmon | 23.09.2024 | Oilaga yo'naltirilgan kompleks yondashuv, kambag'al oilalar reyestri |
 | “Kambag'allikdan farovonlik sari” dasturi bo'yicha Qaror (PQ-330) | 23.09.2024 | Dasturning birinchi navbatdagi chora-tadbirlari |
-NOTE: Manba: {lex} ma'lumotlari asosida muallif tomonidan tuzilgan.
+NOTE: Manba: Qonun hujjatlari ma'lumotlari milliy bazasi asosida muallif tomonidan tuzilgan{lex}.
+
+**Kambag'allikni qisqartirish siyosatining respublika miqyosidagi natijalari.** Amalga oshirilgan chora-tadbirlar natijasida mamlakatda kambag'allik darajasi sezilarli qisqardi. 2020-yilda Oliy Majlisga Murojaatnomada aholining 12–15 foizi kambag'al ekani qayd etilgan bo'lsa {murojaat2020}, rasmiy ma'lumotlarga ko'ra kambag'allik darajasi 2022-yilda 14 foizni, 2025-yilda esa 5,8 foizni tashkil etdi. Demak, 2022–2025-yillarda kambag'allik darajasi 2,4 barobar qisqargan va Yangi O'zbekistonning taraqqiyot strategiyasida 2026-yil yakuniga qadar belgilangan uni kamida ikki barobar qisqartirish maqsadiga muddatidan oldin erishilgan {pf60}. Respublika bo'yicha kambag'allik darajasi dinamikasi 2.f-jadvalda keltirilgan.
+
+TABLE 2.f: O'zbekistonda kambag'allik darajasi va unga ta'sir etuvchi asosiy makroiqtisodiy ko'rsatkichlar dinamikasi
+| Ko'rsatkichlar | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Kambag'allik darajasi, % | [[__]] | 14,0 | [[__]] | [[__]] | 5,8 |
+| Kambag'allik chegarasi (minimal iste'mol xarajatlari), ming so'm/oy | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| YaIM real o'sish sur'ati, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Aholi jon boshiga real daromadlar o'sishi, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Ishsizlik darajasi, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+| Iste'mol narxlari indeksi, % | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
+NOTE: Manba: Statistika agentligi ma'lumotlari asosida muallif tomonidan tuzilgan{stat_uz}.
+
+Kambag'allikning bunday tez sur'atda qisqarishini bir nechta omillar bilan izohlash mumkin. Birinchidan, iqtisodiyotning barqaror o'sishi va aholining real daromadlari oshishi. Ikkinchidan, ijtimoiy himoya tizimining kengayishi: kam ta'minlangan oilalarga beriladigan nafaqalar qamrovi va miqdorining oshirilishi. Uchinchidan, mehnat migratsiyasidan tushadigan pul o'tkazmalarining o'sishi. To'rtinchidan, bandlik va tadbirkorlikni qo'llab-quvvatlash dasturlari. Ushbu omillarning har birining kambag'allikni qisqartirishdagi ulushi rasmiy statistikada ajratib ko'rsatilmaydi. Biroq siyosat nuqtayi nazaridan aynan shu masala muhim: agar kambag'allikning qisqarishi asosan ijtimoiy to'lovlar va pul o'tkazmalari hisobiga bo'lsa, u tashqi zarbalarga nisbatan zaif bo'ladi; agar u oilalarning o'z daromad manbalari – bandlik va tadbirkorlik – hisobiga bo'lsa, natijalar barqarorroq bo'ladi. Shu sababli tadbirkorlikni qo'llab-quvvatlashning sof ta'sirini baholash nafaqat ilmiy, balki strategik ahamiyatga ega.
+
+Kambag'allik darajasining pasayishi bilan birga kambag'allikda qolayotgan aholining tarkibi ham o'zgaradi. Xalqaro tajriba kambag'allik darajasi past bo'lgan bosqichda kambag'allarning asosiy qismini mehnat bozoriga kirishi qiyin bo'lgan guruhlar – nogironligi bor shaxslar, ko'p bolali va to'liq bo'lmagan oilalar, qariyalar, malakasiz yoshlar va chekka qishloq aholisi – tashkil etishini ko'rsatadi {wb2018,ravallion2016}. Bu guruhlar uchun an'anaviy tadbirkorlikni qo'llab-quvvatlash vositalari kamroq samarali bo'lib, ularga kompleks va individual yondashuv zarur. Mazkur o'zgarish kambag'allikni qisqartirish siyosatining keyingi bosqichida ko'p o'lchovli mezonlar va oilaning mahrumlik profiliga asoslangan maqsadli yo'naltirish zaruriyatini kuchaytiradi.
 
 Hozirgi kunda kambag'allikni qisqartirish va tadbirkorlikni qo'llab-quvvatlash tizimi ko'p darajali boshqaruv tuzilmasiga ega (2.1-rasm). Respublika darajasida siyosatni ishlab chiqish va muvofiqlashtirish vakolatli vazirlik tomonidan amalga oshiriladi; moliyaviy resurslar davlat jamg'armalari, tijorat banklari va mahalliy byudjetlar orqali yo'naltiriladi. Viloyat va tuman darajasida hokimliklar hamda bandlikka ko'maklashish organlari dasturlarni amalga oshirishni tashkil etadi. Mahalla darajasida esa “yettilik” tarkibidagi mutasaddilar oilalarni aniqlash, ularning ehtiyojlarini o'rganish va qo'llab-quvvatlash vositalarini taklif etish bilan shug'ullanadi.
 
@@ -64,6 +80,45 @@ TABLE 2.2: Tadbirkorlikni qo'llab-quvvatlash vositalarining qiyosiy tavsifi
 | Kasbga o'qitish | Ishsiz yoshlar va ayollar | Malaka va ko'nikma tanqisligi | Ish o'rni topilmasligi | Ta'lim, bandlik, tadbirkorlik salohiyati |
 | Yer ajratish | Qishloq joylaridagi oilalar | Yer resursi tanqisligi | Suv ta'minoti, sotish imkoniyati | Bandlik, oziq-ovqat xavfsizligi |
 NOTE: Manba: muallif ishlanmasi.
+
+**Kambag'al oilalar bilan ishlash jarayoni.** Amaldagi tizimda kambag'al oilalarni qo'llab-quvvatlash jarayonini bir necha bosqichga ajratish mumkin (2.a-rasm). Birinchi bosqichda mahalla “yettiligi” xonadonma-xonadon yurish, aholining murojaatlari va idoralararo ma'lumotlar almashinuvi asosida kambag'allikka uchragan yoki uning xavfi ostidagi oilalarni aniqlaydi. Ikkinchi bosqichda oilaning ijtimoiy-iqtisodiy ahvoli, a'zolarining ta'lim va malakasi, sog'lig'i, mavjud aktivlari va kambag'allik sabablari o'rganiladi. Uchinchi bosqichda oila kambag'al oilalar reyestriga kiritiladi va uning uchun individual chora-tadbirlar belgilanadi. To'rtinchi bosqichda qo'llab-quvvatlash vositalari – ishga joylashtirish, kasbga o'qitish, subsidiya, kredit, yer ajratish yoki ijtimoiy yordam – amalga oshiriladi. Beshinchi bosqichda oila daromadi belgilangan darajadan oshganda u reyestrdan chiqariladi.
+
+FIG 2.a: Kambag'al oilalarni qo'llab-quvvatlashning amaldagi jarayoni
+1. Aniqlash: xonadonma-xonadon o'rganish || aholi murojaatlari || idoralararo ma'lumotlar
+2. O'rganish: oila tarkibi va daromadi || a'zolarning malakasi va sog'lig'i || kambag'allik sabablari
+3. Reyestrga kiritish va individual chora-tadbirlarni belgilash
+4. Qo'llab-quvvatlash: ishga joylashtirish || kasbga o'qitish || subsidiya va kredit || yer ajratish || ijtimoiy yordam
+5. Reyestrdan chiqarish: daromad belgilangan darajadan oshganda
+NOTE: Manba: amaldagi normativ-huquqiy hujjatlar asosida muallif tomonidan tuzilgan.
+
+Ushbu jarayonning ikkinchi bosqichida oila ahvoli ko'p tomonlama o'rganilsa-da, olingan ma'lumotlar standartlashtirilgan indikatorlar tizimiga keltirilmaydi va oilalarni ustuvorlashtirish yoki qo'llab-quvvatlash natijalarini baholash uchun miqdoriy ko'rsatkich sifatida ishlatilmaydi. Beshinchi bosqichdagi chiqarish mezoni esa faqat daromadga asoslanadi. Boshqacha aytganda, jarayonning “kirish” qismida kambag'allik ko'p o'lchovli hodisa sifatida e'tirof etilsa-da, uning “chiqish” qismida bir o'lchovli mezon qo'llaniladi. Bu nomuvofiqlik dissertatsiyada taklif etilayotgan metodik yondashuvning asosiy obyekti hisoblanadi.
+
+Amaldagi yondashuv va ko'p o'lchovli yondashuvning jarayon bosqichlari bo'yicha qiyosiy tavsifi 2.b-jadvalda keltirilgan.
+
+TABLE 2.b: Kambag'al oilalar bilan ishlash bosqichlarida amaldagi va ko'p o'lchovli yondashuvlar qiyosi
+| Jarayon bosqichi | Amaldagi yondashuv | Ko'p o'lchovli yondashuv (taklif) |
+| Aniqlash | Mahalla xodimlarining kuzatuvi va murojaatlar | Kuzatuv + standartlashtirilgan qisqa so'rovnoma |
+| O'rganish | Erkin shakldagi tavsif | 14 ta indikator bo'yicha mahrumlik profili va ball |
+| Ustuvorlashtirish | Mutasaddining baholashi | Mahrumlik balli va monetar holat asosida tartiblash |
+| Vosita tanlash | Mavjud limitlar va tajriba | Mahrumlik profili va samaradorlik matritsasi |
+| Monitoring | Daromad o'zgarishi | Mahrumlik balli, daromad va faoliyat davomiyligi |
+| Reyestrdan chiqarish | Daromad belgilangan darajadan oshishi | Daromad + mahrumlik balli + zaiflik ehtimoli |
+NOTE: Manba: muallif ishlanmasi.
+
+**Moliyalashtirish manbalari va mexanizmlari.** Kambag'al oilalarni tadbirkorlik orqali qo'llab-quvvatlash bir nechta manbalardan moliyalashtiriladi: davlat byudjeti va maqsadli jamg'armalar mablag'lari, tijorat banklarining imtiyozli kredit liniyalari, mahalliy byudjetlarning qo'shimcha manbalari hamda xalqaro moliya institutlarining kredit va grant resurslari. Tadbirkorlikni qo'llab-quvvatlash davlat jamg'armasi tadbirkorlik subyektlariga kredit bo'yicha foiz xarajatlarining bir qismini kompensatsiya qilish va kreditlar bo'yicha kafillik berish orqali kredit resurslaridan foydalanish imkoniyatini kengaytiradi. Bandlikka ko'maklashish mablag'lari esa kasbga o'qitish, subsidiyalar va haq to'lanadigan jamoat ishlarini moliyalashtirishga yo'naltiriladi.
+
+Moliyalashtirish manbalarining ko'pligi bir tomondan qo'llab-quvvatlash ko'lamini kengaytiradi, ikkinchi tomondan esa resurslarning turli idoralar tomonidan, turli mezonlar va hisobot shakllari asosida taqsimlanishiga olib keladi. Natijada bitta oilaga turli kanallar orqali ko'rsatilgan yordamning umumiy hajmini aniqlash, uni oilaning ehtiyojlari bilan solishtirish va natijasini baholash murakkablashadi. Xalqaro tajribada bu muammo **yagona ijtimoiy reyestr** orqali hal etiladi: unda oilaning barcha davlat dasturlaridagi ishtiroki, olingan yordam va oila holatining o'zgarishi yagona identifikator asosida qayd etiladi {grosh2022}. O'zbekistonda ham ijtimoiy himoyaning yagona reyestri va kambag'al oilalarning elektron reyestri faoliyat yuritmoqda, biroq ularni tadbirkorlikni qo'llab-quvvatlash vositalari bo'yicha ma'lumotlar (bank kreditlari, subsidiyalar, o'qitish) bilan to'liq integratsiya qilish hali yakunlanmagan.
+
+**Mahalla institutining roli.** O'zbekistonda kambag'allikni qisqartirish siyosatining o'ziga xos xususiyati – mahalla institutining markaziy o'rni. Mahalla an'anaviy o'zini o'zi boshqarish organi sifatida oilalar to'g'risida boy norasmiy axborotga ega bo'lib, bu axborot oilaning haqiqiy ahvoli, uning a'zolarining salohiyati va kambag'allik sabablarini aniqlashda qimmatli manba hisoblanadi. Mahalla darajasida davlat organlari vakillarining (hokim yordamchisi, yoshlar yetakchisi, xotin-qizlar faoli, ijtimoiy xodim va boshqalar) birlashtirilishi qo'llab-quvvatlashni oilaga yaqinlashtirish imkonini berdi. Shu bilan birga, xalqaro tajriba jamoatchilik ishtirokidagi maqsadli yo'naltirish ijtimoiy munosabatlar, qarindoshlik va mahalliy hokimiyat ta'siriga moyil bo'lishi mumkinligini ham ko'rsatadi {alatas2012,coady2004}. Shu sababli mahalla darajasidagi qarorlarni ob'ektiv, o'lchanadigan mezonlar bilan qo'llab-quvvatlash va ularning asoslanganligini nazorat qilish mexanizmlari zarur.
+
+Institutsional tizimning bosqichlar bo'yicha evolyutsiyasi va uning asosiy xususiyatlari 2.2-rasmda umumlashtirilgan.
+
+FIG 2.2: Kambag'allikni qisqartirish va tadbirkorlikni qo'llab-quvvatlash siyosatining evolyutsiyasi
+2017–2019-yillar: tadbirkorlikni ommaviy rag'batlantirish || oilaviy tadbirkorlikni imtiyozli kreditlash || kambag'allik rasmiy kategoriya emas
+2020–2023-yillar: kambag'allikni rasman e'tirof etish || maxsus vazirlik, minimal iste'mol xarajatlari || “daftarlar” tizimi, “Mahallabay” ishlash
+2024-yildan: oilaga yo'naltirilgan kompleks yondashuv || mahalla “yettiligi”, kambag'al oilalar reyestri || “Kambag'allikdan farovonlik sari” dasturi
+Keyingi bosqich (taklif): ko'p o'lchovli mezonlar asosida maqsadli yo'naltirish va natijaga asoslangan baholash
+NOTE: Manba: normativ-huquqiy hujjatlar asosida muallif tomonidan tuzilgan.
 
 Amaldagi institutsional tizimning ijobiy jihatlari sifatida quyidagilarni qayd etish mumkin: kambag'allikni qisqartirish davlat siyosatining ustuvor yo'nalishi sifatida e'tirof etilgan va unga yuqori darajada siyosiy e'tibor qaratilgan; mahalla darajasida oilalar bilan bevosita ishlash tizimi shakllantirilgan; qo'llab-quvvatlash vositalari diversifikatsiya qilingan; kambag'al oilalarning yagona elektron reyestri yaratilgan.
 
