@@ -1,0 +1,123 @@
+TITLE_UZ: Tadbirkorlikni qo'llab-quvvatlashning uy xo'jaliklari ko'p o'lchovli kambag'alligiga sof ta'sirini PSM-DiD usulida baholash modeli
+TITLE_EN: A PSM-DiD Model for Estimating the Net Effect of Entrepreneurship Support on Household Multidimensional Poverty
+TITLE_RU: Модель оценки чистого эффекта поддержки предпринимательства на многомерную бедность домохозяйств методом PSM-DiD
+AUTHOR: Batirova Latofat Shuxratovna
+AFFIL: Guliston davlat universiteti tayanch doktoranti
+ORCID: [[____-____-____-____]]
+EMAIL: [[__________@____]]
+ANN_UZ: Maqolada tadbirkorlikni qo'llab-quvvatlash dasturlarining uy xo'jaliklari kambag'alligiga sof ta'sirini baholashning moyillik ko'rsatkichi bo'yicha moslashtirish va farqlar ichidagi farq usullarini birlashtirgan (PSM-DiD) modeli taklif etilgan. Tadqiqotning dolzarbligi shundaki, O'zbekistonda dastur samaradorligi asosan ajratilgan resurslar va “kambag'allikdan chiqarilgan” oilalar soni bilan baholanadi, qiyosiy guruh esa qo'llanilmaydi, natijada umumiy iqtisodiy o'sish va oilalarning dastlabki farqlari ta'siri dastur ta'siriga qo'shib yuboriladi. Tadqiqotning maqsadi tanlov og'ishini bartaraf etuvchi baholash modelini asoslash va uning afzalligini ko'rsatishdan iborat. Tadqiqotda qiyosiy tahlil, ekonometrik modellashtirish va Monte-Karlo tipidagi simulyatsiya usullaridan foydalanildi. Haqiqiy ta'sir oldindan ma'lum bo'lgan 800 ta shartli uy xo'jaligi simulyatsiyasi natijalariga ko'ra, oddiy taqqoslash dastur ta'sirini 66,7 foizga oshirib ko'rsatgan bo'lsa, PSM bahosi 33,3 foizga, DiD bahosi 15 foizga, PSM-DiD bahosi esa atigi 10 foizga og'gan. Moslashtirishdan keyin barcha kovariatlar bo'yicha standartlashtirilgan og'ish 10 foizdan pastga tushgan. Natijalar dastur ta'sirini baholashda vakolatli organlar va tadqiqotchilar uchun amaliy ahamiyatga ega.
+KW_UZ: tadbirkorlikni qo'llab-quvvatlash, ta'sirni baholash, moyillik ko'rsatkichi, farqlar ichidagi farq, PSM-DiD, tanlov og'ishi, ko'p o'lchovli kambag'allik.
+ANN_RU: В статье предложена модель оценки чистого эффекта программ поддержки предпринимательства на бедность домохозяйств, объединяющая методы сопоставления по индексу склонности и разности разностей (PSM-DiD). Актуальность исследования обусловлена тем, что в Узбекистане эффективность программ оценивается в основном по объёму выделенных ресурсов и числу «выведенных из бедности» семей, без контрольной группы, вследствие чего влияние общего экономического роста и исходных различий семей смешивается с эффектом программы. Цель исследования – обосновать модель оценки, устраняющую смещение отбора, и показать её преимущество. Использованы методы сравнительного анализа, эконометрического моделирования и симуляции типа Монте-Карло. По результатам симуляции 800 условных домохозяйств с заранее известным истинным эффектом простое сравнение завышает эффект программы на 66,7%, оценка PSM – на 33,3%, DiD – на 15%, а PSM-DiD – лишь на 10%. После сопоставления стандартизированное смещение по всем ковариатам снизилось ниже 10%. Результаты имеют практическое значение для уполномоченных органов и исследователей.
+KW_RU: поддержка предпринимательства, оценка воздействия, индекс склонности, разность разностей, PSM-DiD, смещение отбора, многомерная бедность.
+ANN_EN: The article proposes a model for estimating the net effect of entrepreneurship support programmes on household poverty that combines propensity score matching and difference-in-differences (PSM-DiD). The study is relevant because programme effectiveness in Uzbekistan is assessed mainly by the resources allocated and the number of families "lifted out of poverty", without a comparison group, so the effects of general economic growth and initial household differences are attributed to the programme. The purpose is to justify an evaluation model that removes selection bias and to demonstrate its advantage. Comparative analysis, econometric modelling and Monte-Carlo-type simulation were used. In a simulation of 800 conditional households with a known true effect, the naive comparison overstated the programme effect by 66.7%, the PSM estimate by 33.3%, the DiD estimate by 15%, and the PSM-DiD estimate by only 10%. After matching, the standardized bias of all covariates fell below 10%. The results are of practical relevance for authorities and researchers.
+KW_EN: entrepreneurship support, impact evaluation, propensity score, difference-in-differences, PSM-DiD, selection bias, multidimensional poverty.
+---
+**Kirish.** O'zbekistonda kambag'allikni qisqartirish dasturlari doirasida aholiga imtiyozli kreditlar, subsidiyalar, kasb-hunarga o'qitish va yer ajratish orqali tadbirkorlikni qo'llab-quvvatlashga katta resurslar yo'naltirilmoqda [1; 2]. Rasmiy ma'lumotlarga ko'ra, Sirdaryo viloyatida kambag'allik darajasi 2024-yildagi 11,3 foizdan 2025-yilda 6,2 foizga qisqargan, viloyat yalpi hududiy mahsuloti esa 2025-yilda 9,8 foizga o'sgan. Bunday sharoitda kambag'allikning qisqarishini to'liq qo'llab-quvvatlash dasturlariga bog'lash noto'g'ri bo'ladi: oilalar daromadi umumiy iqtisodiy o'sish, ish haqi oshishi, mehnat migratsiyasidan pul o'tkazmalari va ijtimoiy to'lovlar hisobiga ham oshgan bo'lishi mumkin.
+
+Amaldagi baholash amaliyotida dastur samaradorligi ajratilgan kreditlar hajmi, qamrab olingan oilalar soni va “kambag'allikdan chiqarilgan” oilalar soni bilan o'lchanadi. Bu ko'rsatkichlar qiyosiy guruhsiz hisoblanadi, ya'ni ular qo'llab-quvvatlash olmaganida oila ahvoli qanday bo'lishini hisobga olmaydi. Bundan tashqari, qo'llab-quvvatlash tasodifiy taqsimlanmaydi: kredit oluvchilar orasida tadbirkorlik tajribasi va tashabbuskorligi yuqori oilalar ko'proq bo'ladi. Natijada qo'llab-quvvatlash olgan va olmagan oilalarni oddiy taqqoslash dastur ta'sirini oshirib ko'rsatadi.
+
+**Tadqiqot obyekti** – tadbirkorlikni qo'llab-quvvatlash dasturlari va ularning ishtirokchisi bo'lgan uy xo'jaliklari.
+
+**Tadqiqot predmeti** – qo'llab-quvvatlashning uy xo'jaliklari kambag'alligiga sof ta'sirini baholash bilan bog'liq uslubiy-iqtisodiy munosabatlar.
+
+**Tadqiqotning maqsadi** – tanlov og'ishini bartaraf etuvchi PSM-DiD baholash modelini asoslash va uning boshqa usullarga nisbatan afzalligini simulyatsion modellashtirish orqali ko'rsatishdan iborat.
+
+Ushbu maqsadga erishish uchun quyidagi vazifalar belgilandi: birinchidan, dastur ta'sirini baholash usullari bo'yicha adabiyotlarni tahlil qilish; ikkinchidan, potensial natijalar modeli asosida tanlov og'ishi manbalarini aniqlash; uchinchidan, PSM-DiD modelining spetsifikatsiyasini va uni qo'llash bosqichlarini ishlab chiqish; to'rtinchidan, haqiqiy ta'sir ma'lum bo'lgan simulyatsion ma'lumotlarda turli usullarning aniqligini taqqoslash.
+
+**Mavzuga oid adabiyotlar sharhi.** Zamonaviy ta'sirni baholash nazariyasi D.Rubinning potensial natijalar modeliga asoslanadi [3]. Unga ko'ra har bir uy xo'jaligi uchun ikki potensial natija – qo'llab-quvvatlash olgandagi va olmagandagi – mavjud, biroq ulardan faqat bittasi kuzatiladi. Tanlov og'ishini bartaraf etishning eng ishonchli usuli randomizatsiyalangan tajriba bo'lib [4], u mikrokredit ta'sirini baholashda keng qo'llanilgan: A.Banerji, D.Karlan va J.Zinman olti mamlakatdagi tajribalarni umumlashtirib, mikrokreditning o'rtacha ta'siri kichik ekanini ko'rsatgan [5], R.Mijer esa bu natijalarni meta-tahlil qilgan [6]. Bangladeshdagi mikrokredit bo'yicha M.Pitt va Sh.Xandker [7] hamda D.Rudman va J.Morduk [8] o'rtasidagi munozara identifikatsiya farazlari natijalarga hal qiluvchi ta'sir ko'rsatishini ko'rsatdi.
+
+Davlat dasturlarida randomizatsiya ko'pincha imkonsiz bo'lgani sababli kvazi-eksperimental usullar qo'llaniladi [9; 10]. P.Rozenbaum va D.Rubin moyillik ko'rsatkichi bo'yicha moslashtirish usulini taklif etgan [11], M.Kaliendo va S.Kopeynig uni qo'llashning amaliy bosqichlarini tavsiflagan [12]. D.Kard va A.Krueger farqlar ichidagi farq usulini mashhur qilgan [13], A.Abadi uning yarim parametrik variantini taklif etgan [14]. J.Xekman, X.Ichimura va P.Todd moslashtirish va farqlash usullarini birlashtirish kasbga o'qitish dasturlarini baholashda eng kam og'ishli natija berganini ko'rsatgan [15]. G.Imbens va J.Vuldrij dastur ta'sirini baholash usullarini umumlashtirgan [16]. Mamlakatimizda esa tadbirkorlikni qo'llab-quvvatlash dasturlarining kambag'allikka ta'siri qiyosiy guruh asosida baholanmagan.
+
+**Tadqiqot metodologiyasi.** Izlanayotgan ko'rsatkich – qo'llab-quvvatlash olganlar uchun o'rtacha ta'sir (ATT):
+
+$$ ATT = E[Y_i(1) – Y_i(0) | D_i = 1] (1)
+
+bu yerda Y_i(1), Y_i(0) – potensial natijalar (MPI-TS mahrumlik balli), D_i – qo'llab-quvvatlash olganlik belgisi. Model uch bosqichda qo'llaniladi. Birinchi bosqichda qo'llab-quvvatlash olish ehtimoli dastlabki davr xususiyatlari X_i asosida logit model bilan baholanadi:
+
+$$ p(X_i) = exp(X_i β) / [1 + exp(X_i β)] (2)
+
+Ikkinchi bosqichda har bir ishtirokchi uchun moyillik ko'rsatkichi logitining standart chetlanishining 0,2 qismiga teng kaliper doirasida eng yaqin qo'shni tanlanadi va moslashtirish sifati standartlashtirilgan og'ish bilan tekshiriladi:
+
+$$ SB = 100 · (x̄_T – x̄_C) / sqrt[(s_T^{2} + s_C^{2}) / 2] (3)
+
+Uchinchi bosqichda moslashtirilgan juftliklar bo'yicha natija o'zgarishlari farqi hisoblanadi:
+
+$$ ATT_{PSM-DiD} = (1 / N_1) · Σ_{i} [(Y_{i1} – Y_{i0}) – (Y_{j(i)1} – Y_{j(i)0})] (4)
+
+bu yerda j(i) – i-ishtirokchiga moslashtirilgan nazorat kuzatuvi. Moslashtirish kuzatiladigan xususiyatlar bo'yicha farqlarni, farqlash esa vaqt bo'yicha o'zgarmaydigan kuzatilmaydigan farqlarni bartaraf etadi.
+
+Modelning afzalligini ko'rsatish uchun simulyatsion modellashtirish o'tkazildi. 800 ta shartli uy xo'jaligi uchun oila tarkibi, boshliq yoshi va jinsi, tadbirkorlik tajribasi, tomorqa maydoni va dastlabki mahrumlik balli generatsiya qilindi; bundan tashqari, kuzatilmaydigan “tashabbuskorlik” omili kiritildi. Qo'llab-quvvatlash olish ehtimoli tajriba, tomorqa, mahrumlik balli va tashabbuskorlikka bog'liq qilib modellashtirildi, mahrumlik ballining o'zgarishi esa umumiy trend (<<–0,025>>), tashabbuskorlik va haqiqiy dastur ta'siri (<<–0,060>>) yig'indisi sifatida aniqlandi. Haqiqiy ta'sir oldindan ma'lum bo'lgani sababli har bir usulning og'ishini bevosita o'lchash mumkin. Simulyatsiya natijalari matnda ko'k rangda berilgan.
+
+**Tahlil va natijalar.** Ta'sirni baholash usullari va ularning farazlari 1-jadvalda taqqoslangan.
+
+TABLE 1: Dastur ta'sirini baholash usullarining qiyosiy tavsifi ## Muallif ishlanmasi
+| Usul | Asosiy farazi | Bartaraf etadigan og'ish | Bartaraf etmaydigan og'ish |
+| Oddiy taqqoslash | Guruhlar dastlab bir xil | Yo'q | Kuzatiladigan va kuzatilmaydigan farqlar, umumiy trend |
+| “Oldin–keyin” | Boshqa omillar o'zgarmagan | Vaqt bo'yicha o'zgarmas farqlar | Umumiy trend (iqtisodiy o'sish) |
+| PSM | Shartli mustaqillik | Kuzatiladigan farqlar | Kuzatilmaydigan farqlar |
+| DiD | Parallel trendlar | Vaqt bo'yicha o'zgarmas farqlar, umumiy trend | Guruhlarning turli trendlari |
+| PSM-DiD | Shartli parallel trendlar | Kuzatiladigan farqlar, o'zgarmas kuzatilmaydigan farqlar, trend | Vaqt bo'yicha o'zgaruvchan kuzatilmaydigan farqlar |
+
+Simulyatsion tanlanmada <<404>> ta uy xo'jaligi qo'llab-quvvatlash olgan, <<396>> tasi olmagan. Logit model natijalariga ko'ra, qo'llab-quvvatlash olish ehtimoli tadbirkorlik tajribasi (koeffitsiyent <<0,716>>) va tomorqa maydoni (<<0,055>>) bilan ijobiy, dastlabki mahrumlik balli (<<–1,156>>) va oila boshlig'ining ayol bo'lishi (<<–0,168>>) bilan salbiy bog'liq. Bu natija amaliyotda ham kutiladigan holatni aks ettiradi: qo'llab-quvvatlash tajribali va resurslarga ega oilalarga ko'proq, eng chuqur kambag'al oilalarga esa kamroq yetib boradi. Kaliper doirasida <<401>> ta ishtirokchiga juftlik topildi. Moslashtirish sifati 2-jadvalda keltirilgan.
+
+TABLE 2: Moslashtirishgacha va moslashtirishdan keyingi kovariatlar balansi ## Muallif hisob-kitobi (simulyatsion ma'lumotlar asosida)
+| Kovariat | Moslashtirishgacha SB, % | Moslashtirishdan keyin SB, % |
+| Oila a'zolari soni | <<–5,0>> | <<8,6>> |
+| Oila boshlig'ining yoshi | <<–7,7>> | <<–3,4>> |
+| Oila boshlig'i ayol | <<–7,5>> | <<4,8>> |
+| Tadbirkorlik tajribasi | <<31,9>> | <<2,1>> |
+| Tomorqa maydoni | <<23,2>> | <<–1,5>> |
+| Dastlabki mahrumlik balli | <<–14,7>> | <<–2,0>> |
+
+Moslashtirishgacha guruhlar tadbirkorlik tajribasi (SB = <<31,9>>%), tomorqa maydoni (<<23,2>>%) va dastlabki mahrumlik balli (<<–14,7>>%) bo'yicha sezilarli farq qilgan. Moslashtirishdan keyin barcha kovariatlar bo'yicha standartlashtirilgan og'ish 10 foizdan pastga tushgan, bu moslashtirish sifati qoniqarli ekanini ko'rsatadi (1-rasm).
+
+IMG b2_balance.png 1: Kovariatlar bo'yicha standartlashtirilgan og'ishning moslashtirishgacha va keyingi qiymatlari ## Muallif hisob-kitobi (simulyatsion ma'lumotlar asosida)
+
+Turli usullar bo'yicha olingan ta'sir baholari va ularning haqiqiy ta'sirdan og'ishi 3-jadvalda keltirilgan.
+
+TABLE 3: Turli usullar bo'yicha qo'llab-quvvatlash ta'siri baholari va ularning og'ishi ## Muallif hisob-kitobi (simulyatsion ma'lumotlar asosida)
+| Usul | ATT bahosi (mahrumlik balli) | Haqiqiy ta'sir | Og'ish, % |
+| Oddiy taqqoslash | <<–0,100>> | <<–0,060>> | <<66,7>> |
+| PSM | <<–0,080>> | <<–0,060>> | <<33,3>> |
+| DiD | <<–0,069>> | <<–0,060>> | <<15,0>> |
+| PSM-DiD | <<–0,066>> (SE <<0,002>>) | <<–0,060>> | <<10,0>> |
+
+IMG b2_att.png 2: Turli baholash usullari bo'yicha ta'sir baholari va haqiqiy ta'sir ## Muallif hisob-kitobi (simulyatsion ma'lumotlar asosida)
+
+Natijalar shuni ko'rsatadiki, oddiy taqqoslash qo'llab-quvvatlash ta'sirini <<66,7>> foizga oshirib ko'rsatadi, chunki qo'llab-quvvatlash olgan oilalar tashabbuskorroq va tajribaliroq bo'lib, ularning ahvoli qo'llab-quvvatlashsiz ham tezroq yaxshilanar edi. PSM kuzatiladigan farqlarni bartaraf etib, og'ishni <<33,3>> foizgacha kamaytiradi, biroq kuzatilmaydigan tashabbuskorlik ta'siri saqlanib qoladi. DiD vaqt bo'yicha o'zgarmas farqlarni bartaraf etib, og'ishni <<15>> foizgacha kamaytiradi. PSM-DiD esa ikkala usulning afzalliklarini birlashtirib, eng kichik og'ishni (<<10>> foiz) beradi. Qolgan og'ish tashabbuskorlikning vaqt bo'yicha o'zgaruvchan ta'siri bilan izohlanadi va uni sezgirlik tahlili (Rozenbaum chegaralari) orqali baholash tavsiya etiladi.
+
+Amaliy nuqtayi nazardan bu natijalar quyidagini anglatadi: agar dastur samaradorligi qiyosiy guruhsiz baholansa, “kambag'allikdan chiqarilgan” oilalar sonining katta qismi aslida dasturga emas, balki oilalarning o'z imkoniyatlari va umumiy iqtisodiy o'sishga bog'liq bo'lishi mumkin. Bu esa resurslarni taqsimlashda noto'g'ri xulosalarga – masalan, samarasiz vositaga ko'proq mablag' ajratishga – olib keladi.
+
+**Natijalarni muhokama qilish.** Simulyatsiya natijalari amaliy baholash uchun bir qator muhim uslubiy xulosalarni beradi. Birinchidan, umumiy qo'llab-quvvatlash sohasini tekshirish zarur: moyillik ko'rsatkichi juda yuqori bo'lgan ishtirokchilar (masalan, katta tomorqa va tadbirkorlik tajribasiga ega oilalar) uchun o'xshash nazorat kuzatuvi topilmasligi mumkin va ular tahlildan chiqarilishi lozim. Simulyatsiyada kaliper doirasida <<404>> ta ishtirokchidan <<401>> tasiga juftlik topildi, ya'ni umumiy qo'llab-quvvatlash sohasi deyarli to'liq. Real ma'lumotlarda esa bu ko'rsatkich ancha past bo'lishi mumkin, chunki kredit asosan tajribali oilalarga, subsidiya esa eng kambag'al oilalarga yo'naltiriladi. Bunday holatda baholashni vosita turlari bo'yicha alohida o'tkazish maqsadga muvofiq.
+
+Ikkinchidan, kuzatilmaydigan omillarga sezgirlikni baholash lozim. PSM-DiD vaqt bo'yicha o'zgarmaydigan kuzatilmaydigan farqlarni bartaraf etadi, biroq tashabbuskorlik kabi omil natija dinamikasiga ham ta'sir qilsa, og'ish saqlanib qoladi – simulyatsiyada aynan shu sababli <<10>> foizlik og'ish qolgan. P.Rozenbaum chegaralari usuli kuzatilmaydigan omil qo'llab-quvvatlash olish ehtimolini qancha marta oshirganda natija statistik ahamiyatini yo'qotishini ko'rsatadi va natijalar ishonchliligini baholashning muhim vositasi hisoblanadi [12].
+
+Uchinchidan, O'zbekiston sharoitida qo'llab-quvvatlash turli oilalarga turli vaqtda berilgan. A.Gudmen-Bekon hamda B.Kalluey va P.Sant'Anna ko'rsatganidek, ishtirok turli vaqtda boshlangan holatlarda an'anaviy ikki tomonlama qat'iy effektli regressiya noto'g'ri natija berishi mumkin; bunday holatda ishtirok kogortalari bo'yicha alohida baholash va ularni agregatsiyalash tavsiya etiladi [18; 19]. Shu sababli amaliy baholashda qo'llab-quvvatlash olingan yil bo'yicha kogortalar ajratilishi lozim.
+
+To'rtinchidan, modelni amaliyotda qo'llash uchun ma'lumotlar bazasiga oid talablar mavjud: qo'llab-quvvatlashdan oldin oilaning dastlabki holati – mahrumlik balli, daromad, aktivlar, oila tarkibi – kambag'al oilalar reyestrida qayd etilishi; qiyosiy guruh sifatida o'sha mahallalardagi qo'llab-quvvatlash olmagan, biroq reyestr mezoniga yaqin oilalar kuzatilishi; va 12–24 oydan keyin har ikki guruh holati qayta o'lchanishi zarur. Bu talablar mahalla “yettiligi” faoliyatiga qo'shimcha qisqa so'rovnoma orqali katta xarajatlarsiz integratsiya qilinishi mumkin. Shu tariqa dastur ta'sirini baholash bir martalik ilmiy tadqiqotdan muntazam monitoring vositasiga aylanadi.
+
+Beshinchidan, natija ko'rsatkichini to'g'ri tanlash muhim. Agar ta'sir faqat monetar ko'rsatkichlar bilan baholansa, qo'llab-quvvatlashning ta'lim, sog'liq va turmush sharoitiga ta'siri e'tibordan chetda qoladi. MPI-TS mahrumlik ballidan natija ko'rsatkichi sifatida foydalanish esa ta'sirni o'lchovlar bo'yicha dekompozitsiya qilish va qaysi mahrumliklar kamayganini aniqlash imkonini beradi.
+
+**Xulosa va takliflar.** Xalqaro tajribada davlat dasturlari ta'sirini kvazi-eksperimental usullar bilan baholash odatiy amaliyot bo'lib, Jahon banki va xalqaro tashkilotlar bu bo'yicha qo'llanmalar ishlab chiqqan [9; 10]. Taklif etilgan PSM-DiD modeli bu amaliyotni O'zbekistonda tadbirkorlikni qo'llab-quvvatlash dasturlariga tatbiq etish imkonini beradi va natija ko'rsatkichi sifatida MPI-TS mahrumlik ballidan foydalanish orqali ta'sirni monetar va nomonetar o'lchovlar bo'yicha baholaydi.
+
+Simulyatsion modellashtirish natijalari oddiy taqqoslash dastur ta'sirini <<66,7>> foizga oshirib ko'rsatishini, PSM-DiD bahosining og'ishi esa <<10>> foiz bilan cheklanishini ko'rsatdi. Natijalar asosida quyidagi takliflar ishlab chiqildi: birinchidan, dastur samaradorligini baholashda qo'llab-quvvatlash olmagan, biroq o'xshash oilalardan iborat qiyosiy guruh shakllantirilishi lozim; ikkinchidan, qo'llab-quvvatlashdan oldin oilalarning dastlabki holati (mahrumlik balli, daromad, aktivlar) reyestrda qayd etilishi kerak – bu farqlar ichidagi farq usulini qo'llash uchun zarur shart; uchinchidan, baholash natijalarida monetar va ko'p o'lchovli kambag'allik ko'rsatkichlari bo'yicha ta'sir alohida ko'rsatilishi maqsadga muvofiq; to'rtinchidan, keyingi tadqiqotlarda model Sirdaryo viloyati uy xo'jaliklari so'rovnomasi ma'lumotlarida qo'llanilib, natijalar mustahkamlik testlari bilan tekshirilishi lozim.
+
+REF: O'zbekiston Respublikasi Prezidentining 2022-yil 28-yanvardagi PF-60-son Farmoni. https://lex.uz
+REF: O'zbekiston Respublikasi Prezidentining 2024-yil 23-sentabrdagi PQ-330-son Qarori. https://lex.uz
+REF: Rubin, D. B. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies. Journal of Educational Psychology, 66(5), 688–701.
+REF: Duflo, E., Glennerster, R., & Kremer, M. (2007). Using randomization in development economics research: A toolkit. In Handbook of Development Economics (Vol. 4, pp. 3895–3962). Elsevier.
+REF: Banerjee, A., Karlan, D., & Zinman, J. (2015). Six randomized evaluations of microcredit: Introduction and further steps. American Economic Journal: Applied Economics, 7(1), 1–21.
+REF: Meager, R. (2019). Understanding the average impact of microcredit expansions: A Bayesian hierarchical analysis of seven randomized experiments. American Economic Journal: Applied Economics, 11(1), 57–91.
+REF: Pitt, M. M., & Khandker, S. R. (1998). The impact of group-based credit programs on poor households in Bangladesh: Does the gender of participants matter? Journal of Political Economy, 106(5), 958–996.
+REF: Roodman, D., & Morduch, J. (2014). The impact of microcredit on the poor in Bangladesh: Revisiting the evidence. Journal of Development Studies, 50(4), 583–604.
+REF: Khandker, S. R., Koolwal, G. B., & Samad, H. A. (2010). Handbook on impact evaluation: Quantitative methods and practices. World Bank.
+REF: Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. J. (2016). Impact evaluation in practice (2nd ed.). World Bank.
+REF: Rosenbaum, P. R., & Rubin, D. B. (1983). The central role of the propensity score in observational studies for causal effects. Biometrika, 70(1), 41–55.
+REF: Caliendo, M., & Kopeinig, S. (2008). Some practical guidance for the implementation of propensity score matching. Journal of Economic Surveys, 22(1), 31–72.
+REF: Card, D., & Krueger, A. B. (1994). Minimum wages and employment: A case study of the fast-food industry in New Jersey and Pennsylvania. American Economic Review, 84(4), 772–793.
+REF: Abadie, A. (2005). Semiparametric difference-in-differences estimators. Review of Economic Studies, 72(1), 1–19.
+REF: Heckman, J. J., Ichimura, H., & Todd, P. E. (1997). Matching as an econometric evaluation estimator: Evidence from evaluating a job training programme. Review of Economic Studies, 64(4), 605–654.
+REF: Imbens, G. W., & Wooldridge, J. M. (2009). Recent developments in the econometrics of program evaluation. Journal of Economic Literature, 47(1), 5–86.
+REF: Angrist, J. D., & Pischke, J.-S. (2009). Mostly harmless econometrics: An empiricist's companion. Princeton University Press.
+REF: Goodman-Bacon, A. (2021). Difference-in-differences with variation in treatment timing. Journal of Econometrics, 225(2), 254–277.
+REF: Callaway, B., & Sant'Anna, P. H. C. (2021). Difference-in-differences with multiple time periods. Journal of Econometrics, 225(2), 200–230.

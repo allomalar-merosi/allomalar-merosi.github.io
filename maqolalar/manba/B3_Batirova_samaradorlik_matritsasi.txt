@@ -1,0 +1,117 @@
+TITLE_UZ: Tadbirkorlikni qo'llab-quvvatlash turlari samaradorligini kambag'allik o'lchovlari kesimida differensial baholash: “qo'llab-quvvatlash turi – mahrumlik o'lchovi” matritsasi
+TITLE_EN: Differential Assessment of the Effectiveness of Entrepreneurship Support Instruments across Poverty Dimensions: A "Support Instrument – Deprivation Dimension" Matrix
+TITLE_RU: Дифференцированная оценка эффективности видов поддержки предпринимательства в разрезе измерений бедности: матрица «вид поддержки – измерение лишений»
+AUTHOR: Batirova Latofat Shuxratovna
+AFFIL: Guliston davlat universiteti tayanch doktoranti
+ORCID: [[____-____-____-____]]
+EMAIL: [[__________@____]]
+ANN_UZ: Maqolada tadbirkorlikni qo'llab-quvvatlash vositalari – imtiyozli kredit, subsidiya, kasbga o'qitish, yer ajratish va kompleks qo'llab-quvvatlash – samaradorligini kambag'allikning turli o'lchovlari kesimida baholash metodikasi va unga asoslangan “qo'llab-quvvatlash turi – mahrumlik o'lchovi” samaradorlik matritsasi taklif etilgan. Tadqiqotning dolzarbligi shundaki, amaliyotda qo'llab-quvvatlash vositasi oilaning ehtiyojidan ko'ra mavjud limitlar va mutasaddining tajribasiga qarab tanlanadi, vositalarning qaysi mahrumlikka qanchalik ta'sir qilishi esa baholanmaydi. Tadqiqotning maqsadi har bir vositaning ko'p o'lchovli kambag'allik o'lchovlariga ta'sirini birlik xarajat bilan solishtiruvchi matritsa va uning asosida oilaga mos vositani tanlash qoidasini ishlab chiqishdan iborat. Tadqiqotda ko'p qiymatli ishtirok modeli, xarajat-samaradorlik tahlili va shartli modellashtirish usullaridan foydalanildi. Shartli modellashtirish natijalariga ko'ra, xarajat-samaradorlik bo'yicha imtiyozli kredit (10 mln so'mga 0,097 ball) yetakchi bo'lsa-da, oltita shartli oiladan faqat ikkitasi uchun kredit eng maqbul vosita bo'lib chiqdi, qolganlari uchun kasbga o'qitish, yer ajratish va subsidiya tavsiya etildi. Natijalar mahalla “yettiligi” va bandlikka ko'maklashish organlari uchun amaliy ahamiyatga ega.
+KW_UZ: tadbirkorlikni qo'llab-quvvatlash, differensial baholash, samaradorlik matritsasi, xarajat-samaradorlik, mahrumlik profili, maqsadli yo'naltirish.
+ANN_RU: В статье предложена методика оценки эффективности инструментов поддержки предпринимательства – льготного кредита, субсидии, профессионального обучения, выделения земли и комплексной поддержки – в разрезе различных измерений бедности и основанная на ней матрица эффективности «вид поддержки – измерение лишений». Актуальность исследования обусловлена тем, что на практике инструмент поддержки выбирается исходя из имеющихся лимитов и опыта ответственного лица, а не потребностей семьи, при этом не оценивается, на какое лишение и в какой мере влияет каждый инструмент. Цель – разработать матрицу, сопоставляющую влияние каждого инструмента на измерения многомерной бедности с единичными затратами, и правило выбора подходящего инструмента для семьи. Использованы модель множественного участия, анализ затраты-эффективность и условное моделирование. По результатам моделирования лидером по затратной эффективности является льготный кредит (0,097 балла на 10 млн сумов), однако лишь для двух из шести условных семей кредит оказался оптимальным инструментом; для остальных рекомендованы профессиональное обучение, выделение земли и субсидия. Результаты имеют практическое значение для махаллинских «семёрок» и органов содействия занятости.
+KW_RU: поддержка предпринимательства, дифференцированная оценка, матрица эффективности, затраты-эффективность, профиль лишений, адресность.
+ANN_EN: The article proposes a methodology for assessing the effectiveness of entrepreneurship support instruments – concessional credit, subsidy, vocational training, land allocation and integrated support – across poverty dimensions, together with a "support instrument – deprivation dimension" efficiency matrix. The relevance stems from the fact that, in practice, the instrument is chosen according to available limits and officials' experience rather than household needs, and the effect of each instrument on specific deprivations is not assessed. The purpose is to develop a matrix that relates each instrument's effect on multidimensional poverty dimensions to its unit cost, and a rule for selecting the appropriate instrument for each household. A multiple-treatment model, cost-effectiveness analysis and conditional modelling were used. Modelling shows that although concessional credit leads in cost-effectiveness (0.097 points per UZS 10 million), it is optimal for only two of six conditional households; vocational training, land allocation and subsidies are recommended for the others. The results are of practical relevance for mahalla teams and employment promotion bodies.
+KW_EN: entrepreneurship support, differential assessment, efficiency matrix, cost-effectiveness, deprivation profile, targeting.
+---
+**Kirish.** O'zbekistonda kambag'al oilalarni tadbirkorlik orqali qo'llab-quvvatlashda bir nechta vosita qo'llanilmoqda: imtiyozli kreditlar, ishlab chiqarish vositalarini sotib olish uchun subsidiyalar, kasb-hunarga o'qitish va qishloq xo'jaligi uchun yer ajratish [1; 2]. Ushbu vositalar turli muammolarni hal etishga qaratilgan: kredit moliyaviy kapital tanqisligini, subsidiya ishlab chiqarish aktivlari tanqisligini, o'qitish malaka tanqisligini, yer ajratish esa yer resursi tanqisligini bartaraf etadi. Biroq amaliyotda vosita tanlovi ko'pincha oilaning mahrumliklar tarkibiga emas, balki mavjud limitlar va mutasaddining shaxsiy tajribasiga asoslanadi. Natijada qarz yukini ko'tara olmaydigan o'ta kambag'al oilaga kredit, malakasi yo'q yoshlarga esa o'qitishsiz uskuna berilishi mumkin.
+
+Xalqaro tadqiqotlar vositalar samaradorligi turlicha ekanini tasdiqlaydi: mikrokreditning o'rtacha ta'siri kichik bo'lib, asosan tajribali tadbirkorlarda namoyon bo'ladi [3; 4], kapital grantlari kichik korxonalarda yuqori qaytim beradi [5; 6], aktiv berish, o'qitish va iste'mol yordamini birlashtirgan kompleks dasturlar esa o'ta kambag'al oilalar farovonligini barqaror yaxshilaydi [7; 8], tadbirkorlikka o'qitishning alohida ta'siri esa cheklangan [9]. Demak, vosita samaradorligi oila ehtiyojiga mosligiga bog'liq.
+
+**Tadqiqot obyekti** – kambag'al oilalarni qo'llab-quvvatlashning tadbirkorlik vositalari tizimi.
+
+**Tadqiqot predmeti** – qo'llab-quvvatlash vositalarining kambag'allik o'lchovlariga ta'sirini baholash va vositani oilaga moslashtirish bilan bog'liq uslubiy-iqtisodiy munosabatlar.
+
+**Tadqiqotning maqsadi** – qo'llab-quvvatlash vositalarining ko'p o'lchovli kambag'allik o'lchovlariga ta'sirini birlik xarajat bilan solishtiruvchi samaradorlik matritsasini va oilaga mos vositani tanlash qoidasini ishlab chiqishdan iborat.
+
+Ushbu maqsadga erishish uchun quyidagi vazifalar belgilandi: birinchidan, vositalar samaradorligi bo'yicha xalqaro tadqiqotlarni umumlashtirish; ikkinchidan, ko'p qiymatli ishtirok modeli asosida differensial ta'sirni baholash metodikasini asoslash; uchinchidan, samaradorlik matritsasi va vosita tanlash qoidasini ishlab chiqish; to'rtinchidan, metodikani shartli oilalar misolida sinovdan o'tkazish.
+
+**Mavzuga oid adabiyotlar sharhi.** Tadbirkorlikni qo'llab-quvvatlashning kambag'allikka ta'siri moliyaviy cheklovlar nazariyasiga asoslanadi: kapital bozorlari nomukammal bo'lgan sharoitda kambag'allar foydali loyihalarni amalga oshira olmaydi [10]. Mikromoliyaning “va'dasi” va cheklovlari J.Morduk tomonidan tahlil qilingan [11]. Olti mamlakatda o'tkazilgan randomizatsiyalangan tajribalar mikrokredit biznes faoliyatini biroz kengaytirishini, biroq daromad va ijtimoiy ko'rsatkichlarga transformatsion ta'sir ko'rsatmasligini aniqlagan [3]; R.Mijer ta'sir asosan oldindan biznesga ega oilalarda kuchli ekanini ko'rsatgan [4]. S. de Mel, D.Makkenzi va K.Vudraf Shri-Lankada kichik korxonalarda kapitalning oylik qaytimi taxminan 5 foiz ekanini aniqlagan [5], K.Blatman va hammualliflari Ugandada yoshlarga berilgan grantlar ularning daromadini sezilarli oshirganini ko'rsatgan [6]. A.Banerji va boshqalar oltita mamlakatda kompleks (“bitiruv”) dasturlarning ta'sirini o'rganib, iste'mol, aktivlar, oziq-ovqat xavfsizligi va sog'liq ko'rsatkichlarining barqaror yaxshilanishini aniqlagan [7], O.Bandiera va hammualliflari esa chorva berish va o'qitish o'ta kambag'al ayollarning bandlik tarkibini o'zgartirganini ko'rsatgan [8]. D.Makkenzi va K.Vudraf biznes treninglarining daromadga ta'siri kichik ekanini qayd etgan [9].
+
+Ko'p qiymatli ishtirok sharoitida ta'sirni baholash metodologiyasi M.Lexner [12] va G.Imbens [13] tomonidan ishlab chiqilgan. Xarajat-samaradorlik tahlili dastur natijalarini natural birliklarda o'lchab, birlik natijaga to'g'ri keladigan xarajatlarni taqqoslash imkonini beradi [14]. Biroq mavjud tadqiqotlarda vositalar alohida baholangan, ularning kambag'allikning turli o'lchovlariga ta'sirini birlik xarajat bilan solishtiruvchi va oila darajasida vosita tanlashga xizmat qiluvchi yagona vosita taklif etilmagan. Mazkur tadqiqot ushbu bo'shliqni to'ldirishga qaratilgan.
+
+**Tadqiqot metodologiyasi.** Uy xo'jaliklari olti guruhga ajratiladi: T = 0 – qo'llab-quvvatlash olmagan; T = 1 – kredit; T = 2 – subsidiya; T = 3 – kasbga o'qitish; T = 4 – yer ajratish; T = 5 – kompleks qo'llab-quvvatlash. Har bir s-vositaning d-mahrumlik o'lchoviga ta'siri δ_sd teskari ehtimollik bilan vaznlangan farqlar ichidagi farq usulida baholanadi [12; 15]:
+
+$$ δ_sd = E[ΔY_id | T_i = s] – E[ω_si · ΔY_id | T_i = 0] (1)
+
+bu yerda ΔY_id – i-oilaning d-o'lchov bo'yicha vaznlangan mahrumlik balli o'zgarishi; ω_si – umumlashgan moyillik ko'rsatkichi asosidagi vazn. So'ngra samaradorlik matritsasi elementlari – davlatning 10 mln so'm xarajati hisobiga d-o'lchov bo'yicha mahrumlikning kamayishi – hisoblanadi:
+
+$$ e_sd = δ_sd / C̄_s × 10 (2)
+
+bu yerda C̄_s – bir oilaga to'g'ri keladigan o'rtacha davlat xarajati (kredit uchun – foiz kompensatsiyasi, kafillik va qaytarilmaslik xavfi bilan bog'liq xarajatlar), mln so'm. Vositaning umumiy xarajat-samaradorligi CE_s = Σ_d e_sd ko'rinishida aniqlanadi. i-oila uchun s-vositaning kutilayotgan samarasi uning mahrumlik profili bilan matritsa elementlarini birlashtirish orqali baholanadi:
+
+$$ E_is = Σ_{d=1}^{5} e_sd · m_id, s* = arg max_s E_is (3)
+
+bu yerda m_id – i-oilaning d-o'lchov ichidagi mahrumlik ulushi (0 dan 1 gacha). Tanlov qoidasiga ikki cheklov qo'shiladi: mahrumlik balli c_i ≥ 0,5 bo'lgan chuqur kambag'al oilalar uchun qarz yuki xavfi tufayli kredit istisno qilinadi; asosiy mahrumliklari infratuzilma bilan bog'liq oilalar esa boshqa davlat dasturlariga yo'naltiriladi.
+
+Metodikaning qo'llanilishini ko'rsatish uchun shartli modellashtirish amalga oshirildi: xalqaro tadqiqotlar natijalari va ekspert baholari asosida δ_sd va C̄_s qiymatlari shakllantirildi, so'ngra mahrumlik profili bo'yicha farq qiluvchi oltita shartli oila (P1–P6) uchun tavsiya etiladigan vosita aniqlandi. Shartli qiymatlar matnda ko'k rangda berilgan.
+
+**Tahlil va natijalar.** Qo'llab-quvvatlash vositalarining asosiy tavsifi 1-jadvalda keltirilgan.
+
+TABLE 1: Tadbirkorlikni qo'llab-quvvatlash vositalarining qiyosiy tavsifi ## Muallif ishlanmasi
+| Vosita | Bartaraf etiladigan cheklov | Maqsadli guruh | Asosiy tavakkalchilik | Bir oilaga davlat xarajati, mln so'm |
+| Imtiyozli kredit | Moliyaviy kapital tanqisligi | Tajribali, qaytarish qobiliyatiga ega oilalar | Qarz yuki | <<6,0>> |
+| Subsidiya | Ishlab chiqarish aktivlari tanqisligi | Aktivlarsiz kambag'al oilalar | Aktivni sotib yuborish | <<7,0>> |
+| Kasbga o'qitish | Malaka tanqisligi | Ishsiz yoshlar va ayollar | Ish topilmasligi | <<4,0>> |
+| Yer ajratish | Yer resursi tanqisligi | Qishloq oilalari | Suv, sotish muammolari | <<5,0>> |
+| Kompleks qo'llab-quvvatlash | Bir nechta cheklov | Chuqur kambag'al oilalar | Yuqori xarajat | <<16,0>> |
+
+Vositalarning mahrumlik o'lchovlariga ta'siri (δ_sd) va xarajat-samaradorligi 2-jadvalda keltirilgan.
+
+TABLE 2: Qo'llab-quvvatlash vositalarining mahrumlik o'lchovlariga ta'siri va xarajat-samaradorligi ## Muallif hisob-kitobi (shartli ma'lumotlar asosida)
+| Vosita | Ta'lim | Sog'liq | Turmush sharoiti | Bandlik | Tadbirkorlik salohiyati | Jami δ_s | CE_s (10 mln so'mga) |
+| Kredit | <<0,000>> | <<0,004>> | <<0,004>> | <<0,016>> | <<0,034>> | <<0,058>> | <<0,097>> |
+| Subsidiya | <<0,000>> | <<0,016>> | <<0,002>> | <<0,012>> | <<0,030>> | <<0,060>> | <<0,086>> |
+| Kasbga o'qitish | <<0,014>> | <<0,000>> | <<0,000>> | <<0,012>> | <<0,006>> | <<0,032>> | <<0,080>> |
+| Yer ajratish | <<0,000>> | <<0,014>> | <<0,001>> | <<0,018>> | <<0,012>> | <<0,045>> | <<0,090>> |
+| Kompleks | <<0,008>> | <<0,018>> | <<0,004>> | <<0,026>> | <<0,040>> | <<0,096>> | <<0,060>> |
+
+Jadval ma'lumotlari vositalarning kambag'allik o'lchovlariga ta'siri keskin farq qilishini ko'rsatadi. Kredit va subsidiya asosan tadbirkorlik salohiyati va bandlik o'lchovlariga, kasbga o'qitish – ta'lim va bandlikka, yer ajratish – bandlik va oziq-ovqat xavfsizligiga ta'sir qiladi. Turmush sharoiti o'lchoviga barcha vositalarning ta'siri juda kichik, chunki bu mahrumliklar asosan infratuzilma bilan bog'liq. Kompleks qo'llab-quvvatlash mutlaq ta'sir bo'yicha eng kuchli (<<0,096>>), biroq yuqori xarajat tufayli xarajat-samaradorligi eng past (<<0,060>>). Imtiyozli kredit esa davlat uchun xarajati nisbatan past bo'lgani (kredit summasining asosiy qismi qaytariladi) sababli xarajat-samaradorlik bo'yicha yetakchi (<<0,097>>).
+
+Samaradorlik matritsasi (2-formula) 1-rasmda keltirilgan.
+
+IMG b3_matrix.png 1: “Qo'llab-quvvatlash turi – mahrumlik o'lchovi” samaradorlik matritsasi (10 mln so'm xarajat hisobiga mahrumlik ballining kamayishi) ## Muallif hisob-kitobi (shartli ma'lumotlar asosida)
+
+IMG b3_ce.png 2: Qo'llab-quvvatlash vositalarining umumiy xarajat-samaradorligi ## Muallif hisob-kitobi (shartli ma'lumotlar asosida)
+
+Matritsadan foydalanib, oltita shartli oila uchun tavsiya etiladigan vosita aniqlandi (3-jadval). Oilalar mahrumlik profili bo'yicha farq qiladi: P1 – tadbirkorlik tajribasi bor, biroq resurslari cheklangan oila; P2 – sog'liq va tadbirkorlik salohiyati bo'yicha to'liq mahrum chuqur kambag'al oila; P3 – kasbiy ma'lumotga ega bo'lmagan va yoshlari na o'qiyotgan, na ishlayotgan oila; P4 – barqaror bandlikka ega bo'lmagan qishloq oilasi; P5 – bir nechta o'lchovda o'rtacha mahrumlikka ega oila; P6 – oziq-ovqat va turmush sharoiti bo'yicha mahrum oila.
+
+TABLE 3: Shartli oilalar uchun vositalarning kutilayotgan samarasi (E_is) va tavsiya etiladigan vosita ## Muallif hisob-kitobi (shartli ma'lumotlar asosida)
+| Oila | c_i | Kredit | Subsidiya | O'qitish | Yer | Kompleks | Tavsiya etiladigan vosita |
+| P1 | <<0,250>> | <<0,048>> | <<0,035>> | <<0,020>> | <<0,029>> | <<0,023>> | Kredit |
+| P2 | <<0,634>> | <<0,085>>* | <<0,079>> | <<0,035>> | <<0,077>> | <<0,048>> | Subsidiya (kompleks – resurs bo'lsa) |
+| P3 | <<0,450>> | <<0,038>> | <<0,026>> | <<0,060>> | <<0,033>> | <<0,025>> | Kasbga o'qitish |
+| P4 | <<0,366>> | <<0,049>> | <<0,043>> | <<0,035>> | <<0,058>> | <<0,030>> | Yer ajratish |
+| P5 | <<0,450>> | <<0,052>> | <<0,047>> | <<0,038>> | <<0,043>> | <<0,031>> | Kredit |
+| P6 | <<0,482>> | <<0,039>> | <<0,045>> | <<0,015>> | <<0,049>> | <<0,027>> | Yer ajratish (+ infratuzilma dasturi) |
+
+3-jadval ma'lumotlari muhim amaliy xulosani beradi: xarajat-samaradorlik bo'yicha umumiy yetakchi bo'lgan kredit oltita oiladan faqat ikkitasi (P1 va P5) uchun eng maqbul vosita bo'lib chiqdi. P2 oilasi uchun kredit formal jihatdan eng yuqori samara beradi (* belgisi), biroq oila chuqur kambag'al (c_i = <<0,634>>) bo'lgani sababli qarz yuki xavfi tufayli istisno qilinadi va unga subsidiya tavsiya etiladi; resurs mavjud bo'lsa esa mutlaq ta'siri eng yuqori bo'lgan kompleks qo'llab-quvvatlash maqsadga muvofiq. P3 oilasi uchun kasbga o'qitish, P4 va P6 oilalari uchun yer ajratish eng samarali vosita hisoblanadi. P6 oilasining turmush sharoiti bo'yicha mahrumliklari esa mahalla infratuzilmasi dasturlari orqali hal etilishi lozim.
+
+Agar barcha oltita oilaga amaldagi amaliyotda keng tarqalgan yagona vosita – kredit – berilganida, jami kutilayotgan samara E_is yig'indisi <<0,311>> ni tashkil etar edi; matritsa asosida tanlangan vositalar bilan esa u <<0,346>> ga yetadi, ya'ni bir xil xarajatlar bilan samaradorlik taxminan <<11>> foizga oshadi, eng muhimi esa chuqur kambag'al oila qarz yukidan himoyalanadi.
+
+**Natijalarni muhokama qilish.** Samaradorlik matritsasidan amaliyotda foydalanishda bir qator jihatlarni hisobga olish lozim. Birinchidan, matritsa elementlari qo'llab-quvvatlash olingandan keyingi qisqa davr uchun baholanadi, biroq ayrim vositalarning ta'siri vaqt bo'yicha o'zgaradi. Xususan, kasbga o'qitishning daromadga ta'siri kechikkan bo'lib, u bir necha yildan keyin to'liq namoyon bo'lishi mumkin, kreditning ta'siri esa qarzni to'lash davrida vaqtincha pasayishi mumkin [6; 9]. Shu sababli matritsani yillik monitoring ma'lumotlari asosida yangilab borish va imkon bo'lsa, ikki va uch yillik ta'sirlarni alohida baholash maqsadga muvofiq.
+
+Ikkinchidan, vositalar o'rtasida o'zaro to'ldiruvchilik mavjud. Xalqaro tadqiqotlar o'qitishning alohida ta'siri cheklangan bo'lsa-da, u moliyaviy resurslar bilan birgalikda berilganda kuchliroq bo'lishini ko'rsatadi [9]. Kompleks qo'llab-quvvatlashning mutlaq ta'siri eng yuqori ekani ham shu bilan izohlanadi. Matritsa vositalarni alohida baholagani sababli, chuqur kambag'al oilalar uchun kompleks paketlarni alohida vosita sifatida ko'rib chiqish lozim – aynan shu sababli tanlov qoidasiga chuqur kambag'al oilalar uchun maxsus cheklov kiritildi.
+
+Uchinchidan, xarajatlarni to'g'ri hisoblash natijaga hal qiluvchi ta'sir ko'rsatadi. Agar kredit uchun davlat xarajati sifatida kreditning to'liq summasi olinsa, uning xarajat-samaradorligi bir necha barobar past chiqadi va vosita tanlovi noto'g'ri bo'ladi. Shu sababli kredit uchun davlatning haqiqiy xarajatlari – imtiyozli va bozor foiz stavkalari o'rtasidagi farq, kafillik bo'yicha to'lovlar va qaytarilmaslik bilan bog'liq yo'qotishlar – hisobga olinishi lozim [14].
+
+To'rtinchidan, matritsani mahalla darajasida qo'llash tartibi quyidagicha bo'lishi mumkin: mahalla “yettiligi” oilaga tashrif davomida qisqa so'rovnoma asosida MPI-TS mahrumlik profilini aniqlaydi; elektron tizim profilni matritsa bilan birlashtirib, har bir vosita uchun kutilayotgan samarani hisoblaydi va tavsiya etiladigan vositani ko'rsatadi; mutasaddi oila bilan suhbat asosida tavsiyani qabul qiladi yoki asoslangan holda o'zgartiradi; o'zgartirishlar va ularning sabablari tizimda qayd etiladi. Bu tartib, bir tomondan, qarorlarning shaffofligini ta'minlaydi, ikkinchi tomondan, mahalla xodimlarining oila haqidagi norasmiy bilimlaridan foydalanish imkoniyatini saqlaydi. Xalqaro tajriba jamoatchilik bilimlari va ob'ektiv mezonlarni birlashtirish maqsadli yo'naltirish sifatini oshirishini ko'rsatadi.
+
+**Xulosa va takliflar.** Xalqaro tajriba, xususan, Xitoyning oilaga yo'naltirilgan kambag'allikka qarshi kurash siyosati va BRAC tashkilotining kompleks dasturlari kambag'allik sababini oila darajasida aniqlash va vositani shu sababga moslashtirish samarali ekanini ko'rsatadi [7; 8]. Taklif etilgan samaradorlik matritsasi bu tamoyilni miqdoriy asosga qo'yadi: u vositalarning ko'p o'lchovli kambag'allikka ta'sirini birlik xarajat bilan solishtiradi va oilaning mahrumlik profiliga mos vositani tanlashning shaffof qoidasini taqdim etadi.
+
+Natijalar asosida quyidagi takliflar ishlab chiqildi: birinchidan, mahalla “yettiligi” faoliyatida qo'llab-quvvatlash vositasini tanlash oilaning mahrumlik profili va samaradorlik matritsasiga asoslanishi lozim; ikkinchidan, chuqur kambag'al oilalar (mahrumlik balli 0,5 va undan yuqori) uchun kredit o'rniga subsidiya yoki kompleks qo'llab-quvvatlash qo'llanilishi maqsadga muvofiq; uchinchidan, matritsa elementlari har yili monitoring natijalari asosida yangilanib borilishi kerak; to'rtinchidan, kredit uchun davlat xarajatlari foiz kompensatsiyasi, kafillik va qaytarilmaslik xavfi asosida hisoblanishi lozim; beshinchidan, keyingi tadqiqotlarda δ_sd baholari Sirdaryo viloyati so'rovnoma ma'lumotlari asosida aniqlanishi tavsiya etiladi.
+
+REF: O'zbekiston Respublikasining “Aholini ish bilan ta'minlash to'g'risida”gi Qonuni. 2020-yil 20-oktabr, O'RQ-642-son. https://lex.uz
+REF: O'zbekiston Respublikasi Prezidentining 2024-yil 23-sentabrdagi PQ-330-son Qarori. https://lex.uz
+REF: Banerjee, A., Karlan, D., & Zinman, J. (2015). Six randomized evaluations of microcredit: Introduction and further steps. American Economic Journal: Applied Economics, 7(1), 1–21.
+REF: Meager, R. (2019). Understanding the average impact of microcredit expansions: A Bayesian hierarchical analysis of seven randomized experiments. American Economic Journal: Applied Economics, 11(1), 57–91.
+REF: de Mel, S., McKenzie, D., & Woodruff, C. (2008). Returns to capital in microenterprises: Evidence from a field experiment. Quarterly Journal of Economics, 123(4), 1329–1372.
+REF: Blattman, C., Fiala, N., & Martinez, S. (2014). Generating skilled self-employment in developing countries: Experimental evidence from Uganda. Quarterly Journal of Economics, 129(2), 697–752.
+REF: Banerjee, A., Duflo, E., Goldberg, N., Karlan, D., Osei, R., Parienté, W., Shapiro, J., Thuysbaert, B., & Udry, C. (2015). A multifaceted program causes lasting progress for the very poor: Evidence from six countries. Science, 348(6236), 1260799.
+REF: Bandiera, O., Burgess, R., Das, N., Gulesci, S., Rasul, I., & Sulaiman, M. (2017). Labor markets and poverty in village economies. Quarterly Journal of Economics, 132(2), 811–870.
+REF: McKenzie, D., & Woodruff, C. (2014). What are we learning from business training and entrepreneurship evaluations around the developing world? World Bank Research Observer, 29(1), 48–82.
+REF: Banerjee, A. V., & Newman, A. F. (1993). Occupational choice and the process of development. Journal of Political Economy, 101(2), 274–298.
+REF: Morduch, J. (1999). The microfinance promise. Journal of Economic Literature, 37(4), 1569–1614.
+REF: Lechner, M. (2001). Identification and estimation of causal effects of multiple treatments under the conditional independence assumption. In M. Lechner & F. Pfeiffer (Eds.), Econometric evaluation of labour market policies (pp. 43–58). Physica.
+REF: Imbens, G. W. (2000). The role of the propensity score in estimating dose-response functions. Biometrika, 87(3), 706–710.
+REF: Khandker, S. R., Koolwal, G. B., & Samad, H. A. (2010). Handbook on impact evaluation: Quantitative methods and practices. World Bank.
+REF: Abadie, A. (2005). Semiparametric difference-in-differences estimators. Review of Economic Studies, 72(1), 1–19.
+REF: Alkire, S., Foster, J. E., Seth, S., Santos, M. E., Roche, J. M., & Ballon, P. (2015). Multidimensional poverty measurement and analysis. Oxford University Press.

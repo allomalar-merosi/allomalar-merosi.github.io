@@ -1,0 +1,118 @@
+TITLE_UZ: CAMELS va Z-score ko'rsatkichlarini birlashtirgan bank barqarorligining integral indeksi (BBII) va uni “Ipoteka-bank” misolida qo'llash
+TITLE_EN: An Integral Bank Stability Index (BBII) Combining CAMELS and Z-score Indicators and Its Application to Ipoteka Bank
+TITLE_RU: Интегральный индекс устойчивости банка (BBII), объединяющий показатели CAMELS и Z-score, и его применение на примере «Ипотека-банка»
+AUTHOR: Djabborov Shuxrat Ernazarovich
+AFFIL: Guliston davlat universiteti mustaqil izlanuvchisi
+ORCID: [[____-____-____-____]]
+EMAIL: [[__________@____]]
+ANN_UZ: Maqolada tijorat banki moliyaviy barqarorligini baholashning CAMELS reyting tizimi komponentlari va Z-score ko'rsatkichini birlashtirgan integral indeksi (BBII) taklif etilgan va “Ipoteka-bank” ATIB misolida qo'llanilgan. Tadqiqotning dolzarbligi shundaki, bank barqarorligining alohida ko'rsatkichlari ko'pincha turli yo'nalishda o'zgaradi: xorijiy strategik investorga sotilgan “Ipoteka-bank”da 2024-yilda MHXS bo'yicha rentabellik keskin oshgani holda muammoli kreditlar ulushi 10,2 foizga yetgan, bu esa barqarorlik haqida yagona xulosa chiqarishni qiyinlashtiradi. Tadqiqotning maqsadi ochiq ma'lumotlar asosida hisoblanadigan, bankning joriy holati va to'lov qobiliyatsizligi xavfini birlashtiruvchi integral indeksni ishlab chiqishdan iborat. Tadqiqotda koeffitsiyentlar tahlili, reyting baholash, indeksli baholash va sezgirlik tahlili usullaridan foydalanildi. Hisob-kitoblarga ko'ra, BBII 2022-yildagi 0,678 dan integratsiya yili 2023-yilda 0,549 gacha pasayib, 2025-yilda 0,741 ga ko'tarilgan va “yuqori” barqarorlik chegarasiga (0,75) yaqinlashgan. Muammoli kreditlar ulushini 7,1 foizdan 4 foizgacha kamaytirish indeksni 0,780 gacha oshiradi. Natijalar Markaziy bank va tijorat banklari uchun amaliy ahamiyatga ega.
+KW_UZ: bank barqarorligi, integral indeks, CAMELS, Z-score, BBII, muammoli kreditlar, “Ipoteka-bank”.
+ANN_RU: В статье предложен интегральный индекс устойчивости банка (BBII), объединяющий компоненты рейтинговой системы CAMELS и показатель Z-score, и проведено его применение на примере АКИБ «Ипотека-банк». Актуальность исследования обусловлена тем, что отдельные показатели устойчивости банка часто изменяются в разных направлениях: в проданном иностранному стратегическому инвестору «Ипотека-банке» в 2024 году рентабельность по МСФО резко выросла, а доля проблемных кредитов достигла 10,2%, что затрудняет единый вывод об устойчивости. Цель – разработать рассчитываемый по открытым данным интегральный индекс, объединяющий текущее состояние банка и риск неплатёжеспособности. Использованы методы коэффициентного анализа, рейтинговой и индексной оценки, анализа чувствительности. По расчётам BBII снизился с 0,678 в 2022 году до 0,549 в год интеграции (2023), а в 2025 году вырос до 0,741, приблизившись к порогу «высокой» устойчивости (0,75). Снижение доли проблемных кредитов с 7,1% до 4% повышает индекс до 0,780. Результаты имеют практическое значение для Центрального банка и коммерческих банков.
+KW_RU: устойчивость банка, интегральный индекс, CAMELS, Z-score, BBII, проблемные кредиты, «Ипотека-банк».
+ANN_EN: The article proposes an integral bank stability index (BBII) that combines the components of the CAMELS rating system with the Z-score and applies it to Ipoteka Bank. The study is relevant because individual stability indicators often move in different directions: at Ipoteka Bank, sold to a foreign strategic investor, IFRS profitability rose sharply in 2024 while the non-performing loan ratio reached 10.2%, making a single conclusion about stability difficult. The purpose is to develop an integral index, computable from public data, that combines the bank's current condition with its insolvency risk. Ratio analysis, rating and index-based evaluation and sensitivity analysis were used. The BBII fell from 0.678 in 2022 to 0.549 in the integration year (2023) and rose to 0.741 in 2025, approaching the "high" stability threshold (0.75). Reducing the NPL ratio from 7.1% to 4% raises the index to 0.780. The results are of practical relevance for the Central Bank and commercial banks.
+KW_EN: bank stability, integral index, CAMELS, Z-score, BBII, non-performing loans, Ipoteka Bank.
+---
+**Kirish.** Tijorat banklari moliyaviy barqarorligi butun moliya tizimi barqarorligining asosi hisoblanadi. O'zbekistonda bank tizimi jadal o'smoqda: aktivlar 2017-yildagi 167 trln so'mdan 2025-yilda 925 trln so'mga oshgan [1], 2024-yilda kapital yetarliligi 17,3 foizni tashkil etib, minimal talabdan (13 foiz) yuqori darajada saqlangan [2; 3]. Shu bilan birga, muammoli kreditlar ko'rsatkichi bo'yicha baholar turlicha: Markaziy bank ma'lumotlariga ko'ra, 2024-yil avgustida u 4,2 foizni tashkil etgan bo'lsa [4], Moody's davlat banklarining muammoli aktivlarni tan olishi natijasida bu ko'rsatkich 7 foizga yetganini qayd etgan [5].
+
+Bank barqarorligini baholashda asosiy muammo – alohida ko'rsatkichlarning turli yo'nalishlarda o'zgarishi. Masalan, xorijiy strategik investorga sotilgan “Ipoteka-bank”da 2024-yilda MHXS bo'yicha ROE 30,4 foizga, ROA 4,0 foizga yetgan [6], biroq milliy standartlar bo'yicha muammoli kreditlar ulushi 4,7 foizdan 10,2 foizga oshgan [7]. Bunday sharoitda bank barqarorligi oshdimi yoki pasaydimi, degan savolga javob berish uchun ko'rsatkichlarni yagona integral bahoga birlashtirish zarur.
+
+**Tadqiqot obyekti** – “Ipoteka-bank” ATIB moliyaviy faoliyati.
+
+**Tadqiqot predmeti** – tijorat banki moliyaviy barqarorligini integral baholash bilan bog'liq uslubiy-iqtisodiy munosabatlar.
+
+**Tadqiqotning maqsadi** – CAMELS komponentlari va Z-score ni birlashtirgan bank barqarorligining integral indeksini ishlab chiqish va uni “Ipoteka-bank” ma'lumotlari asosida qo'llashdan iborat.
+
+Ushbu maqsadga erishish uchun quyidagi vazifalar belgilandi: birinchidan, bank barqarorligini baholash metodlarini tahlil qilish; ikkinchidan, ochiq ma'lumotlar asosida CAMELS komponentlarini baholash shkalasini ishlab chiqish; uchinchidan, integral indeks formulasini asoslash; to'rtinchidan, indeksni “Ipoteka-bank” uchun hisoblash va uning sezgirligini tahlil qilish.
+
+**Mavzuga oid adabiyotlar sharhi.** Bank barqarorligi nazariyasining asosini D.Daymond va F.Dibvigning likvidlik inqirozlari modeli [8] va X.Minskining moliyaviy beqarorlik gipotezasi [9] tashkil etadi. Bank barqarorligini baholashning reyting yondashuvi CAMELS tizimi bilan bog'liq bo'lib, J.Lopes uning bank holatini kuzatishdagi samaradorligini va axborot qiymatining vaqt o'tishi bilan kamayishini ko'rsatgan [10], R.Saxajvala va P. van den Berg esa nazorat organlarining risklarni baholash va erta ogohlantirish tizimlarini tasniflagan [11]. To'lov qobiliyatsizligi xavfini baholashning integral ko'rsatkichi – Z-score – A.Royning “xavfsizlik birinchi” tamoyiliga asoslanadi [12] va J.Boyd hamda S.Grem tomonidan bank faoliyatiga tatbiq etilgan [13]; L.Lepetit va F.Strobel uni vaqt bo'yicha o'zgaruvchan shaklda hisoblashning eng yaxshi usulini aniqlagan [14]. Korporativ moliyada E.Altmanning diskriminant tahlilga asoslangan Z-modeli keng qo'llaniladi [15]. Kompozit indekslarni qurish bo'yicha xalqaro tavsiyalar OECD va Yevropa Komissiyasi qo'shma tadqiqot markazi tomonidan ishlab chiqilgan [16]. Bazel III standartlari esa kapital va likvidlik talablarini belgilaydi [17]. Mamlakatimizda bank barqarorligi va resurslarini boshqarish masalalari Sh.Z.Abdullayeva [18], A.A.Omonov [19] va boshqa olimlar tomonidan o'rganilgan.
+
+Biroq mavjud yondashuvlarda CAMELS bankning joriy holatini olti yo'nalish bo'yicha baholaydi, biroq daromadlar o'zgaruvchanligini hisobga olmaydi, Z-score esa to'lov qobiliyatsizligi xavfini baholaydi, biroq aktivlar sifati va likvidlikni bevosita aks ettirmaydi. Ularni birlashtirgan va ochiq ma'lumotlar asosida hisoblanadigan integral indeks O'zbekiston bank tizimi uchun ishlab chiqilmagan.
+
+**Tadqiqot metodologiyasi.** CAMELS komponentlari uchun ochiq hisobotlar asosida hisoblanadigan ko'rsatkichlar va 1 (eng yaxshi) dan 5 (eng yomon) gacha ball chegaralari belgilandi (1-jadval). Kompozit CAMELS bali komponentlar ballarining vaznlangan o'rtachasi sifatida aniqlanadi:
+
+$$ CAMELS_t = 0,25·C + 0,25·A + 0,10·M + 0,15·E + 0,15·L + 0,10·S (1)
+
+Z-score L.Lepetit va F.Strobel tavsiyasiga ko'ra ROA o'rtachasi va standart chetlanishi butun davr bo'yicha, kapitalning aktivlarga nisbati esa joriy yil bo'yicha olingan holda hisoblanadi [14]:
+
+$$ Z_t = (ROA_t + E/A_t) / σ(ROA) (2)
+
+Bank barqarorligining integral indeksi quyidagicha aniqlanadi:
+
+$$ BBII_t = w_1 · (5 – CAMELS_t) / 4 + w_2 · min(Z_t / Z*, 1) (3)
+
+bu yerda Z* = 15 – Z-score ning me'yoriy qiymati; w_1 = 0,6, w_2 = 0,4 – vaznlar. BBII 0 dan 1 gacha o'zgaradi: 0,75 dan yuqori bo'lsa barqarorlik “yuqori”, 0,5–0,75 oralig'ida “qoniqarli”, 0,5 dan past bo'lsa “past”. Hisob-kitoblarda “Ipoteka-bank”ning ochiq e'lon qilingan ko'rsatkichlaridan foydalanildi; topilmagan ko'rsatkichlar taxminiy baholandi va ko'k rangda berilgan.
+
+**Tahlil va natijalar.** CAMELS komponentlari bo'yicha ko'rsatkichlar va ball chegaralari 1-jadvalda keltirilgan. Kapital komponenti chegaralari O'zbekistondagi 13 foizlik minimal talab asosida, likvidlik komponenti chegaralari esa mamlakat bank tizimining o'ziga xos xususiyati – kreditlar/depozitlar nisbatining yuqoriligi (2024-yilda tizim bo'yicha 173 foiz, davlat banklarida 237 foiz [3]) – hisobga olingan holda belgilandi.
+
+TABLE 1: CAMELS komponentlari bo'yicha ko'rsatkichlar va ball chegaralari ## Muallif ishlanmasi
+| Komponent | Ko'rsatkich | 1 ball | 2 ball | 3 ball | 4 ball | 5 ball |
+| C – kapital | Kapital yetarliligi, % | ≥ 18 | 15–18 | 13–15 | 10–13 | < 10 |
+| A – aktivlar sifati | NPL ulushi, % | < 2 | 2–4 | 4–6 | 6–10 | ≥ 10 |
+| M – boshqaruv | Xarajatlar/daromadlar, % | < 40 | 40–50 | 50–60 | 60–70 | ≥ 70 |
+| E – daromadlar | ROA, % | ≥ 2,5 | 1,5–2,5 | 0,5–1,5 | 0–0,5 | < 0 |
+| L – likvidlik | Kreditlar/depozitlar, % | < 100 | 100–130 | 130–170 | 170–220 | ≥ 220 |
+| S – sezgirlik | Ochiq valyuta pozitsiyasi/kapital, % | < 5 | 5–10 | 10–15 | 15–20 | ≥ 20 |
+
+“Ipoteka-bank”ning CAMELS komponentlari bo'yicha baholanishi 2-jadvalda keltirilgan.
+
+TABLE 2: “Ipoteka-bank”ning CAMELS komponentlari bo'yicha baholanishi ## Bank ma'lumotlari asosida muallif hisob-kitobi
+| Komponent (ko'rsatkich) | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| C: kapital yetarliligi, % | <<15,1>> | <<14,2>> | <<14,6>> | <<14,9>> | <<15,6>> | <<16,8>> | <<17,9>> |
+| A: NPL ulushi, % | <<1,4>> | <<2,6>> | <<3,4>> | <<3,9>> | 4,7 | 10,2 | <<7,1>> |
+| M: xarajatlar/daromadlar, % | <<52>> | <<55>> | <<49>> | <<47>> | <<63>> | 38 | <<39>> |
+| E: ROA, % | <<1,7>> | <<1,3>> | <<2,3>> | <<2,7>> | <<–0,7>> | 4,0 | 3,5 |
+| L: kreditlar/depozitlar, % | <<241>> | <<220>> | <<194>> | <<213>> | <<188>> | <<153>> | <<145>> |
+| S: ochiq valyuta pozitsiyasi/kapital, % | <<14>> | <<12>> | <<11>> | <<9>> | <<8>> | <<6>> | <<5>> |
+| Ballar (C-A-M-E-L-S) | 2-1-3-2-5-3 | 3-2-3-3-5-3 | 3-2-2-2-4-3 | 3-2-2-1-4-2 | 2-3-4-5-4-2 | 2-5-1-1-3-2 | 2-4-1-1-3-2 |
+| Kompozit CAMELS bali | 2,40 | 3,05 | 2,65 | 2,40 | 3,20 | 2,65 | 2,40 |
+
+CAMELS natijalariga ko'ra, integratsiyadan keyin boshqaruv, daromadlar, likvidlik va sezgirlik komponentlari yaxshilangan, kapital komponenti barqaror, aktivlar sifati komponenti esa yomonlashgan. Kompozit bal integratsiya yili – 2023-yilda eng yomon qiymatga (3,20) yetib, 2025-yilda integratsiyadan oldingi eng yaxshi darajaga (2,40) qaytgan. Biroq bir xil kompozit bal turli tarkibga ega: 2022-yilda bankning zaif tomoni likvidlik (resurs bazasining davlat mablag'lariga qaramligi) bo'lgan bo'lsa, 2025-yilda asosiy zaif tomon aktivlar sifati hisoblanadi.
+
+Z-score va BBII hisob-kitobi natijalari 3-jadval va 1-rasmda keltirilgan (ROA standart chetlanishi butun davr bo'yicha σ = <<1,45>> foiz).
+
+TABLE 3: “Ipoteka-bank” barqarorligining integral indeksi (BBII) dinamikasi ## Muallif hisob-kitobi
+| Ko'rsatkich | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Kapitalning aktivlarga nisbati, % | <<11,4>> | <<12,1>> | <<12,6>> | <<12,9>> | 15,8 | 14,0 | <<15,5>> |
+| Z-score | <<9,1>> | <<9,3>> | <<10,3>> | <<10,8>> | <<10,5>> | <<12,5>> | <<13,2>> |
+| Normallashtirilgan CAMELS | 0,650 | 0,488 | 0,588 | 0,650 | 0,450 | 0,588 | 0,650 |
+| Normallashtirilgan Z-score | <<0,607>> | <<0,620>> | <<0,687>> | <<0,720>> | <<0,700>> | <<0,833>> | <<0,880>> |
+| BBII | <<0,632>> | <<0,540>> | <<0,628>> | <<0,678>> | <<0,549>> | <<0,685>> | <<0,741>> |
+| Barqarorlik darajasi | Qoniqarli | Qoniqarli | Qoniqarli | Qoniqarli | Qoniqarli | Qoniqarli | Qoniqarli (yuqoriga yaqin) |
+
+IMG d3_bbii.png 1: “Ipoteka-bank” barqarorligining integral indeksi va uning komponentlari dinamikasi ## Muallif hisob-kitobi (taxminiy ma'lumotlar asosida)
+
+BBII dinamikasi bank barqarorligining “J-simon” traektoriyasini ko'rsatadi: integratsiya yilida indeks <<0,549>> gacha pasaygan, 2025-yilda esa <<0,741>> ga ko'tarilib, kuzatuv davridagi eng yuqori qiymatga yetgan. Z-score ning izchil o'sishi kapitallashuv darajasining oshishi (2023-yildan boshlab kapitalning aktivlarga nisbati 14–16 foiz) va rentabellikning yaxshilanishi bilan bog'liq. BBII “yuqori” darajaga yetmaganining asosiy sababi – aktivlar sifati komponentining past bahosi.
+
+Indeksning parametrlar tanloviga sezgirligi tekshirildi: vaznlar (w_1 = 0,5 va 0,7) va Z-score me'yoriy qiymati (Z* = 12 va 20) o'zgartirilganda indeksning mutlaq qiymatlari o'zgaradi (masalan, 2025-yilda <<0,654>> dan <<0,790>> gacha), biroq barcha variantlarda indeks 2023-yilda pasayib, 2025-yilda eng yuqori qiymatga yetadi. Demak, “J-simon” dinamika haqidagi xulosa parametrlar tanloviga bog'liq emas.
+
+BBII ning muammoli kreditlar ulushiga sezgirligi alohida tahlil qilindi. 2025-yil ko'rsatkichlari asosida NPL ulushi 7,1 foizdan 4 foizgacha pasayganda aktivlar sifati bali 4 dan 3 ga yaxshilanadi, kompozit CAMELS bali 2,15 ga kamayadi va BBII <<0,780>> ga oshadi, ya'ni bank “yuqori” barqarorlik darajasiga o'tadi. NPL 2–4 foiz oralig'iga tushganda indeks <<0,817>> ga yetadi, 10 foizdan oshganda esa <<0,704>> gacha pasayadi. Demak, muammoli kreditlar ulushini kamaytirish bank barqarorligini oshirishning eng samarali yo'nalishi hisoblanadi.
+
+**Natijalarni muhokama qilish.** BBII ni amaliyotda qo'llashda bir qator jihatlarni hisobga olish lozim. Birinchidan, indeks komponentlari turli ma'lumot asoslariga tayanishi mumkin: “Ipoteka-bank” misolida muammoli kreditlar ulushi milliy standartlar bo'yicha, rentabellik ko'rsatkichlari esa MHXS bo'yicha e'lon qilingan. Banklararo taqqoslashda barcha komponentlar bir xil asosda olinishi shart, aks holda indeks farqlari standartlardagi farqlarni aks ettiradi. Ikkinchidan, bozor riskiga sezgirlik komponenti uchun ochiq valyuta pozitsiyasi to'g'risidagi ma'lumotlar ko'pincha oshkor qilinmaydi; bunday holatda S komponentini chiqarib tashlab, qolgan vaznlarni proporsional qayta taqsimlash mumkin. Uchinchidan, Z-score ning me'yoriy qiymati mamlakat bank tizimining xususiyatlariga bog'liq: rentabelligi va kapitallashuvi yuqori bo'lgan O'zbekiston bank tizimida bu qiymat rivojlangan mamlakatlarga nisbatan yuqoriroq bo'lishi mumkin.
+
+To'rtinchidan, BBII bankning joriy holatini va to'lov qobiliyatsizligi xavfini baholaydi, biroq istiqboldagi risklarni – masalan, kredit portfelining tez o'sishi yoki makroiqtisodiy zarbalarni – bevosita hisobga olmaydi. Shu sababli indeksni stress-test natijalari bilan birga qo'llash maqsadga muvofiq: masalan, milliy valyutaning keskin qadrsizlanishi yoki muammoli kreditlar ulushining oshishi ssenariylarida BBII ning qanday o'zgarishini baholash bankning zarbalarga bardoshliligini ko'rsatadi. Beshinchidan, indeks xorijiy investor ishtirokidagi banklarni baholashda alohida ahamiyatga ega, chunki bunday banklarda integratsiya davrida alohida ko'rsatkichlar turli yo'nalishda o'zgaradi va faqat integral baho barqarorlikning umumiy dinamikasini aniq ko'rsatadi.
+
+Indeks O'zbekistonning boshqa tijorat banklariga ham qo'llanilishi mumkin. Buning uchun banklar MHXS asosidagi kapital yetarliligi, muammoli kreditlar, xarajatlar va daromadlar, kreditlar va depozitlar hamda valyuta pozitsiyasi bo'yicha ma'lumotlarni muntazam oshkor qilishi lozim. Bank tizimi bo'yicha BBII ni hisoblash esa nazorat organiga banklarni barqarorlik darajasi bo'yicha guruhlash va nazorat resurslarini barqarorligi past banklarga yo'naltirish imkonini beradi.
+
+**Xulosa va takliflar.** Xalqaro amaliyotda nazorat organlari CAMELS kabi reyting tizimlarini maxfiy nazorat ma'lumotlari asosida qo'llaydi [10; 11], ilmiy tadqiqotlarda esa Z-score keng qo'llaniladi [13; 14]. Taklif etilgan BBII bu ikki yondashuvni birlashtirib, ochiq ma'lumotlar asosida bankning joriy holati va to'lov qobiliyatsizligi xavfini yagona ko'rsatkichda ifodalaydi hamda alohida ko'rsatkichlar turli yo'nalishda o'zgargan holatlarda barqarorlik haqida xulosa chiqarish imkonini beradi.
+
+Hisob-kitoblar “Ipoteka-bank” barqarorligi integratsiya yilida pasayib, keyingi yillarda tiklanganini va 2025-yilda kuzatuv davridagi eng yuqori darajaga yetganini ko'rsatdi. Natijalar asosida quyidagi takliflar ishlab chiqildi: birinchidan, Markaziy bank BBII dan masofaviy nazorat va banklararo taqqoslashning yordamchi vositasi sifatida foydalanishi mumkin; ikkinchidan, Z-score me'yoriy qiymati bank tizimi bo'yicha o'rtacha Z-score asosida kalibrlanishi lozim; uchinchidan, “Ipoteka-bank” barqarorligini oshirishning ustuvor yo'nalishi muammoli kreditlarni hal etish strategiyasini amalga oshirish hisoblanadi; to'rtinchidan, indeksni hisoblash uchun banklar MHXS asosidagi kapital yetarliligi, muammoli kreditlar va valyuta pozitsiyasi bo'yicha ma'lumotlarni muntazam oshkor qilishi maqsadga muvofiq.
+
+REF: UzA. (2026). O'zbekiston bank sektorining 2017–2025-yillardagi rivojlanishi infografikada. https://uza.uz
+REF: Daryo. (2024, September 5). Uzbekistan's commercial banks report over $56bn in assets by July 2024. https://daryo.uz/en/2024/09/05/uzbekistans-commercial-banks-report-over-56bn-in-assets-by-july-2024
+REF: International Monetary Fund. (2025). Republic of Uzbekistan: Financial system stability assessment (IMF Country Report No. 25/145). IMF.
+REF: Daryo. (2024, September 10). Uzbekistan's NPLs hit $1.64bn in August with state-owned banks facing higher ratio. https://daryo.uz
+REF: Daryo. (2025, March 5). Uzbekistan's problem loans rise to 7% in 2024, Moody's reports. https://daryo.uz/en/2025/03/05/uzbekistans-problem-loans-rise-to-7-in-2024-moodys-reports
+REF: Ipoteka bank OTP Group. (2025). OTP Group announced 2024 financial results. https://www.ipotekabank.uz/en/news/financial_results_2024_en
+REF: UzDaily. (2025). Ipoteka Bank reports 240 billion soums loss for 2024. https://www.uzdaily.ru/en/ipoteka-bank-reports-240-billion-soums-loss-for-2024
+REF: Diamond, D. W., & Dybvig, P. H. (1983). Bank runs, deposit insurance, and liquidity. Journal of Political Economy, 91(3), 401–419.
+REF: Minsky, H. P. (1986). Stabilizing an unstable economy. Yale University Press.
+REF: Lopez, J. A. (1999). Using CAMELS ratings to monitor bank conditions. FRBSF Economic Letter, 99-19.
+REF: Sahajwala, R., & Van den Bergh, P. (2000). Supervisory risk assessment and early warning systems (BCBS Working Paper No. 4). Bank for International Settlements.
+REF: Roy, A. D. (1952). Safety first and the holding of assets. Econometrica, 20(3), 431–449.
+REF: Boyd, J. H., & Graham, S. L. (1986). Risk, regulation, and bank holding company expansion into nonbanking. Federal Reserve Bank of Minneapolis Quarterly Review, 10(2), 2–17.
+REF: Lepetit, L., & Strobel, F. (2013). Bank insolvency risk and time-varying Z-score measures. Journal of International Financial Markets, Institutions and Money, 25, 73–87.
+REF: Altman, E. I. (1968). Financial ratios, discriminant analysis and the prediction of corporate bankruptcy. Journal of Finance, 23(4), 589–609.
+REF: OECD, & JRC. (2008). Handbook on constructing composite indicators: Methodology and user guide. OECD Publishing.
+REF: Basel Committee on Banking Supervision. (2011). Basel III: A global regulatory framework for more resilient banks and banking systems. Bank for International Settlements.
+REF: Abdullayeva, Sh. Z. (2017). Bank ishi [Darslik]. Iqtisod-Moliya. [[nashr ma'lumotlari tekshirilsin]]
+REF: Omonov, A. A. (2008). Tijorat banklarining resurslarini samarali boshqarish masalalari [Monografiya]. Iqtisod-Moliya. [[nashr ma'lumotlari tekshirilsin]]

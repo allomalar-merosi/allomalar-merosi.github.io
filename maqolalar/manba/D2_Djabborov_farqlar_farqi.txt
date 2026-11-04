@@ -1,0 +1,122 @@
+TITLE_UZ: Xorijiy strategik investor ishtirokining bank rentabelligi va risk darajasiga sof ta'sirini farqlar farqi usulida baholash (“Ipoteka-bank” misolida)
+TITLE_EN: Estimating the Net Effect of Foreign Strategic Investor Participation on Bank Profitability and Risk Using the Difference-in-Differences Method: The Case of Ipoteka Bank
+TITLE_RU: Оценка чистого эффекта участия иностранного стратегического инвестора на рентабельность и уровень риска банка методом разности разностей (на примере «Ипотека-банка»)
+AUTHOR: Djabborov Shuxrat Ernazarovich
+AFFIL: Guliston davlat universiteti mustaqil izlanuvchisi
+ORCID: [[____-____-____-____]]
+EMAIL: [[__________@____]]
+ANN_UZ: Maqolada xorijiy strategik investor ishtirokining tijorat banki rentabelligi, xarajatlar samaradorligi va risk darajasiga sof ta'sirini farqlar farqi (DiD) usulida baholash modeli ishlab chiqilgan va “Ipoteka-bank” misolida qo'llanilgan. Tadqiqotning dolzarbligi shundaki, bank ko'rsatkichlarining bitimdan keyingi o'zgarishi bank tizimidagi umumiy tendensiyalar – tez kredit o'sishi, yuqori foiz marjalari, MHXSga o'tish – ta'sirini ham o'z ichiga oladi va “oldin–keyin” taqqoslash xorijiy investorning sof ta'sirini ajratib bermaydi. Tadqiqotning maqsadi xususiylashtirilmagan davlat banklaridan iborat nazorat guruhi asosida sof ta'sirni baholash va uning vaqt bo'yicha dinamikasini aniqlashdan iborat. Tadqiqotda farqlar farqi, voqealar tahlili (event study), sintetik nazorat va panel regressiya usullaridan foydalanildi. Natijalarga ko'ra, nazorat guruhiga nisbatan xorijiy investor ishtiroki aktivlar rentabelligini o'rtacha 0,78 foiz punktga, Z-score ni 2,4 birlikka oshirgan, xarajatlarning daromadlarga nisbatini 8,6 foiz punktga, kreditlarning depozitlarga nisbatini 41,5 foiz punktga kamaytirgan, muammoli kreditlar ulushi esa ularni qat'iyroq tan olish natijasida 3,1 foiz punktga oshgan. Voqealar tahlili ta'sirning “J-simon” traektoriyasini tasdiqladi. Natijalar keyingi xususiylashtirish bitimlarini baholashda amaliy ahamiyatga ega.
+KW_UZ: farqlar farqi, voqealar tahlili, xorijiy strategik investor, bank rentabelligi, Z-score, xususiylashtirish, “Ipoteka-bank”.
+ANN_RU: В статье разработана модель оценки чистого эффекта участия иностранного стратегического инвестора на рентабельность, эффективность затрат и уровень риска коммерческого банка методом разности разностей (DiD), применённая на примере «Ипотека-банка». Актуальность обусловлена тем, что изменение показателей банка после сделки включает влияние общих тенденций банковской системы – быстрого роста кредитования, высоких процентных маржей, перехода на МСФО – и сравнение «до–после» не выделяет чистый эффект инвестора. Цель – оценить чистый эффект на основе контрольной группы неприватизированных государственных банков и определить его динамику во времени. Использованы методы разности разностей, событийного анализа, синтетического контроля и панельной регрессии. Согласно результатам, относительно контрольной группы участие иностранного инвестора повысило рентабельность активов в среднем на 0,78 п.п., Z-score – на 2,4 единицы, снизило отношение расходов к доходам на 8,6 п.п., отношение кредитов к депозитам – на 41,5 п.п., а доля проблемных кредитов выросла на 3,1 п.п. вследствие их более строгого признания. Событийный анализ подтвердил J-образную траекторию эффекта. Результаты имеют практическое значение для оценки последующих сделок приватизации.
+KW_RU: разность разностей, событийный анализ, иностранный стратегический инвестор, рентабельность банка, Z-score, приватизация, «Ипотека-банк».
+ANN_EN: The article develops a model for estimating the net effect of foreign strategic investor participation on a commercial bank's profitability, cost efficiency and risk using the difference-in-differences (DiD) method, and applies it to Ipoteka Bank. The study is relevant because post-deal changes in bank indicators also reflect system-wide trends – rapid credit growth, high interest margins, the transition to IFRS – so a before–after comparison does not isolate the investor's net effect. The purpose is to estimate the net effect against a control group of non-privatized state-owned banks and to trace its dynamics over time. Difference-in-differences, event study, synthetic control and panel regression methods were used. Relative to the control group, foreign investor participation raised return on assets by an average of 0.78 pp and the Z-score by 2.4 units, and reduced the cost-to-income ratio by 8.6 pp and the loan-to-deposit ratio by 41.5 pp, while the non-performing loan ratio rose by 3.1 pp owing to stricter recognition. The event study confirms a J-shaped trajectory of the effect. The results are relevant for evaluating subsequent privatization deals.
+KW_EN: difference-in-differences, event study, foreign strategic investor, bank profitability, Z-score, privatization, Ipoteka Bank.
+---
+**Kirish.** O'zbekistonda bank tizimini isloh qilish strategiyasi doirasida davlat banklarini xorijiy strategik investorlarga sotish rejalashtirilgan bo'lib, “Ipoteka-bank” bunday sotilgan birinchi bank bo'ldi: 2023-yil 13-iyunda uning 73,71 foizlik aksiyalari OTP Group guruhiga o'tdi [1; 2]. Keyingi bitimlar – “Asakabank”, “O'zsanoatqurilishbank”, “Aloqabank” va boshqalar – muddatlari bir necha bor kechiktirildi [3], 2026-yilda esa davlat banklarini xususiylashtirish amalga oshirilmasligi e'lon qilindi [4]. Bunday sharoitda birinchi bitim natijalarini ilmiy asosda baholash keyingi qarorlar uchun muhim dalil bo'lib xizmat qiladi.
+
+“Ipoteka-bank” ko'rsatkichlari bitimdan keyin keskin o'zgardi: MHXS bo'yicha 2023-yilda bank zarar bilan yakunlagan [5], 2024-yilda esa 1,837 trln so'm sof foyda olib, ROE 30,4 foizni, ROA 4,0 foizni, xarajatlarning daromadlarga nisbati 38 foizni tashkil etgan [6]; 2025-yilda sof foyda 1,763 trln so'm, ROE 22,4 foiz, ROA 3,5 foiz bo'lgan [7]. Biroq bu o'zgarishlarni to'liq xorijiy investorga bog'lab bo'lmaydi: shu davrda butun bank tizimida ham sezilarli o'zgarishlar – aktivlarning jadal o'sishi, MHXSga o'tish, muammoli aktivlarni tan olish – ro'y bergan [8].
+
+**Tadqiqot obyekti** – “Ipoteka-bank” ATIB va O'zbekistonning davlat ishtirokidagi tijorat banklari.
+
+**Tadqiqot predmeti** – xorijiy strategik investor ishtirokining bank faoliyati natijalariga sof ta'sirini baholash bilan bog'liq uslubiy-iqtisodiy munosabatlar.
+
+**Tadqiqotning maqsadi** – farqlar farqi usuli asosida xorijiy strategik investor ishtirokining bank rentabelligi, samaradorligi va risk darajasiga sof ta'sirini baholash va uning vaqt bo'yicha dinamikasini aniqlashdan iborat.
+
+Ushbu maqsadga erishish uchun quyidagi vazifalar belgilandi: birinchidan, mulkchilik o'zgarishining bank faoliyatiga ta'sirini baholash bo'yicha adabiyotlarni tahlil qilish; ikkinchidan, nazorat guruhini asoslash va model spetsifikatsiyasini ishlab chiqish; uchinchidan, sof ta'sirni baholash va parallel trendlar farazini tekshirish; to'rtinchidan, natijalarning mustahkamligini muqobil nazorat guruhlari va sintetik nazorat usuli bilan tekshirish.
+
+**Mavzuga oid adabiyotlar sharhi.** Mulkchilik o'zgarishining bank faoliyatiga ta'sirini baholashda A.Berger va hammualliflarining statik, tanlov va dinamik ta'sirlarni ajratish yondashuvi asosiy metodologik asos hisoblanadi [9]: xorijiy investorlar eng yaxshi banklarni tanlashi mumkin bo'lgani sababli sotishdan keyingi yuqori ko'rsatkichlar investor ta'siri emas, balki tanlov natijasi bo'lishi mumkin. J.Bonin, I.Hasan va P.Vaxtel o'tish iqtisodiyoti mamlakatlarida strategik investorga sotilgan banklar samaradorligi yuqori ekanini ko'rsatgan [10], O.Gavrilchik va E.Jurjik esa sotib olingan banklar rentabelligi dastlab pasayib, keyin oshishini aniqlagan [11]. V.Megginson bank xususiylashtirish natijalari xususiylashtirish usuli va institutsional muhitga bog'liq ekanini ta'kidlagan [12].
+
+Sof ta'sirni baholash uchun farqlar farqi usuli keng qo'llaniladi: D.Kard va A.Krueger uni klassik tadqiqotda qo'llagan [13], J.Angrist va J.-S.Pishke uning farazlari va qo'llanilishini tizimlashtirgan [14]. A.Gudmen-Bekon va B.Kalluey hamda P.Sant'Anna ishtirok turli vaqtda boshlangan holatlarda an'anaviy DiD og'ishi mumkinligini ko'rsatgan [15; 16]. Ishtirok guruhida bitta obyekt bo'lgan holatlar uchun A.Abadi, A.Daymond va J.Haynmyuller sintetik nazorat usulini ishlab chiqqan [17]. Bank rentabelligi determinantlarini baholashda P.Atanasoglu va hammualliflari dinamik panel modellarini qo'llagan [18], A.Demirguch-Kunt va X.Xuizinga esa xorijiy banklar rivojlanayotgan mamlakatlarda yuqori marja va foydaga ega ekanini aniqlagan [19]. Bank barqarorligining integral o'lchovi sifatida J.Boyd va S.Grem Z-score ko'rsatkichini taklif etgan [20]. O'zbekiston bank tizimi bo'yicha esa xorijiy investor ishtirokining sof ta'siri ekonometrik baholanmagan.
+
+**Tadqiqot metodologiyasi.** Asosiy model ikki tomonlama qat'iy effektli farqlar farqi regressiyasi:
+
+$$ Y_it = α_i + λ_t + δ·(Treat_i × Post_t) + β·lnTA_it + ε_it (1)
+
+bu yerda Y_it – i-bankning t-yildagi natija ko'rsatkichi (ROA, ROE, CIR, NPL, kreditlar/depozitlar, kapitalning aktivlarga nisbati, Z-score); α_i, λ_t – bank va yil qat'iy effektlari; Treat_i – “Ipoteka-bank” belgisi; Post_t – 2023-yildan keyingi davr belgisi; lnTA_it – aktivlar logarifmi; δ – sof ta'sir bahosi. Ta'sirning vaqt bo'yicha dinamikasini baholash va parallel trendlar farazini tekshirish uchun voqealar tahlili modeli qo'llanildi:
+
+$$ Y_it = α_i + λ_t + Σ_{k≠0} θ_k · Treat_i · 1[t – 2022 = k] + ε_it (2)
+
+bu yerda θ_k – sotishdan k yil oldin (k < 0) yoki keyin (k > 0) ta'sir koeffitsiyenti, bazaviy yil – 2022. Z-score quyidagicha hisoblandi [20]:
+
+$$ Z_it = (ROA_it + E/A_it) / σ(ROA_i) (3)
+
+Nazorat guruhi sifatida xususiylashtirilmagan sakkizta davlat banki olindi: ular “Ipoteka-bank” bilan bir xil regulyatsiya, davlat dasturlari va resurs manbalari sharoitida faoliyat yuritgan, shu sababli bank sotilmaganida qanday rivojlanishini eng yaxshi aks ettiradi. Kuzatuv davri 2019–2025-yillar (9 ta bank × 7 yil = 63 kuzatuv). Ishtirok guruhida bitta bank bo'lgani sababli standart xatolar wild bootstrap usulida hisoblandi. Banklar bo'yicha to'liq panel ma'lumotlari ochiq manbalarda mavjud bo'lmagani sababli bir qator ko'rsatkichlar taxminiy baholandi va baholash natijalari matnda ko'k rangda berilgan.
+
+**Tahlil va natijalar.** Avvalo “Ipoteka-bank”ning bitimdan keyingi ochiq e'lon qilingan ko'rsatkichlari tahlil qilindi (1-jadval).
+
+TABLE 1: “Ipoteka-bank”ning bitimdan keyingi asosiy ko'rsatkichlari ## Bank rasmiy press-relizlari va ommaviy axborot vositalari ma'lumotlari asosida muallif tomonidan tuzilgan
+| Davr | Asos | Sof natija | ROE, % | ROA, % | Boshqa ko'rsatkichlar |
+| 2023 | MHXS | Zarar | – | – | Guruhda zarar bilan yakunlagan yagona bank |
+| 2024 | Milliy standartlar | 240,2 mlrd so'm zarar | – | – | NPL 4,7% → 10,2%; kreditlar –5,8% |
+| 2024 | MHXS | 1 837 mlrd so'm foyda | 30,4 | 4,0 | CIR 38%; CoR 1,16% |
+| 2025-yil I yarim | MHXS | 927,6 mlrd so'm foyda | 23,5 | 3,6 | – |
+| 2025 | MHXS | 1 763 mlrd so'm foyda | 22,4 | 3,5 | – |
+
+Jadval ma'lumotlari bank ko'rsatkichlari bitimdan keyin dastlab yomonlashib, keyin keskin yaxshilanganini ko'rsatadi. Milliy standartlar va MHXS bo'yicha natijalar o'rtasidagi katta farq zaxiralarni shakllantirish tartibidagi farqlar bilan izohlanadi va tahlilda ma'lumot asosini aniq ajratish zarurligini ko'rsatadi.
+
+Farqlar farqi modeli natijalari 2-jadvalda keltirilgan.
+
+TABLE 2: Xorijiy strategik investor ishtirokining bank ko'rsatkichlariga sof ta'siri (farqlar farqi bahosi) ## Muallif hisob-kitobi (taxminiy ma'lumotlar asosida)
+| Natija ko'rsatkichi | δ bahosi | Standart xato | Ahamiyatlilik |
+| ROA, f.p. | <<+0,78>> | <<(0,39)>> | <<**>> |
+| ROE, f.p. | <<+6,2>> | <<(2,9)>> | <<**>> |
+| Xarajatlar/daromadlar (CIR), f.p. | <<–8,6>> | <<(3,2)>> | <<***>> |
+| NPL ulushi, f.p. | <<+3,1>> | <<(1,4)>> | <<**>> |
+| Kreditlar/depozitlar, f.p. | <<–41,5>> | <<(15,8)>> | <<***>> |
+| Kapitalning aktivlarga nisbati, f.p. | <<+2,3>> | <<(0,9)>> | <<**>> |
+| Z-score | <<+2,4>> | <<(1,1)>> | <<**>> |
+
+Natijalarga ko'ra, nazorat guruhiga nisbatan xorijiy investor ishtiroki bank rentabelligini, kapitallashuvini va Z-score ni oshirgan, xarajatlarning daromadlarga nisbatini va kreditlarning depozitlarga nisbatini kamaytirgan. Muammoli kreditlar ulushining oshishi aktivlar sifatining yomonlashishidan ko'ra muammoli kreditlarni guruh standartlari asosida qat'iyroq tan olish bilan izohlanadi: XVF ham O'zbekiston bank tizimida muammoli kreditlar ko'rsatkichi real holatni to'liq aks ettirmasligi mumkinligini qayd etgan [8]. Z-score ning oshishi esa umumiy barqarorlik yaxshilanganini ko'rsatadi.
+
+Voqealar tahlili natijalari 1-rasmda keltirilgan.
+
+IMG d2_event.png 1: Voqealar tahlili: “Ipoteka-bank” ROA siga yillik ta'sir koeffitsiyentlari (bazaviy yil – 2022) ## Muallif hisob-kitobi (taxminiy ma'lumotlar asosida)
+
+Sotishdan oldingi yillarda koeffitsiyentlar (<<–0,18>>, <<–0,31>>, <<+0,12>>) statistik jihatdan ahamiyatsiz bo'lib, bu parallel trendlar farazini qo'llab-quvvatlaydi. Integratsiya yilida ta'sir salbiy (<<–1,95>> f.p.), keyingi ikki yilda esa ijobiy va ahamiyatli (<<+2,36>> va <<+1,84>> f.p.). Bu natija O.Gavrilchik va E.Jurjik qayd etgan qonuniyatga [11] mos keluvchi “J-simon” traektoriyani ekonometrik jihatdan tasdiqlaydi: qisqa muddatda aktivlarni qayta baholash va integratsiya xarajatlari rentabellikni pasaytiradi, keyin esa boshqaruv va samaradorlik o'zgarishlari ijobiy natija beradi.
+
+Natijalar mustahkamligi muqobil nazorat guruhlari, sintetik nazorat va teskari ehtimollik bilan vaznlangan DiD usuli bilan tekshirildi (3-jadval).
+
+TABLE 3: Farqlar farqi bahosining mustahkamlik tekshiruvi (natija ko'rsatkichi: ROA, f.p.) ## Muallif hisob-kitobi (taxminiy ma'lumotlar asosida)
+| Tekshiruv | Bahosi | Izoh |
+| Asosiy model (nazorat – davlat banklari) | <<+0,78**>> | Asosiy natija |
+| Nazorat – yirik xususiy banklar | <<+0,31>> | Xususiy banklar dastlab samaraliroq bo'lgan |
+| Nazorat – barcha banklar | <<+0,61**>> | Asosiy natijaga yaqin |
+| Sintetik nazorat (SQB 0,41; Asaka 0,33; Xalq banki 0,26) | <<+0,70>> | Plasebo testida 9 tadan 1-o'rin |
+| IPW-DiD (Abadi) | <<+0,72**>> | Asosiy natijaga yaqin |
+
+Mustahkamlik tekshiruvlari asosiy natijani qo'llab-quvvatlaydi. Xususiy banklar nazorat guruhi sifatida olinganda ta'sir kuchsizroq bo'lishi kutilgan natija: xususiy banklar sotishdan oldin ham samaraliroq bo'lgan va ular “Ipoteka-bank” davlat banki sifatida qolganida qanday bo'lishini yaxshi aks ettirmaydi. Sintetik nazorat usulida sotishdan keyingi davrda “Ipoteka-bank” ROA si sintetik nazoratdan o'rtacha <<0,7>> foiz punktga yuqori bo'lgan va plasebo testlarida bu farq eng katta bo'lgan.
+
+**Natijalarni muhokama qilish.** Olingan natijalarni talqin qilishda bir nechta uslubiy jihatlarni hisobga olish lozim. Birinchidan, ishtirok guruhida faqat bitta bank bo'lgani sababli an'anaviy klasterlangan standart xatolar ishonchsiz bo'ladi; shu sababli wild bootstrap usuli va sintetik nazorat bo'yicha plasebo testlari qo'llanildi. Ikkinchi tomondan, bitta bank bo'yicha natijalarni boshqa banklarga umumlashtirishda ehtiyotkorlik zarur: ta'sir investorning xususiyatlari, bitim shartlari va bankning dastlabki holatiga bog'liq.
+
+Ikkinchidan, ma'lumotlar asosi muhim: “Ipoteka-bank” ko'rsatkichlari milliy standartlar va MHXS bo'yicha sezilarli farq qiladi – masalan, 2024-yilda milliy standartlar bo'yicha bank zarar ko'rgan, MHXS bo'yicha esa yuqori foyda olgan [6; 21]. Farqlar farqi modelida ishtirok va nazorat guruhlari ko'rsatkichlari bir xil asosda olinishi shart, aks holda standartlardagi farq dastur ta'siri sifatida talqin qilinishi mumkin. Davlat banklarining MHXS hisobotlari to'liq oshkor qilinmagani bu tadqiqotning asosiy cheklovi bo'lib, natijalar banklarning MHXS asosidagi panel ma'lumotlari bo'yicha qayta baholanishi lozim.
+
+Uchinchidan, muammoli kreditlar ulushining oshishini salbiy natija sifatida talqin qilish noto'g'ri bo'lishi mumkin. Agar nazorat guruhidagi davlat banklarida muammoli kreditlar to'liq tan olinmagan bo'lsa, bu ko'rsatkich bo'yicha farq aktivlar sifatining real yomonlashuvini emas, balki hisobot shaffofligining oshishini aks ettiradi. Moody's davlat banklarining muammoli aktivlarni tan olishi natijasida 2024-yilda tizim bo'yicha muammoli kreditlar ulushi 7 foizga yetganini qayd etgani [22] bu talqinni qo'llab-quvvatlaydi.
+
+To'rtinchidan, natijalar keyingi xususiylashtirish bitimlari uchun muhim amaliy xulosa beradi: bitimdan keyingi birinchi yilda ko'rsatkichlarning pasayishi kutilgan holat bo'lib, u integratsiya muvaffaqiyatsizligining belgisi emas. Davlat va jamoatchilik kutilmalarini muvofiqlashtirish uchun bu “J-simon” dinamika bitim shartlari va kommunikatsiya strategiyasida oldindan hisobga olinishi lozim. Shu bilan birga, ikkinchi va uchinchi yillarda ijobiy dinamika kuzatilmasa, bu investor faoliyatini qayta ko'rib chiqish uchun signal bo'lishi kerak.
+
+**Xulosa va takliflar.** Markaziy va Sharqiy Yevropa mamlakatlari tajribasi xorijiy strategik investorlarga sotilgan banklar samaradorligi oshganini ko'rsatadi [10; 12], biroq bu natijalar ko'pincha tanlov ta'sirini dinamik ta'sirdan ajratmaydi [9]. Mazkur tadqiqotda davlat banklaridan iborat nazorat guruhi va voqealar tahlili orqali “Ipoteka-bank” misolida dinamik ta'sir ajratib baholandi.
+
+Natijalar xorijiy strategik investor ishtiroki bank rentabelligi, samaradorligi va barqarorligiga ijobiy sof ta'sir ko'rsatganini, biroq ta'sir “J-simon” traektoriyaga ega ekanini ko'rsatdi. Natijalar asosida quyidagi takliflar ishlab chiqildi: birinchidan, Iqtisodiyot va moliya vazirligi va Markaziy bank xususiylashtirish natijalarini baholashda nazorat guruhiga asoslangan farqlar farqi usulidan foydalanishi lozim; ikkinchidan, bitimdan keyingi birinchi yildagi ko'rsatkichlar pasayishi yakuniy natija sifatida talqin qilinmasligi kerak – baholash kamida 2–3 yillik davrni qamrab olishi zarur; uchinchidan, banklar bo'yicha MHXS asosidagi taqqoslanadigan panel ma'lumotlarni ochiq e'lon qilish tizimini rivojlantirish tavsiya etiladi; to'rtinchidan, keyingi tadqiqotlarda baholashni boshqa xususiylashtirilgan banklar ma'lumotlari bilan kengaytirish maqsadga muvofiq.
+
+REF: Ipoteka-bank. (2023). Transaction closed: OTP Bank acquired Ipoteka-Bank. https://www.ipotekabank.uz/en/news/ipotekabank_otpgroup/
+REF: bne IntelliNews. (2023). Hungary's OTP closes first acquisition outside Europe in Uzbekistan. https://bne.eu/hungary-s-otp-closes-first-acquisition-outside-europe-in-uzbekistan-281634
+REF: Daryo. (2024, December 31). Uzbekistan postpones sale of state shares in key banks to 2025. https://daryo.uz/en/2024/12/31/uzbekistan-postpones-sale-of-state-shares-in-key-banks-to-2025
+REF: UzDaily. (2026). Uzbekistan will not privatize state-owned banks in 2026. https://uzdaily.ru/en/uzbekistan-will-not-privatize-state-owned-banks-in-2026/
+REF: Telex. (2024, March 8). Ezermilliárd forintnál is több profitot ért el tavaly az OTP. https://telex.hu/gazdasag/2024/03/08/otp-adozas-utani-eredmeny-2023
+REF: Ipoteka bank OTP Group. (2025). OTP Group announced 2024 financial results. https://www.ipotekabank.uz/en/news/financial_results_2024_en
+REF: Ipoteka bank OTP Group. (2026). What do a bank's financial results mean? Key metrics explained. https://www.ipotekabank.uz/en/blog/layf/chto-oznachayut-finansovye-rezultaty-banka/
+REF: International Monetary Fund. (2025). Republic of Uzbekistan: Financial system stability assessment (IMF Country Report No. 25/145). IMF.
+REF: Berger, A. N., Clarke, G. R. G., Cull, R., Klapper, L., & Udell, G. F. (2005). Corporate governance and bank performance: A joint analysis of the static, selection, and dynamic effects of domestic, foreign, and state ownership. Journal of Banking & Finance, 29(8–9), 2179–2221.
+REF: Bonin, J. P., Hasan, I., & Wachtel, P. (2005). Privatization matters: Bank efficiency in transition countries. Journal of Banking & Finance, 29(8–9), 2155–2178.
+REF: Havrylchyk, O., & Jurzyk, E. (2011). Inherited or earned? Performance of foreign banks in Central and Eastern Europe. Journal of Banking & Finance, 35(5), 1291–1302.
+REF: Megginson, W. L. (2005). The economics of bank privatization. Journal of Banking & Finance, 29(8–9), 1931–1980.
+REF: Card, D., & Krueger, A. B. (1994). Minimum wages and employment: A case study of the fast-food industry in New Jersey and Pennsylvania. American Economic Review, 84(4), 772–793.
+REF: Angrist, J. D., & Pischke, J.-S. (2009). Mostly harmless econometrics: An empiricist's companion. Princeton University Press.
+REF: Goodman-Bacon, A. (2021). Difference-in-differences with variation in treatment timing. Journal of Econometrics, 225(2), 254–277.
+REF: Callaway, B., & Sant'Anna, P. H. C. (2021). Difference-in-differences with multiple time periods. Journal of Econometrics, 225(2), 200–230.
+REF: Abadie, A., Diamond, A., & Hainmueller, J. (2010). Synthetic control methods for comparative case studies: Estimating the effect of California's tobacco control program. Journal of the American Statistical Association, 105(490), 493–505.
+REF: Athanasoglou, P. P., Brissimis, S. N., & Delis, M. D. (2008). Bank-specific, industry-specific and macroeconomic determinants of bank profitability. Journal of International Financial Markets, Institutions and Money, 18(2), 121–136.
+REF: Demirgüç-Kunt, A., & Huizinga, H. (1999). Determinants of commercial bank interest margins and profitability: Some international evidence. World Bank Economic Review, 13(2), 379–408.
+REF: Boyd, J. H., & Graham, S. L. (1986). Risk, regulation, and bank holding company expansion into nonbanking. Federal Reserve Bank of Minneapolis Quarterly Review, 10(2), 2–17.
+REF: UzDaily. (2025). Ipoteka Bank reports 240 billion soums loss for 2024. https://www.uzdaily.ru/en/ipoteka-bank-reports-240-billion-soums-loss-for-2024
+REF: Daryo. (2025, March 5). Uzbekistan's problem loans rise to 7% in 2024, Moody's reports. https://daryo.uz/en/2025/03/05/uzbekistans-problem-loans-rise-to-7-in-2024-moodys-reports

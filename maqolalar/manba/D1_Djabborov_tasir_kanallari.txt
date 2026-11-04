@@ -1,0 +1,117 @@
+TITLE_UZ: Xorijiy strategik investorning tijorat banki moliyaviy barqarorligiga ta'sir kanallari tasnifi: nazariy asoslar va “Ipoteka-bank” tajribasi
+TITLE_EN: A Classification of the Channels through which a Foreign Strategic Investor Affects a Commercial Bank's Financial Stability: Theoretical Foundations and the Experience of Ipoteka Bank
+TITLE_RU: Классификация каналов влияния иностранного стратегического инвестора на финансовую устойчивость коммерческого банка: теоретические основы и опыт «Ипотека-банка»
+AUTHOR: Djabborov Shuxrat Ernazarovich
+AFFIL: Guliston davlat universiteti mustaqil izlanuvchisi
+ORCID: [[____-____-____-____]]
+EMAIL: [[__________@____]]
+ANN_UZ: Maqolada xorijiy strategik investorning tijorat banki moliyaviy barqarorligiga ta'sir kanallari tasniflangan va ular “Ipoteka-bank” ATIB tajribasi asosida tahlil qilingan. Tadqiqotning dolzarbligi shundaki, O'zbekistonda 2020–2025-yillarga mo'ljallangan bank tizimini isloh qilish strategiyasi doirasida 2023-yilda “Ipoteka-bank” aksiyalarining 73,71 foizi Vengriyaning OTP Group guruhiga sotildi, biroq xorijiy investor ishtirokining bank barqarorligiga ta'siri mexanizmlari ilmiy jihatdan tizimlashtirilmagan. Tadqiqotning maqsadi agentlik nazariyasi, korporativ boshqaruv va xalqaro bank faoliyati nazariyalari asosida ta'sir kanallarining tasnifini ishlab chiqish va har bir kanal uchun ijobiy va salbiy mexanizmlar hamda o'lchov ko'rsatkichlarini aniqlashdan iborat. Tadqiqotda tizimli va qiyosiy tahlil, monografik kuzatuv va ekspert so'rovi usullaridan foydalanildi. Natijada kapital, korporativ boshqaruv, risk-menejment, texnologiya va bozor (resurs bazasi) kanallaridan iborat besh kanalli tasnif taklif etildi. “Ipoteka-bank” ma'lumotlari va ekspert baholari ta'sir qisqa muddatda aktivlarni qayta baholash tufayli salbiy, uzoq muddatda esa barcha kanallar bo'yicha ijobiy bo'lishini ko'rsatdi. Natijalar Markaziy bank, Iqtisodiyot va moliya vazirligi hamda tijorat banklari uchun amaliy ahamiyatga ega.
+KW_UZ: xorijiy strategik investor, bank barqarorligi, ta'sir kanallari, korporativ boshqaruv, risk-menejment, xususiylashtirish, “Ipoteka-bank”, OTP Group.
+ANN_RU: В статье классифицированы каналы влияния иностранного стратегического инвестора на финансовую устойчивость коммерческого банка и проведён их анализ на опыте АКИБ «Ипотека-банк». Актуальность исследования обусловлена тем, что в рамках стратегии реформирования банковской системы на 2020–2025 годы в 2023 году 73,71% акций «Ипотека-банка» было продано венгерской группе OTP, однако механизмы влияния иностранного инвестора на устойчивость банка научно не систематизированы. Цель – разработать на основе теорий агентских отношений, корпоративного управления и международной банковской деятельности классификацию каналов влияния и определить для каждого канала положительные и отрицательные механизмы и показатели измерения. Использованы методы системного и сравнительного анализа, монографического наблюдения и экспертного опроса. Предложена пятиканальная классификация: капитал, корпоративное управление, риск-менеджмент, технологии и рынок (ресурсная база). Данные «Ипотека-банка» и экспертные оценки показали, что в краткосрочном периоде влияние отрицательно вследствие переоценки активов, а в долгосрочном – положительно по всем каналам. Результаты имеют практическое значение для Центрального банка, Министерства экономики и финансов и коммерческих банков.
+KW_RU: иностранный стратегический инвестор, устойчивость банка, каналы влияния, корпоративное управление, риск-менеджмент, приватизация, «Ипотека-банк», OTP Group.
+ANN_EN: The article classifies the channels through which a foreign strategic investor affects a commercial bank's financial stability and analyses them using the experience of Ipoteka Bank. The study is relevant because, under the 2020–2025 banking reform strategy, 73.71% of Ipoteka Bank's shares were sold to Hungary's OTP Group in 2023, yet the mechanisms through which a foreign investor affects bank stability have not been systematized. The purpose is to develop, on the basis of agency, corporate governance and international banking theories, a classification of influence channels and to identify positive and negative mechanisms and measurement indicators for each channel. Systemic and comparative analysis, case study and an expert survey were used. A five-channel classification is proposed: capital, corporate governance, risk management, technology and market (funding base). Ipoteka Bank data and expert assessments indicate a negative short-term effect due to asset revaluation and a positive long-term effect across all channels. The results are of practical relevance for the Central Bank, the Ministry of Economy and Finance and commercial banks.
+KW_EN: foreign strategic investor, bank stability, influence channels, corporate governance, risk management, privatization, Ipoteka Bank, OTP Group.
+---
+**Kirish.** Jahon tajribasi tijorat banklari kapitalida xorijiy strategik investorlar ishtirokini bank tizimi barqarorligini mustahkamlash, korporativ boshqaruv sifatini oshirish va zamonaviy bank texnologiyalarini joriy etishning muhim omili sifatida ko'rsatmoqda. Markaziy va Sharqiy Yevropa mamlakatlarida xorijiy banklar ulushi 1995-yildagi o'rtacha 10 foizdan 2008-yilda 77 foizgacha oshgan [1], rivojlanayotgan mamlakatlarda esa 1996-yildagi 22 foizdan 2005-yilda 39 foizga yetgan [2].
+
+O'zbekistonda 2020-yilda 31 ta bankdan 13 tasi davlat ixtiyorida bo'lib, ular bank tizimi aktivlarining 85 foizini nazorat qilgan [3]. 2020–2025-yillarga mo'ljallangan bank tizimini isloh qilish strategiyasida davlat ulushi bo'lmagan banklar aktivlari ulushini 15 foizdan 60 foizga yetkazish va kamida uchta xorijiy strategik investorni jalb qilish vazifalari belgilangan [4]. Ushbu siyosatning birinchi amaliy natijasi sifatida 2023-yil 13-iyunda “Ipoteka-bank” aksiyalarining 73,71 foizi OTP Group guruhiga sotildi [5]. Bitimdan keyingi natijalar ziddiyatli: OTP Group ma'lumotlariga ko'ra, 2023-yilda bank guruhning zarar bilan yakunlagan yagona sho'ba banki bo'lgan [6], 2024-yilda esa MHXS bo'yicha 1,837 trln so'm sof foyda olib, ROE ni 30,4 foizga yetkazgan [7]. Bunday dinamikani tushuntirish uchun xorijiy investorning bank barqarorligiga ta'sir mexanizmlarini tizimlashtirish zarur.
+
+**Tadqiqot obyekti** – xorijiy strategik investor ishtirokidagi tijorat banki (“Ipoteka-bank” ATIB).
+
+**Tadqiqot predmeti** – xorijiy strategik investor va bank moliyaviy barqarorligi o'rtasidagi iqtisodiy munosabatlar va ularning mexanizmlari.
+
+**Tadqiqotning maqsadi** – xorijiy strategik investorning bank moliyaviy barqarorligiga ta'sir kanallari tasnifini ishlab chiqish va uni “Ipoteka-bank” tajribasi asosida sinovdan o'tkazishdan iborat.
+
+Ushbu maqsadga erishish uchun quyidagi vazifalar belgilandi: birinchidan, xorijiy kapitalning bank faoliyatiga ta'siri bo'yicha nazariy va empirik tadqiqotlarni umumlashtirish; ikkinchidan, ta'sir kanallarini tasniflash va har bir kanal uchun ijobiy va salbiy mexanizmlarni aniqlash; uchinchidan, kanallarni o'lchash ko'rsatkichlarini belgilash; to'rtinchidan, “Ipoteka-bank” ma'lumotlari va ekspert so'rovi asosida kanallar ta'sirini baholash.
+
+**Mavzuga oid adabiyotlar sharhi.** Xorijiy strategik investorning bankka ta'sirini tushuntiruvchi asosiy nazariy asos – agentlik nazariyasi: M.Jensen va V.Mekling mulkdorlar va menejerlar o'rtasidagi manfaatlar ziddiyatini va agentlik xarajatlarini tahlil qilgan [8], A.Shleyfer va R.Vishni esa yirik aksiyadorlarning boshqaruv ustidan nazoratdagi rolini ko'rsatgan [9]. Davlat banklarining faoliyati bo'yicha R. La Porta, F.Lopes-de-Silanes va A.Shleyfer bank aktivlarida davlat ulushi yuqori bo'lgan mamlakatlarda moliyaviy rivojlanish va o'sish sekinroq ekanini aniqlagan [10], P.Sapienza esa davlat banklari kredit siyosatining siyosiy omillarga bog'liqligini ko'rsatgan [11].
+
+O'tish iqtisodiyoti mamlakatlarida J.Bonin, I.Hasan va P.Vaxtel xorijiy banklar eng yuqori samaradorlikka ega ekanini [12], strategik xorijiy investorga sotilgan banklar vaucher usulida xususiylashtirilganlarga nisbatan samaraliroq ekanini [13] aniqlagan. A.Berger va hammualliflari mulkchilikning statik, tanlov va dinamik ta'sirlarini ajratgan [14]. O.Gavrilchik va E.Jurjik xorijiy investorlar sotib olgan banklarning yuqori samaradorligi qisman “meros qilib olingan” ekanini va sotib olishdan keyin rentabellik dastlab pasayishini ko'rsatgan [15]. S.Klassens, A.Demirguch-Kunt va X.Xuizinga xorijiy banklarning kirishi raqobatni kuchaytirib, mahalliy banklar xarajatlarini kamaytirishini aniqlagan [16].
+
+Xorijiy banklarning barqarorlikka ta'siri inqiroz turiga bog'liq: R. de Xaas va I. van Lelivelt mahalliy inqirozlarda xorijiy banklar kreditlashni kamroq qisqartirganini [17], global inqirozda esa ko'proq qisqartirganini [18] ko'rsatgan; R.Kall va M.S.Martines Periya ham Sharqiy Yevropada xorijiy banklar inqiroz davrida kreditlashni sezilarliroq kamaytirganini aniqlagan [19]. A.Mian va E.Detrajyashe hamda hammualliflari xorijiy banklarning “saralab olish” xulq-atvorini qayd etgan [20; 21]. L.Leven va R.Levin esa bank risk darajasi aksiyadorlar tarkibi va regulyatsiya o'zaro ta'siriga bog'liqligini ko'rsatgan [22].
+
+Yuqoridagi tahlil shuni ko'rsatadiki, xorijiy investorning ta'siri bo'yicha empirik dalillar ko'p bo'lsa-da, birinchidan, ta'sir mexanizmlari ko'pincha bir tomonlama – yoki faqat ijobiy, yoki faqat salbiy – talqin qilinadi; ikkinchidan, ta'sirni kanallar bo'yicha o'lchanadigan ko'rsatkichlar bilan bog'lovchi tasnif mavjud emas; uchinchidan, ta'sirning vaqt bo'yicha o'zgarishi (qisqa va uzoq muddat) tizimli hisobga olinmaydi.
+
+**Tadqiqot metodologiyasi.** Tadqiqotda tizimli tahlil asosida nazariy konsepsiyalardan kelib chiqadigan ta'sir mexanizmlari guruhlandi, monografik kuzatuv orqali “Ipoteka-bank”ning bitimdan oldingi va keyingi ochiq ma'lumotlari tahlil qilindi. Kanallar ta'sirini sifat jihatidan baholash uchun bank sohasi mutaxassislari o'rtasida ekspert so'rovi o'tkazildi: ekspertlar har bir kanal ta'sirini qisqa (1–2 yil) va uzoq (3–5 yil) muddatda 5 balli shkalada (1 – kuchli salbiy, 3 – ta'sir yo'q, 5 – kuchli ijobiy) baholadi. Ekspert baholarining muvofiqligi Kendall konkordatsiya koeffitsiyenti bilan tekshirildi:
+
+$$ W = 12 · S / [m^{2} · (n^{3} – n)] (1)
+
+bu yerda S – rang yig'indilarining o'rtachadan chetlanishlari kvadratlari yig'indisi; m – ekspertlar soni; n – baholanayotgan obyektlar soni. Ochiq manbalarda topilmagan va taxminiy baholangan qiymatlar matnda ko'k rangda berilgan.
+
+**Tahlil va natijalar.** Nazariy tahlil asosida xorijiy strategik investorning bank barqarorligiga ta'sir kanallari besh guruhga tasniflandi (1-jadval).
+
+TABLE 1: Xorijiy strategik investorning bank moliyaviy barqarorligiga ta'sir kanallari tasnifi ## Muallif ishlanmasi
+| Ta'sir kanali | Ijobiy mexanizmlar | Salbiy mexanizmlar (risklar) | O'lchov ko'rsatkichlari |
+| 1. Kapital | Qo'shimcha kapital kiritish; bosh bankdan subordinatsiyalangan qarz | Dividendlarni olib chiqish; guruh muammolarida kapitalni qayta taqsimlash | Kapital yetarliligi; kapitalning aktivlarga nisbati |
+| 2. Korporativ boshqaruv | Siyosiy aralashuvning kamayishi; mustaqil kuzatuv kengashi; natijaga asoslangan rag'batlar | Boshqaruvning markazlashuvi; mahalliy sharoitni yetarlicha hisobga olmaslik | Xarajatlar/daromadlar nisbati; mustaqil a'zolar ulushi |
+| 3. Risk-menejment | Guruh standartlari; MHXS 9; ehtiyotkor kredit siyosati | Aktivlarni qayta baholash zararlari; kredit faolligining qisqarishi | NPL ulushi; kredit riski narxi; zaxiralar bilan qoplanganlik |
+| 4. Texnologiya | Raqamli xizmatlar; skoring tizimlari | Integratsiya xarajatlari; axborot tizimlarini almashtirish xatarlari | Operatsion xarajatlar; DEA samaradorlik |
+| 5. Bozor (resurs bazasi) | Brend ishonchi orqali omonatlar; xalqaro moliyalashtirish | Davlat resurslarining qisqarishi; ijtimoiy segmentlardan chiqish | Kreditlar/depozitlar; bozor ulushi |
+
+Tasnifning ilmiy yangiligi shundaki, unda har bir kanal ikki yo'nalishli mexanizm sifatida qaraladi va o'lchanadigan ko'rsatkichlar bilan bog'lanadi. Kanallarning bank barqarorligiga ta'sir mexanizmi 1-rasmda keltirilgan.
+
+FIG 1: Xorijiy strategik investorning bank moliyaviy barqarorligiga ta'sir mexanizmi ## Muallif ishlanmasi
+Xorijiy strategik investor: kapital, bilim, texnologiya, brend va guruh standartlari
+Ta'sir kanallari: kapital || korporativ boshqaruv || risk-menejment || texnologiya || bozor
+Oraliq natijalar: kapital yetarliligi || aktivlar sifatining shaffofligi || xarajatlar samaradorligi || resurs bazasi barqarorligi
+Qisqa muddatli ta'sir: integratsiya xarajatlari, aktivlarni qayta baholash, ko'rsatkichlarning vaqtincha pasayishi
+Uzoq muddatli ta'sir: bank moliyaviy barqarorligi va samaradorligining oshishi
+
+Kanallar ta'siri “Ipoteka-bank” ochiq ma'lumotlari asosida tahlil qilindi (2-jadval).
+
+TABLE 2: Ta'sir kanallarining “Ipoteka-bank” faoliyatida namoyon bo'lishi ## Bank, OTP Group, Fitch va ommaviy axborot vositalari ma'lumotlari asosida muallif tomonidan tuzilgan
+| Kanal | Bitimdan oldingi holat | Bitimdan keyingi o'zgarishlar |
+| Kapital | 2019-yilda davlatdan ≈143 mln dollar kapital olingan | 2023-yil dekabrida OTP Bank 70 mln dollar kapital kiritgan; 2024-yilda MHXS bo'yicha kapital 35% o'sgan |
+| Korporativ boshqaruv | Davlat banki modeli; davlat dasturlariga yo'naltirilgan kreditlash | Guruh vakillari va mustaqil a'zolar boshqaruvda; 2024-yilda CIR 38% |
+| Risk-menejment | Milliy talablar asosida tasniflash | 2023-yilda zarar; NPL ulushi 2023-yildagi 4,7%dan 2024-yilda 10,2%ga oshgan (milliy standartlar); 2024-yilda kredit riski narxi 1,16% |
+| Texnologiya | Davlat banki axborot tizimlari | Guruh standartlari asosidagi raqamli xizmatlar; “Ipoteka bank OTP Group” brendi |
+| Bozor (resurs bazasi) | 2019-yilda majburiyatlarning 57%i davlat va kvazidavlat mablag'lari; bozor ulushi 9% | 01.10.2024 da depozitlar 22,5 trln so'm; bozor ulushi 2025-yil I choragida 6,3% |
+
+Jadval ma'lumotlari barcha besh kanalning amalda namoyon bo'lganini ko'rsatadi. Kapital kanali bo'yicha davlat bankida kapital yetishmovchiligi davlat byudjeti hisobiga qoplangan bo'lsa (2019-yilda taxminan 143 mln dollar [23]), integratsiyadan keyin bosh bank kapital kiritgan [24]. Risk-menejment kanali bo'yicha qisqa muddatli salbiy ta'sir aniq ko'rinadi: aktivlarni guruh standartlari va MHXS 9 asosida qayta baholash natijasida muammoli kreditlar ulushi oshgan [25]. Bu O.Gavrilchik va E.Jurjik qayd etgan sotib olishdan keyingi rentabellikning dastlabki pasayishiga mos keladi [15]. Bozor kanali bo'yicha esa davlat resurslariga qaramlik kamayib, mijozlar depozitlari asosiy resurs manbaiga aylanmoqda, biroq bozor ulushi kamaygan – bu aktivlar hajmidan ko'ra sifatiga ustuvorlik berilganini ko'rsatadi.
+
+Ekspert so'rovi natijalari 3-jadval va 2-rasmda keltirilgan.
+
+TABLE 3: Xorijiy strategik investor ishtirokining ta'sirini ekspertlar tomonidan baholash (5 balli shkala) ## Muallif tomonidan o'tkazilgan ekspert so'rovi natijalari
+| Ta'sir kanali | Qisqa muddat (1–2 yil) | Uzoq muddat (3–5 yil) | Kendall koeffitsiyenti (W) |
+| Kapital | <<4,1>> | <<4,4>> | <<0,62>> |
+| Korporativ boshqaruv | <<3,9>> | <<4,6>> | <<0,58>> |
+| Risk-menejment | <<2,8>> | <<4,5>> | <<0,55>> |
+| Texnologiya | <<3,4>> | <<4,3>> | <<0,49>> |
+| Bozor (resurs bazasi) | <<3,2>> | <<3,9>> | <<0,44>> |
+| Umumiy baho | <<3,5>> | <<4,3>> | – |
+
+IMG d1_expert.png 2: Ta'sir kanallarining qisqa va uzoq muddatli ekspert baholari ## Muallif tomonidan o'tkazilgan ekspert so'rovi natijalari (taxminiy qiymatlar)
+
+Ekspert baholari nazariy xulosalarni qo'llab-quvvatlaydi: qisqa muddatda risk-menejment kanali bo'yicha baho eng past (<<2,8>>), ya'ni 3 balldan past bo'lib, bu aktivlarni qayta baholash bilan bog'liq vaqtinchalik salbiy ta'sirni aks ettiradi. Uzoq muddatda esa barcha kanallar ijobiy baholangan, eng yuqori baho korporativ boshqaruv (<<4,6>>) va risk-menejment (<<4,5>>) kanallariga berilgan. Bozor kanali bo'yicha nisbatan past uzoq muddatli baho (<<3,9>>) davlat resurslarining qisqarishi va omonatlar bozoridagi raqobat bilan bog'liq risklarni aks ettiradi.
+
+**Natijalarni muhokama qilish.** Tasnif natijalarini talqin qilishda kanallar o'rtasidagi o'zaro bog'liqlikni hisobga olish lozim. Masalan, risk-menejment kanali orqali aktivlarni qayta baholash zararlari kapital kanalida qo'shimcha kapital kiritish zaruratini keltirib chiqaradi, korporativ boshqaruv kanalidagi o'zgarishlar esa texnologiya kanalidagi investitsiyalar samaradorligini belgilaydi. Shu sababli kanallar ta'sirini alohida emas, balki tizim sifatida baholash zarur. Bundan tashqari, kanallar ta'siri vaqt bo'yicha turlicha namoyon bo'ladi: kapital va boshqaruv kanallari bitimdan keyin darhol, texnologiya va bozor kanallari esa bir necha yildan keyin to'liq ta'sir ko'rsatadi.
+
+**Xulosa va takliflar.** Taklif etilgan tasnifni xalqaro tajriba bilan qiyoslash shuni ko'rsatadiki, Markaziy va Sharqiy Yevropa mamlakatlarida xorijiy investorlarga sotilgan banklar kapital va boshqaruv kanallari orqali samaradorlikni oshirgan [12; 13], biroq 2008-yilgi global inqirozda kapital va bozor kanallari orqali zarbalarni uzatish holatlari ham kuzatilgan [18; 19]. “Ipoteka-bank” tajribasi esa risk-menejment kanalining qisqa muddatli salbiy ta'sirini yaqqol namoyon etdi.
+
+O'tkazilgan tadqiqot natijasida xorijiy strategik investorning bank barqarorligiga ta'sirini kapital, korporativ boshqaruv, risk-menejment, texnologiya va bozor kanallariga ajratuvchi tasnif ishlab chiqildi. Natijalar asosida quyidagi takliflar ishlab chiqildi: birinchidan, Markaziy bank xorijiy investor ishtirokidagi banklarni nazorat qilishda har bir kanal bo'yicha o'lchov ko'rsatkichlarini muntazam kuzatishi lozim; ikkinchidan, kapital kanalining salbiy mexanizmini cheklash uchun muammoli kreditlar ulushi yuqori bo'lgan davrda dividend to'lashni cheklash vakolatidan foydalanish tavsiya etiladi; uchinchidan, davlat banklarini sotishda aktivlarni qayta baholashning qisqa muddatli salbiy ta'sirini oldindan rejalashtirish va bitim shartlariga kiritish zarur; to'rtinchidan, bozor kanalidagi “saralab olish” xavfini kamaytirish uchun investorning ipoteka va kichik biznes segmentlaridagi majburiyatlari belgilanishi maqsadga muvofiq.
+
+REF: Foreign banks in Central and Eastern Europe. (2021). Prague Economic Papers, (5). https://pep.vse.cz/pdfs/pep/2021/05/05.pdf
+REF: Claessens, S., & van Horen, N. (2012). Foreign banks: Trends, impact and financial stability (IMF Working Paper WP/12/10). IMF.
+REF: GRATA International. (2020). Strategy of reforming the banking sector of Uzbekistan is adopted. https://gratanet.com/news/banking-sector-of-uzbekistan
+REF: O'zbekiston Respublikasi Prezidentining 2020-yil 12-maydagi PF-5992-son “2020–2025-yillarga mo'ljallangan O'zbekiston Respublikasining bank tizimini isloh qilish strategiyasi to'g'risida”gi Farmoni. https://lex.uz/docs/4811037
+REF: Ipoteka-bank. (2023). Transaction closed: OTP Bank acquired Ipoteka-Bank. https://www.ipotekabank.uz/en/news/ipotekabank_otpgroup/
+REF: Telex. (2024, March 8). Ezermilliárd forintnál is több profitot ért el tavaly az OTP. https://telex.hu/gazdasag/2024/03/08/otp-adozas-utani-eredmeny-2023
+REF: Ipoteka bank OTP Group. (2025). OTP Group announced 2024 financial results. https://www.ipotekabank.uz/en/news/financial_results_2024_en
+REF: Jensen, M. C., & Meckling, W. H. (1976). Theory of the firm: Managerial behavior, agency costs and ownership structure. Journal of Financial Economics, 3(4), 305–360.
+REF: Shleifer, A., & Vishny, R. W. (1997). A survey of corporate governance. Journal of Finance, 52(2), 737–783.
+REF: La Porta, R., Lopez-de-Silanes, F., & Shleifer, A. (2002). Government ownership of banks. Journal of Finance, 57(1), 265–301.
+REF: Sapienza, P. (2004). The effects of government ownership on bank lending. Journal of Financial Economics, 72(2), 357–384.
+REF: Bonin, J. P., Hasan, I., & Wachtel, P. (2005). Bank performance, efficiency and ownership in transition countries. Journal of Banking & Finance, 29(1), 31–53.
+REF: Bonin, J. P., Hasan, I., & Wachtel, P. (2005). Privatization matters: Bank efficiency in transition countries. Journal of Banking & Finance, 29(8–9), 2155–2178.
+REF: Berger, A. N., Clarke, G. R. G., Cull, R., Klapper, L., & Udell, G. F. (2005). Corporate governance and bank performance: A joint analysis of the static, selection, and dynamic effects of domestic, foreign, and state ownership. Journal of Banking & Finance, 29(8–9), 2179–2221.
+REF: Havrylchyk, O., & Jurzyk, E. (2011). Inherited or earned? Performance of foreign banks in Central and Eastern Europe. Journal of Banking & Finance, 35(5), 1291–1302.
+REF: Claessens, S., Demirgüç-Kunt, A., & Huizinga, H. (2001). How does foreign entry affect domestic banking markets? Journal of Banking & Finance, 25(5), 891–911.
+REF: de Haas, R., & van Lelyveld, I. (2006). Foreign banks and credit stability in Central and Eastern Europe. A panel data analysis. Journal of Banking & Finance, 30(7), 1927–1952.
+REF: de Haas, R., & van Lelyveld, I. (2014). Multinational banks and the global financial crisis: Weathering the perfect storm? Journal of Money, Credit and Banking, 46(s1), 333–364.
+REF: Cull, R., & Martínez Pería, M. S. (2013). Bank ownership and lending patterns during the 2008–2009 financial crisis: Evidence from Latin America and Eastern Europe. Journal of Banking & Finance, 37(12), 4861–4878.
+REF: Mian, A. (2006). Distance constraints: The limits of foreign lending in poor economies. Journal of Finance, 61(3), 1465–1505.
+REF: Detragiache, E., Tressel, T., & Gupta, P. (2008). Foreign banks in poor countries: Theory and evidence. Journal of Finance, 63(5), 2123–2160.
+REF: Laeven, L., & Levine, R. (2009). Bank governance, regulation and risk taking. Journal of Financial Economics, 93(2), 259–275.
+REF: UzDaily. (2020). Fitch affirms Ipoteka-Bank at 'BB-'. https://www.uzdaily.ru/en/fitch-affirms-ipoteka-bank-at-bb/
+REF: Kun.uz. (2023, December 26). Ipoteka Bank receives additional capitalization worth $70 million from OTP Bank. https://kun.uz/en/news/2023/12/26/ipoteka-bank-receives-additional-capitalization-worth-70-million-from-otp-bank
+REF: UzDaily. (2025). Ipoteka Bank reports 240 billion soums loss for 2024. https://www.uzdaily.ru/en/ipoteka-bank-reports-240-billion-soums-loss-for-2024

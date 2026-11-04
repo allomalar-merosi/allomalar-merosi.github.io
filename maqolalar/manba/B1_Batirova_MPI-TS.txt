@@ -1,0 +1,146 @@
+TITLE_UZ: Tadbirkorlik salohiyati o'lchovini o'z ichiga olgan hududiy ko'p o'lchovli kambag'allik indeksi (MPI-TS): Sirdaryo viloyati misolida metodik yondashuv
+TITLE_EN: A Regional Multidimensional Poverty Index Including an Entrepreneurial Capacity Dimension (MPI-TS): A Methodological Approach for Syrdarya Region
+TITLE_RU: Региональный индекс многомерной бедности с измерением предпринимательского потенциала (MPI-TS): методический подход на примере Сырдарьинской области
+AUTHOR: Batirova Latofat Shuxratovna
+AFFIL: Guliston davlat universiteti tayanch doktoranti
+ORCID: [[____-____-____-____]]
+EMAIL: [[__________@____]]
+ANN_UZ: Maqolada kambag'allikni ko'p o'lchovli mezonlar asosida baholashning hududiy sharoitga moslashtirilgan indeksi – tadbirkorlik salohiyatini hisobga oluvchi ko'p o'lchovli kambag'allik indeksi (MPI-TS) ishlab chiqilgan. Tadqiqotning dolzarbligi shundaki, O'zbekistonda rasmiy kambag'allik ko'rsatkichi iste'mol xarajatlariga asoslangan monetar mezon bo'lib, u uy xo'jaliklarining ta'lim, sog'liq, turmush sharoiti va bandlik sohalaridagi mahrumliklarini aks ettirmaydi, global MPI indikatorlari esa o'rta daromadli mamlakat sharoitida yetarlicha sezgir emas. Tadqiqotning maqsadi Alkire–Foster usuli asosida beshta o'lchov (ta'lim, sog'liq, turmush sharoiti, bandlik, tadbirkorlik salohiyati) va 14 ta indikatordan iborat indeksni asoslash va uning qo'llanilishini ko'rsatishdan iborat. Tadqiqotda qiyosiy tahlil, indeksli baholash, dekompozitsiya va shartli modellashtirish usullaridan foydalanildi. O'nta shartli uy xo'jaligi misolida o'tkazilgan modellashtirish natijalariga ko'ra, global MPI tuzilishidagi standart indikatorlar bo'yicha oilalardan faqat bittasi kambag'al deb topilgan bo'lsa, MPI-TS bo'yicha yettitasi ko'p o'lchovli kambag'al hisoblanadi; tadbirkorlik salohiyati o'lchovi indeksga eng katta (27 foiz) hissa qo'shadi. Tadqiqot natijalari mahalla “yettiligi”, kambag'allikni qisqartirish sohasidagi vakolatli organlar va hokimliklar uchun amaliy ahamiyatga ega.
+KW_UZ: ko'p o'lchovli kambag'allik, Alkire–Foster usuli, MPI-TS, tadbirkorlik salohiyati, mahrumlik balli, indikatorlar, Sirdaryo viloyati.
+ANN_RU: В статье разработан адаптированный к региональным условиям индекс оценки бедности на основе многомерных критериев – индекс многомерной бедности с учётом предпринимательского потенциала (MPI-TS). Актуальность исследования обусловлена тем, что официальный показатель бедности в Узбекистане является монетарным критерием, основанным на потребительских расходах, и не отражает лишения домохозяйств в сферах образования, здоровья, условий жизни и занятости, а индикаторы глобального MPI недостаточно чувствительны в условиях страны со средним уровнем дохода. Цель исследования – обосновать индекс из пяти измерений (образование, здоровье, условия жизни, занятость, предпринимательский потенциал) и 14 индикаторов на основе метода Алкире–Фостера и показать его применение. Использованы методы сравнительного анализа, индексной оценки, декомпозиции и условного моделирования. По результатам моделирования на примере десяти условных домохозяйств по стандартным индикаторам глобального MPI бедным признаётся лишь одно домохозяйство, тогда как по MPI-TS – семь; наибольший вклад в индекс (27%) вносит измерение предпринимательского потенциала. Результаты имеют практическое значение для махаллинских «семёрок», уполномоченных органов по сокращению бедности и хокимиятов.
+KW_RU: многомерная бедность, метод Алкире–Фостера, MPI-TS, предпринимательский потенциал, балл лишений, индикаторы, Сырдарьинская область.
+ANN_EN: The article develops a regionally adapted index for assessing poverty on multidimensional criteria – the Multidimensional Poverty Index including Entrepreneurial Capacity (MPI-TS). The relevance of the study stems from the fact that Uzbekistan's official poverty measure is a consumption-based monetary criterion that does not capture household deprivations in education, health, living conditions and employment, while the global MPI indicators are not sufficiently sensitive in a middle-income country. The purpose is to justify an index of five dimensions (education, health, living standards, employment, entrepreneurial capacity) and 14 indicators based on the Alkire–Foster method and to demonstrate its application. Comparative analysis, index-based evaluation, decomposition and conditional modelling were used. Modelling for ten conditional households shows that the standard global MPI indicators identify only one household as poor, whereas MPI-TS identifies seven; the entrepreneurial capacity dimension makes the largest contribution (27%) to the index. The results are of practical relevance for mahalla teams, poverty reduction authorities and local governments.
+KW_EN: multidimensional poverty, Alkire–Foster method, MPI-TS, entrepreneurial capacity, deprivation score, indicators, Syrdarya region.
+---
+**Kirish.** Kambag'allikni qisqartirish O'zbekiston davlat siyosatining ustuvor yo'nalishlaridan biriga aylandi. 2022–2026-yillarga mo'ljallangan Yangi O'zbekistonning taraqqiyot strategiyasida 2026-yil yakuniga qadar kambag'allikni kamida ikki barobar qisqartirish vazifasi belgilangan [1], 2024-yil sentabrida esa “Kambag'allikdan farovonlik sari” dasturi qabul qilinib, kambag'al oilalar bilan ishlash mahalla “yettiligi” zimmasiga yuklatildi [2]. Rasmiy ma'lumotlarga ko'ra, mamlakatda kambag'allik darajasi 2022-yildagi 14 foizdan 2025-yilda 5,8 foizga, Sirdaryo viloyatida esa 2024-yildagi 11,3 foizdan 2025-yilda 6,2 foizga qisqargan. Biroq bu ko'rsatkich iste'mol xarajatlariga asoslangan monetar mezon bo'lib, u oilaning daromadi kambag'allik chegarasidan oshgan-oshmaganini ko'rsatadi, ammo uning farzandlari ta'limdan chetda qolganmi, oila tibbiy yordamni moliyaviy sababga ko'ra ololmayaptimi, xonadonda suv va gaz ta'minoti uzilib turadimi, oila a'zolari barqaror ishga va tadbirkorlik uchun zarur resurslarga egami – degan savollarga javob bermaydi.
+
+Xalqaro amaliyotda bu muammo ko'p o'lchovli kambag'allik indekslari orqali hal etiladi. BMT Taraqqiyot dasturi va Oksford universitetining OPHI tashabbusi tomonidan e'lon qilinadigan global MPI 100 dan ortiq mamlakatda qo'llanilmoqda [3; 4]. Biroq global MPI indikatorlari – elektr energiyasi, ta'lim yillari, bolalar o'limi, uy-joy materiallari va boshqalar – “o'tkir” kambag'allikka yo'naltirilgan bo'lib, O'zbekiston kabi bu sohalarda deyarli to'liq qamrovga erishgan o'rta daromadli mamlakatda ular bo'yicha mahrumlik darajasi nolga yaqin. Natijada standart indeks real muammolarni “ko'rmaydi”. Bundan tashqari, global MPI tadbirkorlikni qo'llab-quvvatlash dasturlari ta'sirida eng tez o'zgaradigan sohani – oilaning tadbirkorlik salohiyatini – umuman hisobga olmaydi.
+
+**Tadqiqot obyekti** – Sirdaryo viloyati uy xo'jaliklari va ularning ko'p o'lchovli kambag'allik holati.
+
+**Tadqiqot predmeti** – kambag'allikni ko'p o'lchovli mezonlar asosida o'lchash va uni hududiy sharoitga moslashtirish bilan bog'liq uslubiy-iqtisodiy munosabatlar.
+
+**Tadqiqotning maqsadi** – tadbirkorlik salohiyati o'lchovini o'z ichiga olgan, hududiy sharoitga moslashtirilgan ko'p o'lchovli kambag'allik indeksini (MPI-TS) ishlab chiqish va uning qo'llanilishini shartli modellashtirish orqali asoslashdan iborat.
+
+Ushbu maqsadga erishish uchun quyidagi vazifalar belgilandi: birinchidan, kambag'allikni o'lchashga monetar va ko'p o'lchovli yondashuvlarning nazariy asoslarini tahlil qilish; ikkinchidan, global MPI indikatorlarining O'zbekiston sharoitidagi cheklovlarini aniqlash; uchinchidan, MPI-TS indeksining o'lchovlari, indikatorlari, vaznlari va chegaralarini asoslash; to'rtinchidan, indeksni shartli uy xo'jaliklari misolida hisoblash va natijalarni tahlil qilish.
+
+Maqola quyidagi tuzilishga ega: ikkinchi bo'limda adabiyotlar sharhi, uchinchi bo'limda tadqiqot metodologiyasi, to'rtinchi bo'limda tahlil va natijalar, beshinchi bo'limda xulosa va takliflar keltirilgan.
+
+**Mavzuga oid adabiyotlar sharhi.** Kambag'allikni ko'p o'lchovli hodisa sifatida tushunish A.Senning “imkoniyatlar” konsepsiyasiga asoslanadi: unga ko'ra farovonlik insonga tegishli daromad bilan emas, balki uning qadrlaydigan hayot tarzini kechirish uchun real imkoniyatlari bilan o'lchanishi kerak [5; 6]. Daromad bu imkoniyatlarga erishishning faqat vositasi bo'lib, uni imkoniyatlarga aylantirish samaradorligi sog'liq, ta'lim, infratuzilma va ijtimoiy muhitga bog'liq. M.Nussbaum bu g'oyani rivojlantirib, inson qadr-qimmatiga mos hayot uchun zarur bo'lgan markaziy imkoniyatlar ro'yxatini taklif etgan [7].
+
+Monetar kambag'allikni o'lchashning nazariy asoslangan vositasi J.Foster, J.Greer va E.Torbeke tomonidan taklif etilgan FGT ko'rsatkichlari oilasidir [8]. A.Sen esa kambag'allik darajasi (headcount) ko'rsatkichining kambag'allik chuqurligi va kambag'allar orasidagi tengsizlikni hisobga olmasligini tanqid qilgan [9]. Ko'p o'lchovli indekslar nazariyasini F.Burginon va S.Chakravarti [10], K.Tsui [11] aksiomatik yondashuv doirasida, A.Atkinson esa hisoblash (counting) yondashuvi doirasida rivojlantirgan [12]. S.Alkire va J.Foster “ikki chegarali” usulni taklif etib, ko'p o'lchovli kambag'allikni identifikatsiya qilish va agregatsiyalashning amaliy jihatdan qulay va aksiomatik jihatdan asoslangan usulini yaratdilar [13]; bu usul global MPI va ko'plab milliy indekslarning asosini tashkil etadi [14]. S.Alkire va M.Santos global MPI ning mustahkamligini tekshirib, uning natijalari vaznlar va chegaralarga nisbatan asosan barqaror ekanini ko'rsatgan [15]. M.Ravallion esa kompozit indekslardagi vaznlarning ixtiyoriyligini tanqid qilib, monetar o'lchovni nomonetar ko'rsatkichlar bilan to'ldirishni tavsiya etgan [16]. Jahon banki 2018-yildagi hisobotida monetar kambag'allik bilan birga ta'lim va infratuzilmaga kirish imkoniyatini qamrab oluvchi ko'p o'lchovli o'lchovni joriy etdi [17].
+
+Tadbirkorlik salohiyatining kambag'allik bilan bog'liqligi moliyaviy cheklovlar va kambag'allik tuzog'i nazariyalarida asoslangan. D.Evans va B.Jovanovich tadbirkorlik bilan shug'ullanish ehtimoli shaxsning dastlabki boyligiga bog'liqligini ko'rsatgan [18], A.Banerji va A.Nyuman esa kapital bozorlarining nomukammalligi kambag'allarni foydali loyihalardan mahrum qilishini va bu holat avloddan avlodga o'tishini asoslagan [19]. K.Barrett va M.Karter aktivlarga asoslangan kambag'allik tuzoqlari sharoitida bir martalik yirik yordam samaraliroq ekanini ko'rsatgan [20]. Mamlakatimizda aholi turmush darajasi, bandlik va kichik biznesni rivojlantirish masalalari Q.X.Abdurahmonov [21], S.S.G'ulomov [22] va boshqa olimlarning ishlarida o'rganilgan.
+
+Yuqoridagi tahlil shuni ko'rsatadiki, ko'p o'lchovli kambag'allikni o'lchash nazariyasi chuqur ishlab chiqilgan bo'lsa-da, birinchidan, global indikatorlar o'rta daromadli mamlakat hududi sharoitiga moslashtirilmagan; ikkinchidan, mavjud indekslarda tadbirkorlik salohiyati kambag'allikning mustaqil o'lchovi sifatida qaralmagan; uchinchidan, indeksni mahalla darajasida qo'llash va tadbirkorlikni qo'llab-quvvatlash dasturlari bilan bog'lash masalalari yoritilmagan. Ushbu bo'shliqlarni to'ldirish mazkur tadqiqotning ilmiy yangiligini belgilaydi.
+
+**Tadqiqot metodologiyasi.** Indeks Alkire–Foster usuli asosida qurildi [13; 14]. Har bir i-uy xo'jaligi uchun d ta indikator bo'yicha mahrumlik holati g_ij (1 – mahrum, 0 – mahrum emas) aniqlanadi va vaznlangan mahrumlik balli hisoblanadi:
+
+$$ c_i = Σ_{j=1}^{d} w_j · g_ij (1)
+
+bu yerda w_j – j-indikator vazni (Σw_j = 1). Uy xo'jaligi c_i ≥ k bo'lganda ko'p o'lchovli kambag'al hisoblanadi. So'ngra kambag'allik qamrovi H, intensivligi A va indeks M_0 aniqlanadi:
+
+$$ H = q / n; A = Σ c_i(k) / q; M_0 = H × A (2)
+
+bu yerda q – kambag'allar soni, n – jami uy xo'jaliklari soni, c_i(k) – senzuralangan mahrumlik balli. M_0 indikatorlar bo'yicha dekompozitsiyalanadi, ya'ni har bir o'lchovning indeksdagi hissasini hisoblash mumkin:
+
+$$ Contrib_d = Σ_{j∈d} w_j · h_j / M_0 (3)
+
+bu yerda h_j – j-indikator bo'yicha senzuralangan mahrumlik darajasi.
+
+Indikatorlar quyidagi tamoyillar asosida tanlandi: nazariy asoslanganlik, hududiy dolzarblik (mahrumlik darajasi nolga yaqin bo'lmasligi), siyosatga sezgirlik, o'lchanuvchanlik (mahalla darajasida oddiy so'rovnoma bilan aniqlanishi) va parsimoniya. Global MPI ning uch an'anaviy o'lchovi saqlab qolinib, ularning indikatorlari moslashtirildi va ikkita yangi o'lchov – bandlik va tadbirkorlik salohiyati – kiritildi. Vaznlar “ichma-ich teng vaznlar” tamoyili bo'yicha belgilandi: har bir o'lchovga 1/5, o'lchov ichida indikatorlarga teng ulush. Asosiy kambag'allik chegarasi global MPI bilan taqqoslanuvchanlik uchun k = 1/3 qilib olindi, qo'shimcha ravishda k = 1/5 (“kambag'allikka zaif”) va k = 1/2 (“chuqur kambag'al”) chegaralari ko'rib chiqildi.
+
+Indeksning qo'llanilishini ko'rsatish maqsadida shartli modellashtirish amalga oshirildi: ijtimoiy-iqtisodiy holati bo'yicha bir-biridan farq qiluvchi o'nta shartli uy xo'jaligi (H1–H10) uchun 14 ta indikator bo'yicha mahrumlik holati ekspert yo'li bilan shakllantirildi va ular bo'yicha standart (global MPI tuzilishidagi) indeks hamda MPI-TS hisoblandi. Shartli ma'lumotlar asosidagi qiymatlar matnda ko'k rangda berilgan.
+
+**Tahlil va natijalar.** Avvalo kambag'allikni o'lchashning mavjud yondashuvlari va taklif etilayotgan MPI-TS taqqoslandi (1-jadval).
+
+TABLE 1: Kambag'allikni o'lchash yondashuvlarining qiyosiy tavsifi ## Muallif ishlanmasi
+| Mezon | Monetar yondashuv (rasmiy) | Global MPI | MPI-TS (taklif) |
+| Nazariy asos | Iste'mol nazariyasi | Imkoniyatlar konsepsiyasi | Imkoniyatlar konsepsiyasi + moliyaviy cheklovlar nazariyasi |
+| O'lchovlar | Iste'mol xarajatlari | 3 ta (ta'lim, sog'liq, turmush darajasi) | 5 ta (+ bandlik, tadbirkorlik salohiyati) |
+| Indikatorlar soni | 1 | 10 | 14 |
+| O'rta daromadli mamlakatga sezgirligi | Yuqori | Past | Yuqori |
+| Tadbirkorlik dasturlari ta'siriga sezgirligi | Faqat daromad orqali | Past | Yuqori |
+| Mahalla darajasida qo'llanilishi | Daromadni aniqlash qiyin | Antropometrik o'lchovlar talab qilinadi | 25 savollik qisqa so'rovnoma |
+
+MPI-TS indeksining tuzilishi 2-jadvalda keltirilgan. Indeksning asosiy farqi – tadbirkorlik salohiyati o'lchovining kiritilishi. Bu o'lchov oilaning tadbirkorlik orqali kambag'allikdan chiqishi uchun zarur bo'lgan uchta resursni – jismoniy kapital (ishlab chiqarish aktivlari), moliyaviy kapital (moliyaviy xizmatlardan foydalanish) va inson kapitali (hujjatlashtirilgan kasbiy malaka) – aks ettiradi va moliyaviy cheklovlar nazariyasiga asoslanadi [18; 19].
+
+TABLE 2: MPI-TS indeksining o'lchovlari, indikatorlari va vaznlari ## Muallif ishlanmasi
+| O'lchov | Indikator | Uy xo'jaligi mahrum hisoblanadi, agar: | Vazni |
+| Ta'lim | Kasbiy ta'lim | 18 yoshdan katta a'zolardan hech biri kasbiy (o'rta maxsus, professional yoki oliy) ma'lumotga ega bo'lmasa | 1/10 |
+| Ta'lim | Bolalar ta'limi | 3–6 yoshli bola maktabgacha ta'limga yoki 7–17 yoshli bola ta'limga qamrab olinmagan bo'lsa | 1/10 |
+| Sog'liq | Tibbiy xizmat | So'nggi 12 oyda moliyaviy sababga ko'ra zarur tibbiy yordam yoki dori olinmagan bo'lsa | 1/10 |
+| Sog'liq | Oziq-ovqat xavfsizligi | So'nggi 30 kunda pul yetishmasligi sababli ovqatlanish kamaytirilgan bo'lsa | 1/10 |
+| Turmush sharoiti | Ichimlik suvi | Markazlashgan tarmoqqa ulanmagan yoki suv haftada 3 kundan kam berilsa | 1/20 |
+| Turmush sharoiti | Sanitariya | Kanalizatsiya yoki yaxshilangan sanitariya tizimi bo'lmasa | 1/20 |
+| Turmush sharoiti | Energiya ta'minoti | Gazga ulanmagan yoki qishda gaz/elektr 7 kundan ortiq uzilgan bo'lsa | 1/20 |
+| Turmush sharoiti | Uy-joy zichligi | Bitta xonaga 3 va undan ortiq kishi to'g'ri kelsa | 1/20 |
+| Bandlik | Barqaror bandlik | Mehnatga layoqatli a'zolardan hech biri doimiy ishga ega bo'lmasa | 1/15 |
+| Bandlik | Bandlik sifati | Band a'zolarning yarmidan ko'pi norasmiy yoki mavsumiy ishda bo'lsa | 1/15 |
+| Bandlik | Yoshlar bandligi | 18–30 yoshli a'zolardan biri na o'qisa, na ishlasa | 1/15 |
+| Tadbirkorlik salohiyati | Ishlab chiqarish aktivlari | Foydalaniladigan tomorqa, mahsuldor chorva, uskuna yoki tijorat transportidan hech biri bo'lmasa | 1/15 |
+| Tadbirkorlik salohiyati | Moliyaviy inklyuziya | Bank kartasi yoki hisobvarag'i bo'lmasa va rasmiy kredit tarixi bo'lmasa | 1/15 |
+| Tadbirkorlik salohiyati | Kasbiy malaka | Mehnatga layoqatli a'zolardan hech biri hujjatlashtirilgan malakaga ega bo'lmasa | 1/15 |
+
+Indikatorlar chegaralarini belgilashda viloyat sharoitining o'ziga xos xususiyatlari hisobga olindi. Masalan, umumiy o'rta ta'lim O'zbekistonda deyarli universal bo'lgani sababli ta'lim indikatorida kasbiy ta'lim chegarasi qabul qilindi; ichimlik suvi va energiya indikatorlarida faqat tarmoqqa ulanganlik emas, balki ta'minotning muntazamligi ham hisobga olindi, chunki Sirdaryo viloyatining ko'plab qishloq mahallalarida asosiy muammo ta'minotning uzilishlar bilan amalga oshirilishidir.
+
+O'nta shartli uy xo'jaligi bo'yicha hisob-kitob natijalari 3-jadvalda keltirilgan. Taqqoslash uchun global MPI tuzilishidagi standart indeks ham hisoblandi: unda O'zbekiston sharoitida mahrumlik darajasi nolga yaqin bo'lgan indikatorlar (elektr energiyasi, ta'lim yillari, bolalar o'limi, yoqilg'i, uy-joy materiallari, aktivlar) bo'yicha mahrumlik yo'q deb qabul qilindi, qolgan to'rt indikator (maktabga qatnash, ovqatlanish, ichimlik suvi, sanitariya) esa global MPI vaznlari bilan hisobga olindi.
+
+TABLE 3: Shartli uy xo'jaliklari bo'yicha standart indeks va MPI-TS hisob-kitobi natijalari ## Muallif hisob-kitobi (shartli ma'lumotlar asosida)
+| Uy xo'jaligi | Mahrum bo'lgan indikatorlar soni (14 tadan) | Standart indeks bali | Standart indeks bo'yicha holati | MPI-TS bali (c_i) | MPI-TS bo'yicha holati |
+| H1 | <<6>> | <<0,167>> | Kambag'al emas | <<0,400>> | Kambag'al |
+| H2 | <<11>> | <<0,278>> | Kambag'al emas | <<0,783>> | Chuqur kambag'al |
+| H3 | <<3>> | <<0,000>> | Kambag'al emas | <<0,183>> | Kambag'al emas |
+| H4 | <<12>> | <<0,389>> | Kambag'al | <<0,850>> | Chuqur kambag'al |
+| H5 | <<0>> | <<0,000>> | Kambag'al emas | <<0,000>> | Kambag'al emas |
+| H6 | <<8>> | <<0,222>> | Kambag'al emas | <<0,567>> | Chuqur kambag'al |
+| H7 | <<3>> | <<0,000>> | Kambag'al emas | <<0,217>> | Zaif (k = 1/5) |
+| H8 | <<11>> | <<0,222>> | Kambag'al emas | <<0,783>> | Chuqur kambag'al |
+| H9 | <<5>> | <<0,222>> | Kambag'al emas | <<0,350>> | Kambag'al |
+| H10 | <<7>> | <<0,167>> | Kambag'al emas | <<0,467>> | Kambag'al |
+| Jami: H, % | – | <<10,0>> | – | <<70,0>> | – |
+
+3-jadval ma'lumotlari standart indeks va MPI-TS o'rtasidagi tub farqni ko'rsatadi: standart indeks bo'yicha o'nta oiladan faqat bittasi (H4) kambag'al deb topilgan bo'lsa, MPI-TS bo'yicha yetti oila ko'p o'lchovli kambag'al hisoblanadi. Masalan, H2 va H8 oilalari 14 ta indikatordan 11 tasi bo'yicha mahrum bo'lsa-da, standart indeks ularni kambag'al deb hisoblamaydi, chunki ularning mahrumliklari asosan bandlik, tadbirkorlik salohiyati va kommunal xizmatlar sifati bilan bog'liq – ya'ni global MPI qamrab olmaydigan sohalarda. Bu natija standart indikatorlarning o'rta daromadli mamlakat hududi sharoitida kambag'allikni “ko'rmasligi” haqidagi xulosani tasdiqlaydi.
+
+MPI-TS bo'yicha uy xo'jaliklarining mahrumlik ballari 1-rasmda keltirilgan.
+
+IMG b1_ci.png 1: Shartli uy xo'jaliklarining MPI-TS bo'yicha mahrumlik ballari ## Muallif hisob-kitobi (shartli ma'lumotlar asosida)
+
+Shartli tanlanma bo'yicha MPI-TS ko'rsatkichlari quyidagicha: kambag'allik qamrovi H = <<70,0>> foiz, intensivligi A = <<60,0>> foiz, indeks M_0 = <<0,420>>. Chegaraga sezgirlik tahlili natijalariga ko'ra, k = 1/5 bo'lganda qamrov <<80,0>> foizni (M_0 = <<0,442>>), k = 1/2 bo'lganda esa <<40,0>> foizni (M_0 = <<0,298>>) tashkil etadi. Demak, “chuqur kambag'al” oilalar – H2, H4, H6 va H8 – birinchi navbatda kompleks qo'llab-quvvatlashga muhtoj guruhni tashkil etadi, H7 oilasi esa kambag'allikka zaif bo'lib, profilaktik choralarni talab qiladi.
+
+Indeksning o'lchovlar bo'yicha dekompozitsiyasi (3-formula) 2-rasmda keltirilgan.
+
+IMG b1_contrib.png 2: MPI-TS indeksining o'lchovlar bo'yicha dekompozitsiyasi ## Muallif hisob-kitobi (shartli ma'lumotlar asosida)
+
+Dekompozitsiya natijalariga ko'ra, ko'p o'lchovli kambag'allikka eng katta hissani tadbirkorlik salohiyati (<<27,0>> foiz) va bandlik (<<20,6>> foiz) o'lchovlari qo'shadi, sog'liq va turmush sharoiti o'lchovlarining hissasi <<19,0>> foizdan, ta'lim o'lchovining hissasi esa <<14,3>> foizni tashkil etadi. Bu natija ikki muhim amaliy xulosaga olib keladi. Birinchidan, kambag'allikning katta qismi tadbirkorlikni qo'llab-quvvatlash vositalari – kredit, subsidiya, kasbga o'qitish – bevosita ta'sir qila oladigan sohalarda joylashgan, ya'ni bu vositalar to'g'ri yo'naltirilgan. Ikkinchidan, turmush sharoiti o'lchovidagi mahrumliklar (suv va energiya ta'minotining uzilishlari) oila darajasidagi yordam bilan emas, balki mahalla infratuzilmasiga investitsiyalar orqali hal etilishi lozim.
+
+Indeksni amaliyotda qo'llash uchun 14 ta indikatorni aniqlashga yetarli bo'lgan 25 savollik qisqa so'rovnoma ishlab chiqildi. Uni mahalla “yettiligi” vakillari oilaga tashrif davomida 15–20 daqiqada to'ldirishi va mahrumlik balli avtomatik hisoblanishi mumkin. Bu indeksni kambag'al oilalar reyestrining mavjud elektron tizimiga qo'shimcha modul sifatida integratsiya qilish imkonini beradi.
+
+**Xulosa va takliflar.** Taklif etilgan MPI-TS indeksini xalqaro tajriba bilan qiyoslash shuni ko'rsatadiki, Meksika, Kolumbiya kabi o'rta daromadli mamlakatlar ham global MPI ni o'z sharoitiga moslashtirib, bandlik va ijtimoiy himoya indikatorlarini kiritgan [14]. Biroq MPI-TS ning o'ziga xosligi – tadbirkorlik salohiyatini kambag'allikning mustaqil o'lchovi sifatida e'tirof etishi va shu orqali indeksni tadbirkorlikni qo'llab-quvvatlash dasturlarini rejalashtirish va baholash vositasiga aylantirishidir.
+
+O'tkazilgan tadqiqot natijasida beshta o'lchov va 14 ta indikatordan iborat, Sirdaryo viloyati sharoitiga moslashtirilgan MPI-TS indeksi ishlab chiqildi. Shartli modellashtirish natijalari standart indikatorlar bo'yicha o'nta oiladan faqat bittasi kambag'al deb topilsa, MPI-TS bo'yicha yetti oila ko'p o'lchovli kambag'al ekanini, indeksga eng katta hissani tadbirkorlik salohiyati o'lchovi qo'shishini ko'rsatdi.
+
+Natijalar asosida quyidagi takliflar ishlab chiqildi: birinchidan, kambag'al oilalar reyestriga MPI-TS mahrumlik balli qo'shimcha ko'rsatkich sifatida kiritilishi va oilalar monetar va ko'p o'lchovli mezonlar bo'yicha birgalikda ustuvorlashtirilishi lozim; ikkinchidan, oilani reyestrdan chiqarishda daromad mezoni bilan birga mahrumlik ballining 1/5 dan pastga tushishi talab qilinishi maqsadga muvofiq; uchinchidan, indeksning o'lchovlar bo'yicha dekompozitsiyasidan qo'llab-quvvatlash vositasini tanlash (tadbirkorlik salohiyati va bandlik mahrumliklari) va infratuzilma dasturlarini rejalashtirish (turmush sharoiti mahrumliklari) uchun foydalanish tavsiya etiladi; to'rtinchidan, keyingi tadqiqotlarda indeks Sirdaryo viloyati uy xo'jaliklari o'rtasidagi tanlama so'rovnoma ma'lumotlari asosida hisoblanishi va uning mustahkamligi vaznlar hamda chegaralarga nisbatan tekshirilishi lozim.
+
+REF: O'zbekiston Respublikasi Prezidentining 2022-yil 28-yanvardagi PF-60-son “2022–2026-yillarga mo'ljallangan Yangi O'zbekistonning taraqqiyot strategiyasi to'g'risida”gi Farmoni. https://lex.uz
+REF: O'zbekiston Respublikasi Prezidentining 2024-yil 23-sentabrdagi PQ-330-son “«Kambag'allikdan farovonlik sari» dasturini amalga oshirish bo'yicha birinchi navbatdagi chora-tadbirlar to'g'risida”gi Qarori. https://lex.uz
+REF: UNDP. (2010). Human development report 2010. The real wealth of nations: Pathways to human development. UNDP.
+REF: UNDP, & OPHI. (2024). Global multidimensional poverty index 2024: Poverty amid conflict. UNDP; OPHI.
+REF: Sen, A. (1985). Commodities and capabilities. North-Holland.
+REF: Sen, A. (1999). Development as freedom. Oxford University Press.
+REF: Nussbaum, M. C. (2011). Creating capabilities: The human development approach. Harvard University Press.
+REF: Foster, J., Greer, J., & Thorbecke, E. (1984). A class of decomposable poverty measures. Econometrica, 52(3), 761–766.
+REF: Sen, A. (1976). Poverty: An ordinal approach to measurement. Econometrica, 44(2), 219–231.
+REF: Bourguignon, F., & Chakravarty, S. R. (2003). The measurement of multidimensional poverty. Journal of Economic Inequality, 1(1), 25–49.
+REF: Tsui, K. (2002). Multidimensional poverty indices. Social Choice and Welfare, 19(1), 69–93.
+REF: Atkinson, A. B. (2003). Multidimensional deprivation: Contrasting social welfare and counting approaches. Journal of Economic Inequality, 1(1), 51–65.
+REF: Alkire, S., & Foster, J. (2011). Counting and multidimensional poverty measurement. Journal of Public Economics, 95(7–8), 476–487.
+REF: Alkire, S., Foster, J. E., Seth, S., Santos, M. E., Roche, J. M., & Ballon, P. (2015). Multidimensional poverty measurement and analysis. Oxford University Press.
+REF: Alkire, S., & Santos, M. E. (2014). Measuring acute poverty in the developing world: Robustness and scope of the Multidimensional Poverty Index. World Development, 59, 251–274.
+REF: Ravallion, M. (2011). On multidimensional indices of poverty. Journal of Economic Inequality, 9(2), 235–248.
+REF: World Bank. (2018). Poverty and shared prosperity 2018: Piecing together the poverty puzzle. World Bank.
+REF: Evans, D. S., & Jovanovic, B. (1989). An estimated model of entrepreneurial choice under liquidity constraints. Journal of Political Economy, 97(4), 808–827.
+REF: Banerjee, A. V., & Newman, A. F. (1993). Occupational choice and the process of development. Journal of Political Economy, 101(2), 274–298.
+REF: Barrett, C. B., & Carter, M. R. (2013). The economics of poverty traps and persistent poverty: Empirical and policy implications. Journal of Development Studies, 49(7), 976–990.
+REF: Abdurahmonov, Q. X. (2019). Mehnat iqtisodiyoti: nazariya va amaliyot [Darslik]. Fan. [[nashr ma'lumotlari tekshirilsin]]
+REF: G'ulomov, S. S. (2002). Tadbirkorlik va kichik biznes. Sharq. [[nashr ma'lumotlari tekshirilsin]]

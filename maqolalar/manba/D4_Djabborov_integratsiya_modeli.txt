@@ -1,0 +1,124 @@
+TITLE_UZ: Davlat bankini xorijiy strategik investorga sotishdan keyingi integratsiyaning yetti bosqichli modeli va bank barqarorligi ko'rsatkichlarining 2026–2030-yillarga prognozi
+TITLE_EN: A Seven-Stage Model of Post-Acquisition Integration of a State-Owned Bank Sold to a Foreign Strategic Investor and a 2026–2030 Forecast of Bank Stability Indicators
+TITLE_RU: Семиэтапная модель интеграции государственного банка после продажи иностранному стратегическому инвестору и прогноз показателей устойчивости банка на 2026–2030 годы
+AUTHOR: Djabborov Shuxrat Ernazarovich
+AFFIL: Guliston davlat universiteti mustaqil izlanuvchisi
+ORCID: [[____-____-____-____]]
+EMAIL: [[__________@____]]
+ANN_UZ: Maqolada davlat bankini xorijiy strategik investorga sotishdan keyingi integratsiya jarayonining yetti bosqichli modeli ishlab chiqilgan va “Ipoteka-bank”ning OTP Group bilan integratsiyasi misolida asoslangan, shuningdek, bank barqarorligi ko'rsatkichlarining 2026–2030-yillarga prognozi tuzilgan. Tadqiqotning dolzarbligi shundaki, O'zbekistonda davlat banklarini xususiylashtirish davom etmoqda, biroq bitimdan keyingi integratsiya jarayoni bir martalik hodisa sifatida qaraladi va uning bosqichlari, vaqtincha salbiy ta'sirlari va monitoring ko'rsatkichlari oldindan rejalashtirilmaydi. Tadqiqotning maqsadi integratsiya bosqichlarini, har bir bosqichning vazifalari va baholash ko'rsatkichlarini aniqlash hamda bank barqarorligi istiqbolini baholashdan iborat. Tadqiqotda monografik kuzatuv, qiyosiy tahlil, bitim narxini baholash va ssenariyli prognozlash usullaridan foydalanildi. Natijada bitim oldi tayyorgarligidan to'liq egalikka o'tishgacha bo'lgan yetti bosqichli model taklif etildi; “Ipoteka-bank” bitimining P/BV ko'rsatkichi taxminan 0,84 ga teng bo'lib, bu aktivlar sifatidagi yashirin muammolar uchun chegirma mavjud bo'lganini ko'rsatadi. Prognozga ko'ra, bazaviy ssenariyda bank barqarorligining integral indeksi 2026-yilda “yuqori” chegaraga yetib, 2030-yilda 0,81 ga oshadi.
+KW_UZ: bank xususiylashtirish, integratsiya modeli, xorijiy strategik investor, bitim narxi, P/BV, prognoz ssenariylari, “Ipoteka-bank”.
+ANN_RU: В статье разработана семиэтапная модель процесса интеграции государственного банка после продажи иностранному стратегическому инвестору, обоснованная на примере интеграции «Ипотека-банка» с OTP Group, а также составлен прогноз показателей устойчивости банка на 2026–2030 годы. Актуальность исследования обусловлена тем, что в Узбекистане продолжается приватизация государственных банков, однако процесс интеграции после сделки рассматривается как разовое событие, а его этапы, временные негативные эффекты и показатели мониторинга заранее не планируются. Цель – определить этапы интеграции, задачи и оценочные показатели каждого этапа, а также оценить перспективы устойчивости банка. Использованы методы монографического наблюдения, сравнительного анализа, оценки цены сделки и сценарного прогнозирования. Предложена семиэтапная модель – от подготовки к сделке до перехода к полной собственности; показатель P/BV сделки по «Ипотека-банку» составил около 0,84, что свидетельствует о дисконте на скрытые проблемы качества активов. По прогнозу в базовом сценарии интегральный индекс устойчивости банка в 2026 году достигнет «высокого» порога и к 2030 году повысится до 0,81.
+KW_RU: приватизация банков, модель интеграции, иностранный стратегический инвестор, цена сделки, P/BV, прогнозные сценарии, «Ипотека-банк».
+ANN_EN: The article develops a seven-stage model of the integration process that follows the sale of a state-owned bank to a foreign strategic investor, substantiates it with the case of Ipoteka Bank's integration into OTP Group, and forecasts the bank's stability indicators for 2026–2030. The study is relevant because privatization of state banks continues in Uzbekistan, yet post-deal integration is treated as a one-off event, and its stages, temporary negative effects and monitoring indicators are not planned in advance. The purpose is to identify integration stages, the tasks and evaluation indicators of each stage, and to assess the bank's stability outlook. Case study, comparative analysis, deal price valuation and scenario forecasting were used. A seven-stage model is proposed, from deal preparation to full ownership; the P/BV ratio of the Ipoteka Bank deal is estimated at about 0.84, indicating a discount for hidden asset quality problems. In the baseline scenario, the bank's integral stability index reaches the "high" threshold in 2026 and rises to 0.81 by 2030.
+KW_EN: bank privatization, integration model, foreign strategic investor, deal price, P/BV, forecast scenarios, Ipoteka Bank.
+---
+**Kirish.** O'zbekistonda 2020–2025-yillarga mo'ljallangan bank tizimini isloh qilish strategiyasida oltita davlat bankini, jumladan “Ipoteka-bank”ni bosqichma-bosqich xususiylashtirish va kamida uchta xorijiy strategik investorni jalb qilish vazifalari belgilangan [1; 2]. 2022-yil dekabrida OTP Bank “Ipoteka-bank” aksiyalarini sotib olish bo'yicha kelishuvga erishilganini e'lon qildi [3], bitim 2023-yil 13-iyunda yakunlandi: OTP Bank bank aksiyalarining 73,71 foizini sotib oldi [4]. Bitim narxi rasman e'lon qilinmagan, biroq matbuot ma'lumotlariga ko'ra u taxminan 324 mln dollarni tashkil etgan [5]. 2023-yil dekabrida bosh bank “Ipoteka-bank”ka 70 mln dollar qo'shimcha kapital kiritdi [6], 2024-yil oxirida esa OTP Bank ulushi taxminan 79,6 foizga yetdi [7].
+
+Bitimdan keyingi davrda bank ko'rsatkichlari keskin o'zgardi: 2023-yilda bank zarar ko'rgan [8], 2024-yilda milliy standartlar bo'yicha muammoli kreditlar ulushi 10,2 foizga yetgan [9], MHXS bo'yicha esa sof foyda 1,837 trln so'mni tashkil etgan [7]. Bu dinamika integratsiya bir martalik hodisa emas, balki aniq bosqichlarga ega jarayon ekanini va uning ayrim bosqichlari ko'rsatkichlarga vaqtincha salbiy ta'sir qilishini ko'rsatadi. Keyingi xususiylashtirish bitimlari muddatlarining bir necha bor kechiktirilgani [10] esa bu tajribani tizimlashtirishning ahamiyatini oshiradi.
+
+**Tadqiqot obyekti** – “Ipoteka-bank” ATIBning OTP Group bilan integratsiya jarayoni.
+
+**Tadqiqot predmeti** – davlat bankini xorijiy strategik investorga sotishdan keyingi integratsiya va bank barqarorligini ta'minlash bilan bog'liq iqtisodiy munosabatlar.
+
+**Tadqiqotning maqsadi** – integratsiyaning yetti bosqichli modelini ishlab chiqish va bank barqarorligi ko'rsatkichlarining 2026–2030-yillarga prognozini asoslashdan iborat.
+
+Ushbu maqsadga erishish uchun quyidagi vazifalar belgilandi: birinchidan, bank xususiylashtirish va integratsiya bo'yicha xalqaro tajribani umumlashtirish; ikkinchidan, “Ipoteka-bank” integratsiyasining asosiy voqealarini tahlil qilish; uchinchidan, integratsiya bosqichlari, vazifalari va baholash ko'rsatkichlarini aniqlash; to'rtinchidan, bitim narxini tahlil qilish; beshinchidan, bank barqarorligi ko'rsatkichlarining ssenariyli prognozini ishlab chiqish.
+
+**Mavzuga oid adabiyotlar sharhi.** Bank xususiylashtirishning iqtisodiy natijalari V.Megginson tomonidan umumlashtirilgan: xususiylashtirish odatda bank samaradorligini oshiradi, biroq natija usul, investor turi va institutsional muhitga bog'liq [11]. J.Bonin, I.Hasan va P.Vaxtel strategik xorijiy investorga sotish vaucher usuliga nisbatan samaraliroq ekanini ko'rsatgan [12], S.Fris va A.Tachi xorijiy mulkchilikdagi xususiylashtirilgan banklar eng yuqori xarajat samaradorligiga ega ekanini aniqlagan [13]. O.Gavrilchik va E.Jurjik sotib olingan banklar rentabelligi dastlab pasayib, keyin oshishini qayd etgan [14]. Xorijiy banklarning kirish shakllari va ularning ta'siri S.Klassens va N. van Xoren tomonidan tahlil qilingan [15]. Korporativ boshqaruv tamoyillari Bazel qo'mitasi tomonidan belgilangan [16], aktivlar sifatini baholashning zamonaviy standarti – MHXS 9 kutilayotgan kredit zararlari modeli [17]. Global inqiroz davrida xalqaro guruhlar sho'ba banklarining xulq-atvori R. de Xaas va I. van Lelivelt tomonidan o'rganilgan [18]. Biroq integratsiya jarayonini bosqichlarga ajratib, har bir bosqich uchun vazifalar va baholash ko'rsatkichlarini belgilovchi model O'zbekiston sharoiti uchun ishlab chiqilmagan.
+
+**Tadqiqot metodologiyasi.** Tadqiqotda “Ipoteka-bank” integratsiyasining ochiq manbalardagi voqealari monografik kuzatuv orqali tahlil qilindi va xalqaro tajriba bilan solishtirildi. Bitim narxi kapitalning balans qiymatiga nisbati (P/BV) orqali baholandi:
+
+$$ P/BV = (P / s) / BV (1)
+
+bu yerda P – bitim narxi; s – sotilgan ulush; BV – kapitalning balans qiymati. Bank barqarorligi prognozi ssenariy yondashuvi asosida tuzildi: aktivlarning o'sish trendi log-chiziqli model bilan baholandi:
+
+$$ ln A_t = a + b·t + ε_t (2)
+
+so'ngra uch ssenariy – inersion, bazaviy va optimistik – uchun aktivlar, ROA, muammoli kreditlar ulushi va kapital yetarliligi bo'yicha farazlar belgilanib, bank barqarorligining integral indeksi (BBII) hisoblandi. Ochiq manbalarda topilmagan qiymatlar va prognoz ko'rsatkichlari matnda ko'k rangda berilgan.
+
+**Tahlil va natijalar.** Xorijiy tajriba va “Ipoteka-bank” integratsiyasi tahlili asosida integratsiyaning yetti bosqichli modeli ishlab chiqildi (1-rasm).
+
+FIG 1: Davlat bankini xorijiy strategik investorga sotishdan keyingi integratsiyaning yetti bosqichli modeli ## Muallif ishlanmasi
+1. Bitim oldi tayyorgarligi: aktivlar sifatini baholash (due diligence) || bitim shartlari va investor majburiyatlari
+2. Boshqaruvni o'tkazish: kuzatuv kengashi va boshqaruvni yangilash || vakolatlar matritsasi
+3. Kapital va standartlarni moslashtirish: MHXS 9 va guruh siyosatlari || qo'shimcha kapital kiritish
+4. Aktivlar sifatini qayta baholash: muammoli kreditlarni tan olish || zaxiralarni shakllantirish
+5. Operatsion integratsiya: axborot tizimlari || mahsulotlar va brend || xodimlar
+6. O'sish va optimallashtirish: biznes modelni o'zgartirish || resurs bazasini diversifikatsiya qilish
+7. To'liq egalikka o'tish: qolgan aksiyalarni sotib olish || uzoq muddatli strategiya
+
+Modelning har bir bosqichi uchun asosiy vazifalar, “Ipoteka-bank”da amalga oshirilgan choralar va baholash ko'rsatkichlari 1-jadvalda keltirilgan.
+
+TABLE 1: Integratsiya bosqichlari, “Ipoteka-bank”da amalga oshirilgan choralar va baholash ko'rsatkichlari ## Ochiq manbalar asosida muallif tomonidan tuzilgan
+| Bosqich | Asosiy vazifalar | “Ipoteka-bank”da amalga oshirilgan choralar | Baholash ko'rsatkichlari |
+| 1. Bitim oldi tayyorgarligi | Due diligence; bitim shartlari | 2022-yil dekabrida kelishuv e'lon qilindi | P/BV |
+| 2. Boshqaruvni o'tkazish | Kuzatuv kengashi va boshqaruvni yangilash | 2023-yil iyunidan guruh vakillari boshqaruvda | Mustaqil a'zolar ulushi |
+| 3. Kapital va standartlar | MHXS 9, guruh siyosatlari, kapital | 2023-yil dekabrida 70 mln dollar kapital | Kapital yetarliligi |
+| 4. Aktivlar sifati | Muammoli kreditlarni tan olish | 2023-yilda zarar; 2024-yilda NPL 4,7% → 10,2% | NPL; zaxiralar bilan qoplanganlik |
+| 5. Operatsion integratsiya | IT, mahsulotlar, brend | “Ipoteka bank OTP Group” brendi; 2024-yilda CIR 38% | Xarajatlar/daromadlar |
+| 6. O'sish va optimallashtirish | Biznes modelni o'zgartirish | 2024–2025-yillarda MHXS bo'yicha ROE 30,4% va 22,4% | ROA, ROE, bozor ulushi |
+| 7. To'liq egalikka o'tish | Qolgan aksiyalarni sotib olish | 2024-yil oxirida ulush ≈79,6% | Investor ulushi |
+
+Modelning ilmiy yangiligi shundaki, unda integratsiya bitim bilan tugaydigan hodisa sifatida emas, balki ketma-ket bosqichlardan iborat jarayon sifatida tavsiflanadi va to'rtinchi bosqich – aktivlar sifatini qayta baholash – ning muqarrarligi va uning ko'rsatkichlarga vaqtincha salbiy ta'siri oldindan rejalashtiriladi. Bu holat bankning ROA dinamikasida yaqqol ko'rinadi (2-rasm).
+
+IMG d4_jcurve.png 2: “Ipoteka-bank” aktivlar rentabelligi dinamikasi (2024–2025-yillar – MHXS bo'yicha fakt) ## Bank ma'lumotlari asosida muallif tomonidan tuzilgan (2019–2023-yillar – taxminiy)
+
+**Bitim narxini tahlil qilish.** Matbuotda keltirilgan 324 mln dollar miqdoridan [5] kelib chiqib, bankning 100 foiz aksiyalari qiymati taxminan 440 mln dollarga baholanadi. 2022-yil oxirida bank kapitali 5,9 trln so'mni tashkil etgan [19]; uni <<2022-yil oxiridagi taxminiy kurs (1 dollar = 11 225 so'm)>> bo'yicha qayta hisoblaganda kapital taxminan <<525 mln dollar>>ni, P/BV esa taxminan <<0,84>> ni tashkil etadi. Rivojlanayotgan bozorlarda bank bitimlari odatda balans qiymatiga yaqin yoki undan yuqori narxda tuziladi; balans qiymatidan past narx investor aktivlar sifatidagi yashirin muammolar, integratsiya xarajatlari va mamlakat riskini hisobga olganini ko'rsatadi. Integratsiyadan keyingi aktivlarni qayta baholash natijalari bu chegirmaning asosli bo'lganini tasdiqlaydi. Demak, sotishdan oldin aktivlar sifatini mustaqil baholash va muammoli aktivlarni ajratib olish bitim narxini oshirishi mumkin.
+
+**Bank barqarorligi prognozi.** 2019–2025-yillar ma'lumotlari bo'yicha bank aktivlarining o'rtacha yillik o'sish sur'ati <<10,9>> foizni tashkil etdi. Shu asosda uch ssenariy shakllantirildi: inersion (aktivlar yiliga <<8>> foiz o'sadi, muammoli kreditlarni hal etish sekin), bazaviy (<<13>> foiz, taklif etilgan choralar qisman amalga oshiriladi) va optimistik (<<18>> foiz, choralar to'liq amalga oshiriladi). 2026-yilning birinchi yarmida bank 1,24 trln so'm sof foyda olib, uni o'tgan yilning mos davriga nisbatan 43 foizga oshirgan, ROE 26,2 foizni tashkil etgan [20] – bu dastlabki natijalar bazaviy va optimistik ssenariylarga mos keladi. Prognoz natijalari 2-jadval va 3-rasmda keltirilgan.
+
+TABLE 2: “Ipoteka-bank” barqarorligi ko'rsatkichlarining 2026–2030-yillarga prognozi ## Muallif hisob-kitobi
+| Ssenariy | Ko'rsatkich | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
+| Inersion | Aktivlar, trln so'm | <<57,4>> | <<62,0>> | <<67,0>> | <<72,3>> | <<78,1>> | <<84,3>> |
+| Inersion | NPL, % | <<7,1>> | <<6,9>> | <<6,6>> | <<6,4>> | <<6,2>> | <<6,0>> |
+| Inersion | BBII | <<0,741>> | <<0,73>> | <<0,73>> | <<0,74>> | <<0,74>> | <<0,75>> |
+| Bazaviy | Aktivlar, trln so'm | <<57,4>> | <<64,9>> | <<73,3>> | <<82,8>> | <<93,6>> | <<105,8>> |
+| Bazaviy | NPL, % | <<7,1>> | <<6,3>> | <<5,5>> | <<4,9>> | <<4,4>> | <<4,0>> |
+| Bazaviy | BBII | <<0,741>> | <<0,75>> | <<0,77>> | <<0,79>> | <<0,80>> | <<0,81>> |
+| Optimistik | Aktivlar, trln so'm | <<57,4>> | <<67,7>> | <<79,9>> | <<94,3>> | <<111,3>> | <<131,3>> |
+| Optimistik | NPL, % | <<7,1>> | <<5,6>> | <<4,5>> | <<3,8>> | <<3,3>> | <<3,0>> |
+| Optimistik | BBII | <<0,741>> | <<0,77>> | <<0,80>> | <<0,83>> | <<0,85>> | <<0,86>> |
+
+IMG d4_scen.png 3: Bank barqarorligi integral indeksining 2025–2030-yillar prognoz ssenariylari ## Muallif hisob-kitobi (prognoz qiymatlar)
+
+Prognozga ko'ra, bazaviy ssenariyda BBII 2026-yilda “yuqori” barqarorlik chegarasiga (0,75) yetadi va 2030-yilga qadar <<0,81>> gacha oshadi, optimistik ssenariyda u <<0,86>> ga yetadi, inersion ssenariyda esa faqat 2030-yilda chegaraga yaqinlashadi. Ssenariylar o'rtasidagi asosiy farq muammoli kreditlar ulushining qisqarish sur'ati bilan belgilanadi.
+
+Integratsiyani monitoring qilish uchun bosqichlar bo'yicha maqsadli ko'rsatkichlar tizimi taklif etildi (3-jadval).
+
+TABLE 3: Xorijiy strategik investorga sotilgan bank integratsiyasini monitoring qilish ko'rsatkichlari ## Muallif ishlanmasi
+| Ko'rsatkich | Integratsiyaning 1-yili | 2–3-yillar | 4–5-yillar |
+| Kapital yetarliligi, % | ≥ 13 | ≥ 15 | ≥ 16 |
+| Kuzatuv kengashida mustaqil a'zolar ulushi | ≥ 1/4 | ≥ 1/3 | ≥ 1/3 |
+| NPL ulushi | Tan olish bosqichi – oshishi mumkin | Pasayish tendensiyasi | < 5% |
+| Xarajatlar/daromadlar, % | Oshishi mumkin | < 50 | < 45 |
+| Kreditlar/depozitlar, % | Pasayish tendensiyasi | < 160 | < 130 |
+| BBII | ≥ 0,5 | ≥ 0,65 | ≥ 0,75 |
+
+Ko'rsatkichlar tizimining o'ziga xosligi shundaki, unda integratsiyaning birinchi yilida ayrim ko'rsatkichlar yomonlashishi mumkinligi oldindan hisobga olinadi va bu vaqtinchalik holat sifatida baholanadi.
+
+**Natijalarni muhokama qilish.** Yetti bosqichli model integratsiya jarayonining ketma-ketligini tavsiflasa-da, amaliyotda bosqichlar qisman bir-biriga ustma-ust tushadi: masalan, “Ipoteka-bank”da boshqaruvni o'tkazish, kapitalni mustahkamlash va aktivlarni qayta baholash 2023–2024-yillarda deyarli parallel amalga oshirildi. Modelning asosiy qiymati bosqichlarning qat'iy ketma-ketligida emas, balki har bir bosqich uchun vazifalar, mas'uliyat va baholash ko'rsatkichlarining oldindan belgilanishida. Prognoz natijalari esa makroiqtisodiy farazlarga sezgir: milliy valyutaning keskin qadrsizlanishi yoki iqtisodiy o'sishning sekinlashishi muammoli kreditlar ulushini oshirib, barcha ssenariylarda BBII ni pasaytirishi mumkin. Shu sababli prognozlar har yili yangi ma'lumotlar asosida yangilanib borilishi lozim.
+
+**Xulosa va takliflar.** Markaziy va Sharqiy Yevropa tajribasida, xususan, Chexiyada banklarni strategik investorlarga sotishdan oldin muammoli aktivlar ajratib olinib, banklar qayta kapitallashtirilgan, bu esa bitim qiymatini oshirgan va sotishdan keyingi nizolarni kamaytirgan [11; 12]. “Ipoteka-bank” tajribasi esa bunday tayyorgarlik to'liq o'tkazilmaganida aktivlar sifatini qayta baholash bitimdan keyin ro'y berishini va bitim narxida chegirma bilan aks etishini ko'rsatdi.
+
+Natijalar asosida quyidagi takliflar ishlab chiqildi: birinchidan, Iqtisodiyot va moliya vazirligi keyingi xususiylashtirish bitimlaridan oldin xalqaro standartlar asosida aktivlar sifatini mustaqil baholash (AQR) o'tkazishi lozim; ikkinchidan, davlat resurslarini bankdan olib chiqish jadvali va investorning kapital kiritish hamda ijtimoiy segmentlarni saqlash bo'yicha majburiyatlari bitim shartlariga kiritilishi kerak; uchinchidan, Markaziy bank yetti bosqichli model va monitoring ko'rsatkichlari tizimidan xususiylashtirilgan banklar integratsiyasini kuzatishda foydalanishi maqsadga muvofiq; to'rtinchidan, “Ipoteka-bank” barqarorligini “yuqori” darajaga olib chiqish uchun muammoli kreditlarni hal etish strategiyasini ustuvor yo'nalish sifatida amalga oshirish tavsiya etiladi.
+
+REF: O'zbekiston Respublikasi Prezidentining 2020-yil 12-maydagi PF-5992-son Farmoni. https://lex.uz/docs/4811037
+REF: Kun.uz. (2020, May 13). Six state-owned banks to be privatized. https://kun.uz/en/news/2020/05/13/six-state-owned-banks-to-be-privatized
+REF: OTP Bank. (2023). Investor presentation 2Q 2023. https://www.otpbank.hu/static/portal/sw/file/OTP_Bank_Inv_Pres_2Q2023.pdf
+REF: Ipoteka-bank. (2023). Transaction closed: OTP Bank acquired Ipoteka-Bank. https://www.ipotekabank.uz/en/news/ipotekabank_otpgroup/
+REF: bne IntelliNews. (2023). Hungary's OTP closes first acquisition outside Europe in Uzbekistan. https://bne.eu/hungary-s-otp-closes-first-acquisition-outside-europe-in-uzbekistan-281634
+REF: Kun.uz. (2023, December 26). Ipoteka Bank receives additional capitalization worth $70 million from OTP Bank. https://kun.uz/en/news/2023/12/26/ipoteka-bank-receives-additional-capitalization-worth-70-million-from-otp-bank
+REF: Ipoteka bank OTP Group. (2025). OTP Group announced 2024 financial results. https://www.ipotekabank.uz/en/news/financial_results_2024_en
+REF: Telex. (2024, March 8). Ezermilliárd forintnál is több profitot ért el tavaly az OTP. https://telex.hu/gazdasag/2024/03/08/otp-adozas-utani-eredmeny-2023
+REF: UzDaily. (2025). Ipoteka Bank reports 240 billion soums loss for 2024. https://www.uzdaily.ru/en/ipoteka-bank-reports-240-billion-soums-loss-for-2024
+REF: Daryo. (2024, December 31). Uzbekistan postpones sale of state shares in key banks to 2025. https://daryo.uz/en/2024/12/31/uzbekistan-postpones-sale-of-state-shares-in-key-banks-to-2025
+REF: Megginson, W. L. (2005). The economics of bank privatization. Journal of Banking & Finance, 29(8–9), 1931–1980.
+REF: Bonin, J. P., Hasan, I., & Wachtel, P. (2005). Privatization matters: Bank efficiency in transition countries. Journal of Banking & Finance, 29(8–9), 2155–2178.
+REF: Fries, S., & Taci, A. (2005). Cost efficiency of banks in transition: Evidence from 289 banks in 15 post-communist countries. Journal of Banking & Finance, 29(1), 55–81.
+REF: Havrylchyk, O., & Jurzyk, E. (2011). Inherited or earned? Performance of foreign banks in Central and Eastern Europe. Journal of Banking & Finance, 35(5), 1291–1302.
+REF: Claessens, S., & van Horen, N. (2014). Foreign banks: Trends and impact. Journal of Money, Credit and Banking, 46(s1), 295–326.
+REF: Basel Committee on Banking Supervision. (2015). Corporate governance principles for banks. Bank for International Settlements.
+REF: International Accounting Standards Board. (2014). IFRS 9 Financial instruments. IFRS Foundation.
+REF: de Haas, R., & van Lelyveld, I. (2014). Multinational banks and the global financial crisis: Weathering the perfect storm? Journal of Money, Credit and Banking, 46(s1), 333–364.
+REF: Ipoteka-bank. (2023). Annual report of the issuer for 2022. https://ipotekabank.uz/upload/ANNUAL%20REPORT%20OF%20THE%20ISSUER%20for%202022.pdf
+REF: Ipoteka bank OTP Group. (2026). Ipoteka bank OTP Group reports strong 43% profit growth in H1 2026 financial results. https://www.ipotekabank.uz

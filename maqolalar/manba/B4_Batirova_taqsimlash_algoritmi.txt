@@ -1,0 +1,117 @@
+TITLE_UZ: Mahalla darajasida qo'llab-quvvatlash resurslarini ko'p o'lchovli mezonlar asosida maqsadli taqsimlash algoritmi va kambag'allikni qisqartirishning 2030-yilgacha prognoz ssenariylari
+TITLE_EN: An Algorithm for Targeted Allocation of Support Resources at the Mahalla Level Based on Multidimensional Criteria and Poverty Reduction Scenarios to 2030
+TITLE_RU: Алгоритм адресного распределения ресурсов поддержки на уровне махалли на основе многомерных критериев и сценарии сокращения бедности до 2030 года
+AUTHOR: Batirova Latofat Shuxratovna
+AFFIL: Guliston davlat universiteti tayanch doktoranti
+ORCID: [[____-____-____-____]]
+EMAIL: [[__________@____]]
+ANN_UZ: Maqolada tadbirkorlikni qo'llab-quvvatlash resurslarini mahallalar o'rtasida va mahalla ichida ko'p o'lchovli kambag'allik mezonlari asosida taqsimlash algoritmi hamda Sirdaryo viloyatida kambag'allikni qisqartirishning 2030-yilgacha prognoz ssenariylari ishlab chiqilgan. Tadqiqotning dolzarbligi shundaki, amaldagi tartibda resurslar asosan monetar mezon bo'yicha aniqlangan kambag'al oilalar soniga proporsional taqsimlanadi, kambag'allik intensivligi, qamrov kamomadi va oldingi qo'llab-quvvatlash samaradorligi esa hisobga olinmaydi. Tadqiqotning maqsadi uch bosqichli taqsimlash algoritmini asoslash va uning ta'sirini baholashdan iborat. Tadqiqotda indeksli baholash, shartli modellashtirish va ssenariyli prognozlash usullaridan foydalanildi. Oltita shartli mahalla misolida o'tkazilgan modellashtirish natijalariga ko'ra, amaldagi qoidada bir ko'p o'lchovli kambag'al oilaga to'g'ri keladigan resurslar mahalla kambag'allik intensivligi bilan teskari bog'liq (korrelyatsiya –0,95) bo'lsa, taklif etilgan algoritmda bog'liqlik ijobiy (0,78) bo'lib, resurslar taqsimotidagi notekislik 27,3 foizdan 8,1 foizgacha kamayadi. Prognozga ko'ra, maqsadli ssenariyda 2030-yilda viloyatda kambag'allik darajasi 2,6 foizgacha qisqaradi, bu inersion ssenariyga nisbatan qariyb 15,3 ming kishining qo'shimcha ravishda kambag'allikdan chiqishini anglatadi.
+KW_UZ: maqsadli yo'naltirish, resurslarni taqsimlash, mahalla, ustuvorlik indeksi, ko'p o'lchovli kambag'allik, prognoz ssenariylari, Sirdaryo viloyati.
+ANN_RU: В статье разработаны алгоритм распределения ресурсов поддержки предпринимательства между махаллями и внутри махалли на основе критериев многомерной бедности, а также прогнозные сценарии сокращения бедности в Сырдарьинской области до 2030 года. Актуальность исследования обусловлена тем, что в действующем порядке ресурсы распределяются в основном пропорционально числу бедных семей, определённых по монетарному критерию, без учёта интенсивности бедности, дефицита охвата и эффективности предшествующей поддержки. Цель – обосновать трёхэтапный алгоритм распределения и оценить его влияние. Использованы методы индексной оценки, условного моделирования и сценарного прогнозирования. По результатам моделирования на примере шести условных махаллей при действующем правиле ресурсы на одну многомерно бедную семью обратно связаны с интенсивностью бедности махалли (корреляция –0,95), тогда как при предложенном алгоритме связь положительная (0,78), а неравномерность распределения снижается с 27,3% до 8,1%. По прогнозу, в целевом сценарии уровень бедности в области к 2030 году снизится до 2,6%, что означает дополнительный выход из бедности около 15,3 тыс. человек по сравнению с инерционным сценарием.
+KW_RU: адресность, распределение ресурсов, махалля, индекс приоритетности, многомерная бедность, прогнозные сценарии, Сырдарьинская область.
+ANN_EN: The article develops an algorithm for allocating entrepreneurship support resources between and within mahallas on the basis of multidimensional poverty criteria, together with poverty reduction scenarios for Syrdarya region to 2030. The relevance lies in the fact that resources are currently allocated mainly in proportion to the number of poor families identified by the monetary criterion, ignoring poverty intensity, coverage gaps and the effectiveness of past support. The purpose is to justify a three-stage allocation algorithm and assess its impact. Index-based evaluation, conditional modelling and scenario forecasting were used. Modelling for six conditional mahallas shows that under the current rule resources per multidimensionally poor family are inversely related to mahalla poverty intensity (correlation –0.95), whereas under the proposed algorithm the relation is positive (0.78) and allocation inequality falls from 27.3% to 8.1%. Under the target scenario, the regional poverty rate falls to 2.6% by 2030, implying about 15.3 thousand more people out of poverty than under the inertial scenario.
+KW_EN: targeting, resource allocation, mahalla, priority index, multidimensional poverty, forecast scenarios, Syrdarya region.
+---
+**Kirish.** Kambag'allikni qisqartirish siyosatining samaradorligi ko'p jihatdan resurslarni qayerga va kimga yo'naltirishga bog'liq. O'zbekistonda 2024-yildan boshlab kambag'al oilalar bilan ishlash mahalla darajasiga tushirildi: mahalla “yettiligi” oilalarni aniqlaydi, ularning ahvoli va kambag'allik sabablarini o'rganadi hamda qo'llab-quvvatlash choralarini taklif etadi [1; 2]. Bu yondashuv qo'llab-quvvatlashni oilaga yaqinlashtirdi, biroq resurslarni mahallalar o'rtasida va mahalla ichida taqsimlashning aniq va shaffof mezonlari hali shakllanmagan. Amaldagi tartibda resurslar asosan monetar mezon bo'yicha aniqlangan kambag'al oilalar soniga proporsional taqsimlanadi. Bu yondashuv mahrumliklari ko'p bo'lgan “chuqur” kambag'allik hududlari va oz sonli mahrumlikka ega “sayoz” kambag'allik hududlarini bir xil mezon bilan baholaydi, oldingi yillarda qo'llab-quvvatlash olmagan oilalar ulushini va mahallaning qo'llab-quvvatlashdan samarali foydalanish imkoniyatlarini hisobga olmaydi.
+
+Rasmiy ma'lumotlarga ko'ra, Sirdaryo viloyatida kambag'allik darajasi 2024-yildagi 11,3 foizdan 2025-yilda 6,2 foizga qisqargan, biroq u respublika o'rtacha ko'rsatkichidan (5,8 foiz) yuqori bo'lib qolmoqda. Viloyat aholisi 2025-yil 1-oktabr holatiga 942,6 ming kishini tashkil etgan [3]. Kambag'allik darajasi pasaygan sari kambag'allikda qolayotgan oilalar ko'proq tarkibiy muammolarga ega “qattiq yadro”ni tashkil etadi va ularni aniq maqsadli yo'naltirishsiz kambag'allikdan chiqarish qiyinlashadi.
+
+**Tadqiqot obyekti** – Sirdaryo viloyatida tadbirkorlikni qo'llab-quvvatlash resurslarini taqsimlash tizimi.
+
+**Tadqiqot predmeti** – qo'llab-quvvatlash resurslarini mahalla darajasida maqsadli taqsimlash va kambag'allik dinamikasini prognozlash bilan bog'liq uslubiy-iqtisodiy munosabatlar.
+
+**Tadqiqotning maqsadi** – ko'p o'lchovli kambag'allik mezonlariga asoslangan uch bosqichli taqsimlash algoritmini ishlab chiqish, uni shartli mahallalar misolida sinovdan o'tkazish va 2030-yilgacha prognoz ssenariylarini asoslashdan iborat.
+
+Ushbu maqsadga erishish uchun quyidagi vazifalar belgilandi: birinchidan, maqsadli yo'naltirish bo'yicha xalqaro tajribani tahlil qilish; ikkinchidan, mahalla ustuvorlik indeksi va resurslarni taqsimlash formulasini ishlab chiqish; uchinchidan, algoritmni amaldagi qoida bilan shartli mahallalar misolida taqqoslash; to'rtinchidan, kambag'allikni qisqartirishning 2030-yilgacha ssenariylarini asoslash.
+
+**Mavzuga oid adabiyotlar sharhi.** Ijtimoiy dasturlarni maqsadli yo'naltirish bo'yicha xalqaro tajriba D.Koudi, M.Grosh va J.Xoddinott tomonidan umumlashtirilgan: ularning tahliliga ko'ra, eng yaxshi natijalarga bir nechta usulni – hududiy yo'naltirish, oila xususiyatlarini baholash va jamoatchilik ishtirokini – birlashtirgan dasturlar erishgan [4]. M.Grosh va hammualliflari maqsadli yo'naltirishga oid yangi dalillarni umumlashtirib, ijtimoiy reyestrlar va ko'p o'lchovli mezonlarning ahamiyatini ta'kidlagan [5]. V.Alatas va hammualliflari Indoneziyada jamoatchilik ishtirokidagi yo'naltirishni statistik proksi-test bilan solishtirib, jamoatchilik ishtiroki aholining kambag'allik haqidagi tasavvuriga mos kelishi va qoniqishni oshirishini, biroq iste'mol bo'yicha aniqlik biroz pastroq ekanini ko'rsatgan [6]. Bu xulosa mahalla instituti mavjud O'zbekiston uchun bevosita ahamiyatga ega.
+
+Ko'p o'lchovli kambag'allik indekslarining hududlar bo'yicha dekompozitsiyalanuvchanligi ularni resurslarni taqsimlash vositasi sifatida qo'llash imkonini beradi [7; 8]. K.Barrett va M.Karter kambag'allik tuzoqlari sharoitida resurslarni eng chuqur mahrumlikka ega guruhlarga yo'naltirish zarurligini asoslagan [9], A.Kraay va D.Makkenzi esa tuzoqlarning mavjudligi kontekstga bog'liq ekanini ko'rsatgan [10]. U.Isterli kambag'allikka qarshi dasturlarning muvaffaqiyati mahalliy sharoitni biladigan va natijalar asosida harakat qiluvchi ijrochilarga bog'liqligini ta'kidlagan [11]. Kambag'allik dinamikasini prognozlash bo'yicha M.Ravallion kambag'allik darajasi pasaygan sari uning iqtisodiy o'sishga elastikligi o'zgarishini ko'rsatgan [12]. Biroq mahalla darajasida ko'p o'lchovli kambag'allik intensivligi, qamrov kamomadi va kutilayotgan samaradorlikni birlashtirgan taqsimlash mexanizmi hali ishlab chiqilmagan.
+
+**Tadqiqot metodologiyasi.** Taklif etilgan algoritm uch bosqichdan iborat. **Birinchi bosqichda** har bir m-mahalla uchun ustuvorlik indeksi hisoblanadi:
+
+$$ PI_m = α · (M_{0m} / max M_0) + β · G_m + γ · (Ē_m / max Ē) (1)
+
+bu yerda M_{0m} – mahallaning MPI-TS indeksi (kambag'allik qamrovi va intensivligi); G_m – qamrov kamomadi, ya'ni ko'p o'lchovli kambag'al oilalarning oldingi ikki yilda qo'llab-quvvatlash olmaganlari ulushi; Ē_m – kutilayotgan o'rtacha samaradorlik (mahallaning bozorga yaqinligi, sug'oriladigan yer, infratuzilma va oilalar mahrumlik profilining vositalarga mosligi); α = 0,5, β = 0,3, γ = 0,2 – mezonlar vaznlari. Mahallaga ajratiladigan resurs:
+
+$$ R_m = R_min + (R – M · R_min) · (PI_m · q_m) / Σ_{l=1}^{M} (PI_l · q_l) (2)
+
+bu yerda R – jami resurs; M – mahallalar soni; q_m – mahalladagi ko'p o'lchovli kambag'al oilalar soni; R_min – kafolatlangan minimal resurs. **Ikkinchi bosqichda** mahalla ichida oilalar mahrumlik balli bo'yicha tartiblanadi; monetar va ko'p o'lchovli mezon bo'yicha kambag'al oilalar birinchi navbatda qo'llab-quvvatlanadi, mahalla “yettiligi” esa ro'yxatga asoslangan tuzatishlar kiritishi mumkin. **Uchinchi bosqichda** har bir oila uchun mahrumlik profiliga mos vosita samaradorlik matritsasi asosida tanlanadi.
+
+Prognoz ssenariylari kambag'allik darajasining yillik nisbiy qisqarish sur'ati asosida tuzildi:
+
+$$ P_t = P_2025 · (1 – r)^{t – 2025}; N_t = L_t · P_t / 100 (3)
+
+bu yerda P_2025 = 6,2 foiz; r – yillik nisbiy qisqarish sur'ati; L_t – aholi soni (942,6 ming kishidan yiliga 1,7 foiz o'sadi deb qabul qilindi). Algoritmning ta'sirini ko'rsatish uchun oltita shartli mahalla (M1–M6) bo'yicha 6 000 mln so'm resursni amaldagi va taklif etilgan qoidalar bo'yicha taqsimlash modellashtirildi; shartli qiymatlar matnda ko'k rangda berilgan.
+
+**Tahlil va natijalar.** Amaldagi va taklif etilayotgan taqsimlash mexanizmlarining qiyosiy tavsifi 1-jadvalda keltirilgan.
+
+TABLE 1: Resurslarni taqsimlashning amaldagi va taklif etilayotgan mexanizmlari qiyosi ## Muallif ishlanmasi
+| Mezon | Amaldagi mexanizm | Taklif etilayotgan mexanizm |
+| Mahallalar o'rtasida taqsimlash asosi | Monetar mezon bo'yicha kambag'al oilalar soni | MPI-TS indeksi, qamrov kamomadi, kutilayotgan samaradorlik |
+| Oilalarni ustuvorlashtirish | Reyestrga kiritilganlik, mutasaddi baholashi | Mahrumlik balli va monetar mezon, asoslangan tuzatishlar |
+| Vosita tanlash | Mavjud limitlar | Mahrumlik profili va samaradorlik matritsasi |
+| Reyestrdan chiqarish | Daromadning belgilangan darajadan oshishi | Daromad + mahrumlik balli < 1/5 + zaiflik ehtimoli ≤ 0,5 |
+| Qayta aloqa | Mavjud emas | Samaradorlik ko'rsatkichlarining yillik yangilanishi |
+
+Taklif etilayotgan algoritmning bosqichlari 1-rasmda keltirilgan.
+
+FIG 1: Resurslarni mahalla darajasida maqsadli taqsimlash algoritmi ## Muallif ishlanmasi
+1. Ma'lumot yig'ish: mahalla “yettiligi” qisqa so'rovnomasi (25 savol) → MPI-TS mahrumlik balli va monetar holat
+2. Mahallalar darajasi: M_{0m}, G_m, Ē_m → ustuvorlik indeksi PI_m → resurs hajmi R_m
+3. Oilalar darajasi: mahrumlik balli bo'yicha tartiblash || ikki mezon bo'yicha kambag'allar birinchi navbatda || asoslangan tuzatishlar
+4. Vosita tanlash: mahrumlik profili → samaradorlik matritsasi → tavsiya etiladigan vosita
+5. Monitoring (12 oydan keyin): mahrumlik ballini qayta hisoblash → reyestrdan chiqarish → ko'rsatkichlarni yangilash
+
+Shartli mahallalar bo'yicha taqsimlash natijalari 2-jadvalda keltirilgan.
+
+TABLE 2: Shartli mahallalar bo'yicha resurslarni amaldagi va taklif etilayotgan qoidalar asosida taqsimlash natijalari ## Muallif hisob-kitobi (shartli ma'lumotlar asosida)
+| Mahalla | MPI-TS (M_0) | Ko'p o'lchovli kambag'al oilalar | Monetar mezon bo'yicha kambag'al oilalar | PI_m | Amaldagi qoida, mln so'm | Taklif, mln so'm | Bir ko'p o'lchovli kambag'al oilaga: amaldagi / taklif, mln so'm |
+| M1 | <<0,062>> | <<42>> | <<60>> | <<0,489>> | <<1 286>> | <<811>> | <<30,6 / 19,3>> |
+| M2 | <<0,118>> | <<58>> | <<52>> | <<0,702>> | <<1 114>> | <<1 312>> | <<19,2 / 22,6>> |
+| M3 | <<0,041>> | <<25>> | <<40>> | <<0,397>> | <<857>> | <<547>> | <<34,3 / 21,9>> |
+| M4 | <<0,095>> | <<47>> | <<45>> | <<0,616>> | <<964>> | <<1 020>> | <<20,5 / 21,7>> |
+| M5 | <<0,150>> | <<61>> | <<44>> | <<0,824>> | <<943>> | <<1 550>> | <<15,5 / 25,4>> |
+| M6 | <<0,073>> | <<35>> | <<39>> | <<0,530>> | <<836>> | <<761>> | <<23,9 / 21,7>> |
+| Jami | – | <<268>> | <<280>> | – | <<6 000>> | <<6 000>> | <<22,4 / 22,4>> |
+
+IMG b4_alloc.png 2: Shartli mahallalar bo'yicha resurslarni amaldagi va taklif etilayotgan qoidalar asosida taqsimlash ## Muallif hisob-kitobi (shartli ma'lumotlar asosida)
+
+Natijalar amaldagi qoidaning muhim kamchiligini ko'rsatadi: monetar mezon bo'yicha kambag'al oilalar soni ko'p, biroq ko'p o'lchovli kambag'allik intensivligi past bo'lgan mahallalar (M1, M3) eng ko'p resurs oladi, chuqur kambag'allik mahallasi M5 esa bir ko'p o'lchovli kambag'al oilaga hisoblaganda eng kam resurs (<<15,5>> mln so'm) oladi. Amaldagi qoidada bir ko'p o'lchovli kambag'al oilaga to'g'ri keladigan resurslar mahalla MPI-TS indeksi bilan kuchli teskari bog'liq (korrelyatsiya <<–0,95>>), ya'ni taqsimot regressiv xarakterga ega. Taklif etilgan algoritmda esa bog'liqlik ijobiy (<<0,78>>): eng chuqur kambag'allik mahallalari ko'proq resurs oladi. Bir oilaga to'g'ri keladigan resurslarning variatsiya koeffitsiyenti <<27,3>> foizdan <<8,1>> foizgacha kamayadi, eng chuqur kambag'allikka ega ikki mahalla (M5 va M2) ulushi esa <<34,3>> foizdan <<47,7>> foizgacha oshadi. Muhimi, bu natijalar qo'shimcha resurslarsiz, faqat taqsimlash qoidasini o'zgartirish hisobiga erishiladi.
+
+Viloyatda kambag'allikni qisqartirishning 2030-yilgacha prognoz ssenariylari 3-jadvalda keltirilgan. Ssenariylar parametrlari quyidagicha asoslandi: 2024–2025-yillarda kambag'allik darajasining nisbiy qisqarishi 45 foizni tashkil etgan bo'lsa-da, bu sur'atni ekstrapolyatsiya qilish asossiz, chunki “qattiq yadro” muammosi kuchayadi; Yangi O'zbekistonning taraqqiyot strategiyasida belgilangan to'rt yilda kambag'allikni ikki barobar qisqartirish maqsadi yiliga taxminan 16 foizlik nisbiy qisqarishga mos keladi [13]. Inersion ssenariyda (r = 8 foiz) amaldagi taqsimlash mexanizmi saqlanadi, bazaviy ssenariyda (r = 12 foiz) mexanizm qisman takomillashtiriladi, maqsadli ssenariyda (r = 16 foiz) esa taklif etilgan algoritm to'liq joriy etiladi.
+
+TABLE 3: Sirdaryo viloyatida kambag'allik darajasining 2030-yilgacha prognoz ssenariylari ## Muallif hisob-kitobi (2025-yil uchun rasmiy ma'lumot asosida)
+| Ssenariy | Ko'rsatkich | 2025 (fakt) | 2026 | 2027 | 2028 | 2029 | 2030 |
+| Inersion (r = 8%) | Kambag'allik darajasi, % | 6,2 | 5,70 | 5,25 | 4,83 | 4,44 | 4,09 |
+| Inersion (r = 8%) | Kambag'al aholi, ming kishi | 58,4 | 54,7 | 51,2 | 47,9 | 44,8 | 41,9 |
+| Bazaviy (r = 12%) | Kambag'allik darajasi, % | 6,2 | 5,46 | 4,80 | 4,23 | 3,72 | 3,27 |
+| Bazaviy (r = 12%) | Kambag'al aholi, ming kishi | 58,4 | 52,3 | 46,8 | 41,9 | 37,5 | 33,6 |
+| Maqsadli (r = 16%) | Kambag'allik darajasi, % | 6,2 | 5,21 | 4,37 | 3,67 | 3,09 | 2,59 |
+| Maqsadli (r = 16%) | Kambag'al aholi, ming kishi | 58,4 | 49,9 | 42,7 | 36,4 | 31,1 | 26,6 |
+
+IMG b4_scen.png 3: Sirdaryo viloyatida kambag'allik darajasining 2030-yilgacha prognoz ssenariylari ## Muallif hisob-kitobi
+
+Prognozga ko'ra, maqsadli ssenariyda 2030-yilda viloyatda kambag'allik darajasi 2,59 foizgacha qisqaradi, bu inersion ssenariyga nisbatan 1,5 foiz punkt past. Absolyut ifodada bu taxminan 15,3 ming kishining qo'shimcha ravishda kambag'allikdan chiqishini anglatadi. Bazaviy va maqsadli ssenariylar o'rtasidagi farq esa 2030-yilda 0,7 foiz punktni yoki taxminan 7,0 ming kishini tashkil etadi. Prognozlarda aholi o'sishi bo'yicha qabul qilingan faraz (yiliga 1,7 foiz) rasmiy demografik prognoz e'lon qilinganda aniqlashtirilishi lozim.
+
+**Natijalarni muhokama qilish.** Algoritmni amaliyotga joriy etishda bir qator risklarni hisobga olish lozim. Birinchidan, ma'lumotlar sifati: mahalla darajasidagi so'rovnomada oilalar qo'llab-quvvatlash olish maqsadida o'z ahvolini yomonroq ko'rsatishga intilishi mumkin. Bu xavfni kamaytirish uchun MPI-TS indikatorlari asosan kuzatiladigan va tekshiriladigan belgilarga (kommunal tarmoqqa ulanganlik, aktivlar, bandlik holati) asoslangan, so'rovnomalarning bir qismi esa tanlama nazorat tekshiruvidan o'tkazilishi lozim. Ikkinchidan, mezonlar vaznlari (α, β, γ) me'yoriy tanlov bo'lib, ular tenglik va samaradorlik o'rtasidagi muvozanatni aks ettiradi; vaznlar o'zgartirilganda mahallalar reytingi qanchalik o'zgarishini muntazam tekshirib borish zarur. Uchinchidan, kafolatlangan minimal resurs kambag'allik darajasi past mahallalardagi individual ehtiyojlarga ega oilalarni e'tibordan chetda qoldirmaslik uchun muhim.
+
+**Xulosa va takliflar.** Xalqaro tajriba, xususan, Indoneziya va Lotin Amerikasi mamlakatlari dasturlari hududiy yo'naltirish, oila darajasidagi baholash va jamoatchilik ishtirokini birlashtirish maqsadli yo'naltirish aniqligini oshirishini ko'rsatadi [4–6]. Taklif etilgan algoritm bu tamoyillarni O'zbekistonning mahalla tizimi va ko'p o'lchovli kambag'allik o'lchovi bilan uyg'unlashtiradi.
+
+Shartli modellashtirish natijalari taklif etilgan algoritm qo'shimcha resurslarsiz taqsimotning regressiv xarakterini bartaraf etishini va notekislikni sezilarli kamaytirishini ko'rsatdi; prognozlarga ko'ra, algoritm to'liq joriy etilganda 2030-yilda viloyatda kambag'allik darajasi 2,6 foizgacha qisqarishi mumkin.
+
+Natijalar asosida quyidagi takliflar ishlab chiqildi: birinchidan, viloyatning 2–3 ta tumanida algoritmni tajriba-sinovdan o'tkazish va natijalarni qiyosiy tumanlar bilan solishtirish; ikkinchidan, mahallalar o'rtasida resurslarni taqsimlashda MPI-TS indeksi, qamrov kamomadi va kutilayotgan samaradorlikni birlashtirgan ustuvorlik indeksidan foydalanish; uchinchidan, har bir mahallaga kafolatlangan minimal resurs hajmini saqlash; to'rtinchidan, monitoring natijalari asosida mezonlar vaznlari va samaradorlik ko'rsatkichlarini har yili yangilab borish; beshinchidan, tadbirkorlikni qo'llab-quvvatlash dasturlarini mahalla infratuzilmasini rivojlantirish dasturlari bilan muvofiqlashtirish.
+
+REF: O'zbekiston Respublikasi Prezidentining 2024-yil 23-sentabrdagi “Kambag'allikni qisqartirish va aholi farovonligini oshirish chora-tadbirlarini yangi bosqichga olib chiqish to'g'risida”gi Farmoni. https://lex.uz [[raqami tekshirilsin]]
+REF: O'zbekiston Respublikasi Prezidentining 2024-yil 23-sentabrdagi PQ-330-son Qarori. https://lex.uz
+REF: O'zbekiston Respublikasi Prezidenti huzuridagi Statistika agentligi. (2025). Hududlar kesimida doimiy aholi soni. https://stat.uz
+REF: Coady, D., Grosh, M., & Hoddinott, J. (2004). Targeting of transfers in developing countries: Review of lessons and experience. World Bank.
+REF: Grosh, M., Leite, P., Wai-Poi, M., & Tesliuc, E. (Eds.). (2022). Revisiting targeting in social assistance: A new look at old dilemmas. World Bank.
+REF: Alatas, V., Banerjee, A., Hanna, R., Olken, B. A., & Tobias, J. (2012). Targeting the poor: Evidence from a field experiment in Indonesia. American Economic Review, 102(4), 1206–1240.
+REF: Alkire, S., & Foster, J. (2011). Counting and multidimensional poverty measurement. Journal of Public Economics, 95(7–8), 476–487.
+REF: Alkire, S., Foster, J. E., Seth, S., Santos, M. E., Roche, J. M., & Ballon, P. (2015). Multidimensional poverty measurement and analysis. Oxford University Press.
+REF: Barrett, C. B., & Carter, M. R. (2013). The economics of poverty traps and persistent poverty: Empirical and policy implications. Journal of Development Studies, 49(7), 976–990.
+REF: Kraay, A., & McKenzie, D. (2014). Do poverty traps exist? Assessing the evidence. Journal of Economic Perspectives, 28(3), 127–148.
+REF: Easterly, W. (2006). The white man's burden: Why the West's efforts to aid the rest have done so much ill and so little good. Penguin Press.
+REF: Ravallion, M. (2016). The economics of poverty: History, measurement, and policy. Oxford University Press.
+REF: O'zbekiston Respublikasi Prezidentining 2022-yil 28-yanvardagi PF-60-son Farmoni. https://lex.uz
