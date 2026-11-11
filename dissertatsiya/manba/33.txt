@@ -17,32 +17,34 @@ bu yerda δ_sd – s-qo'llab-quvvatlash turining d-mahrumlik o'lchoviga ta'siri;
 Qo'llab-quvvatlash turlari bo'yicha guruhlarning tavsifi 3.10-jadvalda keltirilgan.
 
 TABLE 3.10: Uy xo'jaliklarining qo'llab-quvvatlash turlari bo'yicha taqsimlanishi va asosiy tavsifi
-| Qo'llab-quvvatlash turi | Uy xo'jaliklari soni | O'rtacha hajmi, mln so'm | Dastlabki mahrumlik balli | Reyestrdagi oilalar ulushi, % | Tadbirkorlik tajribasi bor, % |
-| T = 0. Olmagan | [[__]] | – | [[__]] | [[__]] | [[__]] |
-| T = 1. Imtiyozli kredit | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| T = 2. Subsidiya | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| T = 3. Kasbga o'qitish | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| T = 4. Yer ajratish | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| T = 5. Kompleks | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-NOTE: Manba: muallif tomonidan o'tkazilgan so'rovnoma natijalari asosida hisoblangan.
+| Qo'llab-quvvatlash turi | Uy xo'jaliklari soni | Qo'llab-quvvatlashning o'rtacha hajmi, mln so'm | Dastlabki mahrumlik balli | Reyestrdagi oilalar ulushi, % | Tadbirkorlik tajribasi bor, % |
+@GEN t_turlar_tavsif
+NOTE: Manba: muallif tomonidan o'tkazilgan so'rovnoma natijalari asosida hisoblangan. Kredit uchun – kreditning nominal summasi; yer ajratish uchun – yer bilan birga berilgan urug', ko'chat va sug'orish vositalarining shartli qiymati. Jigarrang rangdagi raqamlar – taxminiy (shartli ma'lumotlar asosida); so'rovnomaning yakuniy ma'lumotlar bazasi asosida qayta hisoblanadi.
 
-3.10-jadval ma'lumotlari qo'llab-quvvatlash turlarining turli oila toifalariga yo'naltirilganini ko'rsatadi. Kredit oluvchilarda tadbirkorlik tajribasi va reyestrdan tashqaridagi oilalar ulushi yuqoriroq, subsidiya oluvchilarda esa dastlabki mahrumlik balli yuqoriroq bo'lishi kutiladi. [[Natijalar bo'yicha izohlansin.]] Bu farqlar har bir tur uchun alohida moyillik ko'rsatkichi bilan moslashtirish zarurligini tasdiqlaydi.
+3.10-jadval ma'lumotlari qo'llab-quvvatlash turlarining turli oila toifalariga yo'naltirilganini ko'rsatadi. Qo'llab-quvvatlash olgan 400 ta oilaning {{tt.n1}} tasi (45 foizi) faqat imtiyozli kredit olgan; kompleks qo'llab-quvvatlash esa atigi {{tt.n5}} ta oilaga to'g'ri keladi. Kredit oluvchilar eng kam mahrum guruh hisoblanadi: ularning dastlabki o'rtacha mahrumlik balli {{tt.c0_1}} ni tashkil etgan (qo'llab-quvvatlash olmaganlarda – {{tt.c0_0}}), {{tt.exp1}} foizi oldin tadbirkorlik bilan shug'ullangan. Subsidiya va kompleks qo'llab-quvvatlash oluvchilarda esa dastlabki mahrumlik balli eng yuqori ({{tt.c0_2}} va {{tt.c0_5}}), reyestrdagi oilalar ulushi ham yuqori ({{tt.reg2}} va {{tt.reg5}} foiz), tadbirkorlik tajribasi esa kam. Demak, amalda vositalar o'rtasida o'ziga xos “saralash” mavjud: resurslarning asosiy qismini tashkil etuvchi kreditlar nisbatan farovon va tajribali oilalarga, hajmi kichik subsidiyalar esa eng kambag'al oilalarga yo'naltirilgan. Bu farqlar har bir tur uchun alohida moyillik ko'rsatkichi bilan moslashtirish zarurligini tasdiqlaydi.
 
 **Differensial ta'sir natijalari.** Har bir qo'llab-quvvatlash turining kambag'allik o'lchovlariga ta'siri 3.11-jadvalda keltirilgan. Jadvalning har bir katagi δ_sd bahosini, ya'ni tegishli turdagi qo'llab-quvvatlash olgan oilalarda o'lchov bo'yicha vaznlangan mahrumlik ballining qiyosiy guruhga nisbatan qo'shimcha o'zgarishini ifodalaydi (manfiy qiymat – mahrumlikning kamayishi).
 
 TABLE 3.11: Qo'llab-quvvatlash turlarining kambag'allik o'lchovlariga differensial ta'siri (δ_sd baholari)
 | O'lchov | Kredit | Subsidiya | Kasbga o'qitish | Yer ajratish | Kompleks |
-| Ta'lim | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Sog'liq | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Turmush sharoiti | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Bandlik | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Tadbirkorlik salohiyati | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Jami mahrumlik balli (c_i) | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Ko'p o'lchovli kambag'allik ehtimoli, f.p. | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Iste'mol xarajatlari (log) | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-NOTE: Manba: muallif hisob-kitoblari. Standart xatolar bootstrap usulida (500 takror) hisoblangan. ***, **, * – mos ravishda 1, 5 va 10 foizlik darajada statistik ahamiyatli.
+@GEN t_delta
+NOTE: Manba: muallif hisob-kitoblari. Standart xatolar bootstrap usulida hisoblangan. ***, **, * – mos ravishda 1, 5 va 10 foizlik darajada statistik ahamiyatli. Iste'mol xarajatlari bo'yicha – logarifmlar farqi. Jigarrang rangdagi raqamlar – taxminiy (shartli ma'lumotlar asosida); so'rovnomaning yakuniy ma'lumotlar bazasi asosida qayta hisoblanadi.
 
-Jadval natijalarini tahlil qilishda quyidagi nazariy kutilmalar asos bo'lib xizmat qiladi. Kredit asosan tadbirkorlik salohiyati (moliyaviy inklyuziya va ishlab chiqarish aktivlari) va bandlik o'lchovlariga ta'sir qiladi, iste'mol xarajatlariga ta'siri esa qarzni to'lash zarurati tufayli cheklangan bo'lishi mumkin. Subsidiya ishlab chiqarish aktivlari va, qarz yuki yo'qligi sababli, oziq-ovqat xavfsizligiga ta'sir qiladi. Kasbga o'qitish kasbiy malaka, yoshlar bandligi va ta'lim o'lchovlariga ta'sir qilishi, biroq uning daromadga ta'siri kechikkan bo'lishi kutiladi. Yer ajratish bandlik va oziq-ovqat xavfsizligiga ta'sir qiladi. Kompleks qo'llab-quvvatlash esa bir vaqtda bir nechta o'lchovga ta'sir qilishi kutiladi. [[Natijalar kutilmalarga muvofiqligi nuqtayi nazaridan izohlansin.]]
+Jadval natijalarini tahlil qilishda quyidagi nazariy kutilmalar asos bo'lib xizmat qiladi. Kredit asosan tadbirkorlik salohiyati (moliyaviy inklyuziya va ishlab chiqarish aktivlari) va bandlik o'lchovlariga ta'sir qiladi, iste'mol xarajatlariga ta'siri esa qarzni to'lash zarurati tufayli cheklangan bo'lishi mumkin. Subsidiya ishlab chiqarish aktivlari va, qarz yuki yo'qligi sababli, oziq-ovqat xavfsizligiga ta'sir qiladi. Kasbga o'qitish kasbiy malaka, yoshlar bandligi va ta'lim o'lchovlariga ta'sir qilishi, biroq uning daromadga ta'siri kechikkan bo'lishi kutiladi. Yer ajratish bandlik va oziq-ovqat xavfsizligiga ta'sir qiladi. Kompleks qo'llab-quvvatlash esa bir vaqtda bir nechta o'lchovga ta'sir qilishi kutiladi. 
+
+Baholash natijalari bu kutilmalarni asosan tasdiqlaydi, biroq bir qator muhim aniqliklar kiritadi.
+
+//Imtiyozli kredit// iste'mol xarajatlarini sezilarli oshiradi ({{d.1.7}} foiz), biroq jami mahrumlik balliga ta'siri barcha vositalar orasida eng kichik ({{d.1.5}}). Uning tadbirkorlik salohiyati o'lchoviga ta'siri ({{d.1.4}}) statistik ahamiyatsiz. Buning sababi shundaki, kredit oluvchilarning aksariyati allaqachon moliyaviy xizmatlardan foydalanadigan va ishlab chiqarish aktivlariga ega oilalardir; ularda bu o'lchov bo'yicha bartaraf etiladigan mahrumlik kam. Kredit, mohiyatan, mavjud faoliyatni kengaytiradi va daromadni oshiradi, lekin mahrumliklar tarkibini deyarli o'zgartirmaydi.
+
+//Subsidiya// tadbirkorlik salohiyati o'lchovida eng kuchli ta'sirlardan birini ko'rsatadi ({{d.2.4}}): aktivi bo'lmagan oilaga aktiv berilishi mahrumlikni bevosita bartaraf etadi. U bandlik ({{d.2.3}}) va sog'liq ({{d.2.1}}; oziq-ovqat xavfsizligi hisobiga) o'lchovlariga ham ta'sir qiladi. Natijada subsidiya ko'p o'lchovli kambag'allik ehtimolini {{d.2.6}} foiz punktga kamaytiradi – bu alohida vositalar orasida eng yuqori ko'rsatkich.
+
+//Kasbga o'qitish// bandlik o'lchovida eng kuchli ta'sirga ega ({{d.3.3}}), bu asosan yoshlar bandligi indikatori hisobiga shakllanadi; tadbirkorlik salohiyati o'lchovidagi ta'sir ({{d.3.4}}) esa kasbiy malakaning hujjatlashtirilishi bilan bog'liq. Ta'lim o'lchoviga ta'sir kuzatilmaydi ({{d.3.0}}), chunki qisqa muddatli kurslar oila a'zolarining rasmiy kasbiy ta'lim darajasini o'zgartirmaydi. Iste'mol xarajatlariga ta'siri eng kichik ({{d.3.7}} foiz): o'qitishning daromadga ta'siri kechikib namoyon bo'ladi.
+
+//Yer ajratish// iste'molni kreditga yaqin darajada oshiradi ({{d.4.7}} foiz) va oziq-ovqat xavfsizligi orqali sog'liq o'lchoviga ta'sir qiladi ({{d.4.1}}), biroq jami mahrumlik balliga ta'siri cheklangan ({{d.4.5}}), ko'p o'lchovli kambag'allik ehtimoliga esa ta'siri yo'q. Ta'lim o'lchovida kuchsiz salbiy ta'sir ({{d.4.0}}, 10 foizlik darajada) kuzatilgani bolalarning dala ishlariga jalb etilishi bilan bog'liq bo'lishi mumkin va qo'shimcha o'rganishni talab qiladi.
+
+//Kompleks qo'llab-quvvatlash// mutlaq ta'sir bo'yicha yetakchi: jami mahrumlik ballini {{d.5.5abs}} ga kamaytiradi, iste'molni {{d.5.7}} foizga oshiradi va bir vaqtda sog'liq ({{d.5.1}}), tadbirkorlik salohiyati ({{d.5.4}}) va bandlik ({{d.5.3}}) o'lchovlariga ta'sir ko'rsatadi. Uning ta'siri alohida vositalar ta'sirining oddiy yig'indisidan kam emas, ya'ni vositalar bir-birini to'ldiradi. Biroq bu guruhda kuzatuvlar soni kam ({{tt.n5}} ta oila) bo'lgani uchun baholarning aniqligi pastroq.
+
+Barcha vositalar uchun umumiy jihat – turmush sharoiti o'lchoviga ta'sirning juda kichikligi (mutlaq qiymati {{dl.turmush_max}} dan oshmaydi): infratuzilma bilan bog'liq mahrumliklar oila darajasidagi tadbirkorlik vositalari bilan bartaraf etilmaydi.
 
 **Tejamkorlik tahlili.** Qo'llab-quvvatlash turlarining ta'sirini ularning qiymati bilan solishtirish resurslarni taqsimlash bo'yicha qaror qabul qilish uchun zarur. Shu maqsadda har bir tur uchun xarajat-samaradorlik koeffitsiyenti hisoblandi:
 
@@ -51,15 +53,15 @@ $$ CE_s = |δ_s| / C̄_s × 10 (3.9)
 bu yerda δ_s – s-turning jami mahrumlik balliga ta'siri; C̄_s – bir uy xo'jaligiga to'g'ri keladigan o'rtacha davlat xarajati, mln so'mda (kredit uchun – kreditning to'liq summasi emas, balki davlatning foiz kompensatsiyasi, kafillik va qaytarilmaslik xavfi bilan bog'liq xarajatlari bahosi). Koeffitsiyent davlatning har 10 mln so'm xarajati hisobiga bir uy xo'jaligi mahrumlik ballining necha birlikka kamayishini ko'rsatadi. Natijalar 3.12-jadvalda keltirilgan.
 
 TABLE 3.12: Qo'llab-quvvatlash turlarining xarajat-samaradorlik ko'rsatkichlari
-| Qo'llab-quvvatlash turi | Davlatning bir oilaga o'rtacha xarajati, mln so'm | Mahrumlik balliga ta'siri (δ_s) | CE_s (10 mln so'm hisobiga) | Bir oilani ko'p o'lchovli kambag'allikdan chiqarish xarajati, mln so'm |
-| Imtiyozli kredit | [[__]] | [[__]] | [[__]] | [[__]] |
-| Subsidiya | [[__]] | [[__]] | [[__]] | [[__]] |
-| Kasbga o'qitish | [[__]] | [[__]] | [[__]] | [[__]] |
-| Yer ajratish | [[__]] | [[__]] | [[__]] | [[__]] |
-| Kompleks | [[__]] | [[__]] | [[__]] | [[__]] |
-NOTE: Manba: muallif hisob-kitoblari.
+| Qo'llab-quvvatlash turi | Davlatning bir oilaga o'rtacha xarajati, mln so'm | Mahrumlik balliga ta'siri (δ_s) | CE_s (10 mln so'm hisobiga) | Iste'mol xarajatlariga ta'siri, % | 1 mln so'm xarajatga iste'mol o'sishi, % | CE_s bo'yicha o'rni |
+@GEN t_ce
+NOTE: Manba: muallif hisob-kitoblari. Xarajatlar – dastlabki ekspert baholari. Jigarrang rangdagi raqamlar – taxminiy (shartli ma'lumotlar asosida); so'rovnomaning yakuniy ma'lumotlar bazasi asosida qayta hisoblanadi.
 
 Kredit uchun davlat xarajatini aniqlashda kreditning nominal summasini emas, balki davlatning haqiqiy xarajatlarini hisobga olish muhim: imtiyozli va bozor foiz stavkalari o'rtasidagi farq (subsidiyalangan foiz), davlat kafilligi bo'yicha to'lovlar va kreditlarning qaytarilmaslik xavfi. Bu yondashuv kreditlarning tejamkorligini subsidiyalar bilan to'g'ri taqqoslash imkonini beradi, chunki kredit summasining asosiy qismi qaytariladi.
+
+Hisob-kitoblar monetar va ko'p o'lchovli mezonlar bo'yicha tejamkorlik reytinglari bir-biriga mos kelmasligini ko'rsatadi. Mahrumlik balli bo'yicha eng tejamkor vosita – {{ce.best_nom}} (CE = {{ce.best}}), undan keyin {{ce.second_nom}} turadi; eng past ko'rsatkich {{ce.worst_nom}}ga to'g'ri keladi (CE = {{ce.worst}}). Iste'mol xarajatlari bo'yicha esa manzara boshqacha: har 1 mln so'm davlat xarajatiga iste'mol o'sishi kreditda {{cons_ce.1}} foizni, yer ajratishda {{cons_ce.4}} foizni tashkil etib, subsidiya ({{cons_ce.2}} foiz) va kompleks qo'llab-quvvatlashdan ({{cons_ce.5}} foiz) yuqori. Boshqacha aytganda, samaradorlik faqat daromad yoki iste'mol o'sishi bilan o'lchanganda kredit eng maqbul vositalardan biri bo'lib ko'rinadi va resurslarning asosiy qismi unga yo'naltirilishi oqlanadi; ko'p o'lchovli mezon qo'llanganda esa u oxirgi o'ringa tushadi. Amaldagi resurslar tarkibining kreditlar tomon og'ganligi (2.4-jadval) aynan monetar mezonlarga tayanishning oqibatidir.
+
+Kompleks qo'llab-quvvatlash mutlaq ta'sir bo'yicha yetakchi bo'lsa-da, xarajati yuqoriligi sababli tejamkorlik bo'yicha o'rta o'rinni egallaydi (CE = {{ce.5}}). Shu sababli uni barcha oilalarga emas, balki alohida vositalar yetarli bo'lmaydigan chuqur ko'p o'lchovli kambag'al oilalarga yo'naltirish maqsadga muvofiq.
 
 **Qo'llab-quvvatlash vositalarini takomillashtirish yo'nalishlari.** Differensial baholash natijalari va xorijiy tajriba asosida har bir qo'llab-quvvatlash vositasini takomillashtirish bo'yicha quyidagi takliflar ishlab chiqildi.
 
@@ -81,7 +83,7 @@ $$ E_is = Σ_{d=1}^{5} e_sd · c_id / w_d, s* = arg max_s E_is (3.11)
 
 bu yerda c_id – i-uy xo'jaligining d-o'lchov bo'yicha vaznlangan mahrumlik balli; w_d – o'lchov vazni (c_id / w_d – o'lchov ichidagi mahrumlik ulushi, 0 dan 1 gacha); s* – oila uchun tavsiya etiladigan qo'llab-quvvatlash turi. Bu qoidaga ko'ra, oila uchun mahrumligi yuqori bo'lgan o'lchovlarda eng tejamkor ta'sir ko'rsatuvchi vosita tanlanadi. Agar oilaning asosiy mahrumliklari tadbirkorlikni qo'llab-quvvatlash vositalari ta'sir qilmaydigan o'lchovlarda (masalan, turmush sharoitining infratuzilma bilan bog'liq indikatorlarida) bo'lsa, u boshqa davlat dasturlariga (infratuzilma, ijtimoiy yordam) yo'naltiriladi.
 
-Ushbu yondashuv asosida oilalarning mahrumlik profillari bo'yicha tipologiyasi va ularga mos qo'llab-quvvatlash vositalari bo'yicha tavsiyalar ishlab chiqildi (3.13-jadval). Tipologiya nazariy asoslar va xorijiy tajriba asosida tuzilgan bo'lib, samaradorlik matritsasi elementlari aniqlanishi bilan kalibrlanadi.
+Ushbu yondashuv asosida oilalarning mahrumlik profillari bo'yicha tipologiyasi va ularga mos qo'llab-quvvatlash vositalari bo'yicha tavsiyalar ishlab chiqildi (3.13-jadval). Tipologiya nazariy asoslar, xorijiy tajriba va 3.11–3.12-jadvallardagi baholar asosida tuzilgan bo'lib, samaradorlik matritsasi elementlari yangilanishi bilan qayta kalibrlanadi.
 
 TABLE 3.13: Uy xo'jaliklarining mahrumlik profillari bo'yicha tipologiyasi va tavsiya etiladigan qo'llab-quvvatlash vositalari
 | Profil turi | Asosiy mahrumliklar | Tavsiya etiladigan vosita | Qo'shimcha choralar |

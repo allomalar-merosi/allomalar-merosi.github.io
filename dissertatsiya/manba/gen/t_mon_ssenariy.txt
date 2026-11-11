@@ -1,0 +1,7 @@
+| Inersion (r = 8%) | Kambag'allik darajasi, % | 6,2 | 5,70 | 5,25 | 4,83 | 4,44 | 4,09 |
+| Inersion (r = 8%) | Kambag'al aholi, ming kishi | 58,7 | 54,9 | 51,4 | 48,1 | 45,0 | 42,1 |
+| Bazaviy (r = 12%) | Kambag'allik darajasi, % | 6,2 | 5,46 | 4,80 | 4,23 | 3,72 | 3,27 |
+| Bazaviy (r = 12%) | Kambag'al aholi, ming kishi | 58,7 | 52,5 | 47,0 | 42,1 | 37,6 | 33,7 |
+| Maqsadli (r = 16%) | Kambag'allik darajasi, % | 6,2 | 5,21 | 4,37 | 3,67 | 3,09 | 2,59 |
+| Maqsadli (r = 16%) | Kambag'al aholi, ming kishi | 58,7 | 50,1 | 42,8 | 36,6 | 31,2 | 26,7 |
+| Aholi soni (yil oxiriga), ming kishi |  | 946,3 | 962,4 | 978,7 | 995,4 | 1 012,3 | 1 029,5 |

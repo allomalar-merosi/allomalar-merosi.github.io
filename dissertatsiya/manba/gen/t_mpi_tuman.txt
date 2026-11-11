@@ -1,0 +1,10 @@
+| Boyovut tumani | <<38,3>> | <<50,8>> | <<0,195>> | <<16,6>> | <<Turmush sharoiti>> |
+| Guliston tumani | <<46,7>> | <<48,6>> | <<0,227>> | <<9,6>> | <<Turmush sharoiti>> |
+| Mirzaobod tumani | <<32,5>> | <<46,9>> | <<0,152>> | <<8,6>> | <<Turmush sharoiti>> |
+| Oqoltin tumani | <<50,0>> | <<50,8>> | <<0,254>> | <<10,8>> | <<Bandlik>> |
+| Sardoba tumani | <<48,3>> | <<51,9>> | <<0,251>> | <<10,7>> | <<Turmush sharoiti>> |
+| Sayxunobod tumani | <<36,2>> | <<49,3>> | <<0,179>> | <<10,1>> | <<Turmush sharoiti>> |
+| Sirdaryo tumani | <<27,5>> | <<45,9>> | <<0,126>> | <<10,7>> | <<Bandlik>> |
+| Xovos tumani | <<42,5>> | <<47,7>> | <<0,203>> | <<11,5>> | <<Turmush sharoiti>> |
+| Shaharlar | <<24,3>> | <<47,0>> | <<0,114>> | <<11,3>> | <<Turmush sharoiti>> |
+| **Tanlanma bo'yicha** | <<36,1>> | <<48,8>> | <<0,176>> | 100,0 | <<Turmush sharoiti>> |

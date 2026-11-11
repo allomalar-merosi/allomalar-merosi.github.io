@@ -1,0 +1,13 @@
+| O'rtacha oila a'zolari soni, kishi | <<5,2>> | <<5,0>> | <<+0,1>> | <<0,213>> |
+| 16 yoshgacha bolalar soni, kishi | <<1,7>> | <<1,6>> | <<+0,1>> | <<0,263>> |
+| Oila boshlig'ining yoshi, yil | <<45,0>> | <<48,5>> | <<–3,5>> | <<0,000>> |
+| Oila boshlig'i ayol bo'lgan oilalar ulushi, % | <<17,8>> | <<21,8>> | <<–4,0>> | <<0,155>> |
+| Oila boshlig'ining ta'limi (o'rta maxsus va undan yuqori), % | <<40,5>> | <<33,2>> | <<+7,2>> | <<0,033>> |
+| Doimiy ishga ega a'zosi bor oilalar, % | <<68,2>> | <<64,8>> | <<+3,5>> | <<0,295>> |
+| Mehnat migratsiyasida bo'lgan a'zosi bor oilalar, % | <<22,8>> | <<24,8>> | <<–2,0>> | <<0,507>> |
+| Tomorqa maydoni, sotix | <<7,3>> | <<6,4>> | <<+0,9>> | <<0,062>> |
+| Oldin tadbirkorlik tajribasi bo'lgan oilalar, % | <<37,0>> | <<18,2>> | <<+18,8>> | <<0,000>> |
+| Jon boshiga oylik iste'mol xarajatlari, ming so'm | <<799>> | <<792>> | <<+7>> | <<0,754>> |
+| Qishloq joyida yashovchilar ulushi, % | <<56,0>> | <<55,2>> | <<+0,8>> | <<0,831>> |
+| Kambag'al oilalar reyestrida turganlar, % | <<64,2>> | <<52,2>> | <<+12,0>> | <<0,001>> |
+| Dastlabki mahrumlik balli (c_i) | <<0,308>> | <<0,313>> | <<–0,005>> | <<0,722>> |

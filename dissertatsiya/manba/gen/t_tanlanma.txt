@@ -1,0 +1,12 @@
+| Boyovut tumani | 6 | 60 | 60 | 120 | <<114>> |
+| Guliston tumani | 3 | 30 | 30 | 60 | <<57>> |
+| Mirzaobod tumani | 4 | 40 | 40 | 80 | <<77>> |
+| Oqoltin tumani | 3 | 30 | 30 | 60 | <<58>> |
+| Sardoba tumani | 3 | 30 | 30 | 60 | <<58>> |
+| Sayxunobod tumani | 4 | 40 | 40 | 80 | <<79>> |
+| Sirdaryo tumani | 6 | 60 | 60 | 120 | <<118>> |
+| Xovos tumani | 4 | 40 | 40 | 80 | <<78>> |
+| Guliston shahri | 4 | 40 | 40 | 80 | <<79>> |
+| Shirin shahri | 1 | 10 | 10 | 20 | <<19>> |
+| Yangiyer shahri | 2 | 20 | 20 | 40 | <<38>> |
+| **Jami** | 40 | 400 | 400 | 800 | <<775>> |

@@ -1,0 +1,10 @@
+| Imtiyozli kreditlar | Oluvchilar soni, kishi | <<9 800>> | <<11 200>> | <<12 600>> | <<13 900>> |
+| Imtiyozli kreditlar | Summasi, mlrd so'm | <<262,0>> | <<318,0>> | <<392,0>> | <<468,0>> |
+| Subsidiyalar | Oluvchilar soni, kishi | <<2 100>> | <<2 900>> | <<4 300>> | <<5 600>> |
+| Subsidiyalar | Summasi, mlrd so'm | <<14,7>> | <<21,8>> | <<34,4>> | <<47,6>> |
+| Kasbga o'qitish | O'qitilganlar soni, kishi | <<6 400>> | <<7 300>> | <<8 900>> | <<10 200>> |
+| Kasbga o'qitish | Xarajatlar, mlrd so'm | <<19,2>> | <<23,4>> | <<30,3>> | <<36,7>> |
+| Yer ajratish | Oluvchilar soni, oila | <<5 200>> | <<6 100>> | <<4 800>> | <<4 300>> |
+| Yer ajratish | Maydoni, ga | <<3 640>> | <<4 270>> | <<3 120>> | <<2 580>> |
+| Jami | Qamrab olingan oilalar, birlik | <<21 900>> | <<25 600>> | <<28 400>> | <<31 200>> |
+| Jami | Shu jumladan reyestrdagi kambag'al oilalar ulushi, % | <<38,0>> | <<41,0>> | <<47,0>> | <<54,0>> |

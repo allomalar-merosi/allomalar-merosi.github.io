@@ -1,0 +1,9 @@
+| Kambag'allik qamrovi (H), % | <<66,6>> | <<36,1>> | <<15,0>> |
+| Kambag'allik intensivligi (A), % | <<38,0>> | <<48,8>> | <<61,2>> |
+| MPI-TS (M_0 = H × A) | <<0,253>> | <<0,176>> | <<0,092>> |
+| 95% ishonch oralig'i (M_0) | <<0,233–0,273>> | <<0,155–0,198>> | <<0,074–0,110>> |
+| Dastlabki davr (2023-yil): H, % | <<67,9>> | <<41,8>> | <<18,9>> |
+| Dastlabki davr (2023-yil): M_0 | <<0,278>> | <<0,211>> | <<0,119>> |
+| Taqqoslash uchun: standart indeks bo'yicha H, % | – | <<0,6>> | – |
+| Taqqoslash uchun: tanlanmada monetar kambag'allar ulushi, % | – | <<17,1>> | – |
+| Taqqoslash uchun: viloyat bo'yicha rasmiy monetar kambag'allik darajasi (2025-yil), % | – | 6,2 | – |

@@ -1,0 +1,10 @@
+| Chorvachilik | <<7 350>> | <<28,8>> | <<38>> | <<71>> |
+| Parrandachilik | <<3 120>> | <<12,2>> | <<21>> | <<64>> |
+| Issiqxona va sabzavotchilik | <<2 890>> | <<11,3>> | <<34>> | <<69>> |
+| Bog'dorchilik va ko'chatchilik | <<1 240>> | <<4,9>> | <<29>> | <<78>> |
+| Tikuvchilik va hunarmandchilik | <<2 760>> | <<10,8>> | <<17>> | <<74>> |
+| Oziq-ovqat tayyorlash (qandolatchilik, novvoyxona) | <<1 630>> | <<6,4>> | <<24>> | <<77>> |
+| Maishiy xizmatlar | <<2 180>> | <<8,5>> | <<26>> | <<81>> |
+| Savdo | <<2 940>> | <<11,5>> | <<31>> | <<83>> |
+| Boshqa yo'nalishlar | <<1 390>> | <<5,5>> | <<28>> | <<72>> |
+| **Jami** | <<25 500>> | 100,0 | <<29>> | <<73>> |

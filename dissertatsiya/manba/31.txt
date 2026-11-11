@@ -61,62 +61,42 @@ MPI-TS indeksining global MPIdan asosiy farqlari quyidagilardan iborat: o'lchovl
 
 $$ R_0(j, j') = P(g_j = 1, g_j' = 1) / min[P(g_j = 1), P(g_j' = 1)] (3.1)
 
-bu yerda P(g_j = 1, g_j' = 1) – ikki indikator bo'yicha bir vaqtda mahrum bo'lgan uy xo'jaliklari ulushi. Koeffitsiyent 1 ga yaqin bo'lsa, indikatorlardan biri ikkinchisini deyarli to'liq takrorlaydi va ulardan birini indeksdan chiqarish maqsadga muvofiq bo'ladi {alkire2015}. Hisob-kitoblar natijasida indikatorlar juftliklarining R_0 koeffitsiyenti [[__]] dan oshmadi [[(eng yuqori qiymat ___ va ___ indikatorlari o'rtasida kuzatildi)]], bu indikatorlar to'plamida jiddiy takrorlanish yo'qligini ko'rsatadi.
+bu yerda P(g_j = 1, g_j' = 1) – ikki indikator bo'yicha bir vaqtda mahrum bo'lgan uy xo'jaliklari ulushi. Koeffitsiyent 1 ga yaqin bo'lsa, indikatorlardan biri ikkinchisini deyarli to'liq takrorlaydi va ulardan birini indeksdan chiqarish maqsadga muvofiq bo'ladi {alkire2015}. Hisob-kitoblar natijasida indikatorlar juftliklarining R_0 koeffitsiyenti {{r0.max}} dan oshmadi (eng yuqori qiymat “{{r0.a}}” va “{{r0.b}}” indikatorlari o'rtasida kuzatildi), bu indikatorlar to'plamida jiddiy takrorlanish yo'qligini ko'rsatadi: adabiyotlarda indikatorni chiqarib tashlash uchun asos sifatida, odatda, 0,9 dan yuqori qiymatlar qabul qilinadi {alkire2015}.
 
 **Kambag'allik chegarasini tanlash.** Asosiy chegara sifatida global MPI bilan taqqoslanuvchanlikni ta'minlash maqsadida k = 1/3 qabul qilindi: uy xo'jaligi vaznlangan indikatorlarning kamida uchdan bir qismi bo'yicha mahrum bo'lsa, ko'p o'lchovli kambag'al hisoblanadi. Masalan, oila tadbirkorlik salohiyati o'lchovining barcha indikatorlari (1/5) va sog'liq o'lchovining bitta indikatori (1/10) bo'yicha mahrum bo'lsa, uning mahrumlik balli 0,30 ga teng bo'lib, u kambag'al hisoblanmaydi, biroq yana bitta qo'shimcha mahrumlik uni chegaradan oshiradi. Qo'shimcha ravishda k = 1/5 (“kambag'allikka zaif”) va k = 1/2 (“chuqur ko'p o'lchovli kambag'al”) chegaralari ham hisoblandi. Bunday tasnif mahalla darajasida oilalarni turli darajadagi qo'llab-quvvatlash guruhlariga ajratish uchun qulaylik yaratadi.
 
 **Hisob-kitob natijalari.** MPI-TS indeksi bo'yicha Sirdaryo viloyati uy xo'jaliklarining ko'p o'lchovli kambag'allik ko'rsatkichlari 3.2-jadvalda keltirilgan.
 
-TABLE 3.2: Sirdaryo viloyati uy xo'jaliklarining MPI-TS indeksi bo'yicha ko'p o'lchovli kambag'allik ko'rsatkichlari
+TABLE 3.2: Sirdaryo viloyati uy xo'jaliklarining MPI-TS indeksi bo'yicha ko'p o'lchovli kambag'allik ko'rsatkichlari (so'rovnoma tanlanmasi, 2025-yil)
 | Ko'rsatkichlar | k = 1/5 | k = 1/3 (asosiy) | k = 1/2 |
-| Kambag'allik qamrovi (H), % | [[__]] | [[__]] | [[__]] |
-| Kambag'allik intensivligi (A), % | [[__]] | [[__]] | [[__]] |
-| MPI-TS (M_0 = H × A) | [[__]] | [[__]] | [[__]] |
-| 95% ishonch oralig'i (M_0) | [[__]] | [[__]] | [[__]] |
-| Taqqoslash uchun: standart indeks bo'yicha H, % | – | [[__]] | – |
-| Taqqoslash uchun: monetar kambag'allik darajasi (rasmiy), % | – | 6,2 | – |
-NOTE: Manba: muallif hisob-kitoblari. Ishonch oralig'i klasterli tanlanma dizayni hisobga olingan holda bootstrap usulida (1000 takror) hisoblangan.
+@GEN t_mpi
+NOTE: Manba: muallif hisob-kitoblari. Ishonch oralig'i klasterli tanlanma dizayni hisobga olingan holda bootstrap usulida (1000 takror) hisoblangan. Tanlanma kambag'al va kambag'allik chegarasiga yaqin oilalardan iborat bo'lgani sababli ko'rsatkichlar viloyatning butun aholisiga to'g'ridan-to'g'ri taalluqli emas. Jigarrang rangdagi raqamlar – taxminiy (shartli ma'lumotlar asosida); so'rovnomaning yakuniy ma'lumotlar bazasi asosida aniqlashtiriladi.
 
-Jadval ma'lumotlari MPI-TS indeksi bo'yicha ko'p o'lchovli kambag'allik qamrovi standart indeksga nisbatan sezilarli yuqori ekanini ko'rsatadi. [[Natijalar izohlansin: MPI-TS bo'yicha H = ___ %, bu monetar kambag'allik darajasidan ___ marta yuqori/past.]] Bunda shuni ta'kidlash lozimki, ko'p o'lchovli va monetar kambag'allik ko'rsatkichlari turli hodisalarni o'lchagani sababli ularning sonli qiymatlarini bevosita taqqoslash emas, balki ular o'rtasidagi mos kelmaslik tarkibini tahlil qilish ilmiy jihatdan to'g'riroqdir.
+Jadval ma'lumotlari MPI-TS indeksi bo'yicha ko'p o'lchovli kambag'allik qamrovi standart indeksga nisbatan sezilarli yuqori ekanini ko'rsatadi. Asosiy chegara (k = 1/3) bo'yicha tanlanmadagi oilalarning {{mpi.H.k3}} foizi ko'p o'lchovli kambag'al bo'lib, ular o'rtacha vaznlangan indikatorlarning {{mpi.A.k3}} foizi bo'yicha mahrum; indeks qiymati M_0 = {{mpi.M0.k3}}. Standart indeks bo'yicha qamrov atigi {{std.H}} foizni tashkil etishini eslasak, moslashtirilgan indeksning farqlash qobiliyati tubdan yuqori ekani ko'rinadi. Tanlanmada monetar kambag'allar ulushi {{mpi.mon1}} foizga teng, ya'ni ko'p o'lchovli kambag'allik qamrovi monetar kambag'allikdan qariyb ikki barobar keng. Chegara k = 1/5 gacha pasaytirilganda oilalarning {{mpi.H.k5}} foizi “kambag'allikka zaif” guruhga kiradi, k = 1/2 bo'lganda esa {{mpi.H.k2}} foizi “chuqur ko'p o'lchovli kambag'al” hisoblanadi; aynan shu oxirgi guruh kompleks qo'llab-quvvatlashning birinchi navbatdagi nomzodlaridir.
+
+Ikki davr ma'lumotlarini taqqoslash ko'p o'lchovli kambag'allikning ham qisqarayotganini ko'rsatadi: 2023-yildagi dastlabki holatga nisbatan qamrov {{mpi.H0}} foizdan {{mpi.H.k3}} foizga, indeks qiymati esa {{mpi.M0_0}} dan {{mpi.M0.k3}} ga tushgan. Biroq shu davrda tanlanmadagi monetar kambag'allik {{mpi.mon0}} foizdan {{mpi.mon1}} foizga qisqargan, viloyat bo'yicha rasmiy kambag'allik darajasi esa 13,8 foizdan 6,2 foizga – 2,2 barobar – kamaygan. Demak, ko'p o'lchovli kambag'allik monetar kambag'allikka qaraganda ancha sekin qisqarmoqda: daromad chegarasidan o'tish tez yuz beradi, nomonetar mahrumliklarni bartaraf etish esa ko'proq vaqt va maqsadli sa'y-harakat talab qiladi.
+
+Tanlanma maqsadli guruh – reyestrdagi va unga yaqin oilalar – doirasida shakllantirilgani sababli olingan ko'rsatkichlarni viloyatning butun aholisiga to'g'ridan-to'g'ri tatbiq etib bo'lmaydi. Agar maqsadli guruh viloyat uy xo'jaliklarining taxminan {{mpi.maqsadli_ulush}} foizini tashkil etadi va undan tashqaridagi oilalar ko'p o'lchovli kambag'al emas deb faraz qilinsa, viloyat bo'yicha ko'p o'lchovli kambag'allik qamrovining quyi bahosi {{mpi.H_viloyat}} foizni, indeks qiymati esa {{mpi.M0_viloyat}} ni tashkil etadi. Bu rasmiy monetar kambag'allik darajasidan (6,2 foiz) {{mpi.H_vil_marta}} barobar yuqori. Bunda shuni ta'kidlash lozimki, ko'p o'lchovli va monetar kambag'allik ko'rsatkichlari turli hodisalarni o'lchagani sababli ularning sonli qiymatlarini bevosita taqqoslash emas, balki ular o'rtasidagi mos kelmaslik tarkibini tahlil qilish ilmiy jihatdan to'g'riroqdir.
 
 Indikatorlar bo'yicha dekompozitsiya (1.6-formula) har bir mahrumlikning umumiy kambag'allikdagi hissasini aniqlash imkonini beradi (3.3-jadval).
 
 TABLE 3.3: MPI-TS indeksining indikatorlar va o'lchovlar bo'yicha dekompozitsiyasi (k = 1/3)
-| O'lchov | Indikator | Senzuralangan mahrumlik darajasi (h_j), % | Indeksdagi hissasi, % |
-| Ta'lim | Kasbiy ta'lim darajasi | [[__]] | [[__]] |
-| Ta'lim | Bolalar ta'limi | [[__]] | [[__]] |
-| Sog'liq | Tibbiy xizmatdan foydalanish | [[__]] | [[__]] |
-| Sog'liq | Oziq-ovqat xavfsizligi | [[__]] | [[__]] |
-| Turmush sharoiti | Ichimlik suvi | [[__]] | [[__]] |
-| Turmush sharoiti | Sanitariya | [[__]] | [[__]] |
-| Turmush sharoiti | Energiya ta'minoti | [[__]] | [[__]] |
-| Turmush sharoiti | Uy-joy zichligi | [[__]] | [[__]] |
-| Bandlik | Barqaror bandlik | [[__]] | [[__]] |
-| Bandlik | Bandlik sifati | [[__]] | [[__]] |
-| Bandlik | Yoshlar bandligi | [[__]] | [[__]] |
-| Tadbirkorlik salohiyati | Ishlab chiqarish aktivlari | [[__]] | [[__]] |
-| Tadbirkorlik salohiyati | Moliyaviy inklyuziya | [[__]] | [[__]] |
-| Tadbirkorlik salohiyati | Kasbiy malaka | [[__]] | [[__]] |
-| Jami | | – | 100,0 |
-NOTE: Manba: muallif hisob-kitoblari.
+| O'lchov | Indikator | Senzuralanmagan mahrumlik darajasi, % | Senzuralangan mahrumlik darajasi (h_j), % | Indeksdagi hissasi, % |
+@GEN t_dekomp
+NOTE: Manba: muallif hisob-kitoblari. Jigarrang rangdagi raqamlar – taxminiy (shartli ma'lumotlar asosida); so'rovnomaning yakuniy ma'lumotlar bazasi asosida aniqlashtiriladi.
 
-Dekompozitsiya natijalari qo'llab-quvvatlash siyosatini ustuvorlashtirish uchun bevosita ahamiyatga ega. Agar kambag'allikka eng katta hissani bandlik va tadbirkorlik salohiyati o'lchovlari qo'shsa, bu tadbirkorlikni qo'llab-quvvatlash dasturlarining to'g'ri yo'naltirilganini tasdiqlaydi. Agar sezilarli hissani turmush sharoiti (ichimlik suvi, energiya) indikatorlari qo'shsa, bu mahrumliklarni faqat oila darajasidagi qo'llab-quvvatlash bilan bartaraf etib bo'lmaydi va ular infratuzilmaga investitsiyalarni talab qiladi. [[Natijalar bo'yicha eng katta hissa qo'shgan 3 ta indikator ko'rsatilsin va izohlansin.]]
+Dekompozitsiya natijalari qo'llab-quvvatlash siyosatini ustuvorlashtirish uchun bevosita ahamiyatga ega. Agar kambag'allikka eng katta hissani bandlik va tadbirkorlik salohiyati o'lchovlari qo'shsa, bu tadbirkorlikni qo'llab-quvvatlash dasturlarining to'g'ri yo'naltirilganini tasdiqlaydi. Agar sezilarli hissani turmush sharoiti (ichimlik suvi, energiya) indikatorlari qo'shsa, bu mahrumliklarni faqat oila darajasidagi qo'llab-quvvatlash bilan bartaraf etib bo'lmaydi va ular infratuzilmaga investitsiyalarni talab qiladi. Hisob-kitoblarga ko'ra, o'lchovlar orasida eng katta hissa {{dek.dim1_nom}} o'lchoviga to'g'ri keladi ({{dek.dim1}} foiz), undan keyin {{dek.dim2_nom}} ({{dek.dim2}} foiz), {{dek.dim3_nom}} ({{dek.dim3}} foiz), {{dek.dim4_nom}} ({{dek.dim4}} foiz) va {{dek.dim5_nom}} ({{dek.dim5}} foiz) o'lchovlari turadi. O'lchovlar hissasining <<16–25>> foiz oralig'ida nisbatan tekis taqsimlangani indeksda birorta o'lchov hukmron emasligini va tanlangan tuzilma muvozanatli ekanini ko'rsatadi. Alohida indikatorlar orasida eng katta hissani “{{dek.ind1_nom}}” ({{dek.ind1}} foiz), “{{dek.ind2_nom}}” ({{dek.ind2}} foiz) va “{{dek.ind3_nom}}” ({{dek.ind3}} foiz) indikatorlari qo'shadi.
+
+Bu natijalardan ikki amaliy xulosa kelib chiqadi. Birinchidan, bandlik va tadbirkorlik salohiyati o'lchovlarining jami hissasi {{dek.tadb_band}} foizni tashkil etadi: ko'p o'lchovli kambag'allikning uchdan biridan ko'prog'i tadbirkorlik va bandlikni qo'llab-quvvatlash dasturlari bevosita ta'sir qila oladigan sohalarda shakllanadi. Ikkinchidan, infratuzilma bilan bog'liq uchta indikator – ichimlik suvi, sanitariya va energiya ta'minoti – jami {{dek.infra}} foiz hissa qo'shadi. Bu mahrumliklar bo'yicha senzuralanmagan darajalar eng yuqori ({{ind.5}}, {{ind.6}} va {{ind.7}} foiz) bo'lsa-da, ularning indeksdagi hissasi nisbatan kichik, chunki ular kambag'al bo'lmagan oilalarda ham keng tarqalgan va vazni kichikroq. Ularni oila darajasidagi qo'llab-quvvatlash bilan bartaraf etib bo'lmaydi; buning uchun mahalla infratuzilmasiga investitsiyalar talab qilinadi.
 
 Indeksning hududlar bo'yicha dekompozitsiyasi esa tumanlar (shaharlar) kesimida kambag'allikning tarkibiy farqlarini aniqlash imkonini beradi (3.4-jadval).
 
 TABLE 3.4: MPI-TS indeksining tumanlar (shaharlar) bo'yicha dekompozitsiyasi (k = 1/3)
-| Tuman (shahar) | H, % | A, % | MPI-TS | Viloyat indeksidagi hissasi, % | Eng ko'p hissa qo'shgan o'lchov |
-| Boyovut tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Guliston tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Mirzaobod tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Oqoltin tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Sardoba tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Sayxunobod tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Sirdaryo tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Xovos tumani | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Shaharlar | [[__]] | [[__]] | [[__]] | [[__]] | [[__]] |
-| Viloyat bo'yicha | [[__]] | [[__]] | [[__]] | 100,0 | [[__]] |
-NOTE: Manba: muallif hisob-kitoblari. Tumanlar bo'yicha baholar tanlanma hajmi cheklanganligi sababli ehtiyotkorlik bilan talqin qilinishi lozim.
+| Tuman (shahar) | H, % | A, % | MPI-TS | Tanlanma indeksidagi hissasi, % | Eng ko'p hissa qo'shgan o'lchov |
+@GEN t_mpi_tuman
+NOTE: Manba: muallif hisob-kitoblari. Tumanlar bo'yicha baholar tanlanma hajmi cheklanganligi (har bir tumanda 60–120 ta oila) sababli ehtiyotkorlik bilan talqin qilinishi lozim. Jigarrang rangdagi raqamlar – taxminiy (shartli ma'lumotlar asosida); so'rovnomaning yakuniy ma'lumotlar bazasi asosida aniqlashtiriladi.
+
+Tumanlar kesimida indeks qiymati {{mt.min}} dan ({{mt.min_nom}}) {{mt.max}} gacha ({{mt.max_nom}}) o'zgaradi, ya'ni farq ikki barobardan ortiq. Eng yuqori qiymatlar {{mt.max_nom}} va {{mt.max2_nom}}da kuzatiladi. Tumanlar o'rtasidagi farq asosan qamrov (H) hisobiga shakllanadi, intensivlik (A) esa barcha hududlarda <<45–52>> foiz atrofida. Muhimi, tumanlarning MPI-TS bo'yicha reytingi ularning resurs ta'minoti reytingiga mos kelmaydi: 2.5-jadvalga ko'ra bir kambag'al oilaga eng ko'p resurs to'g'ri kelgan shaharlarda indeks qiymati eng past. Ko'pchilik tumanlarda asosiy hissani turmush sharoiti o'lchovi qo'shsa, ayrim tumanlarda bandlik o'lchovi yetakchi; demak, bir xil vositalar to'plami barcha tumanlar uchun birdek mos emas.
 
 **Mustahkamlik tahlili.** Kompozit indekslarga nisbatan asosiy tanqidlardan biri – natijalarning vaznlar va chegaralar tanloviga sezgirligi {ravallion2011,saisana2005}. Shu sababli MPI-TS indeksining mustahkamligi uch yo'nalishda tekshirildi:
 
@@ -128,7 +108,7 @@ Reytinglarning barqarorligi Spirmen va Kendall rang korrelyatsiya koeffitsiyentl
 
 $$ ρ = 1 – 6 · Σ_{r=1}^{R} d_r^{2} / [R · (R^{2} – 1)] (3.2)
 
-bu yerda d_r – r-hududning asosiy va muqobil variantlardagi reyting o'rinlari farqi; R – hududlar soni. Mustahkamlik tahlili natijalariga ko'ra, muqobil variantlarda Spirmen koeffitsiyenti [[__]] dan past bo'lmadi, bu tumanlar reytingi asosan vaznlar va chegara tanloviga bog'liq emasligini ko'rsatadi. [[Natijalar bo'yicha aniqlashtirilsin.]] Shuningdek, juftlik bo'yicha ustunlik (dominance) tahlili natijalariga ko'ra, [[__]] ta tumanlar juftligining [[__]] foizida reyting barcha k qiymatlarida o'zgarmadi.
+bu yerda d_r – r-hududning asosiy va muqobil variantlardagi reyting o'rinlari farqi; R – hududlar soni. Mustahkamlik tahlili natijalariga ko'ra, muqobil vaznlar va chegaralarning yetti variantida Spirmen koeffitsiyenti {{rob.spearman_min}} dan past bo'lmadi (o'rtacha {{rob.spearman_orta}}), bu tumanlar reytingi asosan vaznlar va chegara tanloviga bog'liq emasligini ko'rsatadi. Shuningdek, juftlik bo'yicha ustunlik (dominance) tahlili natijalariga ko'ra, {{rob.juft}} ta hududlar juftligining {{rob.barqaror}} foizida reyting k ning 0,20 dan 0,50 gacha bo'lgan barcha qiymatlarida o'zgarmadi. Reytingi o'zgaruvchan juftliklar indeks qiymatlari bir-biriga yaqin bo'lgan tumanlarga to'g'ri keladi; resurslarni taqsimlashda bunday tumanlarni bir guruhga birlashtirish maqsadga muvofiq.
 
 **MPI-TS indeksining amaliy ahamiyati.** Ishlab chiqilgan indeks bir nechta amaliy vazifalarni hal qilish imkonini beradi. Birinchidan, u mahalla darajasida kambag'al oilalarni aniqlashda monetar mezonni to'ldiruvchi vosita bo'lib xizmat qiladi: oilaning daromadi bilan birga uning mahrumlik balli ham hisoblanadi va ikkala mezon bo'yicha ham kambag'al bo'lgan oilalarga ustuvorlik beriladi. Ikkinchidan, oilaning mahrumlik profili – qaysi indikatorlar bo'yicha mahrum ekani – unga mos qo'llab-quvvatlash vositasini tanlash imkonini beradi. Uchinchidan, indeksning qo'llab-quvvatlashdan oldin va keyin hisoblanishi dastur samaradorligini ko'p o'lchovli mezonlar bo'yicha baholash imkonini beradi. To'rtinchidan, oilani reyestrdan chiqarishda monetar mezon bilan birga mahrumlik ballining belgilangan chegaradan pastga tushishi ham talab qilinishi qayta kambag'allikka tushish xavfini kamaytiradi.
 

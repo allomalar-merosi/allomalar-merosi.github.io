@@ -6,16 +6,16 @@ CENTER: Uy xo'jaliklari so'rovnomasi anketasining tuzilishi
 
 TABLE I-1: So'rovnoma anketasining bo'limlari va asosiy savollari
 | Bo'lim | Mazmuni | Savollar soni | Davr |
-| A. Identifikatsiya | Tuman, mahalla, xonadon kodi, intervyu sanasi, respondent | [[__]] | Hozirgi |
-| B. Oila tarkibi | Har bir a'zoning yoshi, jinsi, oila boshlig'iga munosabati, nogironligi | [[__]] | Hozirgi va 2023 |
-| C. Ta'lim | Ta'lim darajasi, bolalarning MTT va maktabga qatnashi, kasbiy sertifikatlar | [[__]] | Hozirgi va 2023 |
-| D. Sog'liq va ovqatlanish | Tibbiy yordamga ehtiyoj va undan foydalanish, dori-darmon, oziq-ovqat xavfsizligi (FIES shkalasi) | [[__]] | Hozirgi |
-| E. Uy-joy va kommunal xizmatlar | Xonalar soni, suv, kanalizatsiya, gaz, elektr ta'minoti va uzilishlar | [[__]] | Hozirgi va 2023 |
-| F. Bandlik | Har bir a'zoning bandlik holati, ish turi, rasmiyligi, mavsumiyligi, mehnat migratsiyasi | [[__]] | Hozirgi va 2023 |
-| G. Aktivlar va moliyaviy xizmatlar | Tomorqa, chorva, uskunalar, transport, bank kartasi, kredit tarixi | [[__]] | Hozirgi va 2023 |
-| H. Daromad va iste'mol | Daromad manbalari, oziq-ovqat va nooziq-ovqat xarajatlari, pul o'tkazmalari | [[__]] | Hozirgi |
-| I. Davlat qo'llab-quvvatlashi | Olingan qo'llab-quvvatlash turi, summasi, sanasi, foydalanish yo'nalishi, faoliyatning hozirgi holati, kredit to'lovlari | [[__]] | 2023–hozirgi |
-| J. Subyektiv baholash | Oila farovonligining o'zgarishini baholash, kelajakka ishonch | [[__]] | Hozirgi |
+| A. Identifikatsiya | Tuman, mahalla, xonadon kodi, intervyu sanasi, respondent | <<6>> | Hozirgi |
+| B. Oila tarkibi | Har bir a'zoning yoshi, jinsi, oila boshlig'iga munosabati, nogironligi | <<8>> | Hozirgi va 2023 |
+| C. Ta'lim | Ta'lim darajasi, bolalarning MTT va maktabga qatnashi, kasbiy sertifikatlar | <<9>> | Hozirgi va 2023 |
+| D. Sog'liq va ovqatlanish | Tibbiy yordamga ehtiyoj va undan foydalanish, dori-darmon, oziq-ovqat xavfsizligi (FIES shkalasi) | <<10>> | Hozirgi |
+| E. Uy-joy va kommunal xizmatlar | Xonalar soni, suv, kanalizatsiya, gaz, elektr ta'minoti va uzilishlar | <<12>> | Hozirgi va 2023 |
+| F. Bandlik | Har bir a'zoning bandlik holati, ish turi, rasmiyligi, mavsumiyligi, mehnat migratsiyasi | <<11>> | Hozirgi va 2023 |
+| G. Aktivlar va moliyaviy xizmatlar | Tomorqa, chorva, uskunalar, transport, bank kartasi, kredit tarixi | <<12>> | Hozirgi va 2023 |
+| H. Daromad va iste'mol | Daromad manbalari, oziq-ovqat va nooziq-ovqat xarajatlari, pul o'tkazmalari | <<14>> | Hozirgi |
+| I. Davlat qo'llab-quvvatlashi | Olingan qo'llab-quvvatlash turi, summasi, sanasi, foydalanish yo'nalishi, faoliyatning hozirgi holati, kredit to'lovlari | <<12>> | 2023–hozirgi |
+| J. Subyektiv baholash | Oila farovonligining o'zgarishini baholash, kelajakka ishonch | <<6>> | Hozirgi |
 NOTE: Manba: muallif ishlanmasi.
 
 @PAGEBREAK

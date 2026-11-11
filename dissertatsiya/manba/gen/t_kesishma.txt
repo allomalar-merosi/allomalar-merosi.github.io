@@ -1,0 +1,3 @@
+| Monetar kambag'al | <<13,4 (A guruh)>> | <<3,8 (B guruh)>> | <<17,1>> |
+| Monetar kambag'al emas | <<22,8 (C guruh)>> | <<60,1 (D guruh)>> | <<82,9>> |
+| Jami | <<36,1>> | <<63,9>> | 100,0 |

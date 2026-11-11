@@ -1,0 +1,10 @@
+| Oila farovonligi sezilarli yaxshilandi | <<14,4>> | <<23,5>> | <<15,9>> | <<14,4>> | <<16,3>> |
+| Oila farovonligi biroz yaxshilandi | <<41,5>> | <<46,0>> | <<43,5>> | <<45,0>> | <<43,3>> |
+| O'zgarish bo'lmadi | <<38,6>> | <<28,0>> | <<38,6>> | <<37,1>> | <<36,4>> |
+| Ahvol yomonlashdi | <<5,5>> | <<2,5>> | <<2,0>> | <<3,5>> | <<4,0>> |
+| Asosiy qiyinchilik: mahsulotni sotish | <<31>> | <<28>> | <<18>> | <<26>> | <<27>> |
+| Asosiy qiyinchilik: xomashyo va ozuqa narxi | <<22>> | <<33>> | <<9>> | <<14>> | <<20>> |
+| Asosiy qiyinchilik: qarz to'lovlari | <<27>> | – | – | – | <<13>> |
+| Asosiy qiyinchilik: bilim va tajriba yetishmasligi | <<12>> | <<25>> | <<41>> | <<17>> | <<20>> |
+| Asosiy qiyinchilik: suv va infratuzilma | <<8>> | <<14>> | <<32>> | <<43>> | <<19>> |
+| Qo'llab-quvvatlash turi oila ehtiyojiga mos kelgan | <<71>> | <<66>> | <<58>> | <<69>> | <<68>> |

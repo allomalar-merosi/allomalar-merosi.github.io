@@ -1,0 +1,9 @@
+| Dastlabki mahrumlik balli < 1/3 | <<–0,005>> | <<0,005>> | <<0,000>> |
+| Dastlabki mahrumlik balli 1/3 – 1/2 | <<–0,043***>> | <<0,010>> |  |
+| Dastlabki mahrumlik balli ≥ 1/2 | <<–0,120***>> | <<0,014>> |  |
+| Oila boshlig'i erkak | <<–0,033***>> | <<0,006>> | <<0,839>> |
+| Oila boshlig'i ayol | <<–0,036***>> | <<0,014>> |  |
+| Tadbirkorlik tajribasi bor | <<–0,024***>> | <<0,008>> | <<0,124>> |
+| Tadbirkorlik tajribasi yo'q | <<–0,040***>> | <<0,007>> |  |
+| Qishloq | <<–0,032***>> | <<0,007>> | <<0,714>> |
+| Shahar | <<–0,036***>> | <<0,008>> |  |

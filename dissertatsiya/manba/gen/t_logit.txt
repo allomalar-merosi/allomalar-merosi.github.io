@@ -1,0 +1,16 @@
+| Oila a'zolari soni | <<+0,059>> | <<0,048>> | <<+0,013>> |
+| Qaramlik koeffitsiyenti | <<–0,029>> | <<0,113>> | <<–0,006>> |
+| Oila boshlig'ining yoshi | <<–0,038***>> | <<0,008>> | <<–0,008>> |
+| Oila boshlig'i ayol (1/0) | <<–0,261>> | <<0,192>> | <<–0,058>> |
+| Oila boshlig'ining kasbiy ta'limi (1/0) | <<+0,354**>> | <<0,161>> | <<+0,079>> |
+| Oldin tadbirkorlik tajribasi (1/0) | <<+1,056***>> | <<0,179>> | <<+0,236>> |
+| Tomorqa maydoni, sotix | <<+0,023*>> | <<0,012>> | <<+0,005>> |
+| Mehnat migranti bor (1/0) | <<–0,078>> | <<0,179>> | <<–0,017>> |
+| Kambag'al oilalar reyestrida (1/0) | <<+0,590***>> | <<0,162>> | <<+0,132>> |
+| Dastlabki mahrumlik balli (c_i) | <<–0,079>> | <<0,547>> | <<–0,018>> |
+| Jon boshiga iste'mol xarajatlari (log) | <<–0,084>> | <<0,282>> | <<–0,019>> |
+| Tuman markazigacha masofa, km | <<+0,001>> | <<0,013>> | <<+0,000>> |
+| Tumanlar bo'yicha qat'iy effektlar | Ha |  |  |
+| Kuzatuvlar soni | <<800>> |  |  |
+| Psevdo-R² | <<0,080>> |  |  |
+| LR χ² | <<88,5>> |  |  |

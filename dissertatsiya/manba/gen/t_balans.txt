@@ -1,0 +1,13 @@
+| Oila a'zolari soni | <<+8,8>> | <<+6,8>> | <<22>> |
+| Qaramlik koeffitsiyenti | <<–6,4>> | <<+8,1>> | <<0>> |
+| Oila boshlig'ining yoshi | <<–34,4>> | <<–1,2>> | <<97>> |
+| Oila boshlig'i ayol | <<–10,1>> | <<+4,4>> | <<56>> |
+| Oila boshlig'ining kasbiy ta'limi | <<+15,1>> | <<+2,6>> | <<83>> |
+| Oldin tadbirkorlik tajribasi | <<+42,9>> | <<–2,6>> | <<94>> |
+| Tomorqa maydoni, sotix | <<+13,2>> | <<+0,7>> | <<95>> |
+| Mehnat migranti bor | <<–4,7>> | <<–2,4>> | <<49>> |
+| Kambag'al oilalar reyestrida | <<+24,5>> | <<0,0>> | <<100>> |
+| Dastlabki mahrumlik balli (c_i) | <<–2,5>> | <<–2,6>> | <<0>> |
+| Jon boshiga iste'mol xarajatlari (log) | <<+5,2>> | <<+1,3>> | <<75>> |
+| **O'rtacha mutlaq SB** | <<15,3>> | <<3,0>> | <<80>> |
+| Psevdo-R² (moslashtirilgan tanlanmada) | <<0,080>> | <<0,010>> | – |

@@ -1,0 +1,8 @@
+| Kambag'allik darajasi, % | 17,0 | 14,1 | 11,0 | 8,9 | 5,8 |
+| Minimal iste'mol xarajatlari qiymati, ming so'm/oy | <<440>> | 498 | 568 | 648 | 669 |
+| YaIM real o'sish sur'ati, % | 8,2 | 6,1 | 6,3 | 6,7 | 7,7 |
+| Aholi jon boshiga real umumiy daromadlar o'sishi, % | 10,4 | 6,5 | 3,9 | 9,4 | 7,2 |
+| Aholi daromadlarida transfertlar ulushi, % | 24,7 | 28,3 | 27,1 | 28,6 | 29,6 |
+| Ishsizlik darajasi, % | 9,6 | 8,9 | 6,8 | 5,5 | 4,8 |
+| Iste'mol narxlari indeksi (dekabr o'tgan yil dekabriga nisbatan), % | 110,0 | 112,3 | 108,8 | 109,8 | 107,3 |
+| Jini koeffitsiyenti | 0,273 | 0,283 | 0,288 | 0,286 | 0,279 |

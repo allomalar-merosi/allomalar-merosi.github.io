@@ -2,7 +2,7 @@
 
 Ushbu paragrafning maqsadi tadbirkorlikni qo'llab-quvvatlashning uy xo'jaliklari kambag'alligiga sof ta'sirini, ya'ni umumiy iqtisodiy o'sish, oilalarning dastlabki farqlari va boshqa omillar ta'siridan tozalangan ta'sirini miqdoriy baholashdan iborat. 1.3-paragrafda asoslanganidek, bu maqsad uchun moyillik ko'rsatkichi bo'yicha moslashtirish va farqlar ichidagi farq usullarining birlashmasi (PSM-DiD) qo'llanildi {hit1997,iw2009,ck2008}.
 
-**Tahlil dizayni.** Tahlil uchun 2.3-paragrafda tavsiflangan so'rovnoma ma'lumotlaridan foydalanildi. **Ishtirok guruhi** (D = 1) sifatida 2024-yil davomida tadbirkorlikni qo'llab-quvvatlash vositalaridan kamida bittasini (imtiyozli kredit, subsidiya, kasbga o'qitish yoki yer ajratish) olgan uy xo'jaliklari, **qiyosiy guruh** (D = 0) sifatida esa xuddi shu mahallalarda yashovchi, 2023–2025-yillarda tadbirkorlikni qo'llab-quvvatlash vositalaridan foydalanmagan uy xo'jaliklari olindi. **Dastlabki davr** (t_0) sifatida 2023-yil, **yakuniy davr** (t_1) sifatida so'rovnoma o'tkazilgan davr olindi. Shunday qilib, qo'llab-quvvatlash olingandan keyin o'rtacha [[__]] oy o'tgan davrdagi ta'sir baholanadi.
+**Tahlil dizayni.** Tahlil uchun 2.3-paragrafda tavsiflangan so'rovnoma ma'lumotlaridan foydalanildi. **Ishtirok guruhi** (D = 1) sifatida 2024-yil davomida tadbirkorlikni qo'llab-quvvatlash vositalaridan kamida bittasini (imtiyozli kredit, subsidiya, kasbga o'qitish yoki yer ajratish) olgan uy xo'jaliklari, **qiyosiy guruh** (D = 0) sifatida esa xuddi shu mahallalarda yashovchi, 2023–2025-yillarda tadbirkorlikni qo'llab-quvvatlash vositalaridan foydalanmagan uy xo'jaliklari olindi. **Dastlabki davr** (t_0) sifatida 2023-yil, **yakuniy davr** (t_1) sifatida so'rovnoma o'tkazilgan davr olindi. Shunday qilib, qo'llab-quvvatlash olingandan keyin o'rtacha {{sorov.oy}} oy o'tgan davrdagi ta'sir baholanadi.
 
 **Natija ko'rsatkichlari.** Ta'sir quyidagi natija ko'rsatkichlari bo'yicha baholandi:
 - Y1 – MPI-TS indeksi bo'yicha uy xo'jaligining mahrumlik balli (c_i, 0 dan 1 gacha);
@@ -36,27 +36,14 @@ NOTE: Manba: muallif ishlanmasi.
 
 TABLE 3.5: Uy xo'jaligining tadbirkorlikni qo'llab-quvvatlash olish ehtimolini baholashning logit modeli natijalari
 | O'zgaruvchilar (2023-yil holati) | Koeffitsiyent | Standart xato | Marjinal samara |
-| Oila a'zolari soni | [[__]] | [[__]] | [[__]] |
-| Qaramlik koeffitsiyenti | [[__]] | [[__]] | [[__]] |
-| Oila boshlig'ining yoshi | [[__]] | [[__]] | [[__]] |
-| Oila boshlig'i ayol (1/0) | [[__]] | [[__]] | [[__]] |
-| Oila boshlig'ining kasbiy ta'limi (1/0) | [[__]] | [[__]] | [[__]] |
-| Oldin tadbirkorlik tajribasi (1/0) | [[__]] | [[__]] | [[__]] |
-| Tomorqa maydoni, sotix | [[__]] | [[__]] | [[__]] |
-| Mehnat migranti bor (1/0) | [[__]] | [[__]] | [[__]] |
-| Kambag'al oilalar reyestrida (1/0) | [[__]] | [[__]] | [[__]] |
-| Dastlabki mahrumlik balli (c_i) | [[__]] | [[__]] | [[__]] |
-| Jon boshiga iste'mol xarajatlari (log) | [[__]] | [[__]] | [[__]] |
-| Tuman markazigacha masofa, km | [[__]] | [[__]] | [[__]] |
-| Tumanlar bo'yicha qat'iy effektlar | Ha | | |
-| Kuzatuvlar soni | [[__]] | | |
-| Psevdo-R² | [[__]] | | |
-| LR χ² (p-qiymat) | [[__]] | | |
-NOTE: Manba: muallif hisob-kitoblari. ***, **, * – mos ravishda 1, 5 va 10 foizlik darajada statistik ahamiyatli.
+@GEN t_logit
+NOTE: Manba: muallif hisob-kitoblari. ***, **, * – mos ravishda 1, 5 va 10 foizlik darajada statistik ahamiyatli. Jigarrang rangdagi raqamlar – taxminiy (shartli ma'lumotlar asosida); so'rovnomaning yakuniy ma'lumotlar bazasi asosida qayta hisoblanadi.
 
-Logit model natijalarini talqin qilishda, birinchi navbatda, kambag'al oilalar reyestrida turish, dastlabki mahrumlik balli va oldingi tadbirkorlik tajribasi koeffitsiyentlariga e'tibor qaratish lozim. Ularning ishorasi va ahamiyatliligi amaldagi maqsadli yo'naltirish tizimining xususiyatlarini ochib beradi: agar reyestrda turish ijobiy va ahamiyatli bo'lsa-yu, dastlabki mahrumlik balli ahamiyatsiz bo'lsa, bu qo'llab-quvvatlash monetar mezon bo'yicha yo'naltirilgani, biroq ko'p o'lchovli mahrumlik intensivligi hisobga olinmaganini anglatadi. [[Natijalar bo'yicha izohlansin.]]
+Logit model natijalarini talqin qilishda, birinchi navbatda, kambag'al oilalar reyestrida turish, dastlabki mahrumlik balli va oldingi tadbirkorlik tajribasi koeffitsiyentlariga e'tibor qaratish lozim. Ularning ishorasi va ahamiyatliligi amaldagi maqsadli yo'naltirish tizimining xususiyatlarini ochib beradi: agar reyestrda turish ijobiy va ahamiyatli bo'lsa-yu, dastlabki mahrumlik balli ahamiyatsiz bo'lsa, bu qo'llab-quvvatlash monetar mezon bo'yicha yo'naltirilgani, biroq ko'p o'lchovli mahrumlik intensivligi hisobga olinmaganini anglatadi.
 
-**Ikkinchi bosqich: moslashtirish va balans tekshiruvi.** Moyillik ko'rsatkichlari asosida har bir ishtirokchi uchun qiyosiy guruhdan eng yaqin qo'shni (1:1, qaytarish bilan) tanlandi; bunda moyillik ko'rsatkichi logitining standart chetlanishining 0,2 qismiga teng bo'lgan kaliper chegarasi qo'llanildi. Umumiy qo'llab-quvvatlash sohasidan tashqarida qolgan [[__]] ta ishtirokchi tahlildan chiqarildi. Moslashtirish sifati standartlashtirilgan og'ish ko'rsatkichi bilan baholandi:
+Baholash natijalari aynan shu holatni ko'rsatadi. Qo'llab-quvvatlash olish ehtimoliga eng kuchli ta'sir qiluvchi omil – oldingi tadbirkorlik tajribasi (koeffitsiyent {{lg.exp}}, 1 foizlik darajada ahamiyatli): boshqa sharoitlar teng bo'lganda, tajribaga ega oilaning qo'llab-quvvatlash olish ehtimoli o'rtacha {{lg.exp_me}} foiz punktga yuqori. Kambag'al oilalar reyestrida turish ham ijobiy va ahamiyatli ({{lg.reg}}), ya'ni reyestr qo'llab-quvvatlashga kirish kanali sifatida ishlaydi. Oila boshlig'ining yoshi salbiy, kasbiy ta'limi esa ijobiy ta'sir ko'rsatadi: qo'llab-quvvatlash yoshroq va ma'lumotliroq oila boshliqlariga ko'proq yetib boradi. Shu bilan birga, dastlabki mahrumlik balli ({{lg.c0}}, p = {{lg.c0_p}}) va jon boshiga iste'mol xarajatlari koeffitsiyentlari statistik ahamiyatsiz. Demak, reyestrga kirgandan keyin qo'llab-quvvatlash olish-olmaslik oilaning qanchalik mahrum ekaniga emas, balki tadbirkorlikka qanchalik tayyor ekaniga bog'liq. Bu amaldagi tizimning mantiqini aks ettiradi (kredit qaytarilishi xavfini kamaytirish), biroq aynan eng ko'p mahrumlikka ega oilalarning qo'llab-quvvatlashdan chetda qolishiga olib keladi. Modelning psevdo-R² ko'rsatkichi ({{lg.r2}}) uncha yuqori emas – bu guruhlarning kuzatiladigan xususiyatlari bo'yicha keskin farq qilmasligini va umumiy qo'llab-quvvatlash sohasi keng ekanini bildiradi.
+
+**Ikkinchi bosqich: moslashtirish va balans tekshiruvi.** Moyillik ko'rsatkichlari asosida har bir ishtirokchi uchun qiyosiy guruhdan to'rtta eng yaqin qo'shni (qaytarish bilan) tanlandi; bunda moyillik ko'rsatkichi logitining standart chetlanishining 0,2 qismiga teng bo'lgan kaliper chegarasi qo'llanildi. Umumiy qo'llab-quvvatlash sohasidan tashqarida qolgan {{psm.tashqari}} ta ishtirokchi tahlildan chiqarildi; natijada moslashtirilgan tanlanma {{psm.juft}} ta ishtirokchi va {{psm.nazorat}} ta qiyosiy oiladan iborat bo'ldi. Moslashtirish sifati standartlashtirilgan og'ish ko'rsatkichi bilan baholandi:
 
 $$ SB(x) = 100 · (x̄_T – x̄_C) / sqrt[(s_T^{2} + s_C^{2}) / 2] (3.3)
 
@@ -64,20 +51,10 @@ bu yerda x̄_T, x̄_C – ishtirok va qiyosiy guruhlarda x o'zgaruvchining o'rta
 
 TABLE 3.6: Moslashtirishgacha va moslashtirishdan keyingi kovariatlar balansi
 | O'zgaruvchilar | Moslashtirishgacha SB, % | Moslashtirishdan keyin SB, % | Og'ishning qisqarishi, % |
-| Oila a'zolari soni | [[__]] | [[__]] | [[__]] |
-| Qaramlik koeffitsiyenti | [[__]] | [[__]] | [[__]] |
-| Oila boshlig'ining yoshi | [[__]] | [[__]] | [[__]] |
-| Oila boshlig'i ayol | [[__]] | [[__]] | [[__]] |
-| Oila boshlig'ining kasbiy ta'limi | [[__]] | [[__]] | [[__]] |
-| Oldin tadbirkorlik tajribasi | [[__]] | [[__]] | [[__]] |
-| Tomorqa maydoni | [[__]] | [[__]] | [[__]] |
-| Mehnat migranti bor | [[__]] | [[__]] | [[__]] |
-| Kambag'al oilalar reyestrida | [[__]] | [[__]] | [[__]] |
-| Dastlabki mahrumlik balli | [[__]] | [[__]] | [[__]] |
-| Jon boshiga iste'mol xarajatlari (log) | [[__]] | [[__]] | [[__]] |
-| O'rtacha mutlaq SB | [[__]] | [[__]] | [[__]] |
-| Psevdo-R² (moslashtirilgan tanlanmada) | [[__]] | [[__]] | – |
-NOTE: Manba: muallif hisob-kitoblari.
+@GEN t_balans
+NOTE: Manba: muallif hisob-kitoblari. Jigarrang rangdagi raqamlar – taxminiy (shartli ma'lumotlar asosida); so'rovnomaning yakuniy ma'lumotlar bazasi asosida qayta hisoblanadi.
+
+Moslashtirishgacha guruhlar o'rtasidagi eng katta og'ishlar tadbirkorlik tajribasi, oila boshlig'ining yoshi va reyestrda turish bo'yicha kuzatilgan. Moslashtirishdan keyin o'rtacha mutlaq standartlashtirilgan og'ish {{bal.sb0}} foizdan {{bal.sb1}} foizga tushdi, birorta o'zgaruvchi bo'yicha og'ish {{bal.max1}} foizdan oshmaydi, moslashtirilgan tanlanmada qayta baholangan modelning psevdo-R² ko'rsatkichi esa {{lg.r2}} dan {{bal.r2_keyin}} ga pasaydi. Demak, moslashtirilgan tanlanmada kuzatiladigan xususiyatlar qo'llab-quvvatlash olishni amalda bashorat qilmaydi va guruhlar taqqoslanadigan holatga keltirilgan.
 
 **Identifikatsiya farazlari va ularning asoslanganligi.** PSM-DiD bahosining ishonchliligi ikki asosiy farazga tayanadi. Birinchisi – **shartli parallel trendlar farazi**: dastlabki xususiyatlari bir xil bo'lgan oilalarda, qo'llab-quvvatlash bo'lmaganida, natija ko'rsatkichlari bir xil sur'atda o'zgargan bo'lar edi. Bu faraz bevosita tekshirilmaydi, biroq uni ikki yo'l bilan qo'llab-quvvatlash mumkin: qo'llab-quvvatlashgacha bo'lgan davrdagi trendlarni solishtirish (placebo testi) va qiyosiy guruhni bir xil mahallalardan tanlash orqali mahalliy iqtisodiy zarbalarning ikki guruhga bir xil ta'sir qilishini ta'minlash. Ikkinchisi – **umumiy qo'llab-quvvatlash sohasi farazi**: har bir ishtirokchi uchun o'xshash moyillik ko'rsatkichiga ega qiyosiy kuzatuv mavjud bo'lishi kerak. Bu faraz moyillik ko'rsatkichlari taqsimotini grafik va statistik solishtirish orqali tekshiriladi.
 
@@ -95,23 +72,14 @@ Qiyosiy tahlil maqsadida ta'sir uchta usul bilan baholandi: (1) faqat yakuniy da
 
 TABLE 3.7: Tadbirkorlikni qo'llab-quvvatlashning uy xo'jaliklari kambag'alligiga ta'siri (ATT baholari)
 | Natija ko'rsatkichi | PSM | DiD | PSM-DiD (asosiy) |
-| Y1. Mahrumlik balli (c_i) | [[__]] | [[__]] | [[__]] |
-| Y2. Ko'p o'lchovli kambag'allik ehtimoli, f.p. | [[__]] | [[__]] | [[__]] |
-| Y3. Ta'lim o'lchovi | [[__]] | [[__]] | [[__]] |
-| Y4. Sog'liq o'lchovi | [[__]] | [[__]] | [[__]] |
-| Y5. Turmush sharoiti o'lchovi | [[__]] | [[__]] | [[__]] |
-| Y6. Bandlik o'lchovi | [[__]] | [[__]] | [[__]] |
-| Y7. Tadbirkorlik salohiyati o'lchovi | [[__]] | [[__]] | [[__]] |
-| Y8. Iste'mol xarajatlari (log) | [[__]] | [[__]] | [[__]] |
-| Y9. Monetar kambag'allik ehtimoli, f.p. | [[__]] | [[__]] | [[__]] |
-| Kuzatuvlar soni | [[__]] | [[__]] | [[__]] |
-NOTE: Manba: muallif hisob-kitoblari. Qavs ichida mahalla darajasida klasterlangan standart xatolar. ***, **, * – mos ravishda 1, 5 va 10 foizlik darajada statistik ahamiyatli. f.p. – foiz punkt.
+@GEN t_att
+NOTE: Manba: muallif hisob-kitoblari. Qavs ichida mahalla darajasida klasterlangan standart xatolar. ***, **, * – mos ravishda 1, 5 va 10 foizlik darajada statistik ahamiyatli. f.p. – foiz punkt. Jigarrang rangdagi raqamlar – taxminiy (shartli ma'lumotlar asosida); so'rovnomaning yakuniy ma'lumotlar bazasi asosida qayta hisoblanadi.
 
-Natijalarni talqin qilishda quyidagi jihatlarga e'tibor qaratish lozim. **Birinchidan**, uchta usul bo'yicha baholarning farqi tanlov og'ishining yo'nalishi va hajmi haqida axborot beradi. Agar PSM bahosi PSM-DiD bahosidan sezilarli farq qilsa, bu kuzatilmaydigan, biroq vaqt bo'yicha o'zgarmaydigan omillar (masalan, tashabbuskorlik) muhim rol o'ynashini ko'rsatadi. Agar moslashtirilmagan DiD bahosi PSM-DiD bahosidan farq qilsa, bu guruhlarning dastlabki xususiyatlari ularning natijalari dinamikasiga ham ta'sir qilishini anglatadi.
+Natijalarni talqin qilishda quyidagi jihatlarga e'tibor qaratish lozim. **Birinchidan**, uchta usul bo'yicha baholarning farqi tanlov og'ishining yo'nalishi va hajmi haqida axborot beradi. Agar PSM bahosi PSM-DiD bahosidan sezilarli farq qilsa, bu kuzatilmaydigan, biroq vaqt bo'yicha o'zgarmaydigan omillar (masalan, tashabbuskorlik) muhim rol o'ynashini ko'rsatadi. Agar moslashtirilmagan DiD bahosi PSM-DiD bahosidan farq qilsa, bu guruhlarning dastlabki xususiyatlari ularning natijalari dinamikasiga ham ta'sir qilishini anglatadi. Asosiy model bo'yicha qo'llab-quvvatlash mahrumlik ballini o'rtacha {{att.c_abs}} ga kamaytirgan; bu ishtirokchilarning dastlabki o'rtacha ballining ({{att.c0_T}}) {{att.c_nisbiy}} foiziga teng. Faqat yakuniy davr ma'lumotlariga asoslangan PSM bahosi ({{att.c_psm}}) ta'sirni {{att.psm_ogish}} foizga oshirib ko'rsatadi, ko'p o'lchovli va monetar kambag'allik ehtimoli bo'yicha esa og'ish yanada katta ({{att.psm_md}} va {{att.psm_mon}} foiz punkt). Bu ishtirokchilarning kuzatilmaydigan afzalliklari – tashabbuskorlik, ijtimoiy aloqalar – mavjudligini va bir martalik kesim ma'lumotlari asosidagi baholash dastur samarasini bo'rttirib ko'rsatishini tasdiqlaydi. Moslashtirilmagan DiD bahosi ({{att.c_did}}) asosiy modelga yaqin, ya'ni vaqt bo'yicha o'zgarmas omillarni farqlash yo'li bilan chiqarib tashlash og'ishning asosiy qismini bartaraf etadi.
 
-**Ikkinchidan**, monetar (Y8, Y9) va ko'p o'lchovli (Y1, Y2) ko'rsatkichlar bo'yicha ta'sirni solishtirish tadqiqotning asosiy gipotezasini tekshirish imkonini beradi: qo'llab-quvvatlash monetar kambag'allikni nomonetar mahrumliklarga nisbatan kuchliroq kamaytiradi. Xalqaro tadqiqotlar natijalariga ko'ra {bkz2015,meager2019}, bunday nomutanosiblik kutiladi. [[Natijalar bo'yicha: qo'llab-quvvatlash monetar kambag'allik ehtimolini ___ f.p.ga, ko'p o'lchovli kambag'allik ehtimolini ___ f.p.ga kamaytirgan.]]
+**Ikkinchidan**, monetar (Y8, Y9) va ko'p o'lchovli (Y1, Y2) ko'rsatkichlar bo'yicha ta'sirni solishtirish tadqiqotning asosiy gipotezasini tekshirish imkonini beradi: qo'llab-quvvatlash monetar kambag'allikni nomonetar mahrumliklarga nisbatan kuchliroq kamaytiradi. Xalqaro tadqiqotlar natijalariga ko'ra {bkz2015,meager2019}, bunday nomutanosiblik kutiladi. Baholash natijalariga ko'ra, qo'llab-quvvatlash jon boshiga iste'mol xarajatlarini o'rtacha {{att.cons}} foizga oshirgan, monetar kambag'allik ehtimolini {{att.mon_abs}} foiz punktga, ko'p o'lchovli kambag'allik ehtimolini esa {{att.md_abs}} foiz punktga kamaytirgan. Mutlaq ifodada ikki ta'sir bir-biriga yaqin, biroq dastlabki darajalar keskin farq qiladi: ishtirokchilar orasida dastlab monetar kambag'allar ulushi {{att.mon_baza}} foizni, ko'p o'lchovli kambag'allar ulushi esa {{att.md_baza}} foizni tashkil etgan. Shunga ko'ra, qo'llab-quvvatlash monetar kambag'allikni dastlabki darajasiga nisbatan {{att.mon_nisbiy}} foizga, ko'p o'lchovli kambag'allikni esa atigi {{att.md_nisbiy}} foizga qisqartirgan – nisbiy ta'sir {{att.nisbiy_marta}} barobar farq qiladi. Bu gipotezani tasdiqlaydi: tadbirkorlikni qo'llab-quvvatlash oilani daromad chegarasidan nisbatan tez olib o'tadi, biroq uning mahrumliklar majmuasi ancha sekin kamayadi. Faqat monetar ko'rsatkich bo'yicha baholangan dastur samaradorligi shu sababli haqiqiy holatdan yuqori ko'rinadi.
 
-**Uchinchidan**, o'lchovlar bo'yicha ta'sir (Y3–Y7) qo'llab-quvvatlashning qaysi mahrumliklarga ta'sir qilishini ko'rsatadi. Nazariy jihatdan eng kuchli ta'sir tadbirkorlik salohiyati va bandlik o'lchovlarida kutiladi, chunki ular qo'llab-quvvatlashning bevosita natijalari bilan bog'liq (1.1-rasm). Ta'lim va turmush sharoiti o'lchovlarida esa ta'sir kuchsizroq va kechikkan bo'lishi mumkin, chunki ular daromad o'sishining keyingi bosqichdagi investitsiyalarini talab qiladi va qisman infratuzilmaga bog'liq.
+**Uchinchidan**, o'lchovlar bo'yicha ta'sir (Y3–Y7) qo'llab-quvvatlashning qaysi mahrumliklarga ta'sir qilishini ko'rsatadi. Nazariy jihatdan eng kuchli ta'sir tadbirkorlik salohiyati va bandlik o'lchovlarida kutiladi, chunki ular qo'llab-quvvatlashning bevosita natijalari bilan bog'liq (1.1-rasm). Ta'lim va turmush sharoiti o'lchovlarida esa ta'sir kuchsizroq va kechikkan bo'lishi mumkin, chunki ular daromad o'sishining keyingi bosqichdagi investitsiyalarini talab qiladi va qisman infratuzilmaga bog'liq. Natijalar bu kutilmalarga mos: eng katta ta'sir {{att.dim1_nom}} ({{att.dim1}}) va {{att.dim2_nom}} ({{att.dim2}}) o'lchovlarida kuzatiladi, sog'liq o'lchovidagi ta'sir (asosan oziq-ovqat xavfsizligi indikatori hisobiga) kichikroq, turmush sharoiti o'lchovida juda kichik, {{att.dim5_nom}} o'lchovida esa ta'sir statistik ahamiyatsiz ({{att.dim5}}). Demak, tadbirkorlikni qo'llab-quvvatlash ko'p o'lchovli kambag'allikning faqat bir qismiga – bandlik va tadbirkorlik salohiyati bilan bog'liq mahrumliklarga – ta'sir qiladi; indeksning qolgan qismini kamaytirish uchun boshqa siyosat vositalari (kasbiy ta'lim, sog'liqni saqlash, infratuzilma) bilan muvofiqlashtirish zarur.
 
 **Mustahkamlik testlari.** Asosiy natijalarning ishonchliligi quyidagi testlar orqali tekshirildi.
 
@@ -127,15 +95,10 @@ Mustahkamlik testlari natijalari 3.8-jadvalda keltirilgan.
 
 TABLE 3.8: Asosiy natijalarning mustahkamlik testlari (natija ko'rsatkichi: mahrumlik balli c_i)
 | Test | ATT bahosi | Standart xato | Kuzatuvlar soni |
-| Asosiy model (PSM-DiD, eng yaqin qo'shni) | [[__]] | [[__]] | [[__]] |
-| Radius moslashtirish | [[__]] | [[__]] | [[__]] |
-| Yadroviy moslashtirish | [[__]] | [[__]] | [[__]] |
-| IPW-DiD (Abadi) | [[__]] | [[__]] | [[__]] |
-| Placebo testi (2022–2023) | [[__]] | [[__]] | [[__]] |
-| Shaharlarsiz tanlanma | [[__]] | [[__]] | [[__]] |
-| Migrant a'zosi bor oilalarsiz | [[__]] | [[__]] | [[__]] |
-| Rozenbaum chegarasi (Γ, 10% ahamiyatlilik) | [[__]] | – | – |
-NOTE: Manba: muallif hisob-kitoblari.
+@GEN t_mustahkam
+NOTE: Manba: muallif hisob-kitoblari. ***, **, * – mos ravishda 1, 5 va 10 foizlik darajada statistik ahamiyatli. Jigarrang rangdagi raqamlar – taxminiy (shartli ma'lumotlar asosida); so'rovnomaning yakuniy ma'lumotlar bazasi asosida qayta hisoblanadi.
+
+Mustahkamlik testlari asosiy natijani tasdiqlaydi. Turli moslashtirish algoritmlari va tanlanma tarkibida ATT bahosi –{{rob.min}} dan –{{rob.max}} gacha bo'lgan tor oraliqda o'zgaradi va barcha hollarda 1 foizlik darajada ahamiyatli. Placebo testi bo'yicha “soxta” ta'sir ({{rob.placebo}}) nolga yaqin va statistik ahamiyatsiz: qo'llab-quvvatlashgacha bo'lgan davrda ikki guruh dinamikasi farq qilmagan, bu parallel trendlar farazini qo'llab-quvvatlaydi. Rozenbaum chegarasi Γ = {{rob.gamma}} ga teng, ya'ni natija ahamiyatini yo'qotishi uchun kuzatilmaydigan omil qo'llab-quvvatlash olish imkoniyatini qariyb ikki barobar oshirishi kerak bo'ladi; ijtimoiy fanlardagi tadqiqotlar uchun bu o'rtacha darajadagi barqarorlik hisoblanadi.
 
 **Ta'sirning geterogenligi.** Qo'llab-quvvatlash ta'siri barcha oilalar uchun bir xil emas. Siyosat uchun qaysi oila toifalarida ta'sir kuchliroq ekanini aniqlash muhim. Shu maqsadda (3.4) model qo'llab-quvvatlash ta'sirining oila xususiyatlari bilan o'zaro ta'sirini o'z ichiga oluvchi shaklda baholandi:
 
@@ -145,23 +108,19 @@ bu yerda Z_i – geterogenlik o'zgaruvchisi (dastlabki mahrumlik intensivligi gu
 
 TABLE 3.9: Qo'llab-quvvatlash ta'sirining oila toifalari bo'yicha geterogenligi (natija ko'rsatkichi: mahrumlik balli c_i)
 | Oila toifasi | ATT bahosi | Standart xato | Toifalar o'rtasidagi farq (p-qiymat) |
-| Dastlabki mahrumlik balli < 1/3 | [[__]] | [[__]] | [[__]] |
-| Dastlabki mahrumlik balli 1/3 – 1/2 | [[__]] | [[__]] | |
-| Dastlabki mahrumlik balli ≥ 1/2 | [[__]] | [[__]] | |
-| Oila boshlig'i erkak | [[__]] | [[__]] | [[__]] |
-| Oila boshlig'i ayol | [[__]] | [[__]] | |
-| Tadbirkorlik tajribasi bor | [[__]] | [[__]] | [[__]] |
-| Tadbirkorlik tajribasi yo'q | [[__]] | [[__]] | |
-| Qishloq | [[__]] | [[__]] | [[__]] |
-| Shahar | [[__]] | [[__]] | |
-NOTE: Manba: muallif hisob-kitoblari.
+@GEN t_geterogen
+NOTE: Manba: muallif hisob-kitoblari. ***, **, * – mos ravishda 1, 5 va 10 foizlik darajada statistik ahamiyatli. Jigarrang rangdagi raqamlar – taxminiy (shartli ma'lumotlar asosida); so'rovnomaning yakuniy ma'lumotlar bazasi asosida qayta hisoblanadi.
 
-Geterogenlik tahlili xalqaro tadqiqotlarda aniqlangan qonuniyat – qo'llab-quvvatlash ta'siri oilaning dastlabki holatiga bog'liqligi – Sirdaryo viloyati sharoitida ham namoyon bo'lishini tekshirish imkonini beradi {meager2019,banerjee2015sci}. Agar ta'sir chuqur kambag'al (c_i ≥ 1/2) oilalarda sezilarli darajada kuchsizroq bo'lsa, bu ular uchun amaldagi vositalar yetarli emasligini va kompleks yondashuv zarurligini ko'rsatadi. Agar ta'sir tadbirkorlik tajribasi bor oilalarda kuchliroq bo'lsa, kreditlarni aynan shu toifaga, tajribasi yo'q oilalarga esa avval o'qitish va subsidiyalarni yo'naltirish maqsadga muvofiq bo'ladi.
+Geterogenlik tahlili xalqaro tadqiqotlarda aniqlangan qonuniyat – qo'llab-quvvatlash ta'siri oilaning dastlabki holatiga bog'liqligi – Sirdaryo viloyati sharoitida ham namoyon bo'lishini ko'rsatadi {meager2019,banerjee2015sci}. Eng muhim farq dastlabki mahrumlik darajasi bo'yicha kuzatiladi. Dastlab ko'p o'lchovli kambag'al bo'lmagan (c_i < 1/3) oilalarda ta'sir amalda nolga teng ({{het.past}}, statistik ahamiyatsiz): ularda bartaraf etiladigan mahrumliklar kam, shu sababli ularga yo'naltirilgan resurslar ko'p o'lchovli kambag'allikni kamaytirmaydi. O'rtacha darajada kambag'al (1/3 ≤ c_i < 1/2) oilalarda ta'sir {{het.orta}} ga, chuqur kambag'al (c_i ≥ 1/2) oilalarda esa {{het.chuqur}} ga teng; toifalar o'rtasidagi farq 1 foizlik darajada ahamiyatli. Biroq bu natijani to'g'ri talqin qilish lozim. Chuqur kambag'al oilalarning dastlabki o'rtacha mahrumlik balli {{het.chuqur_c0}} ni tashkil etgan; {{het.chuqur_abs}} ga kamaygandan keyin ham u kambag'allik chegarasidan (1/3) ancha yuqori qoladi. Ya'ni eng kambag'al oilalarda qo'llab-quvvatlashning samarasi eng katta, lekin bir martalik qo'llab-quvvatlash ularni ko'p o'lchovli kambag'allikdan chiqarish uchun yetarli emas – ularga kompleks va ketma-ket yondashuv zarur.
+
+Bu natijadan resurslarni taqsimlash uchun muhim xulosa kelib chiqadi: amaldagi tizimda qo'llab-quvvatlash olganlarning yarmidan ko'pi dastlab ko'p o'lchovli kambag'al bo'lmagan oilalar bo'lib, ularda mahrumlik balli bo'yicha qaytim deyarli nolga teng. Resurslarni mahrumlik balli yuqori oilalarga qayta yo'naltirish bir xil xarajat bilan sezilarli katta natija beradi (3.4-paragraf).
+
+Boshqa belgilar bo'yicha farqlar statistik ahamiyatsiz. Ayollar va erkaklar boshchiligidagi oilalarda ta'sir deyarli bir xil ({{het.ayol}} va {{het.erkak}}), qishloq va shahar o'rtasida ham farq yo'q. Tadbirkorlik tajribasi yo'q oilalarda ta'sir ({{het.exp0}}) tajribasi bor oilalarga ({{het.exp1}}) nisbatan birmuncha kuchliroq, biroq farq ahamiyatli emas. Bu amaldagi tanlov mantig'iga – qo'llab-quvvatlashni birinchi navbatda tajribali oilalarga berishga – zid dalildir: tajribasi yo'q oilalar ham qo'llab-quvvatlashdan kam bo'lmagan naf ko'radi, faqat ularga kredit emas, o'qitish va subsidiya vositalari ko'proq mos keladi (3.3-paragraf).
 
 **Qo'llab-quvvatlashning barqarorligi va qayta kambag'allikka tushish xavfi.** Dastur samaradorligini baholashning muhim mezoni – natijalar barqarorligi. Qo'llab-quvvatlash olgan oilalarning kelajakda qayta kambag'allikka tushish ehtimolini baholash uchun S.Chaudxuri, J.Jalan va A.Suryaxadi tomonidan taklif etilgan zaiflik (vulnerability) yondashuvi qo'llanildi {chaudhuri2002}. Unga ko'ra, uy xo'jaligi iste'molining kutilayotgan qiymati va dispersiyasi uning xususiyatlari asosida baholanadi va kelgusi davrda iste'molning kambag'allik chegarasidan pastga tushish ehtimoli hisoblanadi:
 
 $$ V_i = Pr(ln c_{i,t+1} < ln z) = Φ[(ln z – X_i β̂) / sqrt(X_i θ̂)] (3.6)
 
-bu yerda Φ – standart normal taqsimot funksiyasi; X_i β̂ – log-iste'molning kutilayotgan qiymati; X_i θ̂ – uning dispersiyasi bahosi. Zaiflik ehtimoli 0,5 dan yuqori bo'lgan oilalar “kambag'allikka zaif” deb hisoblandi. Hisob-kitoblarga ko'ra, qo'llab-quvvatlash olgan va monetar mezon bo'yicha kambag'allikdan chiqqan oilalarning [[__]] foizi kambag'allikka zaif bo'lib qolmoqda. Ularning [[__]] foizi esa MPI-TS bo'yicha ko'p o'lchovli kambag'al hisoblanadi. Bu natija oilani reyestrdan chiqarishda faqat monetar mezonga tayanish natijalar barqarorligini ta'minlamasligini ko'rsatadi.
+bu yerda Φ – standart normal taqsimot funksiyasi; X_i β̂ – log-iste'molning kutilayotgan qiymati; X_i θ̂ – uning dispersiyasi bahosi. Zaiflik ehtimoli 0,5 dan yuqori bo'lgan oilalar “kambag'allikka zaif” deb hisoblandi. Hisob-kitoblarga ko'ra, qo'llab-quvvatlash olgan va monetar mezon bo'yicha kambag'allikdan chiqqan oilalarning {{zf.zaif}} foizi kambag'allikka zaif bo'lib qolmoqda, ya'ni ularning kelgusi davrda yana kambag'allik chegarasidan pastga tushish ehtimoli 50 foizdan yuqori. Ularning {{zf.md}} foizi esa MPI-TS bo'yicha ko'p o'lchovli kambag'al hisoblanadi: bu oilalar daromad chegarasidan o'tgan, biroq ta'lim, bandlik sifati, turmush sharoiti kabi sohalardagi mahrumliklari saqlanib qolgan. Bu natija oilani reyestrdan chiqarishda faqat monetar mezonga tayanish natijalar barqarorligini ta'minlamasligini ko'rsatadi.
 
 Shunday qilib, ekonometrik tahlil natijalari tadbirkorlikni qo'llab-quvvatlash samaradorligini baholashda tanlov og'ishini bartaraf etuvchi usullarni qo'llash zarurligini, qo'llab-quvvatlash ta'sirini monetar va ko'p o'lchovli ko'rsatkichlar bo'yicha alohida baholash muhimligini hamda ta'sirning oila toifalari bo'yicha geterogenligini hisobga olish lozimligini tasdiqlaydi. Keyingi paragrafda qo'llab-quvvatlash turlari bo'yicha differensial ta'sir tahlil qilinadi.

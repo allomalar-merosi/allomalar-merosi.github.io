@@ -107,6 +107,18 @@ yunus1999 | Yunus M. Banker to the Poor: Micro-Lending and the Battle Against Wo
 @III. Internet saytlari
 stat_uz | O'zbekiston Respublikasi Prezidenti huzuridagi Statistika agentligi rasmiy sayti. – https://stat.uz
 sirstat | Sirdaryo viloyati statistika boshqarmasi rasmiy sayti. – https://sirstat.uz
+stat_kamb | O'zbekiston Respublikasi Milliy statistika qo'mitasi (Statistika agentligi). Kambag'allik darajasi (hududlar kesimida, 2021–2025-yillar): ochiq ma'lumotlar. – https://siat.stat.uz (ma'lumotlar to'plami: sdmx_data_3495; murojaat sanasi: 11.11.2026).
+stat_kb | Statistika agentligi. Kichik biznes va tadbirkorlik: rasmiy statistika. – https://stat.uz/uz/rasmiy-statistika/small-business-and-entrepreneurship-2 (murojaat sanasi: 11.11.2026).
+sirstat_kb | Sirdaryo viloyati statistika boshqarmasi. Kichik biznes va tadbirkorlik: rasmiy statistika. – https://www.sirstat.uz/uz/rasmiy-statistika/small-business-and-entrepreneurship-2 (murojaat sanasi: 11.11.2026).
+sirstat_makro | Sirdaryo viloyati statistika boshqarmasi. Sirdaryo viloyatining asosiy makroiqtisodiy ko'rsatkichlari; qishloq xo'jaligi: rasmiy statistika. – https://www.sirstat.uz/uz/rasmiy-statistika (murojaat sanasi: 11.11.2026).
+stat_aholi | Statistika agentligi. Demografiya: doimiy aholi soni (hududlar, tuman va shaharlar kesimida): ochiq ma'lumotlar. – https://siat.stat.uz (ma'lumotlar to'plamlari: 246, 247; murojaat sanasi: 11.11.2026).
+stat_yahm | Statistika agentligi. Milliy hisoblar: yalpi ichki mahsulot va yalpi hududiy mahsulot: ochiq ma'lumotlar. – https://siat.stat.uz (ma'lumotlar to'plamlari: 582, 660, 1840, 3848; murojaat sanasi: 11.11.2026).
+stat_daromad | Statistika agentligi. Turmush darajasi: aholining umumiy daromadlari, ularning tarkibi va tabaqalanishi: ochiq ma'lumotlar. – https://siat.stat.uz (ma'lumotlar to'plamlari: 329, 372, 434, 624, 776; murojaat sanasi: 11.11.2026).
+stat_mehnat | Statistika agentligi. Mehnat bozori: iqtisodiy faol aholi, bandlik, ishsizlar soni va o'rtacha oylik ish haqi (hududlar va tumanlar kesimida): ochiq ma'lumotlar. – https://siat.stat.uz (ma'lumotlar to'plamlari: 500, 554, 567, 1311, 1313; murojaat sanasi: 11.11.2026).
+stat_narx | Statistika agentligi. Narxlar va indekslar: iste'mol narxlari indeksi: ochiq ma'lumotlar. – https://siat.stat.uz (ma'lumotlar to'plamlari: 1290, 1292; murojaat sanasi: 11.11.2026).
+stat_qx | Statistika agentligi. Qishloq xo'jaligi: mahsulot hajmi va xo'jalik toifalari bo'yicha tarkibi: ochiq ma'lumotlar. – https://siat.stat.uz (ma'lumotlar to'plamlari: 1482; murojaat sanasi: 11.11.2026).
+stat_brm | Statistika agentligi. Barqaror rivojlanish maqsadlari milliy ko'rsatkichlari. – https://siat.stat.uz (ma'lumotlar to'plami: 3097; murojaat sanasi: 11.11.2026).
+mix | Statistika agentligi. Minimal iste'mol xarajatlari qiymati to'g'risidagi axborotlar (2022–2026-yillar). – https://stat.uz (murojaat sanasi: 11.11.2026).
 mehnat | O'zbekiston Respublikasi Kambag'allikni qisqartirish va bandlik vazirligi rasmiy sayti. – https://mehnat.uz
 lex | O'zbekiston Respublikasi Qonun hujjatlari ma'lumotlari milliy bazasi. – https://lex.uz
 ophi | Oxford Poverty and Human Development Initiative (OPHI) rasmiy sayti. – https://ophi.org.uk

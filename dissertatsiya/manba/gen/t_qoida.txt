@@ -1,0 +1,6 @@
+| Qo'llab-quvvatlash olgan oilalar orasida ko'p o'lchovli kambag'allar ulushi, % | <<40,8>> | <<40,8>> | <<61,5>> |
+| Qamrab olingan oilalar soni | <<400>> | <<400>> | <<543>> |
+| Sarflangan resurslar, mln so'm | <<2 665>> | <<1 889>> | <<2 453>> |
+| Oluvchilar mahrumlik ballining kutilayotgan jami kamayishi (amaldagi = 100) | 100,0 | <<104,3>> | <<186,0>> |
+| Bir oilaga to'g'ri keladigan o'rtacha kamayish (c_i) | <<0,013>> | <<0,014>> | <<0,018>> |
+| 1 mln so'mga to'g'ri keladigan mahrumlik balli kamayishi (×100) | <<0,20>> | <<0,29>> | <<0,40>> |
