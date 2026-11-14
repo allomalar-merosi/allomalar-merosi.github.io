@@ -4251,6 +4251,26 @@
 "v": "41,9",
 "est": false
 },
+"bt.kap_nas": {
+"v": "5,9",
+"est": false
+},
+"bt.kap_usd": {
+"v": "527",
+"est": false
+},
+"bt.pbv": {
+"v": "0,83",
+"est": false
+},
+"bt.kap_ifrs_usd": {
+"v": "505",
+"est": false
+},
+"bt.pbv_ifrs": {
+"v": "0,87",
+"est": false
+},
 "x.npl_tz_2019": {
 "v": "1,5",
 "est": true

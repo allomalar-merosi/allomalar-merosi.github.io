@@ -11,4 +11,4 @@
 | Kreditlarning aktivlardagi ulushi, % | 83,2 | 74,7 | 72,9 | 73,3 | 75,5 | 64,0 | 63,9 | 63,1 |
 | Kapitalning aktivlarga nisbati, % | 14,9 | 12,4 | 12,3 | 12,9 | 11,2 | 12,4 | 15,1 | 16,1 |
 | Kreditlar/depozitlar, % | 250 | 264 | 215 | 257 | 275 | 181 | 192 | 193 |
-| Bank tizimi aktivlaridagi ulushi, %** | 8,6 | 8,9 | 9,0 | 7,9 | 7,3 | 6,8 | 5,9 | 5,6*** |
+| Bank tizimi aktivlaridagi ulushi, %^{a} | 8,6 | 8,9 | 9,0 | 7,9 | 7,3 | 6,8 | 5,9 | 5,6^{b} |

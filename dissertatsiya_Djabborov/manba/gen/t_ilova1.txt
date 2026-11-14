@@ -1,0 +1,25 @@
+| Jami aktivlar, trln so'm | 2019–2025 | 23,8; 32,6; 40,2; 44,1; 44,6; 50,5; 54,9 | MHXS (audit qilingan) | Bankning konsolidatsiyalangan hisobotlari |
+| Mijozlarga kreditlar (sof), trln so'm | 2019–2025 | 19,8; 24,3; 29,3; 32,3; 33,6; 32,3; 35,1 | MHXS (audit qilingan) | Bankning konsolidatsiyalangan hisobotlari |
+| Mijozlar hisobvaraqlari, trln so'm | 2019–2025 | 7,9; 9,2; 13,6; 12,6; 12,2; 17,9; 18,3 | MHXS (audit qilingan) | Bankning konsolidatsiyalangan hisobotlari |
+| Jami kapital, trln so'm | 2019–2025 | 3,5; 4,0; 4,9; 5,7; 5,0; 6,3; 8,3 | MHXS (audit qilingan) | Bankning konsolidatsiyalangan hisobotlari |
+| Sof foyda (zarar), mlrd so'm | 2019–2025 | 339; 405; 887; 947; –1 616; 1 287; 2 047 | MHXS (audit qilingan) | Bankning konsolidatsiyalangan hisobotlari |
+| Sof foizli daromad, mlrd so'm | 2019–2025 | 1 035; 1 410; 2 122; 2 719; 3 372; 3 697; 3 424 | MHXS (audit qilingan) | Bankning konsolidatsiyalangan hisobotlari |
+| Zaxira xarajatlari, mlrd so'm | 2019–2025 | 275; 610; 591; 869; 4 275; 1 049; –257 | MHXS (audit qilingan) | Bankning konsolidatsiyalangan hisobotlari |
+| Operatsion xarajatlar, mlrd so'm | 2019–2025 | 619; 665; 894; 1 123; 1 434; 1 727; 1 929 | MHXS (audit qilingan) | Bankning konsolidatsiyalangan hisobotlari |
+| Yalpi kreditlar, trln so'm | 2019–2025 | 20,4; 25,5; 31,0; 34,7; 40,0; 39,6; 41,9 | MHXS (audit qilingan) | Hisobotlarning “Mijozlarga kreditlar” izohi |
+| 3-bosqich kreditlar, trln so'm | 2019–2025 | 0,72; 1,51; 2,23; 2,45; 7,48; 8,14; 8,27 | MHXS (audit qilingan) | Hisobotlarning “Mijozlarga kreditlar” izohi |
+| Kredit zararlari zaxirasi, trln so'm | 2019–2025 | 0,54; 1,20; 1,73; 2,43; 6,35; 7,27; 6,85 | MHXS (audit qilingan) | Hisobotlarning “Mijozlarga kreditlar” izohi |
+| Moliya vazirligidan qarzlar, trln so'm | 2019–2025 | 7,2; 8,1; 10,7; 13,0; 14,4; 15,3; 16,2 | MHXS (audit qilingan) | Hisobotlarning qarz mablag'lari izohi |
+| Regulyativ kapital yetarliligi, % | 2019–2025 | 25,6; 17,0; 14,4; 16,4; 17,6; 16,0; 19,8 | Markaziy bank me'yori | Hisobotlarning “Kapitalni boshqarish” izohi |
+| Aktivlar, kreditlar, depozitlar, kapital (banklar kesimida) | 01.01.2020–01.10.2026 | 35 ta bank bo'yicha panel | Milliy standartlar | Markaziy bank statistikasi |
+| Bozor ulushi (aktivlar), % | 2019–2025 | 8,6; 8,9; 9,0; 7,9; 7,3; 6,8; 5,9 | Milliy standartlar | Markaziy bank statistikasi asosida hisoblangan |
+| Muammoli kreditlar ulushi, % | 2020–2025 | 2,3; 3,3; 2,5; 4,7; 10,2; 3,5 | Milliy standartlar | Markaziy bank statistikasi |
+| Moliyaviy natija | 2024 | 240,2 mlrd so'm zarar | Milliy standartlar | UzDaily |
+| LCR; NSFR, % | 2025-yil oxiri | 225; 127 | Markaziy bank me'yori | Investor taqdimoti (2025) |
+| Aksiyalar paketi (OTP Bank) | 13.06.2023 | 73,71% | – | Bank, OTP Group |
+| Bitim narxi | 2023 | ≈324 mln dollar | – | bne IntelliNews (matbuot ma'lumoti) |
+| Qo'shimcha kapital (OTP Bank) | 2023-yil dekabr | 844,6 mlrd so'm (70 mln dollar) | MHXS (audit qilingan) | Bank hisoboti, Kun.uz |
+| Aksiyadorlar tarkibi | 30.06.2026 | OTP Bank 72,89%; Iqtisodiyot va moliya vazirligi 17,49%; IFC 8,69% | – | Investor taqdimoti (2026-yil I yarmi) |
+| Kredit reytinglari | 2026-yil sentabr | Fitch: BB (ijobiy); S&P: BB (barqaror) | – | Investor taqdimoti (2026-yil I yarmi) |
+| Sof foyda | 2026-yil I yarmi; 9 oy | 1 351 mlrd so'm; ≈1,8 trln so'm | MHXS | Oraliq hisobot; bank xabari |
+| Davlat mablag'larining majburiyatlardagi ulushi | 2019-yil oxiri | 57% (muallif hisobi: 58,0%) | – | Fitch; MHXS hisoboti |

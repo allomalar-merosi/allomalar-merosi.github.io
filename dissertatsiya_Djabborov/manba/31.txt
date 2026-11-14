@@ -13,7 +13,7 @@ Birinchidan, 2.3-paragrafda ko'rsatilganidek, milliy standartlar va MHXS bo'yich
 TABLE 3.1: “Ipoteka-bank”ning asosiy balans ko'rsatkichlari dinamikasi (MHXS), trln so'm
 | Ko'rsatkichlar | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 (30-iyun) |
 @GEN t_balans
-NOTE: Manba: “Ipoteka-bank” ATIBning MHXS bo'yicha konsolidatsiyalangan moliyaviy hisobotlari asosida muallif tomonidan tuzilgan va hisoblangan{ipoteka_ifrs}. 2022-yil – qayta hisoblangan ko'rsatkichlar. ** Markaziy bank ma'lumotlari (milliy standartlar) bo'yicha{cbu_stat}; *** 2026-yil 1-oktabr holatiga.
+NOTE: Manba: “Ipoteka-bank” ATIBning MHXS bo'yicha konsolidatsiyalangan moliyaviy hisobotlari asosida muallif tomonidan tuzilgan va hisoblangan{ipoteka_ifrs}. 2022-yil – qayta hisoblangan ko'rsatkichlar. ^{a} Markaziy bank ma'lumotlari (milliy standartlar) bo'yicha{cbu_stat}; ^{b} 2026-yil 1-oktabr holatiga.
 
 Jadval ma'lumotlari asosida quyidagi xulosalarni chiqarish mumkin.
 

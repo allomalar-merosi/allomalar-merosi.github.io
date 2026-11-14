@@ -259,7 +259,7 @@ rows = [
     ["Kreditlarning aktivlardagi ulushi, %"] + [f(M[y]["la"]) for y in YH],
     ["Kapitalning aktivlarga nisbati, %"] + [f(M[y]["ea"]) for y in YH],
     ["Kreditlar/depozitlar, %"] + [f(M[y]["ldr"], 0) for y in YH],
-    ["Bank tizimi aktivlaridagi ulushi, %**"] + [f(M[y]["share"]) for y in YR] + [f(ind("2026-9M", IPO, "share")) + "***"],
+    ["Bank tizimi aktivlaridagi ulushi, %^{a}"] + [f(M[y]["share"]) for y in YR] + [f(ind("2026-9M", IPO, "share")) + "^{b}"],
 ]
 gen("t_balans", rows)
 rows = [
@@ -509,8 +509,8 @@ for name, lab, pre, dg in OUT:
 # ROA: “Ipoteka-bank” (MHXS) va bank tizimi (MB)
 roa_d = (mean("roa", POST) - mean("roa", PRE)) - (np.mean([SY[y]["roa"] for y in POST]) - np.mean([SY[y]["roa"] for y in PRE]))
 roe_d = (mean("roe", POST) - mean("roe", PRE)) - (np.mean([SY[y]["roe"] for y in POST]) - np.mean([SY[y]["roe"] for y in PRE]))
-rows.append(["ROA, f.p.**", f(mean("roa", POST) - mean("roa", PRE), 2, True), f(float(np.mean([SY[y]["roa"] for y in POST]) - np.mean([SY[y]["roa"] for y in PRE])), 2, True), f(roa_d, 2, True), "–", "–"])
-rows.append(["ROE, f.p.**", f(mean("roe", POST) - mean("roe", PRE), 1, True), f(float(np.mean([SY[y]["roe"] for y in POST]) - np.mean([SY[y]["roe"] for y in PRE])), 1, True), f(roe_d, 1, True), "–", "–"])
+rows.append(["ROA, f.p.^{a}", f(mean("roa", POST) - mean("roa", PRE), 2, True), f(float(np.mean([SY[y]["roa"] for y in POST]) - np.mean([SY[y]["roa"] for y in PRE])), 2, True), f(roa_d, 2, True), "–", "–"])
+rows.append(["ROE, f.p.^{a}", f(mean("roe", POST) - mean("roe", PRE), 1, True), f(float(np.mean([SY[y]["roe"] for y in POST]) - np.mean([SY[y]["roe"] for y in PRE])), 1, True), f(roe_d, 1, True), "–", "–"])
 gen("t_did", rows)
 put("dd.roa", roa_d, 2, sign=True); put("dd.roe", roe_d, 1, sign=True)
 roa_d2 = (mean("roa", ["2024", "2025"]) - mean("roa", PRE)) - (np.mean([SY[y]["roa"] for y in ("2024", "2025")]) - np.mean([SY[y]["roa"] for y in PRE]))
@@ -698,7 +698,53 @@ put("st.loss", loss, 2); put("st.fx_share", fx_share_rwa * 100, 0, est=True)
 put("st.K0", K0, 2); put("st.W0", W0)
 
 # ================================================================== 7. TAXMINIY (ochiq manbalarda yo'q) qiymatlar
+kap22 = B["2022"][IPO]["capital"]; kurs22 = 11225.46
+put("bt.kap_nas", kap22 / 1000); put("bt.kap_usd", kap22 * 1e9 / kurs22 / 1e6, 0); put("bt.pbv", 440 / (kap22 * 1e9 / kurs22 / 1e6), 2)
+put("bt.kap_ifrs_usd", I["2022"]["eq"] * 1e6 / kurs22 / 1e6, 0); put("bt.pbv_ifrs", 440 / (I["2022"]["eq"] * 1e6 / kurs22 / 1e6), 2)
 put("x.npl_tz_2019", 1.5, est=True); put("x.npl_ip_2019", 1.4, est=True)
+
+# ---- ilovalar
+ser = lambda fn, d=1, ys=YR: "; ".join(f(fn(y), d) for y in ys)
+IF, MB, IP = "MHXS (audit qilingan)", "Milliy standartlar", "Bank ma'lumoti"
+rows = [
+    ["Jami aktivlar, trln so'm", "2019–2025", ser(lambda y: I[y]["ta"] / T), IF, "Bankning konsolidatsiyalangan hisobotlari"],
+    ["Mijozlarga kreditlar (sof), trln so'm", "2019–2025", ser(lambda y: I[y]["loans"] / T), IF, "Bankning konsolidatsiyalangan hisobotlari"],
+    ["Mijozlar hisobvaraqlari, trln so'm", "2019–2025", ser(lambda y: I[y]["cust"] / T), IF, "Bankning konsolidatsiyalangan hisobotlari"],
+    ["Jami kapital, trln so'm", "2019–2025", ser(lambda y: I[y]["eq"] / T), IF, "Bankning konsolidatsiyalangan hisobotlari"],
+    ["Sof foyda (zarar), mlrd so'm", "2019–2025", ser(lambda y: I[y]["np"] / 1000, 0), IF, "Bankning konsolidatsiyalangan hisobotlari"],
+    ["Sof foizli daromad, mlrd so'm", "2019–2025", ser(lambda y: I[y]["nii"] / 1000, 0), IF, "Bankning konsolidatsiyalangan hisobotlari"],
+    ["Zaxira xarajatlari, mlrd so'm", "2019–2025", ser(lambda y: I[y]["ecl_charge"] / 1000, 0), IF, "Bankning konsolidatsiyalangan hisobotlari"],
+    ["Operatsion xarajatlar, mlrd so'm", "2019–2025", ser(lambda y: I[y]["opex"] / 1000, 0), IF, "Bankning konsolidatsiyalangan hisobotlari"],
+    ["Yalpi kreditlar, trln so'm", "2019–2025", ser(lambda y: I[y]["gross"] / T), IF, "Hisobotlarning “Mijozlarga kreditlar” izohi"],
+    ["3-bosqich kreditlar, trln so'm", "2019–2025", ser(lambda y: I[y]["s3"] / T, 2), IF, "Hisobotlarning “Mijozlarga kreditlar” izohi"],
+    ["Kredit zararlari zaxirasi, trln so'm", "2019–2025", ser(lambda y: I[y]["ecl"] / T, 2), IF, "Hisobotlarning “Mijozlarga kreditlar” izohi"],
+    ["Moliya vazirligidan qarzlar, trln so'm", "2019–2025", ser(lambda y: I[y]["b_mof"] / T), IF, "Hisobotlarning qarz mablag'lari izohi"],
+    ["Regulyativ kapital yetarliligi, %", "2019–2025", ser(lambda y: I[y]["car"]), "Markaziy bank me'yori", "Hisobotlarning “Kapitalni boshqarish” izohi"],
+    ["Aktivlar, kreditlar, depozitlar, kapital (banklar kesimida)", "01.01.2020–01.10.2026", "35 ta bank bo'yicha panel", MB, "Markaziy bank statistikasi"],
+    ["Bozor ulushi (aktivlar), %", "2019–2025", ser(lambda y: M[y]["share"]), MB, "Markaziy bank statistikasi asosida hisoblangan"],
+    ["Muammoli kreditlar ulushi, %", "2020–2025", ser(lambda y: M[y]["npl_nas"], 1, YR[1:]), MB, "Markaziy bank statistikasi"],
+    ["Moliyaviy natija", "2024", "240,2 mlrd so'm zarar", MB, "UzDaily"],
+    ["LCR; NSFR, %", "2025-yil oxiri", "225; 127", "Markaziy bank me'yori", "Investor taqdimoti (2025)"],
+    ["Aksiyalar paketi (OTP Bank)", "13.06.2023", "73,71%", "–", "Bank, OTP Group"],
+    ["Bitim narxi", "2023", "≈324 mln dollar", "–", "bne IntelliNews (matbuot ma'lumoti)"],
+    ["Qo'shimcha kapital (OTP Bank)", "2023-yil dekabr", "844,6 mlrd so'm (70 mln dollar)", IF, "Bank hisoboti, Kun.uz"],
+    ["Aksiyadorlar tarkibi", "30.06.2026", "OTP Bank 72,89%; Iqtisodiyot va moliya vazirligi 17,49%; IFC 8,69%", "–", "Investor taqdimoti (2026-yil I yarmi)"],
+    ["Kredit reytinglari", "2026-yil sentabr", "Fitch: BB (ijobiy); S&P: BB (barqaror)", "–", "Investor taqdimoti (2026-yil I yarmi)"],
+    ["Sof foyda", "2026-yil I yarmi; 9 oy", f(I["2026H1"]["np"] / 1000, 0) + " mlrd so'm; ≈1,8 trln so'm", "MHXS", "Oraliq hisobot; bank xabari"],
+    ["Davlat mablag'larining majburiyatlardagi ulushi", "2019-yil oxiri", "57% (muallif hisobi: " + f(M["2019"]["state_f"]) + "%)", "–", "Fitch; MHXS hisoboti"],
+]
+gen("t_ilova1", rows)
+y = "2025"; sc = CM[y][1]
+rows = [
+    ["1. CAMELS komponentlari ballari", "; ".join(f"{k} = {sc[k]}" for k in "CAMELS"), "–"],
+    ["2. Kompozit CAMELS bali", " + ".join(f(WC[k], 2) + "·" + str(sc[k]) for k in "CAMELS"), f(CM[y][2], 2)],
+    ["3. Normallashtirilgan CAMELS", "(5 – " + f(CM[y][2], 2) + ") / 4", f((5 - CM[y][2]) / 4, 3)],
+    ["4. Z-score", "(" + f(M[y]["roa"], 2) + " + " + f(M[y]["ea"], 2) + ") / " + f(sd_roa, 2), f(Z[y], 2)],
+    ["5. Normallashtirilgan Z-score", "min(" + f(Z[y], 2) + " / 15; 1)", f(min(Z[y] / 15, 1), 3)],
+    ["6. BBII", "0,6 · " + f((5 - CM[y][2]) / 4, 3) + " + 0,4 · " + f(min(Z[y] / 15, 1), 3), f(BB[y], 3)],
+    ["7. Barqarorlik darajasi", "0,5 ≤ BBII < 0,75", lev(BB[y])],
+]
+gen("t_ilova3", rows)
 
 json.dump(V, open(os.path.join(GEN, "qiymatlar.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 print("gen fayllar:", len(os.listdir(GEN)), "| qiymatlar:", len(V))

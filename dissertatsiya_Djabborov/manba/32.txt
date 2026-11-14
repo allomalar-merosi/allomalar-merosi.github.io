@@ -88,7 +88,7 @@ Ishtirok guruhida faqat bitta bank bo'lgani uchun an'anaviy klasterlangan standa
 TABLE 3.11: Xorijiy strategik investor ishtirokining bank ko'rsatkichlariga sof ta'siri (farqlar farqi bahosi)
 | Natija ko'rsatkichi | “Ipoteka-bank”dagi o'zgarish | Nazorat guruhidagi o'rtacha o'zgarish | Farqlar farqi (δ) | Standart xato | Plasebo testidagi o'rni |
 @GEN t_did
-NOTE: Manba: Markaziy bank ma'lumotlari{cbu_stat} asosida muallif hisob-kitoblari. O'zgarish – 2023–2025-yillar o'rtachasi bilan sotuvdan oldingi davr (2019–2022 yoki 2020–2022-yillar) o'rtachasi o'rtasidagi farq. *, ** – mos ravishda 10 va 5 foizlik darajada ahamiyatli (erkinlik darajasi 8 bo'lgan t-taqsimot bo'yicha). ** ROA va ROE uchun “Ipoteka-bank” ko'rsatkichlari MHXS bo'yicha{ipoteka_ifrs}, taqqoslash bazasi – bank tizimi bo'yicha Markaziy bank ko'rsatkichlari; bu satrlar uchun statistik xulosa chiqarilmagan.
+NOTE: Manba: Markaziy bank ma'lumotlari{cbu_stat} asosida muallif hisob-kitoblari. O'zgarish – 2023–2025-yillar o'rtachasi bilan sotuvdan oldingi davr (2019–2022 yoki 2020–2022-yillar) o'rtachasi o'rtasidagi farq. Yulduzcha (*) – 10 foizlik darajada ahamiyatli (erkinlik darajasi 8 bo'lgan t-taqsimot bo'yicha). ^{a} ROA va ROE uchun “Ipoteka-bank” ko'rsatkichlari MHXS bo'yicha{ipoteka_ifrs}, taqqoslash bazasi – bank tizimi bo'yicha Markaziy bank ko'rsatkichlari; bu satrlar uchun statistik xulosa chiqarilmagan.
 
 Farqlar farqi natijalarini quyidagicha umumlashtirish mumkin.
 

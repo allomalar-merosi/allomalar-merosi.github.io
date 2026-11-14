@@ -30,7 +30,7 @@ TABLE 1.4: CAMELS komponentlari bo'yicha ko'rsatkichlar va ball chegaralari (mua
 | S – sezgirlik | Valyuta pozitsiyasining kapitalga nisbati, % (mutlaq) | < 5 | 5–10 | 10–15 | 15–20 | ≥ 20 |
 NOTE: Manba: ilmiy adabiyotlar va O'zbekiston Respublikasi Markaziy banki talablari asosida muallif tomonidan ishlab chiqilgan{lopez1999,sahajwala2000,mb_kapital}.
 
-Kapital komponenti chegaralari O'zbekistonda belgilangan 13 foizlik minimal talab asosida, likvidlik komponenti chegaralari esa O'zbekiston bank tizimining o'ziga xos xususiyati – kreditlarning depozitlarga nisbatining yuqoriligi (2024-yilda tizim bo'yicha 173 foiz, davlat banklarida 237 foiz){imf_fssa2025} – hisobga olingan holda belgilandi. Boshqaruv sifatini ochiq ma'lumotlar asosida baholash qiyin bo'lgani sababli uning proksi-ko'rsatkichi sifatida CIR qo'llanildi; bu yondashuv ilmiy adabiyotda keng tarqalgan.
+Kapital komponenti chegaralari O'zbekistonda belgilangan 13 foizlik minimal talab asosida, likvidlik komponenti chegaralari esa O'zbekiston bank tizimining o'ziga xos xususiyati – kreditlarning depozitlarga nisbatining yuqoriligi (2024-yil yakunida tizim bo'yicha {{tz.ldr.2024}} foiz, davlat ulushi bor banklarda {{tz.ldr_davlat.2024}} foiz){cbu_stat} – hisobga olingan holda belgilandi. Boshqaruv sifatini ochiq ma'lumotlar asosida baholash qiyin bo'lgani sababli uning proksi-ko'rsatkichi sifatida CIR qo'llanildi; bu yondashuv ilmiy adabiyotda keng tarqalgan.
 
 **Z-score ko'rsatkichi.** Bank barqarorligining eng keng qo'llaniladigan integral ko'rsatkichlaridan biri – Z-score. Uning nazariy asosi A.Roy tomonidan ishlab chiqilgan “xavfsizlik birinchi” (safety first) tamoyiliga borib taqaladi{roy1952}, bank faoliyatiga esa J.Boyd va S.Grem tomonidan tatbiq etilgan{boyd1986}:
 
@@ -112,7 +112,7 @@ Ushbu model xorijiy strategik investor ishtirokining ta'sirini bankka xos va mak
 
 $$ BBII_t = w_1 · (5 – CAMELS_t) / 4 + w_2 · min(Z_t / Z*, 1) (1.8)
 
-bu yerda CAMELS_t – t-yildagi kompozit CAMELS bali (1 dan 5 gacha), u (5 – CAMELS)/4 ko'rinishida 0 dan 1 gacha bo'lgan oraliqqa normallashtiriladi; Z_t – Z-score qiymati; Z* – Z-score ning me'yoriy (maqsadli) qiymati, biz uni <<15>> deb qabul qildik; w_1, w_2 – vaznlar (w_1 + w_2 = 1), asosiy variantda w_1 = 0,6 va w_2 = 0,4. Kompozit CAMELS bali komponentlar ballarining vaznlangan o'rtachasi sifatida aniqlanadi:
+bu yerda CAMELS_t – t-yildagi kompozit CAMELS bali (1 dan 5 gacha), u (5 – CAMELS)/4 ko'rinishida 0 dan 1 gacha bo'lgan oraliqqa normallashtiriladi; Z_t – Z-score qiymati; Z* – Z-score ning me'yoriy (maqsadli) qiymati, biz uni 15 deb qabul qildik; w_1, w_2 – vaznlar (w_1 + w_2 = 1), asosiy variantda w_1 = 0,6 va w_2 = 0,4. Kompozit CAMELS bali komponentlar ballarining vaznlangan o'rtachasi sifatida aniqlanadi:
 
 $$ CAMELS_t = 0,25·C + 0,25·A + 0,10·M + 0,15·E + 0,15·L + 0,10·S (1.9)
 
