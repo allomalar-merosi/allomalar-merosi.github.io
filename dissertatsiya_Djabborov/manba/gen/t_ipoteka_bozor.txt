@@ -1,0 +1,6 @@
+| Ipoteka kreditlari qoldig'i, trln so'm | 20,3 | 28,3 | 35,9 | 46,5 | 58,2 | 67,7 | 79,4 | 91,2 |
+| Jami kreditlardagi ulushi, % | 9,6 | 10,2 | 11,0 | 11,9 | 12,3 | 12,7 | 13,1 | 13,8 |
+| Jismoniy shaxslar kreditlaridagi ulushi, % | 50,9 | 51,6 | 51,7 | 46,0 | 39,1 | 38,2 | 36,0 | 36,7 |
+| Ipoteka kreditlarining YaIMga nisbati, % | 3,8 | 4,2 | 4,4 | 4,7 | 4,8 | 4,7 | 4,3 | – |
+| “Ipoteka-bank”ning ipoteka kreditlari (MHXS, yalpi), trln so'm | 5,2 | 8,6 | 11,1 | 12,4 | 14,1 | 15,9 | 18,3 | 18,7* |
+| “Ipoteka-bank”ning ipoteka bozoridagi ulushi, % | 25,4 | 30,4 | 30,9 | 26,7 | 24,2 | 23,5 | 23,1 | 20,5* |

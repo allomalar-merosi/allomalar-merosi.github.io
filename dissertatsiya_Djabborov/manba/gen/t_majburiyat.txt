@@ -1,0 +1,11 @@
+| Iqtisodiyot va moliya vazirligidan qarzlar | 35,4 | 30,3 | 34,0 | 36,3 | 34,7 |
+| Davlat va budjet tashkilotlari hisobvaraqlari | 22,6 | 24,8 | 16,2 | 8,3 | 6,8 |
+| **Jami davlat bilan bog'liq mablag'lar** | **58,0** | **55,1** | **50,2** | **44,6** | **41,5** |
+| Jismoniy shaxslar omonatlari | 9,0 | 6,7 | 9,0 | 11,1 | 13,3 |
+| Boshqa yuridik shaxslar hisobvaraqlari | 7,5 | 7,2 | 7,6 | 11,4 | 19,2 |
+| Xalqaro moliya institutlari va xorijiy banklar kreditlari | 11,6 | 11,7 | 9,4 | 8,9 | 5,0 |
+| Mahalliy moliya institutlari va Tiklanish va taraqqiyot jamg'armasi qarzlari | 9,7 | 6,1 | 6,5 | 6,8 | 5,2 |
+| Chiqarilgan qarz qimmatli qog'ozlari (yevroobligatsiyalar va b.) | 0,1 | 11,5 | 10,9 | 11,4 | 13,5 |
+| Subordinar qarz va banklar mablag'lari | 3,5 | 1,2 | 5,8 | 4,4 | 1,0 |
+| Boshqa majburiyatlar | 0,5 | 0,5 | 0,7 | 1,2 | 1,3 |
+| Jami majburiyatlar, trln so'm | 20,3 | 35,2 | 38,4 | 39,6 | 46,6 |

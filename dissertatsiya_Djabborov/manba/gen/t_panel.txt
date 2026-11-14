@@ -1,0 +1,12 @@
+| FOR (xorijiy strategik investor) | +4,44*** (0,70) | +3,29*** (0,47) | –0,603 (1,270) | –0,369 (1,793) |
+| Davlat ulushi bor bank (1/0) | – | +2,13** (0,77) | – | –0,125 (1,645) |
+| Xorijiy bankning sho'ba banki (1/0) | – | +0,491 (0,669) | – | +4,42** (1,94) |
+| Kapital/aktivlar (t–1), % | +0,066** (0,028) | +0,056** (0,026) | – | – |
+| Aktivlar logarifmi (lnTA) | +0,509 (0,575) | –0,013 (0,226) | –4,51*** (1,31) | –1,25 (0,74) |
+| Kreditlar/depozitlar, % | –0,001 (0,002) | +0,001 (0,002) | +0,007* (0,004) | +0,012** (0,005) |
+| Kreditlarda jismoniy shaxslar ulushi, % | –0,062* (0,036) | +0,030*** (0,010) | +0,087 (0,071) | +0,038 (0,030) |
+| Aktivlarning o'sish sur'ati, % | –0,010** (0,004) | –0,010*** (0,004) | –0,005 (0,004) | –0,005 (0,003) |
+| Bank bo'yicha qat'iy effektlar | Ha | Yo'q | Ha | Yo'q |
+| Yil bo'yicha qat'iy effektlar | Ha | Ha | Ha | Ha |
+| Kuzatuvlar soni (banklar soni) | 142 (24) | 142 (24) | 142 (24) | 142 (24) |
+| R² (FE modellarida – ichki) | 0,16 | 0,36 | 0,17 | 0,30 |

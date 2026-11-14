@@ -1,0 +1,14 @@
+| Sof foizli daromad, mlrd so'm | 1 035 | 1 410 | 2 122 | 2 719 | 3 372 | 3 697 | 3 424 |
+| Jami operatsion daromad, mlrd so'm | 1 311 | 1 795 | 2 607 | 3 176 | 4 004 | 4 332 | 4 093 |
+| Operatsion xarajatlar, mlrd so'm | 619 | 665 | 894 | 1 123 | 1 434 | 1 727 | 1 929 |
+| Kredit zararlari bo'yicha zaxira xarajatlari, mlrd so'm | 275 | 610 | 591 | 869 | 4 275 | 1 049 | –257 |
+| Sof foyda (zarar), mlrd so'm | 339 | 405 | 887 | 947 | –1 616 | 1 287 | 2 047 |
+| ROA, % | 1,6 | 1,4 | 2,4 | 2,2 | –3,6 | 2,7 | 3,9 |
+| ROE, % | 13,1 | 10,7 | 19,8 | 17,9 | –30,4 | 22,9 | 28,1 |
+| Sof foiz marjasi (NIM), % | 4,7 | 5,0 | 5,8 | 6,5 | 7,6 | 7,8 | 6,5 |
+| Xarajatlar/daromadlar (CIR), % | 47,2 | 37,1 | 34,3 | 35,4 | 35,8 | 39,9 | 47,1 |
+| Kredit riski narxi (CoR), % | 1,3 | 2,7 | 2,1 | 2,6 | 11,4 | 2,6 | –0,6 |
+| 3-bosqich (qadrsizlangan) kreditlar ulushi, % | 3,5 | 5,9 | 7,2 | 7,0 | 18,7 | 20,6 | 19,7 |
+| Muammoli kreditlar (NPL) ulushi, milliy standartlar, % | <<1,4>> | 2,3 | 3,3 | 2,5 | 4,7 | 10,2 | 3,5 |
+| Regulyativ kapital yetarliligi (CAR), % | 25,6 | 17,0 | 14,4 | 16,4 | 17,6 | 16,0 | 19,8 |
+| I darajali kapital yetarliligi, % | 19,2 | 13,2 | 11,1 | 12,3 | 14,3 | 14,6 | 17,3 |

@@ -1,0 +1,8 @@
+| Aktivlardagi ulushi, % | 84,9 | 15,1 | 63,5 | 36,5 |
+| Kreditlardagi ulushi, % | 88,3 | 11,7 | 67,0 | 33,0 |
+| Depozitlardagi ulushi, % | 71,9 | 28,1 | 51,0 | 49,0 |
+| Kreditlar/depozitlar, % | 296 | 101 | 190 | 98 |
+| Muammoli kreditlar ulushi, % | 2,1 | 1,9 | 3,2 | 2,6 |
+| Kapitalning aktivlarga nisbati, % | 15,8 | 16,9 | 13,9 | 16,0 |
+| Kreditlarda jismoniy shaxslar ulushi, % | 19,6 | 21,1 | 28,7 | 52,2 |
+| Depozitlarda jismoniy shaxslar ulushi, % | 21,6 | 29,8 | 35,1 | 41,9 |

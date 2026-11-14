@@ -48,6 +48,8 @@ giannetti2009 | Giannetti M., Ongena S. Financial integration and firm performan
 havrylchyk2011 | Havrylchyk O., Jurzyk E. Inherited or earned? Performance of foreign banks in Central and Eastern Europe // Journal of Banking & Finance. – 2011. – Vol. 35, No. 5. – P. 1291–1302.
 jensen1976 | Jensen M.C., Meckling W.H. Theory of the firm: Managerial behavior, agency costs and ownership structure // Journal of Financial Economics. – 1976. – Vol. 3, No. 4. – P. 305–360.
 laporta2002 | La Porta R., Lopez-de-Silanes F., Shleifer A. Government ownership of banks // Journal of Finance. – 2002. – Vol. 57, No. 1. – P. 265–301.
+dinc2005 | Dinç I.S. Politicians and banks: Political influences on government-owned banks in emerging markets // Journal of Financial Economics. – 2005. – Vol. 77, No. 2. – P. 453–479.
+conley2011 | Conley T.G., Taber C.R. Inference with “Difference in Differences” with a Small Number of Policy Changes // Review of Economics and Statistics. – 2011. – Vol. 93, No. 1. – P. 113–125.
 laeven2009 | Laeven L., Levine R. Bank governance, regulation and risk taking // Journal of Financial Economics. – 2009. – Vol. 93, No. 2. – P. 259–275.
 lepetit2013 | Lepetit L., Strobel F. Bank insolvency risk and time-varying Z-score measures // Journal of International Financial Markets, Institutions and Money. – 2013. – Vol. 25. – P. 73–87.
 levine2005 | Levine R. Finance and growth: Theory and evidence // Aghion P., Durlauf S. (eds.) Handbook of Economic Growth. Vol. 1A. – Amsterdam: Elsevier, 2005. – P. 865–934.
@@ -69,6 +71,11 @@ otp_ar2024 | OTP Bank Plc. Annual Report 2024. – Budapest: OTP Bank, 2025. [[n
 cbu | O'zbekiston Respublikasi Markaziy banki rasmiy sayti. – https://cbu.uz
 lex | O'zbekiston Respublikasi Qonun hujjatlari ma'lumotlari milliy bazasi. – https://lex.uz
 ipoteka_site | “Ipoteka bank OTP Group” ATIB rasmiy sayti. – https://www.ipotekabank.uz
+cbu_stat | O'zbekiston Respublikasi Markaziy banki. Bank tizimi faoliyati ko'rsatkichlari: tijorat banklarining asosiy ko'rsatkichlari, muammoli kreditlar, kreditlar va depozitlar (banklar kesimida), kapital yetarliligi, likvidlik va daromadlilik ko'rsatkichlari (2020-yil 1-yanvar – 2026-yil 1-oktabr holatiga). – https://cbu.uz/oz/statistics/bankstats/ (murojaat sanasi: 13.11.2026)
+ipoteka_ifrs | “Ipoteka-bank” ATIB va uning sho'ba korxonalari. Moliyaviy hisobotning xalqaro standartlari bo'yicha konsolidatsiyalangan moliyaviy hisobotlar va mustaqil auditor xulosasi: 2019, 2020, 2021, 2022, 2023, 2024, 2025-yillar; 2026-yil 30-iyun holatiga oraliq qisqartirilgan konsolidatsiyalangan moliyaviy axborot. – https://www.ipotekabank.uz/en/about/investors/shai_finain/ (murojaat sanasi: 13.11.2026)
+ipoteka_ip2025 | Ipoteka bank OTP Group. Investor Presentation: Financial Year 2025. – Tashkent, 2026. – https://www.ipotekabank.uz/en/about/investors/shai_finain/
+ipoteka_ip2026 | Ipoteka bank OTP Group. Investor Presentation: First Half 2026 Financial Results. – Tashkent, 2026. – https://www.ipotekabank.uz/en/about/investors/shai_finain/
+ipoteka_9m26 | Ipoteka bank OTP Group reports 9M 2026 IFRS financial results with record 56% net profit growth. – https://www.ipotekabank.uz/en/blog/news/ (11.11.2026)
 otp_site | OTP Group investorlar uchun rasmiy sayti. – https://www.otpgroup.info
 ipoteka_close | Transaction closed: OTP Bank acquired Ipoteka-Bank. – https://www.ipotekabank.uz/en/news/ipotekabank_otpgroup/ (13.06.2023)
 bne_otp | Hungary's OTP closes first acquisition outside Europe in Uzbekistan // bne IntelliNews. – https://bne.eu/hungary-s-otp-closes-first-acquisition-outside-europe-in-uzbekistan-281634 (2023)

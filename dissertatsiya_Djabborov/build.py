@@ -14,7 +14,7 @@ Belgilash qoidalari (manba fayllarida):
   {kalit} / {k1,k2}     — adabiyotga havola -> [n] / [n; m]
 Foydalanish:  python3 build.py
 """
-import re, subprocess, sys, os, shutil, tempfile
+import re, subprocess, sys, os, shutil, tempfile, json
 from docx import Document
 from docx.shared import Pt, Cm, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_LINE_SPACING, WD_BREAK, WD_TAB_ALIGNMENT, WD_TAB_LEADER, WD_COLOR_INDEX
@@ -34,6 +34,29 @@ TEXT_W = Cm(16.5)
 
 # ---------------------------------------------------------------- jadval/rasm raqamlari
 LABELS = {}
+GEN = os.path.join(SRC, "gen")
+_VALS = None
+
+
+def expand(text):
+    """@GEN nom  -> manba/gen/nom.txt mazmuni (hisob.py yaratadi);
+    {{kalit}} -> manba/gen/qiymatlar.json dagi qiymat (taxminiy bo'lsa <<...>> bilan)."""
+    global _VALS
+    if _VALS is None:
+        f = os.path.join(GEN, "qiymatlar.json")
+        _VALS = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else {}
+
+    def gen(m):
+        return open(os.path.join(GEN, m.group(1) + ".txt"), encoding="utf-8").read().rstrip("\n")
+    text = re.sub(r"^@GEN (\S+)[ \t]*$", gen, text, flags=re.M)
+
+    def val(m):
+        k = m.group(1)
+        if k not in _VALS:
+            sys.exit("Noma'lum qiymat kaliti: {{%s}}" % k)
+        v = _VALS[k]
+        return ("<<%s>>" % v["v"]) if v.get("est") else v["v"]
+    return re.sub(r"\{\{([\w.\-]+)\}\}", val, text)
 
 
 def build_label_map():
@@ -42,7 +65,7 @@ def build_label_map():
     LABELS.clear()
     seq = {}
     for f in ORDER:
-        for ln in open(os.path.join(SRC, f + ".txt"), encoding="utf-8"):
+        for ln in expand(open(os.path.join(SRC, f + ".txt"), encoding="utf-8").read()).split("\n"):
             m = re.match(r"\s*(TABLE|FIG) (\d+)\.(\w+):", ln)
             if not m:
                 continue
@@ -264,7 +287,7 @@ def add_runs(p, text, size=14, bold=False, italic=False):
             r = p.add_run(piece)
             set_font(r, size, b, i)
             if blue:
-                r.font.color.rgb = RGBColor(0x00, 0x4E, 0xD6)
+                r.font.color.rgb = RGBColor(0x9C, 0x4A, 0x12)  # taxminiy raqamlar — jigarrang
             if sub:
                 r.font.subscript = True
             if sup:
@@ -412,6 +435,18 @@ class Builder:
             lens.append(max(4.0, min(float(m), 60.0)) ** 0.6)
         tot = sum(lens)
         widths = [TEXT_W * (l / tot) for l in lens]
+        # eng uzun so'z bo'linib ketmasligi uchun minimal kenglik
+        plain = lambda x: re.sub(r"<<|>>|\*\*|//|\[\[|\]\]|\{[\w,]+\}", "", x)
+        minw = []
+        for j in range(ncol):
+            wl = max((len(w) for r in rows if j < len(r) for w in re.split(r"[ \-–/]+", plain(r[j]))), default=1)
+            minw.append(min(wl, 14) * Cm(0.215) + Cm(0.42))
+        if sum(minw) < TEXT_W:
+            need = sum(max(0, minw[j] - widths[j]) for j in range(ncol))
+            spare = sum(max(0, widths[j] - minw[j]) for j in range(ncol))
+            if need > 0 and spare > 0:
+                k = min(1.0, need / spare)
+                widths = [minw[j] if widths[j] < minw[j] else widths[j] - (widths[j] - minw[j]) * k for j in range(ncol)]
         for j in range(ncol):
             t.columns[j].width = int(widths[j])
         for i in range(len(rows)):
@@ -422,7 +457,8 @@ class Builder:
                 val = row[j] if j < len(row) else ""
                 c = t.cell(i, j)
                 cp = c.paragraphs[0]
-                numeric = bool(re.fullmatch(r"[\d\s.,\-–+%()×x/\[\]_]+", val.strip())) and val.strip()
+                plainv = re.sub(r"<<|>>|\*", "", val).strip()
+                numeric = bool(re.fullmatch(r"[\d\s.,\-–+%()×x/\[\]_]+", plainv)) and plainv
                 al = WD_ALIGN_PARAGRAPH.CENTER if (i == 0 or numeric or j > 0 and len(val) < 18) else WD_ALIGN_PARAGRAPH.LEFT
                 fmt(cp, align=al, indent=False, spacing=1.0)
                 add_runs(cp, val, 12, i == 0)
@@ -511,7 +547,7 @@ class Builder:
 
     # ----- manba fayllarini o'qish
     def render_file(self, name):
-        lines = relabel(open(os.path.join(SRC, name + ".txt"), encoding="utf-8").read()).split("\n")
+        lines = relabel(expand(open(os.path.join(SRC, name + ".txt"), encoding="utf-8").read())).split("\n")
         i = 0
         while i < len(lines):
             ln = lines[i].rstrip()

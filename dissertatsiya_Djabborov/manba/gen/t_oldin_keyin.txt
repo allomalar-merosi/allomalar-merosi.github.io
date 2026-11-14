@@ -1,0 +1,12 @@
+| Kapitalning aktivlarga nisbati, % | 13,1 | 12,9 | –0,2 f.p. | Neytral |
+| Regulyativ kapital yetarliligi, % | 18,4 | 17,8 | –0,6 f.p. | Neytral (2019-yildagi bir martalik kapitallashuv ta'siri) |
+| Kreditlar/depozitlar, % | 246,5 | 216,0 | –30,5 f.p. | Ijobiy |
+| Sof foiz marjasi (NIM), % | 5,5 | 7,3 | +1,8 f.p. | Ijobiy |
+| Xarajatlar/daromadlar (CIR), % | 38,5 | 40,9 | +2,4 f.p. | Salbiy (integratsiya xarajatlari) |
+| ROA, % | 1,9 | 1,0 | –0,9 f.p. | Salbiy (2023-yil zarari); 2024–2025-yillarda ijobiy |
+| ROE, % | 15,4 | 6,9 | –8,5 f.p. | Salbiy (2023-yil zarari); 2024–2025-yillarda ijobiy |
+| Kredit riski narxi (CoR), % | 2,2 | 4,5 | +2,3 f.p. | Salbiy (2023-yildagi tozalash) |
+| 3-bosqich kreditlar ulushi, % | 5,9 | 19,7 | +13,8 f.p. | Salbiy (tan olish samarasi) |
+| Kredit portfelida chakana kreditlar ulushi, % | 40,2 | 61,6 | +21,4 f.p. | Ijobiy (diversifikatsiya) |
+| Majburiyatlarda davlat mablag'lari ulushi, % | 52,4 | 43,0 | –9,4 f.p. | Ijobiy |
+| Bozor ulushi (aktivlar), % | 8,6 | 6,7 | –1,9 f.p. | Salbiy |
