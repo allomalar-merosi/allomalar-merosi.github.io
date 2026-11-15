@@ -12,6 +12,7 @@
 | `statistika/yig.py` | `rasmiy.json` ni tuzuvchi skript (MHXS ko'rsatkichlari shu faylda yozilgan) |
 | `hisob.py` | Barcha jadvallar va matndagi raqamlarni hisoblovchi skript: `python3 hisob.py && python3 build.py` |
 | `manba/gen/` | `hisob.py` yaratadigan jadval qatorlari va `{{kalit}}` qiymatlari |
+| `sorov_xati/Ipoteka_sorov_xati.docx` (.pdf) | “Ipoteka bank OTP Group”ga so'rov xati (1-bet) va jigarrang (taxminiy) qiymatli jadvallar ilova sifatida (2-betdan); `sorov_xati/build_sorov.py` jadvallarni dissertatsiya manbasidan avtomatik oladi, taxminiy kataklar bo'sh va sariq fonda |
 
 Shakli M.Xodjiyev dissertatsiyasi namunasiga mos: titul, mundarija, “1.1-§.” paragraflar, bob xulosalari, “XULOSA VA TAKLIFLAR”, havolalar sahifa ostidagi izohlar (snoskalar) ko'rinishida.
 
