@@ -4,7 +4,7 @@ AUTHORS: Shukhrat E. Djabborov
 AFFIL: Independent Researcher, Gulistan State University, Gulistan, Uzbekistan
 ORCID: [[0000-0000-0000-0000]]
 EMAIL: [[__________@____]]
-ABSTRACT: Bank privatization is often treated as a one-off transaction, while the integration that follows determines whether stability improves. Based on the sale of Ipoteka Bank to OTP Group (2023) and experience from Central and Eastern Europe, this paper proposes a seven-stage integration model – from pre-deal preparation to full ownership – with tasks and indicators for each stage. The bank's return on assets fell to a loss in the integration year and reached 4.0 and 3.5 per cent under IFRS in 2024–2025, a J-shaped path consistent with the model. The estimated price-to-book ratio of about 0.84 suggests a discount for hidden asset-quality problems, underlining the value of asset quality reviews before sale.
+ABSTRACT: Bank privatization is often treated as a one-off transaction, while the integration that follows determines whether stability improves. Based on the sale of Ipoteka Bank to OTP Group (2023) and experience from Central and Eastern Europe, this paper proposes a seven-stage integration model – from pre-deal preparation to full ownership – with tasks and indicators for each stage. According to the bank's audited IFRS statements, its return on assets fell from 2.2 per cent in 2022 to −3.6 per cent in the integration year and rose to 2.7 and 3.9 per cent in 2024–2025, a J-shaped path consistent with the model. The price-to-book ratio of about 0.83 implies a discount that proved justified: the loan-loss provisions recognized in 2023 alone exceeded the deal price, underlining the value of asset quality reviews before sale.
 KEYWORDS: bank privatization; post-acquisition integration; foreign strategic investor; price-to-book; Uzbekistan
 JEL: G21, G34, L33
 ---
@@ -14,7 +14,7 @@ Uzbekistan's 2020–2025 banking reform strategy envisaged the privatization of 
 
 # 2. Method
 
-Public information on the Ipoteka Bank transaction and integration was organized chronologically and compared with international experience to derive integration stages. The deal price was assessed by the price-to-book ratio, P/BV = (P / s) / BV, where P is the price, s the stake sold and BV book equity.
+Public information on the Ipoteka Bank transaction and integration, together with the bank's audited IFRS statements for 2019–2025 and the interim statements for the first half of 2026 (Ipoteka Bank, 2020–2026), was organized chronologically and compared with international experience to derive integration stages. The deal price was assessed by the price-to-book ratio, P/BV = (P / s) / BV, where P is the price, s the stake sold and BV book equity.
 
 # 3. Results
 
@@ -27,11 +27,11 @@ FIG 1: Seven-stage post-acquisition integration model ## Author's elaboration.
 6. Growth and optimization: business model change || funding diversification
 7. Full ownership: purchase of remaining shares || long-term strategy
 
-In Ipoteka Bank, an agreement was announced in December 2022 and the 73.71 per cent stake was transferred in June 2023 (Ipoteka-bank, 2023); OTP injected USD 70 million in December 2023 (Kun.uz, 2023); problem loans were recognized, with the NPL ratio rising from 4.7 to 10.2 per cent under national standards in 2024 (UzDaily, 2025); the bank was rebranded; IFRS ROE reached 30.4 per cent in 2024 and 22.4 per cent in 2025; and OTP's stake rose to about 79.6 per cent by end-2024 (Ipoteka bank OTP Group, 2025). Stages overlapped in practice, but the sequence matches the model, and the stage-four revaluation produced the trough in the bank’s ROA (Figure 2).
+In Ipoteka Bank, an agreement was announced in December 2022 and the 73.71 per cent stake was transferred in June 2023 (Ipoteka-bank, 2023). In the same year the portfolio was revalued under group standards: loan-loss provisions of UZS 4,275 billion were recognized, credit-impaired (Stage 3) loans rose from 7.0 to 18.7 per cent of gross loans and the bank lost UZS 1,616 billion; OTP injected USD 70 million of capital in December 2023 (Kun.uz, 2023). The bank was rebranded, its loan book shifted towards households (retail loans rose from 45.6 per cent of the portfolio in 2022 to 68.8 per cent in 2025) and dependence on state funding declined from 50.2 to 41.5 per cent of liabilities. Net profit reached UZS 1,287 billion in 2024 and UZS 2,047 billion in 2025, and UZS 1,351 billion in the first half of 2026 (Ipoteka Bank, 2020–2026). In May 2026 the IFC converted a loan into an 8.69 per cent stake, leaving OTP with 72.89 per cent and the Ministry of Economy and Finance with 17.49 per cent, so the seventh stage – full ownership – has not yet been reached. Stages overlapped in practice, but the sequence matches the model, and the stage-four revaluation produced the trough in the bank's ROA (Figure 2).
 
-IMG en_d4_jcurve.png 2: Ipoteka Bank return on assets, 2019–2025 (2024–2025 IFRS actuals; earlier years estimated) ## Author's elaboration.
+IMG en_d4_jcurve.png 2: Ipoteka Bank return on assets (IFRS) and banking sector ROA, 2019–2026 (*first half of 2026, annualized) ## Author's calculations based on Ipoteka Bank (2020–2026) and CBU (2026).
 
-Using the press-reported price of USD 324 million (bne IntelliNews, 2023), the implied value of 100 per cent of the bank is about USD 440 million; with book equity of UZS 5.9 trillion at end-2022 converted at about <<UZS 11,225 per USD>>, P/BV is about <<0.84>>. A sale below book value is consistent with the investor pricing in hidden asset-quality problems later revealed in stage four.
+Using the press-reported price of USD 324 million (bne IntelliNews, 2023), the implied value of 100 per cent of the bank is about USD 440 million. Book equity under national standards was UZS 5.9 trillion at end-2022 (CBU, 2026), or about USD 527 million at the Central Bank's official year-end rate of UZS 11,225 per USD, giving a P/BV of about 0.83; on an IFRS basis (UZS 5.7 trillion, or USD 505 million) the ratio is 0.87. A sale below book value is consistent with the investor pricing in hidden asset-quality problems, and the subsequent revaluation confirmed this: the provisions recognized in 2023 alone (about USD 350 million) exceeded the price paid.
 
 # 4. Conclusion
 
@@ -39,11 +39,11 @@ Integration is a multi-stage process whose fourth stage – asset quality revalu
 
 REF: bne IntelliNews. (2023). Hungary's OTP closes first acquisition outside Europe in Uzbekistan. https://bne.eu/hungary-s-otp-closes-first-acquisition-outside-europe-in-uzbekistan-281634
 REF: Bonin, J. P., Hasan, I., & Wachtel, P. (2005). Privatization matters: Bank efficiency in transition countries. Journal of Banking & Finance, 29(8–9), 2155–2178.
+REF: Central Bank of the Republic of Uzbekistan. (2026). Banking system indicators: Main indicators of commercial banks (1 January 2020 – 1 October 2026). https://cbu.uz/en/statistics/bankstats/
 REF: Daryo. (2024, December 31). Uzbekistan postpones sale of state shares in key banks to 2025. https://daryo.uz/en/2024/12/31/uzbekistan-postpones-sale-of-state-shares-in-key-banks-to-2025
 REF: Havrylchyk, O., & Jurzyk, E. (2011). Inherited or earned? Performance of foreign banks in Central and Eastern Europe. Journal of Banking & Finance, 35(5), 1291–1302.
+REF: Ipoteka Bank. (2020–2026). Consolidated financial statements prepared in accordance with IFRS and independent auditor's reports for 2019–2025; interim condensed consolidated financial information for the six months ended 30 June 2026. https://www.ipotekabank.uz/en/about/investors/shai_finain/
 REF: Ipoteka-bank. (2023). Transaction closed: OTP Bank acquired Ipoteka-Bank. https://www.ipotekabank.uz/en/news/ipotekabank_otpgroup/
-REF: Ipoteka bank OTP Group. (2025). OTP Group announced 2024 financial results. https://www.ipotekabank.uz/en/news/financial_results_2024_en
 REF: Kun.uz. (2020, May 13). Six state-owned banks to be privatized. https://kun.uz/en/news/2020/05/13/six-state-owned-banks-to-be-privatized
 REF: Kun.uz. (2023, December 26). Ipoteka Bank receives additional capitalization worth $70 million from OTP Bank. https://kun.uz/en/news/2023/12/26/ipoteka-bank-receives-additional-capitalization-worth-70-million-from-otp-bank
 REF: Megginson, W. L. (2005). The economics of bank privatization. Journal of Banking & Finance, 29(8–9), 1931–1980.
-REF: UzDaily. (2025). Ipoteka Bank reports 240 billion soums loss for 2024. https://www.uzdaily.ru/en/ipoteka-bank-reports-240-billion-soums-loss-for-2024

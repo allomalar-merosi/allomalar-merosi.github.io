@@ -13,13 +13,15 @@ M.Xodjiyev maqolalari namunasi asosida (uch tilda sarlavha va annotatsiya, Kiris
 | `D3_Djabborov_BBII` | Djabborov Sh.E. | Bank barqarorligining integral indeksi (BBII) |
 | `D4_Djabborov_integratsiya_modeli` | Djabborov Sh.E. | 7 bosqichli integratsiya modeli va 2026–2030 prognozi |
 
-Har bir maqola `.docx` va `.pdf` ko'rinishida. Manba matnlar – `manba/`, diagrammalar – `img/` (`hisob.py` bilan yaratiladi), yig'ish – `python3 build_maqola.py`.
+Har bir maqola `.docx` va `.pdf` ko'rinishida. Manba matnlar – `manba/`, diagrammalar – `img/` (Batirova maqolalari uchun `hisob.py`, Djabborov maqolalari uchun `hisob_dj.py` bilan yaratiladi), yig'ish – `python3 build_maqola.py`.
 
-**Ranglar:** qora – ochiq manbalardagi haqiqiy ma'lumotlar; **ko'k** – shartli, simulyatsion yoki taxminiy qiymatlar (jurnalga yuborishdan oldin haqiqiy ma'lumot bilan almashtirilishi yoki maqolada “shartli modellashtirish” deb aniq ko'rsatilishi lozim); **sariq** `[...]` – ORCID, email va tekshirilishi kerak bo'lgan bibliografik ma'lumotlar.
+**Djabborov maqolalari (D1–D4, EN2, T3, T4)** dissertatsiyaning yangilangan natijalariga moslab qayta yozilgan: barcha raqamlar `../dissertatsiya_Djabborov/hisob.py` hisob-kitobidan (Markaziy bank statistikasi va “Ipoteka-bank”ning 2019–2025-yillar audit qilingan MHXS hisobotlari) olinadi; `hisob_dj.py` diagrammalarni o'sha skript natijalaridan chizadi. Ularda taxminiy qiymatlar **jigarrang** bilan ajratilgan (dissertatsiyadagidek): ekspert so'rovi baholari (D1, T3) va 2019-yil milliy standartlar bo'yicha NPL asosidagi BBII varianti (D3, EN2). D2 va D4 da taxminiy raqam qolmagan.
+
+**Ranglar:** qora – ochiq manbalardagi haqiqiy ma'lumotlar; **ko'k** (Djabborov maqolalarida **jigarrang**) – shartli, simulyatsion yoki taxminiy qiymatlar (jurnalga yuborishdan oldin haqiqiy ma'lumot bilan almashtirilishi yoki maqolada “shartli modellashtirish” deb aniq ko'rsatilishi lozim); **sariq** `[...]` – ORCID, email va tekshirilishi kerak bo'lgan bibliografik ma'lumotlar.
 
 ## Xalqaro nashrlar (PF-98 talablari: kamida 1 ta nufuzli xorijiy jurnal maqolasi va 2 ta xalqaro konferensiya materiali)
 
-`xalqaro/` papkasida, ingliz tilida (.docx va .pdf). Manba – `manba_en/`, yig'ish – `python3 build_en.py`, diagrammalar – `hisob_en.py`.
+`xalqaro/` papkasida, ingliz tilida (.docx va .pdf). Manba – `manba_en/`, yig'ish – `python3 build_en.py`, diagrammalar – `hisob_en.py` (EN1, T1, T2) va `hisob_dj.py` (EN2, T3, T4).
 
 | Fayl | Muallif | Turi |
 |---|---|---|
