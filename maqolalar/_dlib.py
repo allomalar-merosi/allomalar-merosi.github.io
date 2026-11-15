@@ -36,6 +36,9 @@ TEXT_W = Cm(16.5)
 LABELS = {}
 
 
+EST_COLOR = RGBColor(0x00, 0x4E, 0xD6)  # taxminiy qiymatlar rangi (builder qayta belgilashi mumkin)
+
+
 def build_label_map():
     """Jadval va rasmlarni har bob ichida ketma-ket qayta raqamlaydi
     (manbada vaqtinchalik belgilar, masalan 2.a, ishlatilishi mumkin)."""
@@ -264,7 +267,7 @@ def add_runs(p, text, size=14, bold=False, italic=False):
             r = p.add_run(piece)
             set_font(r, size, b, i)
             if blue:
-                r.font.color.rgb = RGBColor(0x00, 0x4E, 0xD6)
+                r.font.color.rgb = EST_COLOR
             if sub:
                 r.font.subscript = True
             if sup:

@@ -118,6 +118,8 @@ class Paper(L.Builder):
 
 
 def build(path):
+    # Djabborov materiallari: taxminiy qiymatlar jigarrang (dissertatsiya bilan bir xil)
+    L.EST_COLOR = L.RGBColor(0x9C, 0x4A, 0x12) if "Djabborov" in os.path.basename(path) else L.RGBColor(0x00, 0x4E, 0xD6)
     text = open(path, encoding="utf-8").read()
     head, _, rest = text.partition("\n---\n")
     m = {}
